@@ -7,7 +7,7 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import Interlinks from '../components/Interlinks.astro';
 import SocialShare from '../components/SocialShare.astro';
-import Comments from '../components/Comments.astro';
+import OpenComments from '../components/OpenComments.jsx';
 
 type Props = CollectionEntry<'blog'>['data'];
 
@@ -88,7 +88,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				</div>
 				<div class="prose" style="padding-top: 0;">
 					<SocialShare title={title} url={Astro.url.href} />
-					<Comments />
+					<OpenComments client:load postUrl={Astro.url.pathname} />
 				</div>
 			</article>
 		</main>
