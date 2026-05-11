@@ -1,0 +1,28 @@
+---
+heroImage: "/hero/image-59.png"
+description: "Matéria arquivada do Rio Carta"
+title: 'CPI da Alerj PM e educador relatam terem sido presos por reconhecimento errado '
+pubDate: 2023-08-31 21:47:30
+slug: "cpi-da-alerj-pm-e-educador-relatam-terem-sido-presos-por-reconhecimento-errado"
+wp_id: 1256
+tags:
+  - 'niteroi'
+  - 'rio-de-janeiro'
+  - 'baixada'
+---
+
+<!-- wp:paragraph -->
+<p><em><strong>Prática de reconhecimento da polícia do Rio é responsável pela prisão de inocentes</strong></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Em reunião da Comissão Parlamentar de Inquérito (CPI) do Reconhecimento Fotográfico nas Delegacias, da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj), nesta quinta-feira (31/08), o educador Danillo Félix e o policial militar Douglas de Oliveira relataram o sofrimento vivido devido às prisões injustas causadas por erro no procedimento. O colegiado ainda decidiu, por unanimidade, que realizará fiscalização na 76ª DP (Niterói), delegacia onde aconteceu a identificação equivocada de Danillo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Perda dos primeiros passos do filho<br></strong><br>O educador Danillo Félix relatou que foi abordado por policiais militares, de forma truculenta, no Centro de Niterói, em agosto de 2020, e disse ter sido preso, apenas com base no reconhecimento, por um suposto roubo, sem ter mandado de prisão em aberto, o que ocorreu apenas após a detenção. A partir disso, foram 55 dias de privação da liberdade, em que não pôde ver os primeiros passos de seu filho. Mesmo após ser absolvido, ele foi convocado novamente&nbsp;pela Justiça, em 2023, depois de ter sido outra vez identificado de maneira errônea.<br><br>"Eu fiquei em cárcere por um crime que não cometi. A única coisa que eles tinham era uma foto em qualidade ruim, de quando eu era bem mais jovem. Perdi os aniversários da minha companheira, do meu pai e os primeiros passos do meu filho. Passei por três presídios diferentes, sem comer direito. Este ano, tive que provar a minha inocência novamente por conta de outro reconhecimento falho. Mesmo com essa dor, lutarei para que outras pessoas não passem por isso", detalhou Danillo, contando parte de seu drama.<br><br>A presidente da Comissão, deputada Renata Souza (PSol), perguntou ao educador como ele se sentiu ao ser novamente intimado a depor sobre um crime que não cometeu. Danillo relatou que aquilo trouxe à tona a mesma sensação de desespero vivida em 2020. "A dinâmica era a mesma, parece que os verdadeiros autores do primeiro crime cometeram outro. Tive, mais uma vez, que sentir aquele desespero, aquele medo. Só depois desse caso a Polícia Civil disse que tirou minha foto do álbum de suspeitos", narrou.<br><br>A deputada Dani Balbi (PC do B) indagou se Danillo foi informado sobre como sua foto foi parar em um álbum de suspeitos, bem como se o educador recebeu algum tipo de reparação por parte do Estado. Ambas as respostas foram negativas. "Eu não tenho noção de como minha foto foi parar nesse livro, mas sei que isso acontece sempre com pessoas pretas e da periferia. Não me lembro de ter visto algum caso do tipo que tenha sido reparado pelo Estado, mas estamos correndo atrás disso", acrescentou Danillo.<br><br><strong>Preso duas vezes por engano<br></strong><br>Já o soldado da Polícia Militar, Douglas de Oliveira, preso equivocadamente por duas vezes, entre 2014 e 2015, esteve a ponto de perder a chance de ingressar na corporação. Ele disse que o álibi de estar trabalhando, no dia em que houve o roubo pelo qual era acusado, não foi suficiente para evitar sua detenção. O crime ocorreu na Baixada Fluminense, enquanto Douglas trabalhava na Praça Saens Peña, Zona Norte do Rio de Janeiro. Já a segunda prisão foi por uma suposta tentativa de homicídio. "Eu não conseguia emprego porque era um ex-presidiário, mas havia um concurso no qual eu passei e fui impedido de cumprir uma das etapas porque estava preso", contou.<br><br>A deputada Verônica Lima (PT) perguntou ao soldado como está a situação funcional dele. O militar explicou que precisou entrar na Justiça para garantir o ingresso na PM, o que conseguiu apenas em 2022. "Não há indenização que possa apagar tudo aquilo que eu passei", explicou o soldado.<br><br>O relator da CPI, deputado Márcio Gualberto (PL), colocou a Comissão de Segurança Pública e Assuntos de Polícia, presidida por ele, à disposição para auxiliar Douglas a reaver eventuais perdas financeiras provocadas pelo atraso em sua entrada na PM. "Foram vários erros gravíssimos cometidos por muitas mãos. Dos policiais, do Judiciário e também do Ministério Público. Deve haver uma reparação sim, porque o tempo que ele perdeu causou o impacto financeiro. Hoje, ele já deveria estar numa patente mais elevada", destacou o parlamentar.<br><br><strong>Fiscalização<br></strong><br>Após o relato de Danillo Félix, a CPI aprovou a realização de fiscalização na 76ª DP (Niterói), com data ainda a ser definida. O colegiado já havia deliberado, anteriormente, pela realização de visita à 54ª DP (Belford Roxo) e à Academia Estadual de Polícia Sylvio Terra (Acadepol) para averiguar como são realizados, respectivamente, o procedimento de identificação e a qualificação dos agentes. Essas diligências também terão as datas marcadas pela Comissão.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.alerj.rj.gov.br/Visualizar/Noticia/58127" target="_blank" rel="noreferrer noopener">Fonte: ALERJ</a></p>
+<!-- /wp:paragraph -->

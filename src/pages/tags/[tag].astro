@@ -1,0 +1,189 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import Header from '../../components/Header.astro';
+import { SITE_DESCRIPTION } from '../../consts';
+
+export async function getStaticPaths() {
+	const allPosts = await getCollection('blog');
+	const uniqueTags = [...new Set(allPosts.map((post) => post.data.tags || []).flat())];
+	
+	return uniqueTags.map((tag) => {
+		const filteredPosts = allPosts.filter((post) => post.data.tags?.includes(tag));
+		return {
+			params: { tag },
+			props: { posts: filteredPosts },
+		};
+	});
+}
+
+const { tag } = Astro.params;
+const { posts } = Astro.props;
+
+// Sort by date
+const sortedPosts = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+// Fancy mapping
+const regionMap = {
+	'rio-de-janeiro': { title: 'Região Metropolitana', subtitle: 'Rio de Janeiro', icon: '🏙️', color: 'linear-gradient(135deg, #0052D4, #4364F7)' },
+	'niteroi': { title: 'Região Metropolitana', subtitle: 'Niterói', icon: '🌉', color: 'linear-gradient(135deg, #0052D4, #4364F7)' },
+	'sao-goncalo': { title: 'Região Metropolitana', subtitle: 'São Gonçalo', icon: '🏭', color: 'linear-gradient(135deg, #0052D4, #4364F7)' },
+	'baixada': { title: 'Região Metropolitana', subtitle: 'Baixada Fluminense', icon: '🚆', color: 'linear-gradient(135deg, #f7971e, #ffd200)' },
+	'cabo-frio': { title: 'Região dos Lagos', subtitle: 'Cabo Frio', icon: '🏖️', color: 'linear-gradient(135deg, #1cb5e0, #000046)' },
+	'buzios': { title: 'Região dos Lagos', subtitle: 'Búzios', icon: '🍹', color: 'linear-gradient(135deg, #1cb5e0, #000046)' },
+	'arraial-do-cabo': { title: 'Região dos Lagos', subtitle: 'Arraial do Cabo', icon: '🤿', color: 'linear-gradient(135deg, #1cb5e0, #000046)' },
+	'campos': { title: 'Norte Fluminense', subtitle: 'Campos dos Goytacazes', icon: '🌾', color: 'linear-gradient(135deg, #56ab2f, #a8e063)' },
+	'macae': { title: 'Norte Fluminense', subtitle: 'Macaé', icon: '🛢️', color: 'linear-gradient(135deg, #56ab2f, #a8e063)' },
+	'volta-redonda': { title: 'Sul Fluminense', subtitle: 'Volta Redonda', icon: '⚙️', color: 'linear-gradient(135deg, #cb2d3e, #ef473a)' },
+	'resende': { title: 'Sul Fluminense', subtitle: 'Resende', icon: '⛰️', color: 'linear-gradient(135deg, #cb2d3e, #ef473a)' },
+	'petropolis': { title: 'Região Serrana', subtitle: 'Petrópolis', icon: '👑', color: 'linear-gradient(135deg, #11998e, #38ef7d)' },
+	'teresopolis': { title: 'Região Serrana', subtitle: 'Teresópolis', icon: '🏔️', color: 'linear-gradient(135deg, #11998e, #38ef7d)' },
+	'nova-friburgo': { title: 'Região Serrana', subtitle: 'Nova Friburgo', icon: '❄️', color: 'linear-gradient(135deg, #11998e, #38ef7d)' },
+	'angra-dos-reis': { title: 'Costa Verde', subtitle: 'Angra dos Reis', icon: '🛥️', color: 'linear-gradient(135deg, #00b4db, #0083b0)' },
+	'paraty': { title: 'Costa Verde', subtitle: 'Paraty', icon: '🏘️', color: 'linear-gradient(135deg, #00b4db, #0083b0)' },
+};
+
+const meta = regionMap[tag] || { title: 'Região do Estado', subtitle: tag.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '), icon: '📍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' };
+---
+
+<!doctype html>
+<html lang="pt-br">
+	<head>
+		<BaseHead title={`${meta.subtitle} - Rio Carta`} description={`Notícias sobre ${meta.subtitle}`} />
+		<style define:vars={{ bgGradient: meta.color }}>
+			main {
+				width: 960px;
+				margin: 0 auto;
+			}
+			.tag-hero {
+				background: var(--bgGradient);
+				border-radius: 20px;
+				padding: 4rem 2rem;
+				color: white;
+				text-align: center;
+				margin-bottom: 3rem;
+				box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+				position: relative;
+				overflow: hidden;
+			}
+			.tag-hero::after {
+				content: '';
+				position: absolute;
+				top: 0; left: 0; right: 0; bottom: 0;
+				background: url('data:image/svg+xml;utf8,<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg"><circle cx="2" cy="2" r="1" fill="rgba(255,255,255,0.1)"/></svg>') repeat;
+				pointer-events: none;
+			}
+			.tag-icon {
+				font-size: 5rem;
+				margin-bottom: 1rem;
+				filter: drop-shadow(0 10px 20px rgba(0,0,0,0.2));
+			}
+			.tag-title {
+				font-size: 1.2rem;
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 2px;
+				opacity: 0.9;
+				margin: 0 0 0.5rem 0;
+			}
+			.tag-subtitle {
+				font-size: 3.5rem;
+				font-weight: 800;
+				margin: 0;
+				line-height: 1.1;
+				text-shadow: 0 2px 10px rgba(0,0,0,0.1);
+			}
+			
+			/* Grid Styles (Same as index.astro) */
+			ul {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 2rem;
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			ul li {
+				width: calc(50% - 1rem);
+			}
+			ul li * {
+				text-decoration: none;
+				transition: 0.2s ease;
+			}
+			ul li img {
+				margin-bottom: 0.5rem;
+				border-radius: 12px;
+				width: 100%;
+			}
+			ul li a {
+				display: block;
+			}
+			.post-title {
+				margin: 0;
+				color: rgb(var(--black));
+				line-height: 1.2;
+				font-size: 1.5rem;
+				font-weight: 700;
+			}
+			.date {
+				margin: 0.5rem 0 0 0;
+				color: rgb(var(--gray));
+				font-size: 0.9rem;
+			}
+			ul li a:hover .post-title,
+			ul li a:hover .date {
+				color: #0052D4;
+			}
+			ul a:hover img {
+				box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+				transform: translateY(-5px);
+			}
+			@media (max-width: 720px) {
+				ul li {
+					width: 100%;
+				}
+				.tag-hero {
+					padding: 3rem 1rem;
+					border-radius: 0;
+				}
+				.tag-subtitle {
+					font-size: 2.5rem;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="tag-hero">
+				<div class="tag-icon">{meta.icon}</div>
+				<h3 class="tag-title">{meta.title}</h3>
+				<h1 class="tag-subtitle">{meta.subtitle}</h1>
+			</div>
+			
+			<section>
+				<ul>
+					{
+						sortedPosts.map((post) => (
+							<li>
+								<a href={`/blog/${post.id}/`}>
+									{post.data.heroImage && (
+										<img width="720" height="360" src={post.data.heroImage} alt="" />
+									)}
+									<h4 class="post-title">{post.data.title}</h4>
+									<p class="date">
+										<FormattedDate date={post.data.pubDate} />
+									</p>
+								</a>
+							</li>
+						))
+					}
+				</ul>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
