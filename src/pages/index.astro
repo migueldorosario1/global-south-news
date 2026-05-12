@@ -92,7 +92,7 @@ const posts = (await getCollection('blog')).sort(
 			<section>
 				<ul>
 					{
-						posts.map((post) => (
+						posts.slice(0, 100).map((post) => (
 							<li>
 								<a href={`/blog/${post.id}/`}>
 									{post.data.heroImage && (
@@ -107,6 +107,9 @@ const posts = (await getCollection('blog')).sort(
 						))
 					}
 				</ul>
+				<div style="text-align: center; margin-top: 3rem; margin-bottom: 2rem;">
+					<a href="/historico" style="padding: 0.8rem 2rem; background: #0052D4; color: white; border-radius: 8px; font-weight: bold; text-decoration: none; transition: background 0.2s;">Continuar / Ver Arquivo Histórico</a>
+				</div>
 			</section>
 		</main>
 		<Footer />

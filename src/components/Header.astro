@@ -17,7 +17,22 @@ import { Image } from 'astro:assets';
 			</div>
 		</div>
 		<div class="nav-links">
-			<HeaderLink href="/">Início</HeaderLink>
+			<div class="nav-item dropdown">
+				<button class="dropbtn"><a href="/" style="color: inherit; text-decoration: none;">Início</a> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
+				<div class="dropdown-content">
+					<a href="/quem-somos" class="submenu-title" style="text-decoration: none; display: block;">Quem Somos</a>
+					<a href="/editorial" class="submenu-title" style="text-decoration: none; display: block;">Editorial</a>
+					<div class="dropdown-submenu">
+						<span class="submenu-title">Histórico <span>▶</span></span>
+						<div class="submenu-content">
+							<a href="/historico/2026">2026</a>
+							<a href="/historico/2025">2025</a>
+							<a href="/historico/2024">2024</a>
+							<a href="/historico/2023">2023</a>
+						</div>
+					</div>
+				</div>
+			</div>
 			
 			<div class="nav-item dropdown">
 				<button class="dropbtn">Rio <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
