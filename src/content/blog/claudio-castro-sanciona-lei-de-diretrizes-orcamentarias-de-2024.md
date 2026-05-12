@@ -5,6 +5,8 @@ title: 'Claudio Castro sanciona Lei de Diretrizes Orçamentárias de 2024'
 pubDate: 2023-07-20 22:57:40
 slug: "claudio-castro-sanciona-lei-de-diretrizes-orcamentarias-de-2024"
 wp_id: 847
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

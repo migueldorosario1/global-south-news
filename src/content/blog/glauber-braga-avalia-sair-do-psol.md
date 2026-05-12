@@ -7,6 +7,7 @@ slug: "glauber-braga-avalia-sair-do-psol"
 wp_id: 6569
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

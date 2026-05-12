@@ -5,6 +5,8 @@ title: 'Lula convoca embaixadores estrangeiros para celebrar democracia no anive
 pubDate: 2025-01-07 16:41:17
 slug: "lula-convoca-embaixadores-estrangeiros-para-celebrar-democracia-no-aniversario-de-8-1"
 wp_id: 6352
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

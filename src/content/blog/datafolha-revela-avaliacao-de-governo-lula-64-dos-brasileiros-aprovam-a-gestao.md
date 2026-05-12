@@ -5,6 +5,8 @@ title: 'Datafolha revela avaliação de governo Lula 64% dos brasileiros aprovam
 pubDate: 2024-12-17 15:40:25
 slug: "datafolha-revela-avaliacao-de-governo-lula-64-dos-brasileiros-aprovam-a-gestao"
 wp_id: 6240
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

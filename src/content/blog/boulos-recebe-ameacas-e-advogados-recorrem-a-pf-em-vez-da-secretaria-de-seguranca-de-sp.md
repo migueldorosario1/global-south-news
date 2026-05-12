@@ -5,6 +5,8 @@ title: 'Boulos recebe ameaças e advogados recorrem a PF em vez da Secretaria de
 pubDate: 2024-02-28 09:35:16
 slug: "boulos-recebe-ameacas-e-advogados-recorrem-a-pf-em-vez-da-secretaria-de-seguranca-de-sp"
 wp_id: 3537
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "rodrigo-neves-e-eleito-presidente-do-mercocidades"
 wp_id: 6135
 tags:
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

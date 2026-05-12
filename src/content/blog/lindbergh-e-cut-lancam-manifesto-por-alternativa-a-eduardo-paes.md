@@ -5,6 +5,8 @@ title: 'Lindbergh e CUT lançam manifesto por alternativa a Eduardo Paes'
 pubDate: 2023-10-16 16:25:43
 slug: "lindbergh-e-cut-lancam-manifesto-por-alternativa-a-eduardo-paes"
 wp_id: 1599
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

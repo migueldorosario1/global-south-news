@@ -7,6 +7,7 @@ slug: "disputa-pela-prefeitura-no-rio-ja-tem-7-pre-candidatos"
 wp_id: 1687
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

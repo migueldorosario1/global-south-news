@@ -5,6 +5,8 @@ title: 'Marqueteiro de Nunes pede nova medida protetiva após ser agredido por s
 pubDate: 2024-09-26 15:47:18
 slug: "marqueteiro-de-nunes-pede-nova-medida-protetiva-apos-ser-agredido-por-socio-de-marcal"
 wp_id: 5495
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

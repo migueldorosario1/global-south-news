@@ -7,6 +7,7 @@ slug: "aptr-reune-candidatos-no-theatro-casa-grande-para-debater-cultura-no-rio"
 wp_id: 4962
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

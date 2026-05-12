@@ -5,6 +5,8 @@ title: 'Saiba como Xandão sustentou prisão de deputado bolsonarista'
 pubDate: 2024-03-04 12:45:58
 slug: "saiba-como-xandao-sustentou-prisao-de-deputado-bolsonarista"
 wp_id: 3635
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

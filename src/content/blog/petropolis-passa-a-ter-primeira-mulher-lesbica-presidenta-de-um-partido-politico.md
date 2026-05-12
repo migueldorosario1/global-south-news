@@ -7,6 +7,7 @@ slug: "petropolis-passa-a-ter-primeira-mulher-lesbica-presidenta-de-um-partido-p
 wp_id: 1560
 tags:
   - 'petropolis'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "nova-forca-de-seguranca-municipal-muda-tudo-no-rio"
 wp_id: 6600
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":4} -->

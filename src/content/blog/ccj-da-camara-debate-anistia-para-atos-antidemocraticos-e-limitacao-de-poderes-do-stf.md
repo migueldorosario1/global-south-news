@@ -5,6 +5,8 @@ title: 'CCJ da Câmara debate anistia para atos golpistas e limitação de poder
 pubDate: 2024-10-08 19:22:53
 slug: "ccj-da-camara-debate-anistia-para-atos-antidemocraticos-e-limitacao-de-poderes-do-stf"
 wp_id: 5631
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

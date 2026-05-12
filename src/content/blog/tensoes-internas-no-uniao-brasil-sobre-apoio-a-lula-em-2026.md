@@ -5,6 +5,8 @@ title: 'Tensões internas no União Brasil sobre apoio a Lula em 2026'
 pubDate: 2025-01-13 11:22:27
 slug: "tensoes-internas-no-uniao-brasil-sobre-apoio-a-lula-em-2026"
 wp_id: 6413
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Caiado sinaliza possível candidatura à presidência em 2026'
 pubDate: 2024-10-19 14:18:02
 slug: "caiado-sinaliza-possivel-candidatura-a-presidencia-em-2026"
 wp_id: 5766
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

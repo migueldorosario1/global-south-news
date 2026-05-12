@@ -7,6 +7,7 @@ slug: "claudio-castro-indica-miccione-para-eleicao-indireta-na-alerj"
 wp_id: 7611
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

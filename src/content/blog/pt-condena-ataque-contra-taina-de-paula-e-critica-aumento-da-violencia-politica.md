@@ -7,6 +7,7 @@ slug: "pt-condena-ataque-contra-taina-de-paula-e-critica-aumento-da-violencia-po
 wp_id: 5576
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "o-desastre-de-uma-megaoperacao-no-alemao-e-na-penha-de-um-governo-que-ter
 wp_id: 7265
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

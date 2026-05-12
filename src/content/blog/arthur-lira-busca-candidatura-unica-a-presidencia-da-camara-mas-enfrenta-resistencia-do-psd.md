@@ -5,6 +5,8 @@ title: 'Arthur Lira busca candidatura única à presidência da Câmara, mas enf
 pubDate: 2024-09-10 16:42:35
 slug: "arthur-lira-busca-candidatura-unica-a-presidencia-da-camara-mas-enfrenta-resistencia-do-psd"
 wp_id: 5145
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

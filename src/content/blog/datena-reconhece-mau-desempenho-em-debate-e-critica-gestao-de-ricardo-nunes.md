@@ -5,6 +5,8 @@ title: 'Datena reconhece mau desempenho em debate e critica gestão de Ricardo N
 pubDate: 2024-08-13 15:03:58
 slug: "datena-reconhece-mau-desempenho-em-debate-e-critica-gestao-de-ricardo-nunes"
 wp_id: 4813
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

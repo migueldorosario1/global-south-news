@@ -5,6 +5,8 @@ title: 'Atlas/Intel mostra crescimento surpreendente de Marçal nas eleições d
 pubDate: 2024-09-11 10:29:27
 slug: "atlas-intel-mostra-crescimento-surpreendente-de-marcal-nas-eleicoes-de-sp"
 wp_id: 5163
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

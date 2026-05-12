@@ -5,6 +5,8 @@ title: 'Foragido Allan dos Santos é liberado pelo X a pregar o assassinato de M
 pubDate: 2024-04-10 09:54:07
 slug: "foragido-allan-dos-santos-e-liberado-pelo-x-a-pregar-o-assassinato-de-moraes"
 wp_id: 4133
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

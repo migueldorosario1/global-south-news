@@ -5,6 +5,8 @@ title: 'Protesto histórico contra extrema-direita reúne mais de 250 mil na Ale
 pubDate: 2024-01-21 07:00:00
 slug: "protesto-historico-contra-extrema-direita-reune-mais-de-250-mil-na-alemanha"
 wp_id: 2483
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

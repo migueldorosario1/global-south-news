@@ -5,6 +5,8 @@ title: 'Datafolha Nunes lidera com 51% das intenções de voto em São Paulo'
 pubDate: 2024-10-17 19:17:34
 slug: "datafolha-nunes-lidera-com-51-das-intencoes-de-voto-em-sao-paulo"
 wp_id: 5722
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

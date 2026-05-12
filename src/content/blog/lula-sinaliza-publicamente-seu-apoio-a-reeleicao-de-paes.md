@@ -7,6 +7,7 @@ slug: "lula-sinaliza-publicamente-seu-apoio-a-reeleicao-de-paes"
 wp_id: 3427
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

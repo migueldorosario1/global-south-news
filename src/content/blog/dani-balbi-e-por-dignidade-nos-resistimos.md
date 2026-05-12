@@ -7,6 +7,7 @@ slug: "dani-balbi-e-por-dignidade-nos-resistimos"
 wp_id: 543
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <em>Por Dani Balbi, no Jornal <a href="https://odia.ig.com.br/opiniao/2023/06/6659817-dani-balbi-e-por-dignidade-nos-re-sistimos.html">O Dia</a></em>

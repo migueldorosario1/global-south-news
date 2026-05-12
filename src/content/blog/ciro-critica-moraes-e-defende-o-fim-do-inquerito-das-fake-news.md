@@ -5,6 +5,8 @@ title: 'Ciro critica Moraes e defende o fim do inquérito das fake news'
 pubDate: 2024-08-22 10:41:23
 slug: "ciro-critica-moraes-e-defende-o-fim-do-inquerito-das-fake-news"
 wp_id: 4927
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

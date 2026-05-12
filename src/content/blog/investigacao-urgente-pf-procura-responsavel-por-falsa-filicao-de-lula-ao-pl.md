@@ -5,6 +5,8 @@ title: 'Investigação urgente PF procura responsável por falsa filição de Lu
 pubDate: 2024-01-11 14:40:00
 slug: "investigacao-urgente-pf-procura-responsavel-por-falsa-filicao-de-lula-ao-pl"
 wp_id: 2374
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

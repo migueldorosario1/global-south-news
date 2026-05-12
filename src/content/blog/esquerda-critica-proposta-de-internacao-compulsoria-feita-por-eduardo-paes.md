@@ -5,6 +5,8 @@ title: 'Esquerda critica proposta de internação compulsória feita por Eduardo
 pubDate: 2023-11-21 17:18:40
 slug: "esquerda-critica-proposta-de-internacao-compulsoria-feita-por-eduardo-paes"
 wp_id: 1990
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

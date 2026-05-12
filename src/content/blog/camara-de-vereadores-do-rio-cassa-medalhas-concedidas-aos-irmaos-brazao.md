@@ -7,6 +7,7 @@ slug: "camara-de-vereadores-do-rio-cassa-medalhas-concedidas-aos-irmaos-brazao"
 wp_id: 4634
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

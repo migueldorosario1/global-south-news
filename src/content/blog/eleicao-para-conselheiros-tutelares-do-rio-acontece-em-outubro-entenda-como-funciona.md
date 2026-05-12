@@ -7,6 +7,7 @@ slug: "eleicao-para-conselheiros-tutelares-do-rio-acontece-em-outubro-entenda-co
 wp_id: 1463
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

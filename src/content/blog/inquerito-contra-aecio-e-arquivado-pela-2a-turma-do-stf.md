@@ -5,6 +5,8 @@ title: 'Inquérito contra Aécio é arquivado pela 2ª Turma do STF'
 pubDate: 2024-02-28 09:50:18
 slug: "inquerito-contra-aecio-e-arquivado-pela-2a-turma-do-stf"
 wp_id: 3547
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

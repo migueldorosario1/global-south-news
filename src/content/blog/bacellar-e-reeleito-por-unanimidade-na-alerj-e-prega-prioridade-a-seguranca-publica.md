@@ -7,6 +7,7 @@ slug: "bacellar-e-reeleito-por-unanimidade-na-alerj-e-prega-prioridade-a-seguran
 wp_id: 6537
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

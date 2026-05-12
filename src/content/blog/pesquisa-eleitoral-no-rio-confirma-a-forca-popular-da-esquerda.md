@@ -7,6 +7,7 @@ slug: "pesquisa-eleitoral-no-rio-confirma-a-forca-popular-da-esquerda"
 wp_id: 7283
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

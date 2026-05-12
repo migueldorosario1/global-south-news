@@ -7,6 +7,7 @@ slug: "tre-do-rio-realoca-secoes-eleitorais-em-areas-de-milicia"
 wp_id: 2562
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

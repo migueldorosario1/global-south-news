@@ -7,6 +7,7 @@ slug: "oasis-alimentar-rio-pode-ter-programa-para-melhorar-acesso-a-produtos-nat
 wp_id: 1373
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Lula autoriza candidatura de Hugo Motta à presidência da Câmara, afir
 pubDate: 2024-09-04 19:13:30
 slug: "lula-autoriza-candidatura-de-hugo-motta-a-presidencia-da-camara-afirma-marcos-pereira"
 wp_id: 5082
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

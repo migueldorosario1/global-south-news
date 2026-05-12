@@ -5,6 +5,8 @@ title: 'Gilson Machado lidera índice de rejeição em Recife, aponta Datafolha'
 pubDate: 2024-09-19 19:52:02
 slug: "gilson-machado-lidera-indice-de-rejeicao-em-recife-aponta-datafolha"
 wp_id: 5349
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

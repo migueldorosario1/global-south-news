@@ -5,6 +5,8 @@ title: 'Ricardo Cappelli analisa avanço da direita e desafios da esquerda no ce
 pubDate: 2024-10-12 08:57:16
 slug: "ricardo-cappelli-analisa-avanco-da-direita-e-desafios-da-esquerda-no-cenario-politico-brasileiro"
 wp_id: 5694
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

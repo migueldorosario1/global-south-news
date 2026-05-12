@@ -5,6 +5,8 @@ title: 'Braga Netto é o favorito de Bolsonaro para disputar a prefeitura do Rio
 pubDate: 2023-06-09 11:23:23
 slug: "braga-netto-e-o-favorito-de-bolsonaro-para-disputar-a-prefeitura-do-rio"
 wp_id: 32
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

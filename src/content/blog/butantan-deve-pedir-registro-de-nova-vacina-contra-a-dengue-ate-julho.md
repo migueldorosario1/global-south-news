@@ -5,6 +5,8 @@ title: 'Butantan deve pedir registro de nova vacina contra a dengue até julho'
 pubDate: 2024-02-03 05:43:00
 slug: "butantan-deve-pedir-registro-de-nova-vacina-contra-a-dengue-ate-julho"
 wp_id: 2867
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

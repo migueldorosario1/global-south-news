@@ -15,6 +15,7 @@ tags:
   - 'niteroi'
   - 'petropolis'
   - 'angra-dos-reis'
+  - 'eleicoes-2026'
 ---
 
 Por Miguel do Rosário, jornalista e editor do Rio Carta.

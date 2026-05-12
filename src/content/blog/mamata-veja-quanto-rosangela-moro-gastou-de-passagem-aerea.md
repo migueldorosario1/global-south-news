@@ -5,6 +5,8 @@ title: 'Mamata? Veja quanto Rosângela Moro gastou de passagem aérea em 1 ano d
 pubDate: 2024-03-12 14:23:31
 slug: "mamata-veja-quanto-rosangela-moro-gastou-de-passagem-aerea"
 wp_id: 3732
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Extremistas ignoram pedido de Bolsonaro e migram em massa para candidatu
 pubDate: 2024-08-21 10:52:34
 slug: "extremistas-ignoram-pedido-de-bolsonaro-e-migram-em-massa-para-candidatura-de-marcal"
 wp_id: 4915
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

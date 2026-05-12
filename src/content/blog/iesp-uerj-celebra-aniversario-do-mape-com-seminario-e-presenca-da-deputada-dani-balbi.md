@@ -5,6 +5,8 @@ title: 'IESP-UERJ celebra aniversário do MAPE com seminário e presença da dep
 pubDate: 2025-11-18 11:37:19
 slug: "iesp-uerj-celebra-aniversario-do-mape-com-seminario-e-presenca-da-deputada-dani-balbi"
 wp_id: 7367
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

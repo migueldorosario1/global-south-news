@@ -5,6 +5,8 @@ title: 'Pacheco revela os projetos prioritários do Senado em 2024'
 pubDate: 2024-02-03 05:36:00
 slug: "pacheco-revela-os-projetos-prioritarios-do-senado-em-2024"
 wp_id: 2861
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

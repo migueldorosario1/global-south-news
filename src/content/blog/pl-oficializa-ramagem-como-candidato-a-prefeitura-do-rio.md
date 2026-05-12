@@ -7,6 +7,7 @@ slug: "pl-oficializa-ramagem-como-candidato-a-prefeitura-do-rio"
 wp_id: 4782
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

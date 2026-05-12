@@ -8,6 +8,7 @@ wp_id: 4844
 tags:
   - 'volta-redonda'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

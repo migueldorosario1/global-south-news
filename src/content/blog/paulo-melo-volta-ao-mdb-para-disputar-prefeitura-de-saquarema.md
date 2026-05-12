@@ -7,6 +7,7 @@ slug: "paulo-melo-volta-ao-mdb-para-disputar-prefeitura-de-saquarema"
 wp_id: 1358
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

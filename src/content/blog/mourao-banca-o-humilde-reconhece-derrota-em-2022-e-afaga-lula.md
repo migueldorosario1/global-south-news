@@ -5,6 +5,8 @@ title: 'Mourão banca o humilde, reconhece derrota em 2022 e afaga Lula'
 pubDate: 2024-03-12 09:19:59
 slug: "mourao-banca-o-humilde-reconhece-derrota-em-2022-e-afaga-lula"
 wp_id: 3711
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

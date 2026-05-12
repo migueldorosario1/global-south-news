@@ -7,6 +7,7 @@ slug: "michelle-bolsonaro-confronta-eduardo-paes-e-aciona-silas-malafaia"
 wp_id: 7503
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

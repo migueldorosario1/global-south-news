@@ -7,6 +7,7 @@ slug: "kassab-confirma-paes-como-candidato-ao-governo-do-rj-pelo-psd-em-2026"
 wp_id: 6747
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

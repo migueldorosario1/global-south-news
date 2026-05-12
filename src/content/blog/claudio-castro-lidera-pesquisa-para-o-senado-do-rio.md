@@ -7,6 +7,7 @@ slug: "claudio-castro-lidera-pesquisa-para-o-senado-do-rio"
 wp_id: 6764
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

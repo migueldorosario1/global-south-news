@@ -5,6 +5,8 @@ title: 'Eduardo Paes gira para a direita e traz Republicanos de Crivella para a 
 pubDate: 2023-08-22 15:33:18
 slug: "eduardo-paes-gira-para-a-direita-e-traz-republicanos-de-crivella-para-a-prefeitura"
 wp_id: 1180
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

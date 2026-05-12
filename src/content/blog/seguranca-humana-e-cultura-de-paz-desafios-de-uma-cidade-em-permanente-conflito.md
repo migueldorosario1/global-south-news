@@ -7,6 +7,7 @@ slug: "seguranca-humana-e-cultura-de-paz-desafios-de-uma-cidade-em-permanente-co
 wp_id: 4483
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

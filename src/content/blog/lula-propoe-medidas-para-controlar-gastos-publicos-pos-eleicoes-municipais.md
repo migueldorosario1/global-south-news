@@ -5,6 +5,8 @@ title: 'Lula propõe medidas para controlar gastos públicos pós-eleições mun
 pubDate: 2024-10-17 20:32:05
 slug: "lula-propoe-medidas-para-controlar-gastos-publicos-pos-eleicoes-municipais"
 wp_id: 5737
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

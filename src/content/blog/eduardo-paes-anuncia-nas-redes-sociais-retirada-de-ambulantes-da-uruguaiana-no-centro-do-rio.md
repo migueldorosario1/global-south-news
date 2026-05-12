@@ -5,6 +5,8 @@ title: 'Eduardo Paes anuncia nas redes sociais retirada de ambulantes da Uruguai
 pubDate: 2024-02-28 23:15:18
 slug: "eduardo-paes-anuncia-nas-redes-sociais-retirada-de-ambulantes-da-uruguaiana-no-centro-do-rio"
 wp_id: 3577
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

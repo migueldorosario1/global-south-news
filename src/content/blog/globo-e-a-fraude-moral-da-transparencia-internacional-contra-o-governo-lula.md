@@ -5,6 +5,8 @@ title: 'Globo e a fraude moral da Transparência Internacional contra o governo 
 pubDate: 2024-01-31 17:58:35
 slug: "globo-e-a-fraude-moral-da-transparencia-internacional-contra-o-governo-lula"
 wp_id: 2808
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

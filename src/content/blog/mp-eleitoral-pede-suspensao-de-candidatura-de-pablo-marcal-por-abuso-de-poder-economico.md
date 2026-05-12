@@ -5,6 +5,8 @@ title: 'MP Eleitoral Pede Suspensão de Candidatura de Pablo Marçal por Abuso d
 pubDate: 2024-08-19 21:34:36
 slug: "mp-eleitoral-pede-suspensao-de-candidatura-de-pablo-marcal-por-abuso-de-poder-economico"
 wp_id: 4894
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

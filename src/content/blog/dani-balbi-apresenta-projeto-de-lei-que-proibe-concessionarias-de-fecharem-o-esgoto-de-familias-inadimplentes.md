@@ -7,6 +7,7 @@ slug: "dani-balbi-apresenta-projeto-de-lei-que-proibe-concessionarias-de-fechare
 wp_id: 7207
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

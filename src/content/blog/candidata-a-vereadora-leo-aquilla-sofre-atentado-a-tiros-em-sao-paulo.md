@@ -5,6 +5,8 @@ title: 'Candidata a vereadora Léo Áquilla sofre atentado a tiros em São Paulo
 pubDate: 2024-09-27 12:47:50
 slug: "candidata-a-vereadora-leo-aquilla-sofre-atentado-a-tiros-em-sao-paulo"
 wp_id: 5511
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "tarifa-zero-nos-transportes-publicos-utopia-ou-um-sonho-possivel-para-os-
 wp_id: 2200
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

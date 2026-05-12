@@ -7,6 +7,7 @@ slug: "clas-familiares-se-preparam-para-eleicao-em-campos-dos-goytacazes"
 wp_id: 663
 tags:
   - 'campos'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

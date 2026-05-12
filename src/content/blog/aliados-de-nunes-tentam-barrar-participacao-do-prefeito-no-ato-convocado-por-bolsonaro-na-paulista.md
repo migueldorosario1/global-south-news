@@ -5,6 +5,8 @@ title: 'Aliados de Nunes tentam barrar participação do prefeito no ato convoca
 pubDate: 2024-02-15 08:37:00
 slug: "aliados-de-nunes-tentam-barrar-participacao-do-prefeito-no-ato-convocado-por-bolsonaro-na-paulista"
 wp_id: 3228
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

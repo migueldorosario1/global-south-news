@@ -7,6 +7,7 @@ slug: "cotas-trans-avancam-em-universidades-do-rio-de-janeiro"
 wp_id: 7347
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "frente-ampla-apoia-reimont-e-leonel-de-esquerda-no-pt-do-rio"
 wp_id: 6852
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

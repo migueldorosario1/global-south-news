@@ -7,6 +7,7 @@ slug: "bloco-de-partidos-confirma-apoio-a-reeleicao-de-paes"
 wp_id: 4773
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

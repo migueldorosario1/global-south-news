@@ -5,6 +5,8 @@ title: 'Marçal diz que mulher não vota em mulher porque é inteligente'
 pubDate: 2024-09-30 15:20:26
 slug: "marcal-diz-que-mulher-nao-vota-em-mulher-porque-e-inteligente"
 wp_id: 5537
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

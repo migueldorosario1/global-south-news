@@ -7,6 +7,7 @@ slug: "tre-do-rio-muda-local-de-secoes-eleitorais-em-areas-dominadas-pela-milici
 wp_id: 2781
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Nunes mantém liderança sobre Boulos em São Paulo, aponta Fespsp'
 pubDate: 2024-10-27 10:17:36
 slug: "nunes-mantem-lideranca-sobre-boulos-em-sao-paulo-aponta-fespsp"
 wp_id: 5884
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

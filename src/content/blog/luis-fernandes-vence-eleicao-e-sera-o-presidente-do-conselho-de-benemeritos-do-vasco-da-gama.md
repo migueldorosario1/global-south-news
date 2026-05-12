@@ -7,6 +7,7 @@ slug: "luis-fernandes-vence-eleicao-e-sera-o-presidente-do-conselho-de-benemerit
 wp_id: 2760
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

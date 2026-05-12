@@ -7,6 +7,7 @@ slug: "jose-da-costa-filho-toma-posse-como-reitor-da-unirio"
 wp_id: 763
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

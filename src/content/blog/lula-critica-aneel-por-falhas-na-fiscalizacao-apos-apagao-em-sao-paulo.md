@@ -5,6 +5,8 @@ title: 'Lula critica Aneel por falhas na fiscalização após apagão em São Pa
 pubDate: 2024-10-19 15:15:23
 slug: "lula-critica-aneel-por-falhas-na-fiscalizacao-apos-apagao-em-sao-paulo"
 wp_id: 5782
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Mauro Cid faz nova revelação bombástica em delação a PF'
 pubDate: 2024-02-20 16:02:58
 slug: "mauro-cid-faz-nova-revelacao-bombastica-em-delacao-a-pf"
 wp_id: 3343
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

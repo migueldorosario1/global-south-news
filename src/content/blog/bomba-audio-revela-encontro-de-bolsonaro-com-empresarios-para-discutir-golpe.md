@@ -5,6 +5,8 @@ title: 'Bomba! Áudio revela encontro de Bolsonaro com empresários para discuti
 pubDate: 2024-02-15 14:46:59
 slug: "bomba-audio-revela-encontro-de-bolsonaro-com-empresarios-para-discutir-golpe"
 wp_id: 3235
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

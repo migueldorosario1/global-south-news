@@ -7,6 +7,7 @@ slug: "bolsonaro-organiza-evento-extremista-no-rio-em-meio-a-investigacoes-do-st
 wp_id: 4251
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

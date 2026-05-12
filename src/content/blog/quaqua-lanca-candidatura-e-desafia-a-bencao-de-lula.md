@@ -7,6 +7,7 @@ slug: "quaqua-lanca-candidatura-e-desafia-a-bencao-de-lula"
 wp_id: 6803
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading -->

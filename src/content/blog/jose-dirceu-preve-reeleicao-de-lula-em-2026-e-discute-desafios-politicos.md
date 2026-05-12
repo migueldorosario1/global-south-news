@@ -5,6 +5,8 @@ title: 'José Dirceu prevê reeleição de Lula em 2026 e discute desafios polí
 pubDate: 2024-09-24 18:29:00
 slug: "jose-dirceu-preve-reeleicao-de-lula-em-2026-e-discute-desafios-politicos"
 wp_id: 5425
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

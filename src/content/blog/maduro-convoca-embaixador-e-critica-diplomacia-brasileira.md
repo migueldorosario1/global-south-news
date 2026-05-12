@@ -5,6 +5,8 @@ title: 'Maduro convoca embaixador e critica diplomacia brasileira'
 pubDate: 2024-10-30 19:58:16
 slug: "maduro-convoca-embaixador-e-critica-diplomacia-brasileira"
 wp_id: 5916
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

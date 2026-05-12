@@ -7,6 +7,7 @@ slug: "disputa-por-vaga-na-camara-expoe-tensao-interna-no-pdt-em-niteroi"
 wp_id: 7624
 tags:
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

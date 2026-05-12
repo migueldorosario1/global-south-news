@@ -5,6 +5,8 @@ title: 'Presidente do PL Valdemar Costa Neto elogia Lula e critica Bolsonaro'
 pubDate: 2024-01-12 22:38:04
 slug: "presidente-do-pl-valdemar-costa-neto-elogia-lula-e-critica-bolsonaro"
 wp_id: 2422
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

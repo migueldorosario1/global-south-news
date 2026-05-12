@@ -7,6 +7,7 @@ slug: "cabeleireiras-serao-aliadas-na-luta-contra-a-violencia-a-mulher"
 wp_id: 6972
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

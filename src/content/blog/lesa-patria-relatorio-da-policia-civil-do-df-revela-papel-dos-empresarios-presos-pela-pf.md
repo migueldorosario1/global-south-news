@@ -5,6 +5,8 @@ title: 'Lesa Pátria Relatório da Polícia Civil do DF revela papel dos empres�
 pubDate: 2024-02-29 12:07:46
 slug: "lesa-patria-relatorio-da-policia-civil-do-df-revela-papel-dos-empresarios-presos-pela-pf"
 wp_id: 3586
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

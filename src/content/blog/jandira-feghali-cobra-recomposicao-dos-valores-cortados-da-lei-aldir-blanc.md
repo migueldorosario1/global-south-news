@@ -5,6 +5,8 @@ title: 'Jandira Feghali cobra “recomposição dos valores” cortados da Lei A
 pubDate: 2025-03-26 13:00:43
 slug: "jandira-feghali-cobra-recomposicao-dos-valores-cortados-da-lei-aldir-blanc"
 wp_id: 6674
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "homem-condenado-por-explosao-em-evento-de-lula-no-rio-e-solto"
 wp_id: 3255
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

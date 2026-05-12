@@ -7,6 +7,7 @@ slug: "estadio-do-vasco-permanecera-fechado-para-o-publico-decide-justica"
 wp_id: 1241
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

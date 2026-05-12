@@ -5,6 +5,8 @@ title: 'Deputados da Alerj se reúnem para decidir futuro de Lucinha'
 pubDate: 2024-02-07 14:03:00
 slug: "deputados-da-alerj-se-reunem-para-decidir-futuro-de-lucinha"
 wp_id: 3067
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

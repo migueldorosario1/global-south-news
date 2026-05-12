@@ -5,6 +5,8 @@ title: 'Geraldo Alckmin manifesta solidariedade a ministro do STF após agressõ
 pubDate: 2024-09-23 19:31:05
 slug: "geraldo-alckmin-manifesta-solidariedade-a-ministro-do-stf-apos-agressoes"
 wp_id: 5372
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

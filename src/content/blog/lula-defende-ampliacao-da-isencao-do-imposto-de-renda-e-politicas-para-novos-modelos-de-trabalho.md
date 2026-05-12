@@ -5,6 +5,8 @@ title: 'Lula defende ampliação da isenção do imposto de renda e políticas p
 pubDate: 2024-10-12 07:29:38
 slug: "lula-defende-ampliacao-da-isencao-do-imposto-de-renda-e-politicas-para-novos-modelos-de-trabalho"
 wp_id: 5682
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

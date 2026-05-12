@@ -7,6 +7,7 @@ slug: "real-time-big-data-aponta-lideranca-entre-castro-e-flavio-bolsonaro-no-se
 wp_id: 7506
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

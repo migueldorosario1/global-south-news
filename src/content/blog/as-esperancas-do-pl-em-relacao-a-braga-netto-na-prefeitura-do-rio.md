@@ -7,6 +7,7 @@ slug: "as-esperancas-do-pl-em-relacao-a-braga-netto-na-prefeitura-do-rio"
 wp_id: 522
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

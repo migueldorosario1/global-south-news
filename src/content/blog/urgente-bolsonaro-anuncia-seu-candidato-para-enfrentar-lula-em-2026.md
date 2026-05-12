@@ -5,6 +5,8 @@ title: 'Urgente! Bolsonaro anuncia seu candidato para enfrentar Lula em 2026'
 pubDate: 2024-02-22 09:52:36
 slug: "urgente-bolsonaro-anuncia-seu-candidato-para-enfrentar-lula-em-2026"
 wp_id: 3387
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

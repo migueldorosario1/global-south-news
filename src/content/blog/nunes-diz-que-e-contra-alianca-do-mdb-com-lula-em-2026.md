@@ -5,6 +5,8 @@ title: 'Nunes diz que é contra aliança do MDB com Lula em 2026'
 pubDate: 2024-10-30 10:04:19
 slug: "nunes-diz-que-e-contra-alianca-do-mdb-com-lula-em-2026"
 wp_id: 5906
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

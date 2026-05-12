@@ -7,6 +7,7 @@ slug: "campanha-comemora-20-anos-do-mes-da-visibilidade-trans-no-brasil"
 wp_id: 2538
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

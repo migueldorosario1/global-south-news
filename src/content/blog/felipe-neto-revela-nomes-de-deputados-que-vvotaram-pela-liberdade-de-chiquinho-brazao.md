@@ -7,6 +7,7 @@ slug: "felipe-neto-revela-nomes-de-deputados-que-vvotaram-pela-liberdade-de-chiq
 wp_id: 4151
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

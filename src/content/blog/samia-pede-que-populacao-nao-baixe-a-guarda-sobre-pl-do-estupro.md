@@ -5,6 +5,8 @@ title: 'Sâmia pede que população não baixe a guarda sobre PL do Estupro'
 pubDate: 2024-06-17 09:10:43
 slug: "samia-pede-que-populacao-nao-baixe-a-guarda-sobre-pl-do-estupro"
 wp_id: 4684
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

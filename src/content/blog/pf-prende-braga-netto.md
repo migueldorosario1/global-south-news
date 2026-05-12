@@ -7,6 +7,7 @@ slug: "pf-prende-braga-netto"
 wp_id: 6192
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

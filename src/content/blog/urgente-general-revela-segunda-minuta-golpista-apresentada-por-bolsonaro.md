@@ -5,6 +5,8 @@ title: 'Urgente! General revela segunda minuta golpista apresentada por Bolsonar
 pubDate: 2024-03-05 13:58:12
 slug: "urgente-general-revela-segunda-minuta-golpista-apresentada-por-bolsonaro"
 wp_id: 3653
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

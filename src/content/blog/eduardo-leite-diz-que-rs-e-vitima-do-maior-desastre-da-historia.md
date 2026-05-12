@@ -5,6 +5,8 @@ title: 'Eduardo Leite diz que RS é vítima do maior desastre da história'
 pubDate: 2024-05-02 09:32:02
 slug: "eduardo-leite-diz-que-rs-e-vitima-do-maior-desastre-da-historia"
 wp_id: 4379
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

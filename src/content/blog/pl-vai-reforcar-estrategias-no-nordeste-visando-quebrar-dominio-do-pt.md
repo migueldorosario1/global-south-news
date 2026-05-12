@@ -5,6 +5,8 @@ title: 'PL vai reforçar estratégias no Nordeste visando quebrar domínio do PT
 pubDate: 2024-06-17 09:10:41
 slug: "pl-vai-reforcar-estrategias-no-nordeste-visando-quebrar-dominio-do-pt"
 wp_id: 4682
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

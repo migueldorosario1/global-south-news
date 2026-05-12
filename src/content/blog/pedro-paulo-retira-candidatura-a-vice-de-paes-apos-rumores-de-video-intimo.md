@@ -7,6 +7,7 @@ slug: "pedro-paulo-retira-candidatura-a-vice-de-paes-apos-rumores-de-video-intim
 wp_id: 4786
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

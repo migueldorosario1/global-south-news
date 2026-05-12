@@ -7,6 +7,7 @@ slug: "rodrigo-neves-lidera-o-2o-turno-em-niteroi-diz-pesquisa"
 wp_id: 5718
 tags:
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

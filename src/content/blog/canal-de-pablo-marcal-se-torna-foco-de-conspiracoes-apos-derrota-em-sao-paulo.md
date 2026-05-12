@@ -5,6 +5,8 @@ title: 'Canal de Pablo Marçal se torna foco de conspirações após derrota em 
 pubDate: 2024-10-09 09:24:17
 slug: "canal-de-pablo-marcal-se-torna-foco-de-conspiracoes-apos-derrota-em-sao-paulo"
 wp_id: 5642
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

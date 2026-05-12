@@ -8,6 +8,7 @@ wp_id: 7166
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

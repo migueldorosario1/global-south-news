@@ -5,6 +5,8 @@ title: 'Pablo Marçal é um dos favoritos na disputa pela prefeitura de SP'
 pubDate: 2024-05-29 09:41:43
 slug: "pablo-marcal-e-um-dos-favoritos-na-disputa-pela-prefeitura-de-sp"
 wp_id: 4552
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Lula manifesta apoio a Kamala Harris nas eleições americanas'
 pubDate: 2024-09-16 21:11:23
 slug: "lula-manifesta-apoio-a-kamala-harris-nas-eleicoes-americanas"
 wp_id: 5288
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

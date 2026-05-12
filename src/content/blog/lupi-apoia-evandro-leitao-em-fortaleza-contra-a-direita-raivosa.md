@@ -5,6 +5,8 @@ title: 'Lupi apoia Evandro Leitão em Fortaleza contra a direita raivosa'
 pubDate: 2024-10-17 19:47:10
 slug: "lupi-apoia-evandro-leitao-em-fortaleza-contra-a-direita-raivosa"
 wp_id: 5728
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

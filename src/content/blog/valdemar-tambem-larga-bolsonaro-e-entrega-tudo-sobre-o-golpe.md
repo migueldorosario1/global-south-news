@@ -5,6 +5,8 @@ title: 'Valdemar também larga Bolsonaro e entrega tudo sobre o golpe'
 pubDate: 2024-03-15 14:51:15
 slug: "valdemar-tambem-larga-bolsonaro-e-entrega-tudo-sobre-o-golpe"
 wp_id: 3807
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

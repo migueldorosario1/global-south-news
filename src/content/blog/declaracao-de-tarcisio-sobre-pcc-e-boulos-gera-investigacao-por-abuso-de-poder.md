@@ -5,6 +5,8 @@ title: 'Declaração de Tarcísio sobre PCC e Boulos gera investigação por abu
 pubDate: 2024-10-29 12:27:07
 slug: "declaracao-de-tarcisio-sobre-pcc-e-boulos-gera-investigacao-por-abuso-de-poder"
 wp_id: 5903
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Elmar Nascimento mantém candidatura apesar de apoio de Lira a Hugo Mott
 pubDate: 2024-09-16 20:34:48
 slug: "elmar-nascimento-mantem-candidatura-apesar-de-apoio-de-lira-a-hugo-motta"
 wp_id: 5278
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

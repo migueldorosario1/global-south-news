@@ -7,6 +7,7 @@ slug: "nova-pesquisa-traz-eduardo-paes-na-lideranca-isolada-pela-disputa-no-rio"
 wp_id: 4751
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

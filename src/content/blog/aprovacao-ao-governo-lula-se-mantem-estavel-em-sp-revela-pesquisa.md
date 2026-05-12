@@ -5,6 +5,8 @@ title: 'Aprovação ao Governo Lula se mantém estável em SP, revela pesquisa'
 pubDate: 2024-06-26 06:42:07
 slug: "aprovacao-ao-governo-lula-se-mantem-estavel-em-sp-revela-pesquisa"
 wp_id: 4694
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

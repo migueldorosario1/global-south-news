@@ -5,6 +5,8 @@ title: 'Lula se reúne com líderes do governo no Congresso após derrotas em vo
 pubDate: 2024-06-03 08:36:20
 slug: "lula-se-reune-com-lideres-do-governo-no-congresso-apos-derrotas-em-votacoes"
 wp_id: 4574
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

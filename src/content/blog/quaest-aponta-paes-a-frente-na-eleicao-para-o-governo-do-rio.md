@@ -7,6 +7,7 @@ slug: "quaest-aponta-paes-a-frente-na-eleicao-para-o-governo-do-rio"
 wp_id: 6641
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":4} -->

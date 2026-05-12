@@ -5,6 +5,8 @@ title: 'PGR e STF estão prestes a marcar julgamento de Bolsonaro por liderar te
 pubDate: 2024-02-24 11:38:51
 slug: "pgr-e-stf-estao-prestes-a-marcar-julgamento-de-bolsonaro-por-liderar-tentativa-de-golpe"
 wp_id: 3439
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

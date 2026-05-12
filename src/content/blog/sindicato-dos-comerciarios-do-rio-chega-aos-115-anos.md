@@ -7,6 +7,7 @@ slug: "sindicato-dos-comerciarios-do-rio-chega-aos-115-anos"
 wp_id: 944
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

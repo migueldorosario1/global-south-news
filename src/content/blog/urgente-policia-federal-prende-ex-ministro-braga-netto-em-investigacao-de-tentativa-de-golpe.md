@@ -7,6 +7,7 @@ slug: "urgente-policia-federal-prende-ex-ministro-braga-netto-em-investigacao-de
 wp_id: 6198
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

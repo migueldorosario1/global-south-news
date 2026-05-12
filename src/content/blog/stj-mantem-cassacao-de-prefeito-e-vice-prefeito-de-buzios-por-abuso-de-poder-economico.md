@@ -8,6 +8,7 @@ wp_id: 2899
 tags:
   - 'buzios'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

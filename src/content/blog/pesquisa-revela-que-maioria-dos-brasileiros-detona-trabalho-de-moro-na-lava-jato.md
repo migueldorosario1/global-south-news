@@ -5,6 +5,8 @@ title: 'Pesquisa revela que maioria dos brasileiros detona trabalho de Moro na L
 pubDate: 2024-03-03 09:27:32
 slug: "pesquisa-revela-que-maioria-dos-brasileiros-detona-trabalho-de-moro-na-lava-jato"
 wp_id: 3625
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

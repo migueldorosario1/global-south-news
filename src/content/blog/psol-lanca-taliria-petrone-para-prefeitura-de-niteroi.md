@@ -7,6 +7,7 @@ slug: "psol-lanca-taliria-petrone-para-prefeitura-de-niteroi"
 wp_id: 636
 tags:
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

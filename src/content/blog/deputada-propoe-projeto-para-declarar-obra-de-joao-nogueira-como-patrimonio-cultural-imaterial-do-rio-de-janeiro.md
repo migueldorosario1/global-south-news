@@ -7,6 +7,7 @@ slug: "deputada-propoe-projeto-para-declarar-obra-de-joao-nogueira-como-patrimon
 wp_id: 7169
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

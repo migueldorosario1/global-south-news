@@ -5,6 +5,8 @@ title: 'Lula anuncia as prioridades do governo em 2024'
 pubDate: 2024-01-30 13:29:24
 slug: "lula-anuncia-as-prioridades-do-governo-em-2024"
 wp_id: 2733
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

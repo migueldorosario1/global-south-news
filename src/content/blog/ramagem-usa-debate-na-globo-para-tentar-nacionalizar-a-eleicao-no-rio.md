@@ -5,6 +5,8 @@ title: 'Ramagem usa debate na Globo para tentar nacionalizar a eleição no Rio'
 pubDate: 2024-10-04 12:34:17
 slug: "ramagem-usa-debate-na-globo-para-tentar-nacionalizar-a-eleicao-no-rio"
 wp_id: 5564
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

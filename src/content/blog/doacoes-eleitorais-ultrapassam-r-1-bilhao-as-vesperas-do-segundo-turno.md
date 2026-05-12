@@ -5,6 +5,8 @@ title: 'Doações eleitorais ultrapassam R$ 1 bilhão às vésperas do segundo t
 pubDate: 2024-10-20 09:05:25
 slug: "doacoes-eleitorais-ultrapassam-r-1-bilhao-as-vesperas-do-segundo-turno"
 wp_id: 5814
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

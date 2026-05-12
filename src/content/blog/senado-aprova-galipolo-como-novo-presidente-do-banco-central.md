@@ -5,6 +5,8 @@ title: 'Senado aprova Galípolo como novo Presidente do Banco Central'
 pubDate: 2024-10-08 18:41:12
 slug: "senado-aprova-galipolo-como-novo-presidente-do-banco-central"
 wp_id: 5622
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

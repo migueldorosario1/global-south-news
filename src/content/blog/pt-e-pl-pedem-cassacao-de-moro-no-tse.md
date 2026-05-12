@@ -5,6 +5,8 @@ title: 'PT e PL pedem cassação de Moro no TSE'
 pubDate: 2024-04-23 09:18:25
 slug: "pt-e-pl-pedem-cassacao-de-moro-no-tse"
 wp_id: 4274
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

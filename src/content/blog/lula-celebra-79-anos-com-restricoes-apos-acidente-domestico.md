@@ -5,6 +5,8 @@ title: 'Lula celebra 79 anos com restrições após acidente doméstico'
 pubDate: 2024-10-27 09:27:18
 slug: "lula-celebra-79-anos-com-restricoes-apos-acidente-domestico"
 wp_id: 5871
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

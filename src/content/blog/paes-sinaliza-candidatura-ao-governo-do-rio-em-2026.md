@@ -7,6 +7,7 @@ slug: "paes-sinaliza-candidatura-ao-governo-do-rio-em-2026"
 wp_id: 6061
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "taina-de-paula-e-reeleita-como-a-vereadora-mais-votada-do-rio"
 wp_id: 5618
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

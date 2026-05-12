@@ -5,6 +5,8 @@ title: 'Jandira Feghali ‘Eu acuso!’ Os impactos da falta de regulamentação
 pubDate: 2024-01-25 15:46:21
 slug: "jandira-feghali-eu-acuso-os-impactos-da-falta-de-regulamentacao-da-internet"
 wp_id: 2552
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

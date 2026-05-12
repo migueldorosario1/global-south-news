@@ -5,6 +5,8 @@ title: 'Raquel Lyra pede que PSDB abandone a extrema-direita e pare de atacar Lu
 pubDate: 2024-03-04 23:00:29
 slug: "raquel-lyra-pede-que-psdb-abandone-a-extrema-direita-e-pare-de-atacar-lula"
 wp_id: 3648
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

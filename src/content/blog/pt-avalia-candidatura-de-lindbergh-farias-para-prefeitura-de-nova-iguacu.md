@@ -7,6 +7,7 @@ slug: "pt-avalia-candidatura-de-lindbergh-farias-para-prefeitura-de-nova-iguacu"
 wp_id: 1032
 tags:
   - 'baixada'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

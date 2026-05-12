@@ -7,6 +7,7 @@ slug: "mulheres-negras-protagonizam-marcha-historica-em-copacabana"
 wp_id: 963
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

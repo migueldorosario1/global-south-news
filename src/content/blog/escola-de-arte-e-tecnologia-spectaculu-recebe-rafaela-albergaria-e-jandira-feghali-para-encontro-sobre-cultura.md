@@ -7,6 +7,7 @@ slug: "escola-de-arte-e-tecnologia-spectaculu-recebe-rafaela-albergaria-e-jandir
 wp_id: 5028
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

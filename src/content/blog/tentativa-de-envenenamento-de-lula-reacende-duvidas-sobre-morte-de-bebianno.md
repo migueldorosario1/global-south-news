@@ -8,6 +8,7 @@ wp_id: 6028
 tags:
   - 'teresopolis'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

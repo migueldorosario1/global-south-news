@@ -7,6 +7,7 @@ slug: "pre-candidato-apoiado-por-claudio-castro-para-a-prefeitura-do-rio-ja-busc
 wp_id: 79
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <div class="text">

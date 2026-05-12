@@ -7,6 +7,7 @@ slug: "educacao-popular-conquista-lugar-na-historia-do-rio"
 wp_id: 6978
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

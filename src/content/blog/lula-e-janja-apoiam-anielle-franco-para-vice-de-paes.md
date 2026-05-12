@@ -7,6 +7,7 @@ slug: "lula-e-janja-apoiam-anielle-franco-para-vice-de-paes"
 wp_id: 2263
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

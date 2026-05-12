@@ -5,6 +5,8 @@ title: 'Pablo Marçal criticou a liderança de Bolsonaro na extrema-direita'
 pubDate: 2024-08-26 19:06:48
 slug: "pablo-marcal-contestacao-a-lideranca-de-bolsonaro-na-extrema-direita"
 wp_id: 4941
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Gleisi Hoffmann denuncia participação de foragidos em campanhas eleito
 pubDate: 2024-09-16 19:18:30
 slug: "gleisi-hoffmann-denuncia-participacao-de-foragidos-em-campanhas-eleitorais"
 wp_id: 5258
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

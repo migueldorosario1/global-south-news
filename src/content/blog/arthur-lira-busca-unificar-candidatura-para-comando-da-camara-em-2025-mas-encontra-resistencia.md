@@ -5,6 +5,8 @@ title: 'Arthur Lira busca Unificar Candidatura para Comando da Câmara em 2025, 
 pubDate: 2024-09-11 20:07:18
 slug: "arthur-lira-busca-unificar-candidatura-para-comando-da-camara-em-2025-mas-encontra-resistencia"
 wp_id: 5198
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

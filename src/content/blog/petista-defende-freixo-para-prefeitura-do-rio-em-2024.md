@@ -5,6 +5,8 @@ title: 'Petista defende Freixo para prefeitura do Rio em 2024'
 pubDate: 2023-07-31 15:28:50
 slug: "petista-defende-freixo-para-prefeitura-do-rio-em-2024"
 wp_id: 971
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

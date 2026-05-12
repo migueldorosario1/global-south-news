@@ -7,6 +7,7 @@ slug: "pl-passa-a-testar-o-nome-de-eduardo-pazuello-para-o-governo-do-rio"
 wp_id: 7343
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

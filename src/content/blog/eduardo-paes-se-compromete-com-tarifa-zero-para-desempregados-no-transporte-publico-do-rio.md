@@ -7,6 +7,7 @@ slug: "eduardo-paes-se-compromete-com-tarifa-zero-para-desempregados-no-transpor
 wp_id: 5111
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

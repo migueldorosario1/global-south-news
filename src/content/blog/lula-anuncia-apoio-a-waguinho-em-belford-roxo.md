@@ -5,6 +5,8 @@ title: 'Lula anuncia apoio a Waguinho em Belford Roxo'
 pubDate: 2024-09-12 17:18:27
 slug: "lula-anuncia-apoio-a-waguinho-em-belford-roxo"
 wp_id: 5201
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

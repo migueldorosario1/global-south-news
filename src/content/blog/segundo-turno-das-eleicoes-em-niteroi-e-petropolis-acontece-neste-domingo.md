@@ -9,6 +9,7 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'petropolis'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

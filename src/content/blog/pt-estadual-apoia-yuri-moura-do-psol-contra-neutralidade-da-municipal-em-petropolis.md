@@ -7,6 +7,7 @@ slug: "pt-estadual-apoia-yuri-moura-do-psol-contra-neutralidade-da-municipal-em-
 wp_id: 5698
 tags:
   - 'petropolis'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

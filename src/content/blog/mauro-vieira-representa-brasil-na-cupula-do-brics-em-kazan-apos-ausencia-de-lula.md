@@ -5,6 +5,8 @@ title: 'Mauro Vieira representa Brasil na Cúpula do BRICS em Kazan após ausên
 pubDate: 2024-10-21 13:49:40
 slug: "mauro-vieira-representa-brasil-na-cupula-do-brics-em-kazan-apos-ausencia-de-lula"
 wp_id: 5827
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "esquerda-unida-tarcisio-motta-e-dani-balbi-estarao-juntos-hoje-na-livrari
 wp_id: 4192
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

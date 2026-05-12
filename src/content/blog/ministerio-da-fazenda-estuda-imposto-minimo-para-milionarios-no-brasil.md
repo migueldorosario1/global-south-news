@@ -5,6 +5,8 @@ title: 'Ministério da Fazenda estuda imposto mínimo para milionários no Brasi
 pubDate: 2024-10-09 08:41:20
 slug: "ministerio-da-fazenda-estuda-imposto-minimo-para-milionarios-no-brasil"
 wp_id: 5639
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

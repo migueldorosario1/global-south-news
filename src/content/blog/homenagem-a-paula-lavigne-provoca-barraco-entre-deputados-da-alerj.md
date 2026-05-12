@@ -5,6 +5,8 @@ title: 'Homenagem à Paula Lavigne provoca barraco entre deputados da Alerj'
 pubDate: 2023-08-24 14:53:34
 slug: "homenagem-a-paula-lavigne-provoca-barraco-entre-deputados-da-alerj"
 wp_id: 1188
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

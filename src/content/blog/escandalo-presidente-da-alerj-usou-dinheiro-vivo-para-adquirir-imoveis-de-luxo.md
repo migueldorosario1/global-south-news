@@ -9,6 +9,7 @@ tags:
   - 'teresopolis'
   - 'campos'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

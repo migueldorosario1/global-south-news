@@ -5,6 +5,8 @@ title: 'Boulos almoça com Marta e dá início a pré-campanha em SP'
 pubDate: 2024-01-30 13:05:31
 slug: "boulos-almoca-com-marta-e-da-inicio-a-pre-campanha-em-sp"
 wp_id: 2715
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

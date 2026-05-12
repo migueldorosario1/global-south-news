@@ -7,6 +7,7 @@ slug: "jandira-feghali-taxar-os-super-ricos-e-uma-questao-de-sobrevivencia"
 wp_id: 5978
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

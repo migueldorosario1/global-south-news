@@ -5,6 +5,8 @@ title: 'Marçal provoca Datena e leva cadeirada ao vivo durante debate na TV Cul
 pubDate: 2024-09-16 10:32:07
 slug: "marcal-provoca-datena-e-leva-cadeirada-ao-vivo-durante-debate-na-tv-cultura"
 wp_id: 5238
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

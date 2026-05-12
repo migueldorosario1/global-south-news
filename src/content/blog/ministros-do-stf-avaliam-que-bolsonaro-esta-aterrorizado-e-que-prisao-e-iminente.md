@@ -5,6 +5,8 @@ title: 'Ministros do STF avaliam que Bolsonaro está aterrorizado e que prisão 
 pubDate: 2024-02-26 09:51:08
 slug: "ministros-do-stf-avaliam-que-bolsonaro-esta-aterrorizado-e-que-prisao-e-iminente"
 wp_id: 3479
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Câmara mantém prisão de Chiquinho Brazão pelo assassinato de Mariell
 pubDate: 2024-04-10 20:10:01
 slug: "camara-mantem-prisao-de-chiquinho-brazao-pelo-assassinato-de-marielle"
 wp_id: 4149
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

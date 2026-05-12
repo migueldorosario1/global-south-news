@@ -5,6 +5,8 @@ title: 'Haddad articula ajuste fiscal com foco em justiça social e prevê avan�
 pubDate: 2024-12-05 05:31:20
 slug: "haddad-articula-ajuste-fiscal-com-foco-em-justica-social-e-preve-avancos-para-2025"
 wp_id: 6110
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

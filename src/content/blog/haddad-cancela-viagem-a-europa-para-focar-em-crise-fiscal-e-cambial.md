@@ -5,6 +5,8 @@ title: 'Haddad cancela viagem à Europa para focar em crise fiscal e cambial'
 pubDate: 2024-11-03 12:54:03
 slug: "haddad-cancela-viagem-a-europa-para-focar-em-crise-fiscal-e-cambial"
 wp_id: 5959
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

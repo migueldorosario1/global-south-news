@@ -5,6 +5,8 @@ title: 'CNJ vai abrir processo criminal contra Moro'
 pubDate: 2024-04-02 08:51:04
 slug: "cnj-vai-abrir-processo-criminal-contra-moro"
 wp_id: 4026
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

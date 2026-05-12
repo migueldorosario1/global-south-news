@@ -5,6 +5,8 @@ title: 'Projeto em áreas de preservação permanente avança na Câmara e gera 
 pubDate: 2024-08-18 08:28:19
 slug: "projeto-em-areas-de-preservacao-permanente-avanca-na-camara-e-gera-criticas"
 wp_id: 4853
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

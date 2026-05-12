@@ -7,6 +7,7 @@ slug: "datafolha-paes-lidera-corrida-a-prefeitura-do-rio-com-59"
 wp_id: 5088
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

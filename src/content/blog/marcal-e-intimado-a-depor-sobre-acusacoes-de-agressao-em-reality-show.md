@@ -5,6 +5,8 @@ title: 'Marçal é intimado a depor sobre acusações de agressão em reality sh
 pubDate: 2024-11-26 11:03:26
 slug: "marcal-e-intimado-a-depor-sobre-acusacoes-de-agressao-em-reality-show"
 wp_id: 6039
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

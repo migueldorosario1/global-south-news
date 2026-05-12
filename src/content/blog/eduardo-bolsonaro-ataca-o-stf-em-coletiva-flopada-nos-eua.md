@@ -5,6 +5,8 @@ title: 'Eduardo Bolsonaro ataca o STF em coletiva flopada nos EUA'
 pubDate: 2024-03-13 09:31:22
 slug: "eduardo-bolsonaro-ataca-o-stf-em-coletiva-flopada-nos-eua"
 wp_id: 3755
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

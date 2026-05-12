@@ -5,6 +5,8 @@ title: 'Arthur Lira em busca de sucessor na câmara dos deputados desafios e dis
 pubDate: 2024-09-02 18:49:00
 slug: "arthur-lira-em-busca-de-sucessor-na-camara-dos-deputados-desafios-e-disputas-internas"
 wp_id: 5002
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

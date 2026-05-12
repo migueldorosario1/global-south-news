@@ -5,6 +5,8 @@ title: 'Erundina critica retorno de Marta Suplicy ao PT e formação de chapa co
 pubDate: 2024-03-18 09:31:31
 slug: "erundina-critica-retorno-de-marta-suplicy-ao-pt-e-formacao-de-chapa-com-boulos-em-sp"
 wp_id: 3825
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

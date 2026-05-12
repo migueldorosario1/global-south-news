@@ -7,6 +7,7 @@ slug: "pesquisa-da-cnn-aponta-eduardo-paes-na-lideranca-isolada-para-prefeitura-
 wp_id: 3377
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

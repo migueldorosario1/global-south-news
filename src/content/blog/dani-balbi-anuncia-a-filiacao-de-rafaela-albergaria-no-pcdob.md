@@ -7,6 +7,7 @@ slug: "dani-balbi-anuncia-a-filiacao-de-rafaela-albergaria-no-pcdob"
 wp_id: 3675
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

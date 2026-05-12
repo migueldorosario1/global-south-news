@@ -5,6 +5,8 @@ title: 'PSD supera MDB e se torna o partido com mais prefeitos no Brasil'
 pubDate: 2024-04-23 09:32:11
 slug: "psd-supera-mdb-e-se-torna-o-partido-com-mais-prefeitos-no-brasil"
 wp_id: 4281
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

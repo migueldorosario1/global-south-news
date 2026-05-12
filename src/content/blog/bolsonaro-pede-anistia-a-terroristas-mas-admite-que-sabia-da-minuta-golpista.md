@@ -5,6 +5,8 @@ title: 'Bolsonaro pede anistia a terroristas mas admite que sabia da minuta golp
 pubDate: 2024-02-25 17:29:27
 slug: "bolsonaro-pede-anistia-a-terroristas-mas-admite-que-sabia-da-minuta-golpista"
 wp_id: 3469
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

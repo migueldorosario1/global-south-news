@@ -7,6 +7,7 @@ slug: "freixo-anuncia-apoio-a-reeleicao-de-paes-no-rio"
 wp_id: 4817
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

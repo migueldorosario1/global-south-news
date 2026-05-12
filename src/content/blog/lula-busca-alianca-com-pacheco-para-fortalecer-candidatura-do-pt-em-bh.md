@@ -5,6 +5,8 @@ title: 'Lula busca aliança com Pacheco para fortalecer candidatura do PT em BH'
 pubDate: 2024-06-28 08:07:39
 slug: "lula-busca-alianca-com-pacheco-para-fortalecer-candidatura-do-pt-em-bh"
 wp_id: 4715
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

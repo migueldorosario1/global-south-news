@@ -7,6 +7,7 @@ slug: "dani-balbi-reune-chapa-de-vereadores-do-pcdob-em-ato-publico-hoje-no-rio"
 wp_id: 4089
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

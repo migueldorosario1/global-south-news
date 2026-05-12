@@ -7,6 +7,7 @@ slug: "miliciano-jerominho-homenageia-novo-secretario-de-seguranca-do-rio"
 wp_id: 2047
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

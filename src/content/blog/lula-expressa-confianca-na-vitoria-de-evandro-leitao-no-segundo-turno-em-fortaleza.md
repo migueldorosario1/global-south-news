@@ -5,6 +5,8 @@ title: 'Lula expressa confiança na vitória de Evandro Leitão no segundo turno
 pubDate: 2024-10-12 07:47:22
 slug: "lula-expressa-confianca-na-vitoria-de-evandro-leitao-no-segundo-turno-em-fortaleza"
 wp_id: 5685
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

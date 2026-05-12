@@ -5,6 +5,8 @@ title: 'Jandira Feghali Liberdade, liberdade'
 pubDate: 2023-09-06 16:13:38
 slug: "jandira-feghali-liberdade-liberdade"
 wp_id: 1313
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

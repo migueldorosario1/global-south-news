@@ -5,6 +5,8 @@ title: 'Lula assume de vez articulação política para aprovar medidas no Congr
 pubDate: 2025-01-07 16:50:44
 slug: "lula-assume-de-vez-articulacao-politica-para-aprovar-medidas-no-congresso-em-2025"
 wp_id: 6361
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

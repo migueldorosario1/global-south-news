@@ -8,6 +8,7 @@ wp_id: 1117
 tags:
   - 'nova-friburgo'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

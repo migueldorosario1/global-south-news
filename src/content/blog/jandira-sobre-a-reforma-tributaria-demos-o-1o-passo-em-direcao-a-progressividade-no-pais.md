@@ -5,6 +5,8 @@ title: 'Jandira sobre a reforma tributária demos o 1º passo em direção à pr
 pubDate: 2023-07-09 10:01:40
 slug: "jandira-sobre-a-reforma-tributaria-demos-o-1o-passo-em-direcao-a-progressividade-no-pais"
 wp_id: 715
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Castro afirma que Bacellar é o único que pode enfrentar Paes em 2026'
 pubDate: 2025-02-21 11:22:42
 slug: "castro-afirma-que-bacellar-e-o-unico-que-pode-enfrentar-paes-em-2026"
 wp_id: 6607
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

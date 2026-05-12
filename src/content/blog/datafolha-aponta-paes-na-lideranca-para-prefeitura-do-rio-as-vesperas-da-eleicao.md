@@ -7,6 +7,7 @@ slug: "datafolha-aponta-paes-na-lideranca-para-prefeitura-do-rio-as-vesperas-da-
 wp_id: 5556
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

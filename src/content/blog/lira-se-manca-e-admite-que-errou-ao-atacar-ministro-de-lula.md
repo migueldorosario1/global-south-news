@@ -5,6 +5,8 @@ title: 'Lira se manca e admite que errou ao atacar ministro de Lula'
 pubDate: 2024-04-24 08:58:47
 slug: "lira-se-manca-e-admite-que-errou-ao-atacar-ministro-de-lula"
 wp_id: 4285
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

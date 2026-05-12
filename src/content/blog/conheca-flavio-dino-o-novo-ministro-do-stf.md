@@ -5,6 +5,8 @@ title: 'Conheça Flávio Dino, o novo ministro do STF'
 pubDate: 2024-02-22 20:18:36
 slug: "conheca-flavio-dino-o-novo-ministro-do-stf"
 wp_id: 3405
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

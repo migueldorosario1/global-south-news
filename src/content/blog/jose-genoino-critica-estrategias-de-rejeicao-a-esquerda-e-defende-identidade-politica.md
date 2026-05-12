@@ -5,6 +5,8 @@ title: 'José Genoino critica estratégias de rejeição à esquerda e defende i
 pubDate: 2024-10-19 15:06:50
 slug: "jose-genoino-critica-estrategias-de-rejeicao-a-esquerda-e-defende-identidade-politica"
 wp_id: 5779
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

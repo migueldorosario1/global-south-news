@@ -5,6 +5,8 @@ title: 'Cenário eleitoral revela desafios para Lula e ascensão de Tarcísio na
 pubDate: 2024-11-03 11:41:53
 slug: "cenario-eleitoral-revela-desafios-para-lula-e-ascensao-de-tarcisio-na-direita-diz-singer"
 wp_id: 5952
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

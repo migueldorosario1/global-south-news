@@ -8,6 +8,7 @@ wp_id: 5706
 tags:
   - 'campos'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

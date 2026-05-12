@@ -7,6 +7,7 @@ slug: "queiroz-das-rachadinhas-e-nomeado-subsecretario-na-prefeitura-de-saquarem
 wp_id: 6434
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

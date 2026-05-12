@@ -5,6 +5,8 @@ title: 'Bomba! TRE do Paraná marca julgamento de Moro para 1º de abril'
 pubDate: 2024-03-23 11:20:19
 slug: "bomba-tre-do-parana-marca-julgamento-de-moro-para-1o-de-abril"
 wp_id: 3923
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

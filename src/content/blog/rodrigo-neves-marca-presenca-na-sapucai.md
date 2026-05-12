@@ -7,6 +7,7 @@ slug: "rodrigo-neves-marca-presenca-na-sapucai"
 wp_id: 3180
 tags:
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

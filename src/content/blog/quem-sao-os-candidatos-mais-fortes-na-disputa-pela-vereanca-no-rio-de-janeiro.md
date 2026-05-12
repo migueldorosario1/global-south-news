@@ -7,6 +7,7 @@ slug: "quem-sao-os-candidatos-mais-fortes-na-disputa-pela-vereanca-no-rio-de-jan
 wp_id: 5523
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

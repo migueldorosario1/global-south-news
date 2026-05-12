@@ -5,6 +5,8 @@ title: 'Lula quer retorno de ministros em janeiro e define prioridades para 2025
 pubDate: 2024-12-21 11:45:34
 slug: "lula-cobra-retorno-ao-trabalho-em-janeiro-e-define-prioridades-para-2024"
 wp_id: 6285
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

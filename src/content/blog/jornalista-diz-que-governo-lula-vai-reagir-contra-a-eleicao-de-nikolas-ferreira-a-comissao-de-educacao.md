@@ -5,6 +5,8 @@ title: 'Jornalista diz que governo Lula vai reagir contra a eleição de Nikolas
 pubDate: 2024-03-08 10:12:46
 slug: "jornalista-diz-que-governo-lula-vai-reagir-contra-a-eleicao-de-nikolas-ferreira-a-comissao-de-educacao"
 wp_id: 3689
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Tony Garcia aposta em saída melancólica de Moro da vida pública'
 pubDate: 2024-02-01 09:11:34
 slug: "tony-garcia-aposta-em-saida-melancolica-de-moro-da-vida-publica"
 wp_id: 2821
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

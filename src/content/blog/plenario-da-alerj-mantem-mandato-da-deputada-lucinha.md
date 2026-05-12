@@ -7,6 +7,7 @@ slug: "plenario-da-alerj-mantem-mandato-da-deputada-lucinha"
 wp_id: 3090
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

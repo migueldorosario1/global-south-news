@@ -5,6 +5,8 @@ title: 'STF mantém condenação de Collor, mas prisão não é imediata'
 pubDate: 2024-11-09 08:31:42
 slug: "stf-mantem-condenacao-de-collor-mas-prisao-nao-e-imediata"
 wp_id: 5982
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

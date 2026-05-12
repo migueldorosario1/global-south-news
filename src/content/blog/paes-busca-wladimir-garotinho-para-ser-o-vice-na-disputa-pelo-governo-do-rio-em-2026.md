@@ -7,6 +7,7 @@ slug: "paes-busca-wladimir-garotinho-para-ser-o-vice-na-disputa-pelo-governo-do-
 wp_id: 6550
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

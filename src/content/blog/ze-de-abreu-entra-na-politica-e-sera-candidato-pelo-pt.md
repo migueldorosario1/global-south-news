@@ -7,6 +7,7 @@ slug: "ze-de-abreu-entra-na-politica-e-sera-candidato-pelo-pt"
 wp_id: 7641
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":4} -->

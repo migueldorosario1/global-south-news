@@ -7,6 +7,7 @@ slug: "dani-balbi-e-a-unica-mulher-pre-candidata-a-prefeitura-do-rio-em-2024"
 wp_id: 1653
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

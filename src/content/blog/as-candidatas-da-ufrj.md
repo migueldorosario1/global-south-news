@@ -7,6 +7,7 @@ slug: "as-candidatas-da-ufrj"
 wp_id: 5118
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

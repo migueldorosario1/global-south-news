@@ -5,6 +5,8 @@ title: 'Guarda armada avança no Rio com ampla aprovação na Câmara'
 pubDate: 2025-04-02 14:19:05
 slug: "guarda-armada-avanca-no-rio-com-ampla-aprovacao-na-camara"
 wp_id: 6728
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

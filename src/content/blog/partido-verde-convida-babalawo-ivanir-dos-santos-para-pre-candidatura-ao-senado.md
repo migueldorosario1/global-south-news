@@ -5,6 +5,8 @@ title: 'Partido Verde convida babalawô Ivanir dos Santos para pré-candidatura 
 pubDate: 2026-02-06 13:28:15
 slug: "partido-verde-convida-babalawo-ivanir-dos-santos-para-pre-candidatura-ao-senado"
 wp_id: 7651
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "saloes-se-tornam-abrigos-contra-a-violencia-domestica"
 wp_id: 7102
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading -->

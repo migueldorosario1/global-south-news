@@ -5,6 +5,8 @@ title: 'Mauro Cid presta longo depoimento a PF e causa pavor na extrema-direita'
 pubDate: 2024-03-12 09:20:02
 slug: "mauro-cid-presta-longo-depoimento-a-pf-e-causa-pavor-na-extrema-direita"
 wp_id: 3717
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

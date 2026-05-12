@@ -5,6 +5,8 @@ title: 'Natália Bonavides lidera pesquisas na corrida pela prefeitura de Natal'
 pubDate: 2024-10-21 15:23:34
 slug: "natalia-bonavides-lidera-pesquisas-na-corrida-pela-prefeitura-de-natal"
 wp_id: 5835
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

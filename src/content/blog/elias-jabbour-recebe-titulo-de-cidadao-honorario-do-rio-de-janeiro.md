@@ -7,6 +7,7 @@ slug: "elias-jabbour-recebe-titulo-de-cidadao-honorario-do-rio-de-janeiro"
 wp_id: 7241
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

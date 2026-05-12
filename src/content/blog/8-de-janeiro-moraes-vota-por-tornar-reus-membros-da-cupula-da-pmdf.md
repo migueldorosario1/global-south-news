@@ -5,6 +5,8 @@ title: '8 de janeiro Moraes vota por tornar réus membros da cúpula da PMDF'
 pubDate: 2024-02-11 05:53:00
 slug: "8-de-janeiro-moraes-vota-por-tornar-reus-membros-da-cupula-da-pmdf"
 wp_id: 3133
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

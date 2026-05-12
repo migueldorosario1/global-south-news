@@ -7,6 +7,7 @@ slug: "rodrigo-neves-e-axel-grael-celebram-vitoria-da-viradouro-no-carnaval-cari
 wp_id: 3213
 tags:
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

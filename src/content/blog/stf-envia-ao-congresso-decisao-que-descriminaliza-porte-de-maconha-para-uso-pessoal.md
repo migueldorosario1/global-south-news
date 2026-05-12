@@ -5,6 +5,8 @@ title: 'STF envia ao Congresso decisão que descriminaliza porte de maconha para
 pubDate: 2024-07-02 07:54:19
 slug: "stf-envia-ao-congresso-decisao-que-descriminaliza-porte-de-maconha-para-uso-pessoal"
 wp_id: 4745
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

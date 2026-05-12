@@ -7,6 +7,7 @@ slug: "hingo-hammes-lidera-com-larga-margem-para-prefeitura-de-petropolis"
 wp_id: 5877
 tags:
   - 'petropolis'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Polarização política molda cenários globais e alimenta tensões cont
 pubDate: 2024-09-25 04:45:50
 slug: "polarizacao-politica-molda-cenarios-globais-e-alimenta-tensoes-contemporaneas"
 wp_id: 5456
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

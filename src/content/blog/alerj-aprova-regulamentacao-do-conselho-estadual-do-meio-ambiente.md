@@ -7,6 +7,7 @@ slug: "alerj-aprova-regulamentacao-do-conselho-estadual-do-meio-ambiente"
 wp_id: 375
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

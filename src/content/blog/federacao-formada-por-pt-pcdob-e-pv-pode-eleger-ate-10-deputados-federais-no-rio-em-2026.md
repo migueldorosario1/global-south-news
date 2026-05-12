@@ -7,6 +7,7 @@ slug: "federacao-formada-por-pt-pcdob-e-pv-pode-eleger-ate-10-deputados-federais
 wp_id: 7761
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

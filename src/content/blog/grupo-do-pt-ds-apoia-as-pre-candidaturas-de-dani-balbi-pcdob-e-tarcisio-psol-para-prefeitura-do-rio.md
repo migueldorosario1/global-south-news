@@ -7,6 +7,7 @@ slug: "grupo-do-pt-ds-apoia-as-pre-candidaturas-de-dani-balbi-pcdob-e-tarcisio-p
 wp_id: 1769
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

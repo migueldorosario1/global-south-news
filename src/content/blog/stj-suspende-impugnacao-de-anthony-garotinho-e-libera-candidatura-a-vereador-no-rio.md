@@ -7,6 +7,7 @@ slug: "stj-suspende-impugnacao-de-anthony-garotinho-e-libera-candidatura-a-verea
 wp_id: 5557
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

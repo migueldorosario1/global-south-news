@@ -7,6 +7,7 @@ slug: "quem-sera-o-candidato-do-pl-no-rio-em-2024"
 wp_id: 841
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

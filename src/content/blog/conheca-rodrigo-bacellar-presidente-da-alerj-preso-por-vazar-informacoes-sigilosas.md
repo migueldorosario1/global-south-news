@@ -7,6 +7,7 @@ slug: "conheca-rodrigo-bacellar-presidente-da-alerj-preso-por-vazar-informacoes-
 wp_id: 7509
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

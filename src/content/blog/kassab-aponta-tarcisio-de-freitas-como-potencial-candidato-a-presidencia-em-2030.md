@@ -5,6 +5,8 @@ title: 'Kassab aponta Tarcísio de Freitas como potencial candidato a Presidênc
 pubDate: 2024-10-09 10:15:52
 slug: "kassab-aponta-tarcisio-de-freitas-como-potencial-candidato-a-presidencia-em-2030"
 wp_id: 5646
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

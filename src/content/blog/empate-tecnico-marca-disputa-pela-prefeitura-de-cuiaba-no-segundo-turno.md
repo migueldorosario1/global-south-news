@@ -5,6 +5,8 @@ title: 'Empate técnico marca disputa pela prefeitura de Cuiabá no segundo turn
 pubDate: 2024-10-19 12:31:49
 slug: "empate-tecnico-marca-disputa-pela-prefeitura-de-cuiaba-no-segundo-turno"
 wp_id: 5740
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

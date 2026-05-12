@@ -7,6 +7,7 @@ slug: "a-hora-e-a-vez-do-ministerio-de-seguranca-publica"
 wp_id: 7296
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

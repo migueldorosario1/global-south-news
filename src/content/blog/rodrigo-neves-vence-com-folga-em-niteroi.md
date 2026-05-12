@@ -7,6 +7,7 @@ slug: "rodrigo-neves-vence-com-folga-em-niteroi"
 wp_id: 5889
 tags:
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

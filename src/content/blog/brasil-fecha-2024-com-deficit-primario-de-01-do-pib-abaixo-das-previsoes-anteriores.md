@@ -5,6 +5,8 @@ title: 'Brasil fecha 2024 com déficit primário de 0,1% do PIB, abaixo das prev
 pubDate: 2025-01-07 16:50:36
 slug: "brasil-fecha-2024-com-deficit-primario-de-01-do-pib-abaixo-das-previsoes-anteriores"
 wp_id: 6358
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

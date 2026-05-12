@@ -5,6 +5,8 @@ title: 'Pesquisa revela que aprovação de Lula influencia preferência eleitora
 pubDate: 2024-02-20 23:23:37
 slug: "pesquisa-que-aprovacao-de-lula-influencia-preferencia-eleitoral-em-sp"
 wp_id: 3348
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

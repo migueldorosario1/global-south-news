@@ -7,6 +7,7 @@ slug: "projeto-de-deputado-bolsonarista-para-extinguir-uerj-sera-votado-na-alerj
 wp_id: 1288
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

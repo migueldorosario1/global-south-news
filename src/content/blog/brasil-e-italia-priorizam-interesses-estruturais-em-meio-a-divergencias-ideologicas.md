@@ -7,6 +7,7 @@ slug: "brasil-e-italia-priorizam-interesses-estruturais-em-meio-a-divergencias-i
 wp_id: 6025
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

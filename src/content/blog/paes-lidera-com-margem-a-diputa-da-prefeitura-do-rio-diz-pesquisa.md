@@ -7,6 +7,7 @@ slug: "paes-lidera-com-margem-a-diputa-da-prefeitura-do-rio-diz-pesquisa"
 wp_id: 2225
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

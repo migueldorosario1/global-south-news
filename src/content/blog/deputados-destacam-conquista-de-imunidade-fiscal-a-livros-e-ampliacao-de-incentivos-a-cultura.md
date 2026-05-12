@@ -5,6 +5,8 @@ title: 'Deputados destacam conquista de imunidade fiscal a livros e ampliação 
 pubDate: 2023-07-09 10:05:23
 slug: "deputados-destacam-conquista-de-imunidade-fiscal-a-livros-e-ampliacao-de-incentivos-a-cultura"
 wp_id: 719
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":4} -->

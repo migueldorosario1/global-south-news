@@ -5,6 +5,8 @@ title: 'Vídeo comprova que Bolsonaro pediu golpe antes das eleições de 2022'
 pubDate: 2024-02-09 11:29:54
 slug: "video-comprova-que-bolsonaro-pediu-golpe-antes-das-eleicoes-de-2022"
 wp_id: 3107
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

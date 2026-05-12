@@ -7,6 +7,7 @@ slug: "eleicao-em-volta-redonda-no-ano-que-vem-ainda-esta-cercada-de-duvidas"
 wp_id: 738
 tags:
   - 'volta-redonda'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

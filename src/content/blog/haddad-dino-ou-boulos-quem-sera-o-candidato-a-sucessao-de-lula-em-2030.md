@@ -5,6 +5,8 @@ title: 'Haddad, Dino ou Boulos quem será o candidato à sucessão de Lula em 20
 pubDate: 2025-10-21 20:21:38
 slug: "haddad-dino-ou-boulos-quem-sera-o-candidato-a-sucessao-de-lula-em-2030"
 wp_id: 7238
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

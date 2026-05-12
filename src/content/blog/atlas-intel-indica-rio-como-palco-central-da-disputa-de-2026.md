@@ -10,6 +10,7 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'baixada'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

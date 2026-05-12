@@ -7,6 +7,7 @@ slug: "disputas-politicas-em-campos-dos-goytacazes-agravam-crise-orcamentaria"
 wp_id: 2406
 tags:
   - 'campos'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

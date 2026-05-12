@@ -5,6 +5,8 @@ title: 'STF forma maioria para condenar Roberto Jefferson'
 pubDate: 2024-12-13 13:03:39
 slug: "stf-forma-maioria-para-condenar-roberto-jefferson"
 wp_id: 6165
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

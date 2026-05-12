@@ -7,6 +7,7 @@ slug: "forca-municipal-de-seguranca-o-perigo-da-milicializacao-diante-dos-riscos
 wp_id: 6594
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":4} -->

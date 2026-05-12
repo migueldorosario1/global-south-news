@@ -7,6 +7,7 @@ slug: "rubens-bomtempo-se-filia-ao-pt-e-anuncia-candidatura-a-deputado-federal"
 wp_id: 7654
 tags:
   - 'petropolis'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

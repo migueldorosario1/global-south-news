@@ -5,6 +5,8 @@ title: 'Nova pesquisa aponta empate entre Boulos e Nunes em SP'
 pubDate: 2024-07-02 07:45:18
 slug: "nova-pesquisa-aponta-empate-entre-boulos-e-nunes-em-sp"
 wp_id: 4740
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

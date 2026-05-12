@@ -8,6 +8,7 @@ wp_id: 2480
 tags:
   - 'campos'
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

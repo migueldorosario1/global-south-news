@@ -7,6 +7,7 @@ slug: "dani-balbi-internacao-compulsoria-e-guinada-bolsonarista-de-eduardo-paes"
 wp_id: 1996
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

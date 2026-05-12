@@ -5,6 +5,8 @@ title: 'Conselho de Ética da Câmara prova investigação contra Deputado Glaub
 pubDate: 2024-09-11 18:58:28
 slug: "conselho-de-etica-da-camara-prova-investigacao-contra-deputado-glauber-braga-por-quebra-de-decoro"
 wp_id: 5177
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

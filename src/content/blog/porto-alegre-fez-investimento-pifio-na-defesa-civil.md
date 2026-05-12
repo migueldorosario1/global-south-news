@@ -5,6 +5,8 @@ title: 'Porto Alegre fez investimento pífio na Defesa Civil'
 pubDate: 2024-05-20 09:19:02
 slug: "porto-alegre-fez-investimento-pifio-na-defesa-civil"
 wp_id: 4474
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

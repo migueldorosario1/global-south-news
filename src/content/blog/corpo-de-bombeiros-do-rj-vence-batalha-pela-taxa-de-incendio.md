@@ -7,6 +7,7 @@ slug: "corpo-de-bombeiros-do-rj-vence-batalha-pela-taxa-de-incendio"
 wp_id: 6682
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

@@ -5,6 +5,8 @@ title: 'Solitário e esquecido, Ciro Gomes agride diplomacia do governo Lula'
 pubDate: 2024-03-03 09:03:21
 slug: "solitario-e-esquecido-ciro-gomes-agride-diplomacia-do-governo-lula"
 wp_id: 3622
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

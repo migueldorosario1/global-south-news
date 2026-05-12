@@ -5,6 +5,8 @@ title: 'Tarcísio de Freitas intensifica apoio a Ricardo Nunes em São Paulo no 
 pubDate: 2024-10-20 08:58:40
 slug: "tarcisio-de-freitas-intensifica-apoio-a-ricardo-nunes-em-sao-paulo-no-segundo-turno"
 wp_id: 5811
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

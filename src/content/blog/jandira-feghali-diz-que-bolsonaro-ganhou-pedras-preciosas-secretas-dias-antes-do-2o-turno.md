@@ -5,6 +5,8 @@ title: 'Jandira Feghali diz que Bolsonaro ganhou pedras preciosas secretas dias 
 pubDate: 2023-08-02 11:52:28
 slug: "jandira-feghali-diz-que-bolsonaro-ganhou-pedras-preciosas-secretas-dias-antes-do-2o-turno"
 wp_id: 1003
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

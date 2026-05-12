@@ -7,6 +7,7 @@ slug: "eduardo-paes-defende-lula-acusa-castro-de-empurrar-culpas-e-cobra-transpa
 wp_id: 7479
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

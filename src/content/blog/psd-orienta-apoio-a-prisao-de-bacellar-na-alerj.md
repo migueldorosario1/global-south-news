@@ -7,6 +7,7 @@ slug: "psd-orienta-apoio-a-prisao-de-bacellar-na-alerj"
 wp_id: 7546
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

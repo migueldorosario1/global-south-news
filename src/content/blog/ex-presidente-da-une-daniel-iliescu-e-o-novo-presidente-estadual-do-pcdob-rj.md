@@ -7,6 +7,7 @@ slug: "ex-presidente-da-une-daniel-iliescu-e-o-novo-presidente-estadual-do-pcdob
 wp_id: 2074
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

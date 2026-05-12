@@ -7,6 +7,7 @@ slug: "pt-escolhe-veronica-lima-como-nova-lider-da-bancada-da-alerj"
 wp_id: 4173
 tags:
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

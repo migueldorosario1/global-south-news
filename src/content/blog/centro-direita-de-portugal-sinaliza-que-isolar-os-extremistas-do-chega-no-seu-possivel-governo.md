@@ -5,6 +5,8 @@ title: 'Centro-direita de Portugal sinaliza que vai isolar os extremistas do Che
 pubDate: 2024-03-11 08:54:13
 slug: "centro-direita-de-portugal-sinaliza-que-isolar-os-extremistas-do-chega-no-seu-possivel-governo"
 wp_id: 3695
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

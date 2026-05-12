@@ -7,6 +7,7 @@ slug: "mais-de-30-milhoes-de-eleitores-votam-no-segundo-turno-das-eleicoes-munic
 wp_id: 5874
 tags:
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "paes-expande-sua-base-para-se-reeleger-no-rio"
 wp_id: 4187
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

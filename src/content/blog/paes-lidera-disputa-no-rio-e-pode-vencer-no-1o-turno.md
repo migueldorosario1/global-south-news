@@ -7,6 +7,7 @@ slug: "paes-lidera-disputa-no-rio-e-pode-vencer-no-1o-turno"
 wp_id: 4361
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

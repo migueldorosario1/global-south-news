@@ -5,6 +5,8 @@ title: 'Flopou? Saiba quantos bolsonaristas foram ao ato na Paulista'
 pubDate: 2024-02-25 21:09:31
 slug: "flopou-saiba-quantos-bolsonaristas-foram-ao-ato-paulista"
 wp_id: 3476
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

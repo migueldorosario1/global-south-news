@@ -7,6 +7,7 @@ slug: "debate-eleitoral-no-rio-se-destaca-com-massacre-de-paes-em-ramagem"
 wp_id: 4810
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

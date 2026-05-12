@@ -7,6 +7,7 @@ slug: "glauber-braga-lanca-pre-candidatura-a-prefeitura-do-rio"
 wp_id: 994
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

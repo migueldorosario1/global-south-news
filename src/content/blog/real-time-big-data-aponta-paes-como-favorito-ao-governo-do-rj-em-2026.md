@@ -5,6 +5,8 @@ title: 'Real Time Big Data aponta Paes como favorito ao governo do RJ em 2026'
 pubDate: 2025-12-06 19:49:53
 slug: "real-time-big-data-aponta-paes-como-favorito-ao-governo-do-rj-em-2026"
 wp_id: 7543
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

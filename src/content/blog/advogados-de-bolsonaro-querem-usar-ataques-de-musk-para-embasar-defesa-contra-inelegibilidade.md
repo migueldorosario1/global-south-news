@@ -5,6 +5,8 @@ title: 'Advogados de Bolsonaro querem usar ataques de Musk para embasar defesa c
 pubDate: 2024-04-10 10:08:23
 slug: "advogados-de-bolsonaro-querem-usar-ataques-de-musk-para-embasar-defesa-contra-inelegibilidade"
 wp_id: 4142
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

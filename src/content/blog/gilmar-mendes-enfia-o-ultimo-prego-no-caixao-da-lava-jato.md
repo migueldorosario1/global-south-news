@@ -5,6 +5,8 @@ title: 'Gilmar Mendes enfia o último prego no caixão da Lava Jato'
 pubDate: 2024-02-21 20:03:22
 slug: "gilmar-mendes-enfia-o-ultimo-prego-no-caixao-da-lava-jato"
 wp_id: 3372
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

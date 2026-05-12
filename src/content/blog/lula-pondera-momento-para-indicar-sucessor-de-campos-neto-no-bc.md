@@ -5,6 +5,8 @@ title: 'Lula pondera momento para indicar sucessor de Campos Neto no BC'
 pubDate: 2024-04-24 08:58:51
 slug: "lula-pondera-momento-para-indicar-sucessor-de-campos-neto-no-bc"
 wp_id: 4287
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

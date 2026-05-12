@@ -5,6 +5,8 @@ title: 'Disputa pela executiva nacional do União Brasil tem violência e ameaç
 pubDate: 2024-02-28 09:35:20
 slug: "disputa-pela-executiva-nacional-do-uniao-brasil-tem-violencia-e-ameacas-de-morte"
 wp_id: 3539
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

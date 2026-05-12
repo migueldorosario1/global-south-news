@@ -5,6 +5,8 @@ title: 'Bolsonaro vai mergulhar de vez na campanha de Nunes após trocar farpas 
 pubDate: 2024-09-13 12:57:39
 slug: "bolsonaro-vai-mergulhar-de-vez-na-campanha-de-nunes-apos-trocar-farpas-com-marcal"
 wp_id: 5218
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

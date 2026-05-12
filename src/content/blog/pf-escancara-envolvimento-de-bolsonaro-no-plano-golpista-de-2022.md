@@ -5,6 +5,8 @@ title: 'PF escancara envolvimento de Bolsonaro no plano golpista de 2022'
 pubDate: 2024-11-26 18:11:42
 slug: "pf-escancara-envolvimento-de-bolsonaro-no-plano-golpista-de-2022"
 wp_id: 6050
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Guilherme Boulos ganha terreno entre jovens eleitores em São Paulo, mos
 pubDate: 2024-10-24 20:05:17
 slug: "guilherme-boulos-ganha-terreno-entre-jovens-eleitores-em-sao-paulo-mostra-datafolha"
 wp_id: 5847
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

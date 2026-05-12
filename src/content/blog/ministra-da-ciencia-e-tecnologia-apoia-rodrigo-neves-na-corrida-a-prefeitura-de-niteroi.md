@@ -7,6 +7,7 @@ slug: "ministra-da-ciencia-e-tecnologia-apoia-rodrigo-neves-na-corrida-a-prefeit
 wp_id: 5170
 tags:
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

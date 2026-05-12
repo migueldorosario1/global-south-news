@@ -7,6 +7,7 @@ slug: "pf-prende-ex-bombeiro-suspeito-de-envolvimento-na-morte-de-marielle-franc
 wp_id: 881
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

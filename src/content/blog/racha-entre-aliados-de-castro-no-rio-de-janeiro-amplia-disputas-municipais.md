@@ -9,6 +9,7 @@ tags:
   - 'campos'
   - 'baixada'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "marcelo-freixo-planeja-candidatura-ao-senado-pelo-pt-em-2026-diz-portal"
 wp_id: 2294
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

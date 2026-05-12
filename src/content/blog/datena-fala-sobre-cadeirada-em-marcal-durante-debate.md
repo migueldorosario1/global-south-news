@@ -5,6 +5,8 @@ title: 'Datena fala sobre cadeirada em Marçal durante debate'
 pubDate: 2024-09-16 10:32:15
 slug: "datena-fala-sobre-cadeirada-em-marcal-durante-debate"
 wp_id: 5241
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

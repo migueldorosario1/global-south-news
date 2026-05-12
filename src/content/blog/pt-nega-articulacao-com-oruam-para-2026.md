@@ -7,6 +7,7 @@ slug: "pt-nega-articulacao-com-oruam-para-2026"
 wp_id: 7462
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

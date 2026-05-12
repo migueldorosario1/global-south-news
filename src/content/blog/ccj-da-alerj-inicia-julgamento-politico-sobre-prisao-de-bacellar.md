@@ -7,6 +7,7 @@ slug: "ccj-da-alerj-inicia-julgamento-politico-sobre-prisao-de-bacellar"
 wp_id: 7549
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

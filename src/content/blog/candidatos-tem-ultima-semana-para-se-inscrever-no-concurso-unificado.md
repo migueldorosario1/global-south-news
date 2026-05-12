@@ -5,6 +5,8 @@ title: 'Candidatos têm última semana para se inscrever no concurso unificado'
 pubDate: 2024-02-06 05:12:00
 slug: "candidatos-tem-ultima-semana-para-se-inscrever-no-concurso-unificado"
 wp_id: 2977
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

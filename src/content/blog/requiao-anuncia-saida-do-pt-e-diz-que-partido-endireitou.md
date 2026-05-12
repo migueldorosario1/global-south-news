@@ -5,6 +5,8 @@ title: 'Requião anuncia saída do PT e diz que partido endireitou'
 pubDate: 2024-03-28 09:26:18
 slug: "requiao-anuncia-saida-do-pt-e-diz-que-partido-endireitou"
 wp_id: 3979
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

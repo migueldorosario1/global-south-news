@@ -5,6 +5,8 @@ title: 'Parlamentares bolsonaristas planejam viagem aos EUA para questionar a√ß√
 pubDate: 2024-09-24 18:55:11
 slug: "parlamentares-bolsonaristas-planejam-viagem-aos-eua-para-questionar-acoes-de-ministro-do-stf"
 wp_id: 5431
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

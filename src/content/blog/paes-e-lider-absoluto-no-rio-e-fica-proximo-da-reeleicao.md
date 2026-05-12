@@ -7,6 +7,7 @@ slug: "paes-e-lider-absoluto-no-rio-e-fica-proximo-da-reeleicao"
 wp_id: 2933
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

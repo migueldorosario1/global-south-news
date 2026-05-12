@@ -7,6 +7,7 @@ slug: "mpe-impugna-candidatura-de-garotinho-no-rio"
 wp_id: 4916
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

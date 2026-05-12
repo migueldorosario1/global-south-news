@@ -7,6 +7,7 @@ slug: "intelectuais-se-reunem-para-declarar-apoio-para-rafaela-albergaria-neste-
 wp_id: 4510
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "cultura-de-niteroi-na-frente-nacional"
 wp_id: 813
 tags:
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

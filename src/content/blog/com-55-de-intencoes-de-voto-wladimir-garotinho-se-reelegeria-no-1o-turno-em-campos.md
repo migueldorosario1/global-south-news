@@ -7,6 +7,7 @@ slug: "com-55-de-intencoes-de-voto-wladimir-garotinho-se-reelegeria-no-1o-turno-
 wp_id: 1200
 tags:
   - 'campos'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

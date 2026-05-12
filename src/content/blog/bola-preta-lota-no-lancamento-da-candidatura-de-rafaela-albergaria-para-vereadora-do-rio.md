@@ -7,6 +7,7 @@ slug: "bola-preta-lota-no-lancamento-da-candidatura-de-rafaela-albergaria-para-v
 wp_id: 4967
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

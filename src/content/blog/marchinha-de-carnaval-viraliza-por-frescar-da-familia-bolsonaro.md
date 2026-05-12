@@ -5,6 +5,8 @@ title: 'Marchinha de carnaval viraliza por frescar da família Bolsonaro'
 pubDate: 2024-02-12 11:17:41
 slug: "marchinha-de-carnaval-viraliza-por-frescar-da-familia-bolsonaro"
 wp_id: 3172
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

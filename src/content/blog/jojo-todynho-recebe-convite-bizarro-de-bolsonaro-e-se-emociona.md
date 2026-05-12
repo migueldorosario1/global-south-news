@@ -7,6 +7,7 @@ slug: "jojo-todynho-recebe-convite-bizarro-de-bolsonaro-e-se-emociona"
 wp_id: 3599
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

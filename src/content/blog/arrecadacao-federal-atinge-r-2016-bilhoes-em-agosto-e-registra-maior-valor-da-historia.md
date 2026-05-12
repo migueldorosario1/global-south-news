@@ -5,6 +5,8 @@ title: 'Arrecadação federal atinge R$ 201,6 bilhões em agosto e registra maio
 pubDate: 2024-09-19 19:32:20
 slug: "arrecadacao-federal-atinge-r-2016-bilhoes-em-agosto-e-registra-maior-valor-da-historia"
 wp_id: 5343
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "investigacoes-da-pf-avancam-sobre-financiadores-e-mentores-dos-atos-golpi
 wp_id: 3201
 tags:
   - 'campos'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

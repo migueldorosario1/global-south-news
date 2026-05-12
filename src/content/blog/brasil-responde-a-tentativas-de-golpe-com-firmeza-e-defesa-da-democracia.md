@@ -5,6 +5,8 @@ title: 'Brasil responde a tentativas de golpe com firmeza e defesa da democracia
 pubDate: 2024-12-21 10:47:44
 slug: "brasil-responde-a-tentativas-de-golpe-com-firmeza-e-defesa-da-democracia"
 wp_id: 6279
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

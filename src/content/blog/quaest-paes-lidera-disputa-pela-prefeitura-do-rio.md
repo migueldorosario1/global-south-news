@@ -7,6 +7,7 @@ slug: "quaest-paes-lidera-disputa-pela-prefeitura-do-rio"
 wp_id: 5298
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

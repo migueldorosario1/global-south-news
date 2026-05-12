@@ -7,6 +7,7 @@ slug: "jandira-feghali-e-rafaela-albergaria-organizam-agenda-de-acoes-para-o-rio
 wp_id: 3839
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

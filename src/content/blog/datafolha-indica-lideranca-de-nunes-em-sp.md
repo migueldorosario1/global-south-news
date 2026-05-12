@@ -5,6 +5,8 @@ title: 'Datafolha indica liderança de Nunes em SP'
 pubDate: 2024-09-12 18:23:28
 slug: "datafolha-indica-lideranca-de-nunes-em-sp"
 wp_id: 5209
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

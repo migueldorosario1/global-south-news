@@ -5,6 +5,8 @@ title: 'Haddad retorna a Brasília para retomar articulação política após ag
 pubDate: 2024-06-10 09:35:19
 slug: "haddad-retorna-a-brasilia-para-retomar-articulacao-politica-apos-agenda-internacional"
 wp_id: 4606
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "freixo-e-lupi-discutem-chapa-para-eleicao-do-rio"
 wp_id: 923
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

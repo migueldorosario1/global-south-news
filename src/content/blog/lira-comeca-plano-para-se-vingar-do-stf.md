@@ -5,6 +5,8 @@ title: 'Lira começa plano para se vingar do STF'
 pubDate: 2024-04-17 09:01:09
 slug: "lira-comeca-plano-para-se-vingar-do-stf"
 wp_id: 4219
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Presidente do Irã e ministro das Relações Exteriores morreram em Acid
 pubDate: 2024-05-20 09:08:44
 slug: "presidente-do-ira-e-ministro-das-relacoes-exteriores-morreram-em-acidente-de-helicoptero"
 wp_id: 4468
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

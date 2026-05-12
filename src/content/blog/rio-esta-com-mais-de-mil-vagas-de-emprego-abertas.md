@@ -8,6 +8,7 @@ wp_id: 6849
 tags:
   - 'niteroi'
   - 'baixada'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

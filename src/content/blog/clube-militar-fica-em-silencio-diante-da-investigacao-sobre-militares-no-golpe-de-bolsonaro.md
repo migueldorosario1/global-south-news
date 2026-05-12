@@ -5,6 +5,8 @@ title: 'Clube Militar fica em silêncio diante da investigação sobre militares
 pubDate: 2024-02-15 08:27:05
 slug: "clube-militar-fica-em-silencio-diante-da-investigacao-sobre-militares-no-golpe-de-bolsonaro"
 wp_id: 3224
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

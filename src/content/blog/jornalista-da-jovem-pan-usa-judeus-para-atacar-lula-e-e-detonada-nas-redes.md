@@ -5,6 +5,8 @@ title: 'Jornalista da Jovem Pan usa judeus para atacar Lula e é detonada nas re
 pubDate: 2024-02-17 12:15:13
 slug: "jornalista-da-jovem-pan-usa-judeus-para-atacar-lula-e-e-detonada-nas-redes"
 wp_id: 3287
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

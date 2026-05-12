@@ -5,6 +5,8 @@ title: 'Senado aprova indicação de Flávio Dino para o STF e Paulo Gonet para 
 pubDate: 2023-12-14 06:30:00
 slug: "senado-aprova-indicacao-de-flavio-dino-para-o-stf-e-paulo-gonet-para-a-pgr"
 wp_id: 2154
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

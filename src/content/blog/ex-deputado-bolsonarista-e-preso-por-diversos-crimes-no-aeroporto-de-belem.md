@@ -5,6 +5,8 @@ title: 'Ex-deputado bolsonarista é preso por diversos crimes no aeroporto de Be
 pubDate: 2024-04-18 09:34:10
 slug: "ex-deputado-bolsonarista-e-preso-por-diversos-crimes-no-aeroporto-de-belem"
 wp_id: 4241
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

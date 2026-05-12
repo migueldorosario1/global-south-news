@@ -5,6 +5,8 @@ title: 'Lira e Pacheco discutem projeto para garantir transparência no repasse 
 pubDate: 2024-10-21 15:16:53
 slug: "lira-e-pacheco-discutem-projeto-para-garantir-transparencia-no-repasse-de-emendas-parlamentares"
 wp_id: 5832
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

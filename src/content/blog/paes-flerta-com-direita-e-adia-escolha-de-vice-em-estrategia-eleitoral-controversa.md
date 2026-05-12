@@ -7,6 +7,7 @@ slug: "paes-flerta-com-direita-e-adia-escolha-de-vice-em-estrategia-eleitoral-co
 wp_id: 2222
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

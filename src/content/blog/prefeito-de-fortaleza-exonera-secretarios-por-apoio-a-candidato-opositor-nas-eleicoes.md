@@ -5,6 +5,8 @@ title: 'Prefeito de Fortaleza exonera secretários por apoio a candidato oposito
 pubDate: 2024-10-20 08:46:47
 slug: "prefeito-de-fortaleza-exonera-secretarios-por-apoio-a-candidato-opositor-nas-eleicoes"
 wp_id: 5808
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

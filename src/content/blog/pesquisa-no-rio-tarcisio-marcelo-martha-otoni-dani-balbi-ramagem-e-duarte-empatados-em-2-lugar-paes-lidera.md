@@ -7,6 +7,7 @@ slug: "pesquisa-no-rio-tarcisio-marcelo-martha-otoni-dani-balbi-ramagem-e-duarte
 wp_id: 2022
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

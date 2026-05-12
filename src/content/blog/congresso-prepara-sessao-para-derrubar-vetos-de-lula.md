@@ -5,6 +5,8 @@ title: 'Congresso prepara sessão para derrubar vetos de Lula'
 pubDate: 2024-04-16 09:26:33
 slug: "congresso-prepara-sessao-para-derrubar-vetos-de-lula"
 wp_id: 4206
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

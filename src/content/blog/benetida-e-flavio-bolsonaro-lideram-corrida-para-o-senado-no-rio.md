@@ -7,6 +7,7 @@ slug: "benetida-e-flavio-bolsonaro-lideram-corrida-para-o-senado-no-rio"
 wp_id: 7280
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

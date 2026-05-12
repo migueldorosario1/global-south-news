@@ -5,6 +5,8 @@ title: 'Lula lidera o páreo de 2026 em plena pesquisa encomendada pelo PL'
 pubDate: 2024-02-05 08:58:35
 slug: "lula-lidera-o-pareo-de-2026-em-plena-pesquisa-encomendada-pelo-pl"
 wp_id: 2963
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

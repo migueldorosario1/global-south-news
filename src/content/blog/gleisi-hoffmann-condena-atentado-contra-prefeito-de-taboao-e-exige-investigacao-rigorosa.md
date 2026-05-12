@@ -5,6 +5,8 @@ title: 'Gleisi Hoffmann condena atentado contra Prefeito de Taboão e exige inve
 pubDate: 2024-10-19 16:11:20
 slug: "gleisi-hoffmann-condena-atentado-contra-prefeito-de-taboao-e-exige-investigacao-rigorosa"
 wp_id: 5804
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

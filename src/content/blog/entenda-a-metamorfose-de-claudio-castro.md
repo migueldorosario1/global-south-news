@@ -7,6 +7,7 @@ slug: "entenda-a-metamorfose-de-claudio-castro"
 wp_id: 7291
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

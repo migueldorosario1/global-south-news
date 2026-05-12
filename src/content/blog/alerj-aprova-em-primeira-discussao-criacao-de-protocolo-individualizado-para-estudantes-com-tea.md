@@ -7,6 +7,7 @@ slug: "alerj-aprova-em-primeira-discussao-criacao-de-protocolo-individualizado-p
 wp_id: 7066
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

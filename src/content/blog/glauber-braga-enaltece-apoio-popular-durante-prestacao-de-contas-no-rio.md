@@ -7,6 +7,7 @@ slug: "glauber-braga-enaltece-apoio-popular-durante-prestacao-de-contas-no-rio"
 wp_id: 5261
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

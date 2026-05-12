@@ -5,6 +5,8 @@ title: 'STF adia decisão sobre posse de maconha; Saiba quando será retomado'
 pubDate: 2024-03-12 09:32:37
 slug: "stf-adia-decisao-sobre-posse-de-maconha-saiba-quando-sera-retomado"
 wp_id: 3722
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

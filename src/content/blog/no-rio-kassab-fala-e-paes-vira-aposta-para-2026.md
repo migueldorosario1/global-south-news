@@ -5,6 +5,8 @@ title: 'No Rio, Kassab fala e Paes vira aposta para 2026'
 pubDate: 2025-04-08 10:24:24
 slug: "no-rio-kassab-fala-e-paes-vira-aposta-para-2026"
 wp_id: 6780
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

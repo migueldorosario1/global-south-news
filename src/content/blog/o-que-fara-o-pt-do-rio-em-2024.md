@@ -7,6 +7,7 @@ slug: "o-que-fara-o-pt-do-rio-em-2024"
 wp_id: 771
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

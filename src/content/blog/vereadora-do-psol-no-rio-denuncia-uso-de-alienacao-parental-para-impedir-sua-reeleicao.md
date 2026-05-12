@@ -7,6 +7,7 @@ slug: "vereadora-do-psol-no-rio-denuncia-uso-de-alienacao-parental-para-impedir-
 wp_id: 5595
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

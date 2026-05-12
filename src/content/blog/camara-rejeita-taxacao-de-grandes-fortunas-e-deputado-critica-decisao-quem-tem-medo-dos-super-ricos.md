@@ -5,6 +5,8 @@ title: 'Câmara rejeita taxação de grandes fortunas e deputado critica decisã
 pubDate: 2024-10-30 20:30:05
 slug: "camara-rejeita-taxacao-de-grandes-fortunas-e-deputado-critica-decisao-quem-tem-medo-dos-super-ricos"
 wp_id: 5922
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

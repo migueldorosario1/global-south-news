@@ -5,6 +5,8 @@ title: 'PF prende Filipe Martins, ex-assessor de Bolsonaro'
 pubDate: 2024-02-08 10:04:25
 slug: "pf-prende-filipe-martins-ex-assessor-de-bolsonarp"
 wp_id: 3083
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

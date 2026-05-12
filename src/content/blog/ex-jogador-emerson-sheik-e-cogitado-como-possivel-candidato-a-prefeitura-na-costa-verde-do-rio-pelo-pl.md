@@ -9,6 +9,7 @@ tags:
   - 'paraty'
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

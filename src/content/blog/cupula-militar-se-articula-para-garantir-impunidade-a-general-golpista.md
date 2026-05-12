@@ -5,6 +5,8 @@ title: 'Cúpula militar se articula para garantir impunidade a general golpista'
 pubDate: 2024-02-28 15:55:26
 slug: "cupula-militar-se-articula-para-garantir-impunidade-a-general-golpista"
 wp_id: 3563
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

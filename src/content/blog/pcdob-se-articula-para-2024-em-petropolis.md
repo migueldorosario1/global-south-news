@@ -7,6 +7,7 @@ slug: "pcdob-se-articula-para-2024-em-petropolis"
 wp_id: 1593
 tags:
   - 'petropolis'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

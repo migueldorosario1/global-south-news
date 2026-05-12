@@ -7,6 +7,7 @@ slug: "pt-mira-2026-fabiano-horta-e-a-aposta-no-rio"
 wp_id: 2506
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

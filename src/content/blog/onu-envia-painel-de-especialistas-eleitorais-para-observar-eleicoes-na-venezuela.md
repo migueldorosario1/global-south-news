@@ -5,6 +5,8 @@ title: 'ONU envia painel de especialistas eleitorais para observar eleições na
 pubDate: 2024-06-26 06:50:11
 slug: "onu-envia-painel-de-especialistas-eleitorais-para-observar-eleicoes-na-venezuela"
 wp_id: 4697
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "uniao-brasil-no-rio-sob-nova-direcao"
 wp_id: 677
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

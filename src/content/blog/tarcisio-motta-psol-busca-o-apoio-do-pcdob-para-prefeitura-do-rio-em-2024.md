@@ -5,6 +5,8 @@ title: 'Tarcísio Motta (PSOL) busca o apoio do PCdoB para prefeitura do Rio em 
 pubDate: 2023-09-22 09:29:01
 slug: "tarcisio-motta-psol-busca-o-apoio-do-pcdob-para-prefeitura-do-rio-em-2024"
 wp_id: 1393
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "municipio-do-rio-divulga-885-vagas-de-trabalho-nesta-segunda-feira-10"
 wp_id: 735
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

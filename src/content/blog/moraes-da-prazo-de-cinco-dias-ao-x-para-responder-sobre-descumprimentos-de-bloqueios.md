@@ -5,6 +5,8 @@ title: 'Moraes dá prazo de cinco dias ao X para responder sobre descumprimentos
 pubDate: 2024-04-23 09:32:08
 slug: "moraes-da-prazo-de-cinco-dias-ao-x-para-responder-sobre-descumprimentos-de-bloqueios"
 wp_id: 4279
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

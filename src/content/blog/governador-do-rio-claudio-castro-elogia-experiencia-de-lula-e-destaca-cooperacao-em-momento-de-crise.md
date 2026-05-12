@@ -7,6 +7,7 @@ slug: "governador-do-rio-claudio-castro-elogia-experiencia-de-lula-e-destaca-coo
 wp_id: 2447
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

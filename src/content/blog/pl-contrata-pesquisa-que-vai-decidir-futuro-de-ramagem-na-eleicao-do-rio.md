@@ -7,6 +7,7 @@ slug: "pl-contrata-pesquisa-que-vai-decidir-futuro-de-ramagem-na-eleicao-do-rio"
 wp_id: 4776
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

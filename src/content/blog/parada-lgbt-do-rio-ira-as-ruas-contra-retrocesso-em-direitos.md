@@ -5,6 +5,8 @@ title: 'Parada LGBT do Rio irá às ruas contra retrocesso em direitos'
 pubDate: 2023-10-19 10:08:58
 slug: "parada-lgbt-do-rio-ira-as-ruas-contra-retrocesso-em-direitos"
 wp_id: 1626
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

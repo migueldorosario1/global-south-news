@@ -7,6 +7,7 @@ slug: "partidos-apostam-em-fortes-largadas-para-apresentar-seus-candidatos-prior
 wp_id: 4909
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Ex-diretora de Inteligência do Ministério da Justiça é intimada para
 pubDate: 2024-10-09 13:10:02
 slug: "ex-diretora-de-inteligencia-do-ministerio-da-justica-e-intimada-para-depoimento-sobre-bloqueios-nas-eleicoes-de-2022"
 wp_id: 5663
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

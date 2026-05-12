@@ -5,6 +5,8 @@ title: 'Justiça Eleitoral suspende direito de resposta de Boulos contra Marçal
 pubDate: 2024-08-22 10:41:21
 slug: "justica-eleitoral-suspende-direito-de-resposta-de-boulos-contra-marcal"
 wp_id: 4925
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

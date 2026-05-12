@@ -7,6 +7,7 @@ slug: "candidata-a-vereadora-no-rio-assina-compromisso-com-o-grupo-arco-iris-e-a
 wp_id: 5017
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

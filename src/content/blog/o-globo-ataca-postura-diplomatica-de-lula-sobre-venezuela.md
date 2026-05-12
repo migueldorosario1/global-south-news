@@ -5,6 +5,8 @@ title: 'O Globo ataca postura diplomática de Lula sobre Venezuela'
 pubDate: 2024-03-08 09:55:50
 slug: "o-globo-ataca-postura-diplomatica-de-lula-sobre-venezuela"
 wp_id: 3679
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

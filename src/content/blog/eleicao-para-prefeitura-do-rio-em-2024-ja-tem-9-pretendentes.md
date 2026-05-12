@@ -7,6 +7,7 @@ slug: "eleicao-para-prefeitura-do-rio-em-2024-ja-tem-9-pretendentes"
 wp_id: 918
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

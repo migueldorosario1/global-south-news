@@ -5,6 +5,8 @@ title: 'Senado aprova taxação de 20% sobre compras internacionais de até US$ 
 pubDate: 2024-06-06 10:13:01
 slug: "senado-aprova-taxacao-de-20-sobre-compras-internacionais-de-ate-us-50"
 wp_id: 4595
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

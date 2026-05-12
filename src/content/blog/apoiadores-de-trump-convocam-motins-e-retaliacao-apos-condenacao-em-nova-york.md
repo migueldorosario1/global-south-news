@@ -5,6 +5,8 @@ title: 'Apoiadores de Trump convocam motins e retaliação após condenação em
 pubDate: 2024-05-31 08:50:55
 slug: "apoiadores-de-trump-convocam-motins-e-retaliacao-apos-condenacao-em-nova-york"
 wp_id: 4558
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

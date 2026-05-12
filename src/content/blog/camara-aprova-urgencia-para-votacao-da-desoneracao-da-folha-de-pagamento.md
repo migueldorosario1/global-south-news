@@ -5,6 +5,8 @@ title: 'Câmara aprova urgência para votação da desoneração da folha de pag
 pubDate: 2024-09-10 10:33:38
 slug: "camara-aprova-urgencia-para-votacao-da-desoneracao-da-folha-de-pagamento"
 wp_id: 5134
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

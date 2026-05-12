@@ -7,6 +7,7 @@ slug: "quem-e-domingos-brazao-acusado-de-mandar-matar-marielle"
 wp_id: 2531
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

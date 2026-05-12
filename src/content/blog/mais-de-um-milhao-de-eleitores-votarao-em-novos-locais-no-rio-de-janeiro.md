@@ -7,6 +7,7 @@ slug: "mais-de-um-milhao-de-eleitores-votarao-em-novos-locais-no-rio-de-janeiro"
 wp_id: 4850
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

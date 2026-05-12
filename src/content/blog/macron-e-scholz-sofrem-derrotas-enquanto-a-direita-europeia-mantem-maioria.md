@@ -5,6 +5,8 @@ title: 'Macron e Scholz sofrem derrotas enquanto a direita europeia mantém maio
 pubDate: 2024-06-10 09:22:08
 slug: "macron-e-scholz-sofrem-derrotas-enquanto-a-direita-europeia-mantem-maioria"
 wp_id: 4600
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

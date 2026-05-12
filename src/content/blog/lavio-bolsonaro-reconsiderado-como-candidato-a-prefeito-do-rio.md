@@ -7,6 +7,7 @@ slug: "lavio-bolsonaro-reconsiderado-como-candidato-a-prefeito-do-rio"
 wp_id: 2568
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

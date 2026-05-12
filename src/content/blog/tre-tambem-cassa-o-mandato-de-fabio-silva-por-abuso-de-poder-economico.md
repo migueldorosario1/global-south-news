@@ -5,6 +5,8 @@ title: 'TRE também cassa o mandato de Fábio Silva por abuso de poder econômic
 pubDate: 2024-02-02 09:12:28
 slug: "tre-tambem-cassa-o-mandato-de-fabio-silva-por-abuso-de-poder-economico"
 wp_id: 2902
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

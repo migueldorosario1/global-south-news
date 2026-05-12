@@ -5,6 +5,8 @@ title: 'Governo Lula já se prepara para possível vitória de Trump nos EUA'
 pubDate: 2024-03-11 08:54:16
 slug: "governo-lula-ja-se-prepara-para-possivel-vitoria-de-trump-nos-eua"
 wp_id: 3696
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

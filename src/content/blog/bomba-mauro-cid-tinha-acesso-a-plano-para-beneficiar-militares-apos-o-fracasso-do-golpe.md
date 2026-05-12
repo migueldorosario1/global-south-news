@@ -5,6 +5,8 @@ title: 'Bomba! Mauro Cid tinha acesso a plano para beneficiar militares após o 
 pubDate: 2024-02-20 10:05:03
 slug: "bomba-mauro-cid-tinha-acesso-a-plano-para-beneficiar-militares-apos-o-fracasso-do-golpe"
 wp_id: 3337
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

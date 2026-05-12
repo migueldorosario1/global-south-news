@@ -5,6 +5,8 @@ title: 'Cármen Lúcia defende liberdade de escolha do eleitor'
 pubDate: 2024-10-04 14:03:45
 slug: "carmen-lucia-defende-liberdade-de-escolha-do-eleitor"
 wp_id: 5586
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

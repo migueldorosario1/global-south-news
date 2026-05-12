@@ -8,6 +8,7 @@ wp_id: 1302
 tags:
   - 'sao-goncalo'
   - 'petropolis'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

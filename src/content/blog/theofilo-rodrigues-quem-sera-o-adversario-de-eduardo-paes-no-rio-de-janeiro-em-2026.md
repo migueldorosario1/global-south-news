@@ -12,6 +12,7 @@ tags:
   - 'baixada'
   - 'campos'
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

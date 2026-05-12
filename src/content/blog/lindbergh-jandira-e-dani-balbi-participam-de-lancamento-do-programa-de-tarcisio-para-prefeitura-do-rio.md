@@ -7,6 +7,7 @@ slug: "lindbergh-jandira-e-dani-balbi-participam-de-lancamento-do-programa-de-ta
 wp_id: 1647
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

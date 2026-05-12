@@ -7,6 +7,7 @@ slug: "plano-diretor-no-rio-de-janeiro-novas-diretrizes-urbanisticas-aprovadas-p
 wp_id: 2129
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

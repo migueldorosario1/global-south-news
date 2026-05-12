@@ -7,6 +7,7 @@ slug: "quaest-mostra-lideranca-isolada-de-paes-na-disputa-pela-prefeitura-do-rio
 wp_id: 4688
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

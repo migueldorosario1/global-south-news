@@ -7,6 +7,7 @@ slug: "prefeito-eduardo-paes-busca-apoio-federal-contra-extorsao-da-milicia-no-r
 wp_id: 2356
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

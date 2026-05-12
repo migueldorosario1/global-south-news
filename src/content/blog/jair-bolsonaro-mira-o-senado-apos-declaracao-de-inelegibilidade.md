@@ -5,6 +5,8 @@ title: 'Jair Bolsonaro mira o senado após declaração de inelegibilidade'
 pubDate: 2024-09-23 20:16:58
 slug: "jair-bolsonaro-mira-o-senado-apos-declaracao-de-inelegibilidade"
 wp_id: 5384
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

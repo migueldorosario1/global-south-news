@@ -5,6 +5,8 @@ title: 'Chiquinho Brazão é exonerado da gestão Paes no Rio'
 pubDate: 2024-02-01 09:22:49
 slug: "chiquinho-brazao-e-exonerado-da-gestao-paes-no-rio"
 wp_id: 2830
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

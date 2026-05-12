@@ -5,6 +5,8 @@ title: 'Bomba! Grupos bolsonaristas se preparam para fazer terrorismo no ato da 
 pubDate: 2024-02-23 09:21:44
 slug: "bomba-grupos-bolsonaristas-se-preparam-para-fazer-terrorismo-no-ato-da-paulista"
 wp_id: 3408
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

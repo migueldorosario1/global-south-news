@@ -7,6 +7,7 @@ slug: "camara-de-niteroi-se-inclina-para-a-direita-com-avanco-do-pl-nas-eleicoes
 wp_id: 5707
 tags:
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

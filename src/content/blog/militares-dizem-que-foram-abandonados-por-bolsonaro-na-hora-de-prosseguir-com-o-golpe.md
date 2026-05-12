@@ -5,6 +5,8 @@ title: 'Militares dizem que foram abandonados por Bolsonaro na hora de prossegui
 pubDate: 2024-03-06 16:15:35
 slug: "militares-dizem-que-foram-abandonados-por-bolsonaro-na-hora-de-prosseguir-com-o-golpe"
 wp_id: 3666
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

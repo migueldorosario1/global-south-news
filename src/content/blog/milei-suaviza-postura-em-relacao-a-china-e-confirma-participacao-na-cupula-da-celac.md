@@ -5,6 +5,8 @@ title: 'Milei suaviza postura em relação à China e confirma participação na
 pubDate: 2024-09-30 14:45:12
 slug: "milei-suaviza-postura-em-relacao-a-china-e-confirma-participacao-na-cupula-da-celac"
 wp_id: 5533
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

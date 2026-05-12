@@ -7,6 +7,7 @@ slug: "a-cidade-dos-meus-sonhos-tem-dani-balbi-como-prefeita-diz-tarcisio-motta"
 wp_id: 4211
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

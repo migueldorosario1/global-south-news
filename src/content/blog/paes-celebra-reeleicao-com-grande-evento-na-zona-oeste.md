@@ -7,6 +7,7 @@ slug: "paes-celebra-reeleicao-com-grande-evento-na-zona-oeste"
 wp_id: 5604
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Núcleo de Bolsonaro teme não conseguir controlar os terroristas na Pau
 pubDate: 2024-02-25 10:31:48
 slug: "nucleo-de-bolsonaro-teme-nao-conseguir-controlar-os-terroristas-na-paulista"
 wp_id: 3457
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

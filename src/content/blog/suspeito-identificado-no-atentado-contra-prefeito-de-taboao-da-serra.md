@@ -5,6 +5,8 @@ title: 'Suspeito identificado no atentado contra Prefeito de Taboão da Serra'
 pubDate: 2024-10-19 15:39:31
 slug: "suspeito-identificado-no-atentado-contra-prefeito-de-taboao-da-serra"
 wp_id: 5791
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

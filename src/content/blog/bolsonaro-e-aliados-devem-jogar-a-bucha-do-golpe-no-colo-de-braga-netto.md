@@ -5,6 +5,8 @@ title: 'Bolsonaro e aliados devem jogar a bucha do golpe no colo de Braga Netto'
 pubDate: 2024-02-22 10:07:59
 slug: "bolsonaro-e-aliados-devem-jogar-a-bucha-do-golpe-no-colo-de-braga-netto"
 wp_id: 3394
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "quaqua-quer-fabiano-horta-como-vice-de-paes-na-disputa-pelo-governo-do-es
 wp_id: 6743
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

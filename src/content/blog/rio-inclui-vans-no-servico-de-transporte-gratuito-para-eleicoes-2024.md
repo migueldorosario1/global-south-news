@@ -7,6 +7,7 @@ slug: "rio-inclui-vans-no-servico-de-transporte-gratuito-para-eleicoes-2024"
 wp_id: 5527
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

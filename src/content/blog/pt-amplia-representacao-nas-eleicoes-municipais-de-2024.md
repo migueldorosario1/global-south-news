@@ -5,6 +5,8 @@ title: 'PT amplia representação nas eleições municipais de 2024'
 pubDate: 2024-10-08 19:34:19
 slug: "pt-amplia-representacao-nas-eleicoes-municipais-de-2024"
 wp_id: 5634
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

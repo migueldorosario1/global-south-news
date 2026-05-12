@@ -7,6 +7,7 @@ slug: "ministra-de-cti-luciana-santos-tem-encontro-com-rafaela-albergaria-no-rio
 wp_id: 3810
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

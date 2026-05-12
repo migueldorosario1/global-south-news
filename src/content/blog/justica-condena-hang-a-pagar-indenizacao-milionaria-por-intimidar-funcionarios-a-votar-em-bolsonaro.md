@@ -5,6 +5,8 @@ title: 'Justiça condena Hang a pagar indenização milionária por intimidar fu
 pubDate: 2024-01-31 12:53:09
 slug: "justica-condena-hang-a-pagar-indenizacao-milionaria-por-intimidar-funcionarios-a-votar-em-bolsonaro"
 wp_id: 2795
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

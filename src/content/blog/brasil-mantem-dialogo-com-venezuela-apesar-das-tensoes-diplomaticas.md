@@ -7,6 +7,7 @@ slug: "brasil-mantem-dialogo-com-venezuela-apesar-das-tensoes-diplomaticas"
 wp_id: 5125
 tags:
   - 'baixada'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

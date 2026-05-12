@@ -7,6 +7,7 @@ slug: "jordy-cresce-e-niteroi-pode-ter-segundo-turno-acirrado"
 wp_id: 5572
 tags:
   - 'niteroi'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

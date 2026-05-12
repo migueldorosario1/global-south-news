@@ -5,6 +5,8 @@ title: 'Marçal cai na Quaest após levar cadeirada de Datena'
 pubDate: 2024-09-18 10:25:16
 slug: "marcal-cai-na-quaest-apos-levar-cadeirada-de-datena"
 wp_id: 5300
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

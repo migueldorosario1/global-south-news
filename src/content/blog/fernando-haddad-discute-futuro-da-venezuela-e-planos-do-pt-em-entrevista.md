@@ -5,6 +5,8 @@ title: 'Fernando Haddad discute futuro da Venezuela e planos do PT em entrevista
 pubDate: 2024-09-23 19:40:54
 slug: "fernando-haddad-discute-futuro-da-venezuela-e-planos-do-pt-em-entrevista"
 wp_id: 5375
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

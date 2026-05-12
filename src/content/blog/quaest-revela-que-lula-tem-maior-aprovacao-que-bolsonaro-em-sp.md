@@ -5,6 +5,8 @@ title: 'Quaest revela que Lula tem maior aprovação que Bolsonaro em SP'
 pubDate: 2024-06-28 08:14:33
 slug: "quaest-revela-que-lula-tem-maior-aprovacao-que-bolsonaro-em-sp"
 wp_id: 4722
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

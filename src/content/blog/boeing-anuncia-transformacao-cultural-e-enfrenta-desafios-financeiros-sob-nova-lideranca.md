@@ -5,6 +5,8 @@ title: 'Boeing anuncia transformação cultural e enfrenta desafios financeiros 
 pubDate: 2024-10-24 21:09:52
 slug: "boeing-anuncia-transformacao-cultural-e-enfrenta-desafios-financeiros-sob-nova-lideranca"
 wp_id: 5865
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

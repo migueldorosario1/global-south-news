@@ -11,6 +11,7 @@ tags:
   - 'baixada'
   - 'niteroi'
   - 'petropolis'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

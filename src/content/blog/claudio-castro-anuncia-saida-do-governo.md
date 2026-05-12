@@ -10,6 +10,7 @@ tags:
   - 'rio-de-janeiro'
   - 'baixada'
   - 'nacional'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":4} -->

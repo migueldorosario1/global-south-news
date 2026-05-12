@@ -7,6 +7,7 @@ slug: "paes-surge-como-favorito-para-governador-com-372-dos-votos"
 wp_id: 6583
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":4} -->

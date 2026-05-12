@@ -5,6 +5,8 @@ title: 'Lula apoia suspensão do X no Brasil e critica Elon Musk por interferên
 pubDate: 2024-09-04 19:35:12
 slug: "lula-apoia-suspensao-do-x-no-brasil-e-critica-elon-musk-por-interferencias-politicas"
 wp_id: 5085
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

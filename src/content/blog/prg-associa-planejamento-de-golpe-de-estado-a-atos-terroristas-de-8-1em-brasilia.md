@@ -5,6 +5,8 @@ title: 'PRG associa planejamento de golpe de estado a atos terroristas de 8/1em 
 pubDate: 2024-10-17 20:03:59
 slug: "prg-associa-planejamento-de-golpe-de-estado-a-atos-terroristas-de-8-1em-brasilia"
 wp_id: 5731
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

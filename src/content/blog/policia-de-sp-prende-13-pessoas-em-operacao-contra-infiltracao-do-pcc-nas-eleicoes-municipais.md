@@ -5,6 +5,8 @@ title: 'Polícia de SP prende 13 pessoas em operação contra infiltração do P
 pubDate: 2024-08-07 12:27:57
 slug: "policia-de-sp-prende-13-pessoas-em-operacao-contra-infiltracao-do-pcc-nas-eleicoes-municipais"
 wp_id: 4801
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

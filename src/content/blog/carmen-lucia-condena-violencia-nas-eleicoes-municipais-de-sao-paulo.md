@@ -5,6 +5,8 @@ title: 'Cármen Lúcia, condena violência nas eleições municipais de São Pau
 pubDate: 2024-09-25 05:07:38
 slug: "carmen-lucia-condena-violencia-nas-eleicoes-municipais-de-sao-paulo"
 wp_id: 5462
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

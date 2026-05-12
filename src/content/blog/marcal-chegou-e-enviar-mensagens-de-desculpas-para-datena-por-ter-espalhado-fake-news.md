@@ -5,6 +5,8 @@ title: 'Marçal chegou e enviar mensagens de desculpas para Datena por ter espal
 pubDate: 2024-09-16 10:39:48
 slug: "marcal-chegou-e-enviar-mensagens-de-desculpas-para-datena-por-ter-espalhado-fake-news"
 wp_id: 5245
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

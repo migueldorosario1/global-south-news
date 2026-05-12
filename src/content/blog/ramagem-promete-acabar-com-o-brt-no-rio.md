@@ -7,6 +7,7 @@ slug: "ramagem-promete-acabar-com-o-brt-no-rio"
 wp_id: 4795
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

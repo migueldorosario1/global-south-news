@@ -5,6 +5,8 @@ title: 'Eduardo Bolsonaro não se segura e volta atacar as urnas eletrônicas'
 pubDate: 2024-02-26 09:51:15
 slug: "eduardo-bolsonaro-nao-se-segura-e-volta-atacar-as-urnas-eletronicas"
 wp_id: 3478
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

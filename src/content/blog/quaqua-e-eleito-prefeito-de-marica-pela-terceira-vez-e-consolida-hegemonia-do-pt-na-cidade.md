@@ -5,6 +5,8 @@ title: 'Quaquá é eleito prefeito de Maricá pela terceira vez e consolida hege
 pubDate: 2024-10-07 11:14:14
 slug: "quaqua-e-eleito-prefeito-de-marica-pela-terceira-vez-e-consolida-hegemonia-do-pt-na-cidade"
 wp_id: 5603
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

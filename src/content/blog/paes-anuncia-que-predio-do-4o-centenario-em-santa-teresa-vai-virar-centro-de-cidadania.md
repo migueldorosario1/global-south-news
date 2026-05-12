@@ -5,6 +5,8 @@ title: 'Paes anuncia que prédio do 4o. Centenário, em Santa Teresa, vai virar 
 pubDate: 2024-09-13 22:38:20
 slug: "paes-anuncia-que-predio-do-4o-centenario-em-santa-teresa-vai-virar-centro-de-cidadania"
 wp_id: 5227
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

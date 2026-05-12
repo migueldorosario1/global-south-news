@@ -7,6 +7,7 @@ slug: "pt-quer-indicar-vice-para-apoiar-reeleicao-de-eduardo-paes-no-rio"
 wp_id: 2593
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

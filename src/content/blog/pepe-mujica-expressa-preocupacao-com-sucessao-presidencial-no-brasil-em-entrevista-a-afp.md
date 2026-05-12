@@ -5,6 +5,8 @@ title: 'Pepe Mujica se diz preocupado com o futuro político do Brasil'
 pubDate: 2024-12-01 11:36:55
 slug: "pepe-mujica-expressa-preocupacao-com-sucessao-presidencial-no-brasil-em-entrevista-a-afp"
 wp_id: 6088
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Governo Milei Comércio argentino registra queda brutal nas vendas'
 pubDate: 2024-01-29 10:08:48
 slug: "governo-milei-comercio-argentino-registra-queda-brutal-nas-vendas"
 wp_id: 2615
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

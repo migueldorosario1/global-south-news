@@ -7,6 +7,7 @@ slug: "associacao-da-eletrobras-solicita-afastamento-do-presidente-ivan-monteiro
 wp_id: 5438
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

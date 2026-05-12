@@ -7,6 +7,7 @@ slug: "pf-apreende-celulares-no-freezer-de-prefeito-eleito-de-duque-de-caxias"
 wp_id: 6161
 tags:
   - 'baixada'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'José Dirceu é cogitado por ala do PT a disputar presidência'
 pubDate: 2025-01-13 11:33:51
 slug: "jose-dirceu-e-cogitado-por-ala-do-pt-a-disputar-presidencia"
 wp_id: 6420
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

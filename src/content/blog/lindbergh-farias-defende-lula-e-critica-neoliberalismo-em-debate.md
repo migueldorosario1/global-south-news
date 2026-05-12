@@ -5,6 +5,8 @@ title: 'Lindbergh Farias defende Lula e critica neoliberalismo em debate'
 pubDate: 2024-10-19 15:32:16
 slug: "lindbergh-farias-defende-lula-e-critica-neoliberalismo-em-debate"
 wp_id: 5788
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

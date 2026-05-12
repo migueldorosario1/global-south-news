@@ -9,6 +9,7 @@ tags:
   - 'volta-redonda'
   - 'sao-goncalo'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

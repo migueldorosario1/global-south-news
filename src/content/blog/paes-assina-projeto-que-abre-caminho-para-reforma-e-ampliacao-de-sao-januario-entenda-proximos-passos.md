@@ -7,6 +7,7 @@ slug: "paes-assina-projeto-que-abre-caminho-para-reforma-e-ampliacao-de-sao-janu
 wp_id: 1860
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

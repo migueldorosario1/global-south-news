@@ -7,6 +7,7 @@ slug: "castro-e-eleito-presidente-do-consorcio-de-integracao-sul-e-sudeste"
 wp_id: 6044
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

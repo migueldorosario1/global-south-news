@@ -5,6 +5,8 @@ title: 'Lula Fortalece Campanha de Guilherme Boulos para Prefeitura de São Paul
 pubDate: 2024-09-11 19:52:40
 slug: "lula-fortalece-campanha-de-guilherme-boulos-para-prefeitura-de-sao-paulo-com-agenda-extra"
 wp_id: 5192
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

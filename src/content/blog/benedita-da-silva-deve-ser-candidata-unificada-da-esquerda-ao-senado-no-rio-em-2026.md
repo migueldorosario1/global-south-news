@@ -7,6 +7,7 @@ slug: "benedita-da-silva-deve-ser-candidata-unificada-da-esquerda-ao-senado-no-r
 wp_id: 7081
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

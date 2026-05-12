@@ -5,6 +5,8 @@ title: 'Lula intensifica campanha para aliados no segundo turno das eleições m
 pubDate: 2024-10-10 21:19:41
 slug: "lula-intensifica-campanha-para-aliados-no-segundo-turno-das-eleicoes-municipais"
 wp_id: 5672
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

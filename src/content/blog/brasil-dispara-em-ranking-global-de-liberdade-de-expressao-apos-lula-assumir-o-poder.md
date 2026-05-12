@@ -5,6 +5,8 @@ title: 'Brasil dispara em ranking global de liberdade de expressão após Lula a
 pubDate: 2024-05-21 09:07:55
 slug: "brasil-dispara-em-ranking-global-de-liberdade-de-expressao-apos-lula-assumir-o-poder"
 wp_id: 4486
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

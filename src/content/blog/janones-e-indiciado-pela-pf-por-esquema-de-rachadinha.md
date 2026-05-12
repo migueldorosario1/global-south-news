@@ -5,6 +5,8 @@ title: 'Janones é indiciado pela PF por esquema de rachadinha'
 pubDate: 2024-09-12 18:23:30
 slug: "janones-e-indiciado-pela-pf-por-esquema-de-rachadinha"
 wp_id: 5211
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

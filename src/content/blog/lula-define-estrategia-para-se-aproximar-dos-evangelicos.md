@@ -5,6 +5,8 @@ title: 'Lula define estratégia para se aproximar dos evangélicos'
 pubDate: 2024-03-21 09:18:45
 slug: "lula-define-estrategia-para-se-aproximar-dos-evangelicos"
 wp_id: 3901
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

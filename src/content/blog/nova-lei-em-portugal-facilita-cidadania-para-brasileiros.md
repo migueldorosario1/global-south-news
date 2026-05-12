@@ -5,6 +5,8 @@ title: 'Nova lei em Portugal facilita cidadania para brasileiros'
 pubDate: 2024-01-11 16:30:00
 slug: "nova-lei-em-portugal-facilita-cidadania-para-brasileiros"
 wp_id: 2371
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Elon Musk volta a atacar Moraes em postagem no X'
 pubDate: 2024-04-18 09:23:19
 slug: "elon-musk-volta-a-atacar-moraes-em-postagem-no-x"
 wp_id: 4235
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

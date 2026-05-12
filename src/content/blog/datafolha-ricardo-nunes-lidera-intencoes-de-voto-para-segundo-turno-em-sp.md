@@ -5,6 +5,8 @@ title: 'Datafolha Ricardo Nunes lidera intenções de voto para segundo turno em
 pubDate: 2024-10-10 20:39:29
 slug: "datafolha-ricardo-nunes-lidera-intencoes-de-voto-para-segundo-turno-em-sp"
 wp_id: 5666
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

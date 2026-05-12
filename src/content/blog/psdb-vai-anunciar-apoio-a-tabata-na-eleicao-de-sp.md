@@ -5,6 +5,8 @@ title: 'PSDB vai anunciar apoio a Tabata na eleição de SP'
 pubDate: 2024-04-01 09:05:05
 slug: "psdb-vai-anunciar-apoio-a-tabata-na-eleicao-de-sp"
 wp_id: 4011
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

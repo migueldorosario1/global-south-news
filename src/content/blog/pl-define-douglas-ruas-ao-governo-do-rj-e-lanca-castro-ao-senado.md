@@ -8,6 +8,7 @@ wp_id: 7698
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":5} -->

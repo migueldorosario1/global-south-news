@@ -7,6 +7,7 @@ slug: "constituicao-impede-nova-forca-municipal-armada-no-rio-diz-entidade"
 wp_id: 6456
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -10,6 +10,7 @@ tags:
   - 'niteroi'
   - 'cabo-frio'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

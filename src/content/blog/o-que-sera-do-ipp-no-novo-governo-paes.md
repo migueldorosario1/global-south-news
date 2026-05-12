@@ -8,6 +8,7 @@ wp_id: 6171
 tags:
   - 'cabo-frio'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

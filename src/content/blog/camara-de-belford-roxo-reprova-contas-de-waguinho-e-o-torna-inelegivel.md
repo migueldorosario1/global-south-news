@@ -7,6 +7,7 @@ slug: "camara-de-belford-roxo-reprova-contas-de-waguinho-e-o-torna-inelegivel"
 wp_id: 6052
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

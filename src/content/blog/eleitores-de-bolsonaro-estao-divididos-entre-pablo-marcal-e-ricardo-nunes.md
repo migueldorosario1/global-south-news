@@ -5,6 +5,8 @@ title: 'Eleitores de Bolsonaro estão divididos entre Pablo Marçal e Ricardo Nu
 pubDate: 2024-09-19 20:03:40
 slug: "eleitores-de-bolsonaro-estao-divididos-entre-pablo-marcal-e-ricardo-nunes"
 wp_id: 5355
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -5,6 +5,8 @@ title: 'Senado abre consulta pública sobre volta da homologação obrigatória 
 pubDate: 2024-02-27 16:20:46
 slug: "senado-abre-consulta-publica-sobre-volta-da-homologacao-obrigatoria-nos-sindicatos"
 wp_id: 3531
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

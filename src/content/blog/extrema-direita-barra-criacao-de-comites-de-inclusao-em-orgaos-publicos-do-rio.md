@@ -7,6 +7,7 @@ slug: "extrema-direita-barra-criacao-de-comites-de-inclusao-em-orgaos-publicos-d
 wp_id: 6811
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

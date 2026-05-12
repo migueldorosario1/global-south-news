@@ -7,6 +7,7 @@ slug: "a-forca-do-bolsonarismo-no-rio-e-o-risco-a-democracia"
 wp_id: 4312
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

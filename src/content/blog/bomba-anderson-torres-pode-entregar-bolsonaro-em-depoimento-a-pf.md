@@ -5,6 +5,8 @@ title: 'Bomba! Anderson Torres pode entregar Bolsonaro em depoimento a PF'
 pubDate: 2024-02-19 21:24:19
 slug: "bomba-anderson-torres-pode-entregar-bolsonaro-em-depoimento-a-pf"
 wp_id: 3326
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

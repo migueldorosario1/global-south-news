@@ -5,6 +5,8 @@ title: 'Bomba! Suprema Corte dos EUA autoriza candidatura de Trump nas eleiçõe
 pubDate: 2024-03-04 12:36:28
 slug: "bomba-suprema-corte-dos-eua-autoriza-candidatura-de-trump-nas-eleicoes-dos-eua"
 wp_id: 3628
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "vice-de-ramagem-e-re-por-espancar-a-vizinha"
 wp_id: 4903
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

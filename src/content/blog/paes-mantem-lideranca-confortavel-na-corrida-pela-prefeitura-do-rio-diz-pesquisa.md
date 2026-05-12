@@ -7,6 +7,7 @@ slug: "paes-mantem-lideranca-confortavel-na-corrida-pela-prefeitura-do-rio-diz-p
 wp_id: 4791
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

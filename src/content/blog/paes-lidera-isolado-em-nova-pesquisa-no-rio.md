@@ -7,6 +7,7 @@ slug: "paes-lidera-isolado-em-nova-pesquisa-no-rio"
 wp_id: 5022
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -8,6 +8,7 @@ wp_id: 1854
 tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

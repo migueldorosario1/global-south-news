@@ -7,6 +7,7 @@ slug: "stf-restitui-direitos-politicos-do-ex-governador-pezao"
 wp_id: 5893
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

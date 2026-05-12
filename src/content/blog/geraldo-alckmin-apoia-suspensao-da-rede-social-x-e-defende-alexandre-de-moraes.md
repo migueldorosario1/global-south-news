@@ -5,6 +5,8 @@ title: 'Geraldo Alckmin apoia suspensão da rede social X e defende Alexandre de
 pubDate: 2024-09-02 18:24:28
 slug: "geraldo-alckmin-apoia-suspensao-da-rede-social-x-e-defende-alexandre-de-moraes"
 wp_id: 4996
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

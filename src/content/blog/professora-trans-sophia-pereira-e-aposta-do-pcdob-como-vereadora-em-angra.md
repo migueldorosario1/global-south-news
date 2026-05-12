@@ -8,6 +8,7 @@ wp_id: 4262
 tags:
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "tarifa-zero-toma-conta-da-campanha-eleitoral-no-rio"
 wp_id: 4937
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

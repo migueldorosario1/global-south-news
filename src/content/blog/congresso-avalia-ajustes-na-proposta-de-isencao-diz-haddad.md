@@ -5,6 +5,8 @@ title: 'Congresso avalia ajustes na proposta de isenção, diz Haddad'
 pubDate: 2024-11-29 17:18:15
 slug: "congresso-avalia-ajustes-na-proposta-de-isencao-diz-haddad"
 wp_id: 6069
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

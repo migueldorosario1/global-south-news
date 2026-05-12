@@ -5,6 +5,8 @@ title: 'Rejeição a Marçal dispara em SP, diz Datafolha'
 pubDate: 2024-09-19 18:40:55
 slug: "rejeicao-a-marcal-dispara-em-sp-diz-datafolha"
 wp_id: 5322
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

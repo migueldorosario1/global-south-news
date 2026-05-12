@@ -5,6 +5,8 @@ title: 'Polícia Federal prepara indiciamento de Bolsonaro e aliados por tentati
 pubDate: 2024-10-19 12:55:14
 slug: "policia-federal-prepara-indiciamento-de-bolsonaro-e-aliados-por-tentativa-de-golpe"
 wp_id: 5746
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

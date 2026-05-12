@@ -5,6 +5,8 @@ title: 'Mauro Cid revela que núcleo bolsonarista continuou atacando as urnas me
 pubDate: 2024-03-12 13:59:26
 slug: "mauro-cid-revela-que-nucleo-bolsonarista-continuou-atacando-as-urnas-mesmo-sabendo-que-e-segura"
 wp_id: 3727
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

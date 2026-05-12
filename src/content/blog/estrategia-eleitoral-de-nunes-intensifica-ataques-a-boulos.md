@@ -5,6 +5,8 @@ title: 'Estratégia eleitoral de Nunes intensifica ataques a Boulos'
 pubDate: 2024-09-16 21:28:43
 slug: "estrategia-eleitoral-de-nunes-intensifica-ataques-a-boulos"
 wp_id: 5295
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

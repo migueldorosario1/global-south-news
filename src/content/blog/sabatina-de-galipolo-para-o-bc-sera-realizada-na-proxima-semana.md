@@ -5,6 +5,8 @@ title: 'Sabatina de Galípolo para o BC será realizada na próxima semana'
 pubDate: 2024-09-02 16:25:27
 slug: "sabatina-de-galipolo-para-o-bc-sera-realizada-na-proxima-semana"
 wp_id: 4972
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

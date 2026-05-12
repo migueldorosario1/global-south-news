@@ -7,6 +7,7 @@ slug: "paes-tambem-lidera-isolado-no-datafolha"
 wp_id: 5320
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

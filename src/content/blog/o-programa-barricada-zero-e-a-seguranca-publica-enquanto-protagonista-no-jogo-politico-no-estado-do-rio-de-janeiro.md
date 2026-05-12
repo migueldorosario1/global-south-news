@@ -9,6 +9,7 @@ tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
   - 'baixada'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

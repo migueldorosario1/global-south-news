@@ -7,6 +7,7 @@ slug: "aliado-de-bolsonaro-thiago-pampolha-quer-ser-o-candidato-do-mdb-ao-govern
 wp_id: 6701
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

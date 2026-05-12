@@ -7,6 +7,7 @@ slug: "festival-da-comunicacao-sindical-e-popular-promove-debate-sobre-o-pl-das-
 wp_id: 891
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

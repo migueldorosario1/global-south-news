@@ -5,6 +5,8 @@ title: 'Bolsonaro contesta indiciamento em inquérito por tentativa de golpe em 
 pubDate: 2024-10-19 14:44:01
 slug: "bolsonaro-contesta-indiciamento-em-inquerito-por-tentativa-de-golpe-em-2022"
 wp_id: 5773
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

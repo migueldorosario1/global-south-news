@@ -5,6 +5,8 @@ title: 'Meta encerra programa de checagem de fatos nos EUA e gera preocupação 
 pubDate: 2025-01-09 11:50:22
 slug: "meta-encerra-programa-de-checagem-de-fatos-nos-eua-e-gera-preocupacao-no-governo-lula"
 wp_id: 6393
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

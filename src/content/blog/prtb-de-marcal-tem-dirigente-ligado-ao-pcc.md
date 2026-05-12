@@ -5,6 +5,8 @@ title: 'PRTB de Marçal tem dirigente ligado ao PCC'
 pubDate: 2024-06-11 09:53:26
 slug: "prtb-de-marcal-tem-dirigente-ligado-ao-pcc"
 wp_id: 4625
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

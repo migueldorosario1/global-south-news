@@ -5,6 +5,8 @@ title: 'Lula planeja reformulação no governo e promete adotar medidas de ajust
 pubDate: 2024-12-21 09:47:05
 slug: "lula-planeja-reformulacao-no-governo-e-promete-adotar-medidas-de-ajuste-fiscal"
 wp_id: 6273
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "daniela-carneiro-deixa-ministerio-do-turismo-e-assumira-vice-lideranca-do
 wp_id: 5381
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

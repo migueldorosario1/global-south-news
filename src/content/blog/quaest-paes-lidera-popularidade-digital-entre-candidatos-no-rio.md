@@ -7,6 +7,7 @@ slug: "quaest-paes-lidera-popularidade-digital-entre-candidatos-no-rio"
 wp_id: 4905
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "patrimonio-de-bacellar-cresce-832-em-quatro-anos-diz-justica-eleitoral"
 wp_id: 7538
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:heading {"level":3} -->

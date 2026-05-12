@@ -7,6 +7,7 @@ slug: "prefeitura-do-rio-reduz-orcamento-de-asfaltamento-em-2025"
 wp_id: 6003
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

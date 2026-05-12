@@ -5,6 +5,8 @@ title: 'Paraná Pesquisas também indica queda de Marçal em SP'
 pubDate: 2024-09-27 13:04:28
 slug: "parana-pesquisas-tambem-indica-queda-de-marcal-em-sp"
 wp_id: 5520
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

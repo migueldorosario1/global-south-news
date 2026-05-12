@@ -8,6 +8,7 @@ wp_id: 6759
 tags:
   - 'rio-de-janeiro'
   - 'geopolitica'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

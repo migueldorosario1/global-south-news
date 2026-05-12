@@ -5,6 +5,8 @@ title: 'Proposta de reforma administrativa do Governo avaliação modificada e f
 pubDate: 2024-01-17 18:30:00
 slug: "proposta-de-reforma-administrativa-do-governo-avaliacao-modificada-e-fim-do-ponto"
 wp_id: 2453
+tags:
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

@@ -7,6 +7,7 @@ slug: "esquerda-carioca-lanca-manifesto-contra-milicia-na-politica-do-rio"
 wp_id: 4004
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

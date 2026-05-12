@@ -7,6 +7,7 @@ slug: "secretariado-de-eduardo-paes-ja-esta-praticamente-definido"
 wp_id: 6179
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

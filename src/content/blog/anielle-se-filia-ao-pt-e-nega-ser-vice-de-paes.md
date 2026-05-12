@@ -7,6 +7,7 @@ slug: "anielle-se-filia-ao-pt-e-nega-ser-vice-de-paes"
 wp_id: 4046
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->

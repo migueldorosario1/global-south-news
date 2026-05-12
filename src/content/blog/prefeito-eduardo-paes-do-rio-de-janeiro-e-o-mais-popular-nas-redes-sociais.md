@@ -7,6 +7,7 @@ slug: "prefeito-eduardo-paes-do-rio-de-janeiro-e-o-mais-popular-nas-redes-sociai
 wp_id: 1541
 tags:
   - 'rio-de-janeiro'
+  - 'eleicoes-2026'
 ---
 
 <!-- wp:paragraph -->
