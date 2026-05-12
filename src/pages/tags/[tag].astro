@@ -44,6 +44,8 @@ const regionMap = {
 	'nova-friburgo': { title: 'Região Serrana', subtitle: 'Nova Friburgo', icon: '❄️', color: 'linear-gradient(135deg, #11998e, #38ef7d)' },
 	'angra-dos-reis': { title: 'Costa Verde', subtitle: 'Angra dos Reis', icon: '🛥️', color: 'linear-gradient(135deg, #00b4db, #0083b0)' },
 	'paraty': { title: 'Costa Verde', subtitle: 'Paraty', icon: '🏘️', color: 'linear-gradient(135deg, #00b4db, #0083b0)' },
+	'nacional': { title: 'Brasil', subtitle: 'Nacional', icon: '🇧🇷', color: 'linear-gradient(135deg, #009c3b, #ffdf00)' },
+	'geopolitica': { title: 'Mundo', subtitle: 'Geopolítica', icon: '🌍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' },
 };
 
 const meta = regionMap[tag] || { title: 'Região do Estado', subtitle: tag.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '), icon: '📍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' };

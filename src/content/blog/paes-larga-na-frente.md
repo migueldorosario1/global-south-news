@@ -7,6 +7,7 @@ slug: "paes-larga-na-frente"
 wp_id: 6759
 tags:
   - 'rio-de-janeiro'
+  - 'geopolitica'
 ---
 
 <!-- wp:paragraph -->

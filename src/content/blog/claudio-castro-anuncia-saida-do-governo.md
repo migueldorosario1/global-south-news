@@ -9,6 +9,7 @@ tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
   - 'baixada'
+  - 'nacional'
 ---
 
 <!-- wp:heading {"level":4} -->
