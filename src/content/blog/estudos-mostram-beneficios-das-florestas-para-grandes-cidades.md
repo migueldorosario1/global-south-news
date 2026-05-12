@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-3.png"
+heroImage: "/hero/wp567_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Estudos mostram benefícios das florestas para grandes cidades'
 pubDate: 2023-07-04 09:29:50

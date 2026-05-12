@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.webp"
+heroImage: "/hero/wp5943_imagem.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula passa por novos exames médicos após acidente doméstico'
 pubDate: 2024-11-02 14:37:14

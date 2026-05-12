@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-21.jpg"
+heroImage: "/hero/wp3241_imagem-21.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ocupação hoteleira do Rio atingiu 87% no Carnaval'
 pubDate: 2024-02-15 15:03:47

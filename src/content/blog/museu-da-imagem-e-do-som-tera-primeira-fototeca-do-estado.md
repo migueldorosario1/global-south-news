@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-58.png"
+heroImage: "/hero/wp836_image-58.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Museu da Imagem e do Som terá primeira Fototeca do estado'
 pubDate: 2023-07-18 01:08:41

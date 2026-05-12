@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-24.png"
+heroImage: "/hero/wp6516_image-24.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Exposição no Museu da República, no Rio, relembra horrores da ditadura militar'
 pubDate: 2025-01-24 20:22:39

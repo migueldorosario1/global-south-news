@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-8.png"
+heroImage: "/hero/wp7214_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj debate precarização da segurança no manuseio do GNV no Rio'
 pubDate: 2025-10-10 21:16:10

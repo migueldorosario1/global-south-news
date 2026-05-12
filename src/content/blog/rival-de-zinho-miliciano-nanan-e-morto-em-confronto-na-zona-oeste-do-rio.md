@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/F-DQE_SXMAADPyQ.jpg"
+heroImage: "/hero/wp1794_F-DQE_SXMAADPyQ.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rival de Zinho, miliciano Nanan é morto em confronto  na zona oeste do Rio'
 pubDate: 2023-11-04 10:28:04

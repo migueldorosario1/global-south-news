@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-60.webp"
+heroImage: "/hero/wp5817_imagem-60.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula vai à Rússia para a cúpula do Brics e busca apoio para reforma do conselho de segurança da ONU'
 pubDate: 2024-10-20 09:14:25

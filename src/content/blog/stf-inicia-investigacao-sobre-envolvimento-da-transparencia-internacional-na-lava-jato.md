@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-02-05T162841.717.jpeg"
+heroImage: "/hero/wp3017_images-2024-02-05T162841.717.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'STF inicia investigação sobre envolvimento da Transparência Internacional na Lava Jato'
 pubDate: 2024-02-05 16:29:36

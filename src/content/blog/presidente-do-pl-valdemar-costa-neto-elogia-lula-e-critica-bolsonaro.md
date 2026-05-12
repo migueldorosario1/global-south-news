@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/transferir-7.jpg"
+heroImage: "/hero/wp2422_transferir-7.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Presidente do PL Valdemar Costa Neto elogia Lula e critica Bolsonaro'
 pubDate: 2024-01-12 22:38:04

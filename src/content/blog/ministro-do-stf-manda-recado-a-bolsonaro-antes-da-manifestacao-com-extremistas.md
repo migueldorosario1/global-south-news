@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-33.webp"
+heroImage: "/hero/wp3410_imagem-33.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministro do STF manda recado a Bolsonaro antes da manifestação com extremistas'
 pubDate: 2024-02-23 09:21:51

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.webp"
+heroImage: "/hero/wp2715_imagem-4.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Boulos almoça com Marta e dá início a pré-campanha em SP'
 pubDate: 2024-01-30 13:05:31

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.webp"
+heroImage: "/hero/wp5548_imagem.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dentista preso mantém contratos milionários com prefeitura na Baixada Fluminense'
 pubDate: 2024-10-03 16:33:21

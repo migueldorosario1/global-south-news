@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-13.png"
+heroImage: "/hero/wp6583_image-13.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes surge como favorito para governador com 37,2% dos votos'
 pubDate: 2025-02-17 18:29:34

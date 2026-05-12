@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-24.jpg"
+heroImage: "/hero/wp3306_imagem-24.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Netanyahu faz de Lula persona non grata após críticas veladas ao genocídio em Gaza'
 pubDate: 2024-02-19 09:20:06

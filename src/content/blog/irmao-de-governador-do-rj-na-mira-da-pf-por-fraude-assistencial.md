@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2023-12-20-at-10.32.48.jpeg"
+heroImage: "/hero/wp2192_WhatsApp-Image-2023-12-20-at-10.32.48.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Urgente Irmão de governador do RJ é alvo da PF por fraude assistencial'
 pubDate: 2023-12-20 10:33:08

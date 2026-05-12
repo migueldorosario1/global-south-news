@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-1.png"
+heroImage: "/hero/wp7711_image-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Na sede do governo da Espanha, Rodrigo Neves destaca importância de investimentos privados do país em Niterói'
 pubDate: 2026-03-02 14:26:16

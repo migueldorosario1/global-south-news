@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/B7D5OMYASNHSRBVK6352ESUA5Q-scaled.jpg"
+heroImage: "/hero/wp2447_B7D5OMYASNHSRBVK6352ESUA5Q-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governador do Rio, Cláudio Castro, elogia experiência de Lula e destaca cooperação em momento de crise'
 pubDate: 2024-01-17 17:41:59

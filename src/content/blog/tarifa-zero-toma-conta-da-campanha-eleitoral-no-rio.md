@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-6.png"
+heroImage: "/hero/wp4937_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tarifa Zero toma conta da campanha eleitoral no Rio'
 pubDate: 2024-08-22 12:50:22

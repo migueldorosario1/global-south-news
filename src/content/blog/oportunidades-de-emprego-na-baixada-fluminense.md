@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2021-08-21-at-19.26.07.jpeg"
+heroImage: "/hero/wp535_WhatsApp-Image-2021-08-21-at-19.26.07.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Oportunidades de emprego na Baixada Fluminense'
 pubDate: 2023-06-25 22:04:27

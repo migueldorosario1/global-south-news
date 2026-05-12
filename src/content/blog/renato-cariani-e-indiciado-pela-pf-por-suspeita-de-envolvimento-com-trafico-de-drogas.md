@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-12.jpg"
+heroImage: "/hero/wp2701_imagem-12.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Renato Cariani é indiciado pela PF por suspeita de envolvimento com tráfico de drogas'
 pubDate: 2024-01-30 12:43:07

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-111.webp"
+heroImage: "/hero/wp5456_imagem-111.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Polarização política molda cenários globais e alimenta tensões contemporâneas'
 pubDate: 2024-09-25 04:45:50

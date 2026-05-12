@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Professor-brasileiro-perde-21-do-tempo-de-aula-para-manter-disciplina.jpg"
+heroImage: "/hero/wp7795_Professor-brasileiro-perde-21-do-tempo-de-aula-para-manter-disciplina.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Professores do Rio fazem paralisação por reajuste'
 pubDate: 2026-04-10 01:01:17

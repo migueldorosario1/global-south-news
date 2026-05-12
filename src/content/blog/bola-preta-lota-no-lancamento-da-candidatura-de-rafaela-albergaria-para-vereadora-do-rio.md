@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20240830-WA0209.jpg"
+heroImage: "/hero/wp4967_IMG-20240830-WA0209.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bola Preta lota no lançamento da candidatura de Rafaela Albergaria para vereadora do Rio'
 pubDate: 2024-08-31 16:04:11

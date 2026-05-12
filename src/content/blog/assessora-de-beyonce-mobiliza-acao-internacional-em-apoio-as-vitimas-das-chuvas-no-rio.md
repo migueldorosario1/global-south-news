@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/yvette-agradeceu-as-maquiadoras-baianas-1963557-article.png"
+heroImage: "/hero/wp2456_yvette-agradeceu-as-maquiadoras-baianas-1963557-article.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Assessora de Beyoncé mobiliza ação internacional em apoio às vítimas das chuvas no Rio'
 pubDate: 2024-01-17 19:00:00

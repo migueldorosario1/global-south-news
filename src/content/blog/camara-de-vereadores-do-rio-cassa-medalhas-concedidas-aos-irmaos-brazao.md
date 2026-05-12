@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-11.jpg"
+heroImage: "/hero/wp4634_imagem-11.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Câmara de Vereadores do Rio cassa medalhas concedidas aos irmãos Brazão'
 pubDate: 2024-06-12 09:32:36

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-44.webp"
+heroImage: "/hero/wp5770_imagem-44.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tempestade perde força em São Paulo, mas mantém estado em alerta'
 pubDate: 2024-10-19 14:28:10

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-32.jpg"
+heroImage: "/hero/wp3989_imagem-32.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula planeja reduzir tarifa de energia em 2024'
 pubDate: 2024-03-28 09:41:45

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-29.webp"
+heroImage: "/hero/wp5088_imagem-29.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Datafolha Paes lidera corrida à Prefeitura do Rio com 59%'
 pubDate: 2024-09-05 16:45:51

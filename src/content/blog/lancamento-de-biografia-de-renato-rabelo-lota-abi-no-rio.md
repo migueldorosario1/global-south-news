@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/20250728_182101-scaled.jpg"
+heroImage: "/hero/wp7014_20250728_182101-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lançamento de biografia de Renato Rabelo lota ABI, no Rio'
 pubDate: 2025-07-28 18:39:16

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-19.jpg"
+heroImage: "/hero/wp2781_imagem-19.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'TRE do Rio muda local de seções eleitorais em áreas dominadas pela milícia'
 pubDate: 2024-01-31 08:34:49

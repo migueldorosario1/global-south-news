@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp570_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'TRF mantém suspensão de instalação de tirolesa no Pão de Açúcar'
 pubDate: 2023-07-04 09:41:37

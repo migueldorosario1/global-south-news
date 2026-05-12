@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-14.png"
+heroImage: "/hero/wp2538_image-14.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Campanha comemora 20 anos do mês da visibilidade trans no Brasil'
 pubDate: 2024-01-24 14:14:59

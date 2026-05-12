@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp7601_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura de Maricá lança Advoga Social, programa inédito de assistência jurídica gratuita no Estado do Rio'
 pubDate: 2026-01-22 18:10:14

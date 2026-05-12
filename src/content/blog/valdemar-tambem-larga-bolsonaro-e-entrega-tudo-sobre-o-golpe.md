@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-03-15T144850.273.jpeg"
+heroImage: "/hero/wp3807_images-2024-03-15T144850.273.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Valdemar também larga Bolsonaro e entrega tudo sobre o golpe'
 pubDate: 2024-03-15 14:51:15

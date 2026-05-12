@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.webp"
+heroImage: "/hero/wp4708_imagem-7.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula confirma viagem à Bolívia apesar de tentativa de golpe no país'
 pubDate: 2024-06-27 06:33:04

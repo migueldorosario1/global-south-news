@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-30.png"
+heroImage: "/hero/wp7572_image-30.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Niterói lança projeto que celebra ancestralidade indígena'
 pubDate: 2025-12-12 15:37:09

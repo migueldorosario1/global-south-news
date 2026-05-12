@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-40.png"
+heroImage: "/hero/wp1180_image-40.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Paes gira para a direita e traz Republicanos de Crivella para a prefeitura'
 pubDate: 2023-08-22 15:33:18

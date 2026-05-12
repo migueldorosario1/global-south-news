@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-8-e1711455512785.png"
+heroImage: "/hero/wp3957_image-8-e1711455512785.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Paes substitui Chiquinho Brazão por sobrinho de bicheiro em seu Secretariado'
 pubDate: 2024-03-26 09:18:54

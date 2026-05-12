@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/haddad-fazenda-reuniao-governadores.webp"
+heroImage: "/hero/wp2453_haddad-fazenda-reuniao-governadores.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Proposta de reforma administrativa do Governo avaliação modificada e fim do ponto'
 pubDate: 2024-01-17 18:30:00

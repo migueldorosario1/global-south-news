@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-29.webp"
+heroImage: "/hero/wp3255_imagem-29.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Homem condenado por explosão em evento de Lula no Rio é solto'
 pubDate: 2024-02-16 10:09:30

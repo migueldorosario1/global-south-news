@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-21.jpg"
+heroImage: "/hero/wp4701_imagem-21.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Empresa de energia apresenta única proposta na privatização da Sabesp'
 pubDate: 2024-06-27 06:25:53

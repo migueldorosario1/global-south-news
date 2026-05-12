@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.webp"
+heroImage: "/hero/wp4729_imagem-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula elogia Paes durante agenda no Rio'
 pubDate: 2024-07-01 07:53:09

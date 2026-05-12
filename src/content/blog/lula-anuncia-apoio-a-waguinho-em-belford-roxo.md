@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-48.webp"
+heroImage: "/hero/wp5201_imagem-48.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula anuncia apoio a Waguinho em Belford Roxo'
 pubDate: 2024-09-12 17:18:27

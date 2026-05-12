@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp2089_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ação da Cidadania recebe prêmio da Alerj; Betinho terá estátua em Botafogo'
 pubDate: 2023-12-08 11:16:49

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2024-05-29-at-10.34.48.jpeg"
+heroImage: "/hero/wp5484_WhatsApp-Image-2024-05-29-at-10.34.48.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Zito lidera corrida para prefeitura de Duque de Caxias com apoio da federação de partidos de esquerda'
 pubDate: 2024-09-26 14:37:37

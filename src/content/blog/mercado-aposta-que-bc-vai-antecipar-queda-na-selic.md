@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.webp"
+heroImage: "/hero/wp2648_imagem-2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mercado aposta que BC vai antecipar queda na Selic'
 pubDate: 2024-01-30 05:28:00

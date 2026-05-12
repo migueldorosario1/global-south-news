@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-75.jpeg"
+heroImage: "/hero/wp4688_images-75.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quaest mostra liderança isolada de Paes na disputa pela Prefeitura do Rio'
 pubDate: 2024-06-18 07:19:39

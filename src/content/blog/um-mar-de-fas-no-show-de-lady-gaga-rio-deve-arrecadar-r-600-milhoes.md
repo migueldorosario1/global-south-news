@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-24.png"
+heroImage: "/hero/wp6822_image-24.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Um mar de fãs no show de Lady Gaga! Rio deve arrecadar R$ 600 milhões'
 pubDate: 2025-04-25 09:57:19

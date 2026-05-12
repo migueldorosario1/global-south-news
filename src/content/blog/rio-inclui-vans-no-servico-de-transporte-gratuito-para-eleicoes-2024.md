@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-19.jpeg"
+heroImage: "/hero/wp5527_imagem-19.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio inclui vans no serviço de transporte gratuito para eleições 2024'
 pubDate: 2024-09-30 14:32:55

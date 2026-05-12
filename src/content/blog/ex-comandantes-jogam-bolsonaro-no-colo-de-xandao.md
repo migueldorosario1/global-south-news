@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-03-04T224632.617.jpeg"
+heroImage: "/hero/wp3645_images-2024-03-04T224632.617.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ex-comandantes jogam Bolsonaro no colo de Xandão'
 pubDate: 2024-03-04 22:49:47

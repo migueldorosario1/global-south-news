@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-90.webp"
+heroImage: "/hero/wp5375_imagem-90.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fernando Haddad discute futuro da Venezuela e planos do PT em entrevista'
 pubDate: 2024-09-23 19:40:54

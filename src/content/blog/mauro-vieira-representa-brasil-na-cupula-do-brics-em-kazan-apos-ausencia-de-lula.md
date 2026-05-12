@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-63.webp"
+heroImage: "/hero/wp5827_imagem-63.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mauro Vieira representa Brasil na Cúpula do BRICS em Kazan após ausência de Lula'
 pubDate: 2024-10-21 13:49:40

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Dani-Balbi-5.jpg"
+heroImage: "/hero/wp543_Dani-Balbi-5.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi É por dignidade. Nós resistimos!'
 pubDate: 2023-06-28 11:19:45

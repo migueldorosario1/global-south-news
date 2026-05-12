@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/rbd-em-live-in-rio-1157707_widelg.jpg"
+heroImage: "/hero/wp1886_rbd-em-live-in-rio-1157707_widelg.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'RBD no Rio Orientações sobre Trânsito e Transporte para os Shows no Estádio Nilton Santos'
 pubDate: 2023-11-09 18:00:00

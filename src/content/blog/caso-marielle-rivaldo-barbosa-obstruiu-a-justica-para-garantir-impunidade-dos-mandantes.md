@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-15.jpeg"
+heroImage: "/hero/wp3949_images-15.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Caso Marielle Rivaldo Barbosa obstruiu a justiça para garantir impunidade dos mandantes'
 pubDate: 2024-03-24 16:14:41

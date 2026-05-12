@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-25.webp"
+heroImage: "/hero/wp6075_imagem-25.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Advogado de tenente-coronel preso nega envolvimento em suposto plano para destabilizar governo'
 pubDate: 2024-11-29 17:37:22

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-9.jpeg"
+heroImage: "/hero/wp4927_imagem-9.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ciro critica Moraes e defende o fim do inquérito das fake news'
 pubDate: 2024-08-22 10:41:23

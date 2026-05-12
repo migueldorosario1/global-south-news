@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/governo.webp"
+heroImage: "/hero/wp2173_governo.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Calendário de Pagamentos de Servidores do Rio para 2024 Inclui Datas do 13º Salário'
 pubDate: 2023-12-18 18:00:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4-e1734205172848.png"
+heroImage: "/hero/wp6211_image-4-e1734205172848.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bancada feminina na Alerj ficará maior em 2025'
 pubDate: 2024-12-14 16:40:40

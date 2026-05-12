@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-6.png"
+heroImage: "/hero/wp1009_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Flamengo impõe condição para avaliar propostas por Pedro'
 pubDate: 2023-08-02 12:36:53

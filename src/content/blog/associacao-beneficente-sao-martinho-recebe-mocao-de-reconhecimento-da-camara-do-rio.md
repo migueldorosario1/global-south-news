@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.jpg"
+heroImage: "/hero/wp6009_imagem-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Associação Beneficente São Martinho recebe Moção de reconhecimento da Câmara do Rio'
 pubDate: 2024-11-12 20:56:37

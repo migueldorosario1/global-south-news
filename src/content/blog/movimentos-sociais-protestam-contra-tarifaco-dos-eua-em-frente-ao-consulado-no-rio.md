@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp7036_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Movimentos sociais protestam contra tarifaço dos EUA em frente ao consulado no Rio'
 pubDate: 2025-08-01 12:44:53

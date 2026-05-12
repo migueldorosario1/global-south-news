@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.png"
+heroImage: "/hero/wp4015_imagem.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maconha Alemanha autoriza cultivo doméstico e criação de clubes recreativos'
 pubDate: 2024-04-01 09:16:16

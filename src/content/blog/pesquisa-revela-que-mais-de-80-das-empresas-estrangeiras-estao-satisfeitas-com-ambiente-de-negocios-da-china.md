@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/202401301fe249d95d0b405d814a5986244bc656_XxjwspP007035_20240130_CBMFN0A001.jpeg"
+heroImage: "/hero/wp2752_202401301fe249d95d0b405d814a5986244bc656_XxjwspP007035_20240130_CBMFN0A001.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa revela que mais de 80% das empresas estrangeiras estão satisfeitas com ambiente de negócios da China'
 pubDate: 2024-02-01 05:10:00

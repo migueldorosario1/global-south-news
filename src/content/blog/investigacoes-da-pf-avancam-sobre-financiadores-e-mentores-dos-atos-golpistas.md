@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.png"
+heroImage: "/hero/wp3201_imagem-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Investigações da PF avançam sobre financiadores e mentores dos atos golpistas'
 pubDate: 2024-02-14 09:48:21

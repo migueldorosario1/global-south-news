@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-22.png"
+heroImage: "/hero/wp6815_image-22.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Livro narra amizade de jovens que enfrentaram de peito aberto a ditadura'
 pubDate: 2025-04-17 14:53:14

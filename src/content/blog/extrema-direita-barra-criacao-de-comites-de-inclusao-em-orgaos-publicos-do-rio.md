@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-19.png"
+heroImage: "/hero/wp6811_image-19.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Extrema direita barra criação de comitês de  inclusão em órgãos públicos do Rio'
 pubDate: 2025-04-16 18:02:41

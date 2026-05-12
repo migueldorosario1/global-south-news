@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-27.webp"
+heroImage: "/hero/wp3141_imagem-27.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Saiba quais remédios são contraindicados em caso de suspeita de dengue'
 pubDate: 2024-02-11 05:59:00

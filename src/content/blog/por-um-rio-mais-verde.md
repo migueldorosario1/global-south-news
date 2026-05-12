@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-10.png"
+heroImage: "/hero/wp7663_image-10.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Por um Rio mais verde'
 pubDate: 2026-02-09 12:34:06

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-102.webp"
+heroImage: "/hero/wp5428_imagem-102.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Embaixador de Israel na ONU afirma que o País não planeja invadir o Líbano'
 pubDate: 2024-09-24 18:39:05

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-48.jpg"
+heroImage: "/hero/wp4374_imagem-48.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Madonna chega ao Rio para única apresentação na América do Sul'
 pubDate: 2024-04-30 09:37:36

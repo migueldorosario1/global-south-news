@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-58.webp"
+heroImage: "/hero/wp5811_imagem-58.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tarcísio de Freitas intensifica apoio a Ricardo Nunes em São Paulo no segundo turno'
 pubDate: 2024-10-20 08:58:40

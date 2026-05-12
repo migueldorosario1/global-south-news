@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2024-01-21-at-01.24.07.jpeg"
+heroImage: "/hero/wp2486_WhatsApp-Image-2024-01-21-at-01.24.07.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Itaú Unibanco compra prédio na Faria Lima por R$ 1,5 bilhão'
 pubDate: 2024-01-21 08:00:00

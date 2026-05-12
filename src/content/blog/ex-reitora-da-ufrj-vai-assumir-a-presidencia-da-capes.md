@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-9.jpg"
+heroImage: "/hero/wp2895_imagem-9.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ex-reitora da UFRJ vai assumir a presidência da Capes'
 pubDate: 2024-02-01 12:06:57

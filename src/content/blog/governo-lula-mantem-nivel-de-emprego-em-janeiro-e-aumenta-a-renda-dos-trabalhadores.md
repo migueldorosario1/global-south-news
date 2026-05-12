@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-74.jpeg"
+heroImage: "/hero/wp3584_images-74.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula mantém nível de emprego em janeiro e aumenta a renda dos trabalhadores'
 pubDate: 2024-02-29 12:07:40

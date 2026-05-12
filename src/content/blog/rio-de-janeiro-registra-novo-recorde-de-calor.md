@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/dsc4326.webp"
+heroImage: "/hero/wp1971_dsc4326.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio de Janeiro registra novo recorde de calor'
 pubDate: 2023-11-18 13:45:51

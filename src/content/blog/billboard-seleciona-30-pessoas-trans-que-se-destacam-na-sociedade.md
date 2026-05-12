@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp7627_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Billboard seleciona 30 pessoas trans que se destacam na sociedade'
 pubDate: 2026-01-30 16:58:02

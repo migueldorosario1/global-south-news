@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9-e1759260492172.png"
+heroImage: "/hero/wp7172_image-9-e1759260492172.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Agora é Lei Estudantes com TEA podem ter Protocolo Individualizado de Avaliação no Rio'
 pubDate: 2025-09-30 16:29:21

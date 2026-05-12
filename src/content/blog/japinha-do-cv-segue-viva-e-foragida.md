@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp7338_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Japinha do CV segue viva e foragida'
 pubDate: 2025-11-06 11:46:55

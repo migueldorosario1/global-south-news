@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.webp"
+heroImage: "/hero/wp2902_imagem-7.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'TRE também cassa o mandato de Fábio Silva por abuso de poder econômico'
 pubDate: 2024-02-02 09:12:28

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg-4.png"
+heroImage: "/hero/wp3818_imagem.jpg-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Kajuru vai ao Plenário e detona Malafaia'
 pubDate: 2024-03-18 09:18:59

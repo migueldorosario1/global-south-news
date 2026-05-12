@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-57.webp"
+heroImage: "/hero/wp5808_imagem-57.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeito de Fortaleza exonera secretários por apoio a candidato opositor nas eleições'
 pubDate: 2024-10-20 08:46:47

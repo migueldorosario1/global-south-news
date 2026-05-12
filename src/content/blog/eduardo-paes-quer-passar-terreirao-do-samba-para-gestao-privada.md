@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-31.png"
+heroImage: "/hero/wp1149_image-31.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Paes quer passar Terreirão do Samba para gestão privada'
 pubDate: 2023-08-19 15:08:49

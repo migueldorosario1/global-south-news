@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.jpg"
+heroImage: "/hero/wp4387_imagem-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Temporais isolam cidade gaúcha'
 pubDate: 2024-05-02 09:40:10

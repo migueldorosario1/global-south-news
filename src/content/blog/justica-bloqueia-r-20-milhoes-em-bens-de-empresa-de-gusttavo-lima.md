@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-39.webp"
+heroImage: "/hero/wp5755_imagem-39.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça bloqueia valor milionário de Gusttavo Lima por lavagem de dinheiro'
 pubDate: 2024-10-19 13:43:39

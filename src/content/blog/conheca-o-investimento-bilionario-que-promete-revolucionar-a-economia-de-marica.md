@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/shopping_servicios3_pq-1.png"
+heroImage: "/hero/wp3175_shopping_servicios3_pq-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Conheça o investimento bilionário que promete revolucionar a economia de Maricá'
 pubDate: 2024-02-12 19:51:32

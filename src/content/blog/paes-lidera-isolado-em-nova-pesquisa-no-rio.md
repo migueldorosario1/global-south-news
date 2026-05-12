@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-13.webp"
+heroImage: "/hero/wp5022_imagem-13.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes lidera isolado em nova pesquisa no Rio'
 pubDate: 2024-09-02 22:11:01

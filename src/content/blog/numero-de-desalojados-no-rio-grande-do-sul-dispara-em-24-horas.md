@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.png"
+heroImage: "/hero/wp4452_imagem-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Número de desalojados no Rio Grande do Sul dispara em 24 horas'
 pubDate: 2024-05-10 08:55:48

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.jpeg"
+heroImage: "/hero/wp5126_imagem-6.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministério apaga postagens após demissão de Silvio Almeida por acusações de assédio'
 pubDate: 2024-09-10 10:26:09

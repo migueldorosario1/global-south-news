@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/CIOVUVHZPBPGFL6TRSG7BZB5LA.jpg"
+heroImage: "/hero/wp2590_CIOVUVHZPBPGFL6TRSG7BZB5LA.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação da PF investiga espionagem ilegal e envolve Carlos Bolsonaro e ex-diretor da Abin'
 pubDate: 2024-01-29 09:32:19

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-17.png"
+heroImage: "/hero/wp7003_image-17.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Atlas da escala 6X1 será lançado na Flip; o livro debate a jornada de trabalho no Brasil'
 pubDate: 2025-07-24 10:15:25

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/FLAVIO-DINO-TAYLOR-SWIFT.webp"
+heroImage: "/hero/wp1983_FLAVIO-DINO-TAYLOR-SWIFT.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministro Flávio Dino determina permissão de garrafas e agua grátis em shows após morte em evento de taylor swift'
 pubDate: 2023-11-18 14:40:00

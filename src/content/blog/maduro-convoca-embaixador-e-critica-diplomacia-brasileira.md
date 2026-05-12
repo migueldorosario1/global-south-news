@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-85.webp"
+heroImage: "/hero/wp5916_imagem-85.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maduro convoca embaixador e critica diplomacia brasileira'
 pubDate: 2024-10-30 19:58:16

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-13.png"
+heroImage: "/hero/wp7672_image-13.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura destaca desempenho da União de Maricá na Série Ouro e mantém expectativa na conquista do título'
 pubDate: 2026-02-18 14:32:16

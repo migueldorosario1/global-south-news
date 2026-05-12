@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-11.png"
+heroImage: "/hero/wp1027_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio tem novo centro de acolhimento LGBT+ e de combate à violência'
 pubDate: 2023-08-04 16:51:55

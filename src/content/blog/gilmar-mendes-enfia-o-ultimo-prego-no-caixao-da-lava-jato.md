@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-30.jpg"
+heroImage: "/hero/wp3372_imagem-30.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gilmar Mendes enfia o último prego no caixão da Lava Jato'
 pubDate: 2024-02-21 20:03:22

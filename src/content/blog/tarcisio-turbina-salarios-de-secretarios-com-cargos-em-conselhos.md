@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.webp"
+heroImage: "/hero/wp4438_imagem-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tarcísio turbina salários de secretários com cargos em conselhos'
 pubDate: 2024-05-09 09:25:15

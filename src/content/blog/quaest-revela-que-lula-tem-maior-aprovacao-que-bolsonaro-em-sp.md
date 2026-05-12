@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-31.jpg"
+heroImage: "/hero/wp4722_imagem-31.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quaest revela que Lula tem maior aprovação que Bolsonaro em SP'
 pubDate: 2024-06-28 08:14:33

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp6721_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj quer que entregadores por aplicativos ganhem 10% do valor das entregas'
 pubDate: 2025-04-01 17:32:26

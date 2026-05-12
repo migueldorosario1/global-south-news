@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.webp"
+heroImage: "/hero/wp6344_imagem-6.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vereador critica conteúdo explícito em show de Anitta e questões de segurança no réveillon do Rio'
 pubDate: 2025-01-06 06:59:25

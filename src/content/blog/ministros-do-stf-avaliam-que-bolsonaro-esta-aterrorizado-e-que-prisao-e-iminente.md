@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-42.jpg"
+heroImage: "/hero/wp3479_imagem-42.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministros do STF avaliam que Bolsonaro está aterrorizado e que prisão é iminente'
 pubDate: 2024-02-26 09:51:08

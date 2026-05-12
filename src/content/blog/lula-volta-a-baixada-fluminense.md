@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg-2.png"
+heroImage: "/hero/wp3060_imagem.jpg-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula volta a Baixada Fluminense!'
 pubDate: 2024-02-07 13:09:25

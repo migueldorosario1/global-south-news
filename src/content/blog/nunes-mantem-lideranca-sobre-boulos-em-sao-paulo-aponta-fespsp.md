@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-77.webp"
+heroImage: "/hero/wp5884_imagem-77.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Nunes mantém liderança sobre Boulos em São Paulo, aponta Fespsp'
 pubDate: 2024-10-27 10:17:36

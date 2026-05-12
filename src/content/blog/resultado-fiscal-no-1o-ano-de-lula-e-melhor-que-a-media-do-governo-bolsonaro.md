@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-01-29T164439.126.jpeg"
+heroImage: "/hero/wp2671_images-2024-01-29T164439.126.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Resultado fiscal no primeiro ano de Lula é melhor que a média do governo Bolsonaro'
 pubDate: 2024-01-29 16:46:52

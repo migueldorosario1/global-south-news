@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-9.webp"
+heroImage: "/hero/wp2789_imagem-9.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gestor da Faria Lima elogia liderança de Lula e Haddad'
 pubDate: 2024-01-31 12:43:01

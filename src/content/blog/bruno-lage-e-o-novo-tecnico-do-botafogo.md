@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-26.png"
+heroImage: "/hero/wp711_image-26.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bruno Lage é o novo técnico do Botafogo'
 pubDate: 2023-07-08 09:42:29

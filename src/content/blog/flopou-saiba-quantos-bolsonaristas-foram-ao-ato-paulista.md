@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/f425x230-125097_139079_11.jpeg"
+heroImage: "/hero/wp3476_f425x230-125097_139079_11.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Flopou? Saiba quantos bolsonaristas foram ao ato na Paulista'
 pubDate: 2024-02-25 21:09:31

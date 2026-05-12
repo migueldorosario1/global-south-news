@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.jpeg"
+heroImage: "/hero/wp5596_imagem-2.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Anielle detalha as abordagens de Silvio Almeida em caso de assédio'
 pubDate: 2024-10-04 14:45:22

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-47.jpg"
+heroImage: "/hero/wp3551_imagem-47.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Índice CNN aponta liderança isolada de Rodrigo Neves na corrida pela Prefeitura de Niterói'
 pubDate: 2024-02-28 15:27:23

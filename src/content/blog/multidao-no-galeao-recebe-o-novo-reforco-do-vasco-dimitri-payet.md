@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/103974977-ri-rio-16-08-2023-payet-desembarque-payet-e-recebido-por-milhares-de-torcedores-do.webp"
+heroImage: "/hero/wp1113_103974977-ri-rio-16-08-2023-payet-desembarque-payet-e-recebido-por-milhares-de-torcedores-do.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Multidão no Galeão recebe o novo reforço do Vasco, Dimitri Payet'
 pubDate: 2023-08-16 20:10:00

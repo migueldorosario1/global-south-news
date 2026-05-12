@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-27.png"
+heroImage: "/hero/wp7415_image-27.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Irregularidades no Rioprevidência travam verbas federais'
 pubDate: 2025-11-20 12:47:52

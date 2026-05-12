@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-23.jpg"
+heroImage: "/hero/wp4529_imagem-23.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Senado avalia PEC para privatização das praias brasileiras'
 pubDate: 2024-05-27 10:01:02

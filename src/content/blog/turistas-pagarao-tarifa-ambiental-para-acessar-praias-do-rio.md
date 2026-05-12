@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-31.png"
+heroImage: "/hero/wp7427_image-31.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Turistas pagarão tarifa ambiental para acessar praias do Rio'
 pubDate: 2025-11-21 13:27:55

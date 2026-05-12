@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-28.png"
+heroImage: "/hero/wp6831_image-28.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Motoboys desafiam a PM e bloqueiam vias em protesto contra apreensões'
 pubDate: 2025-04-25 10:27:49

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg-1.png"
+heroImage: "/hero/wp3035_imagem.jpg-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Acusada de roubar bebê em Niterói é presa em Búzios'
 pubDate: 2024-02-06 08:46:09

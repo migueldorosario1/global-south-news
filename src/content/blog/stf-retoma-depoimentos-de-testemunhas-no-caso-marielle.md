@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-34.webp"
+heroImage: "/hero/wp5132_imagem-34.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'STF retoma depoimentos de testemunhas no Caso Marielle'
 pubDate: 2024-09-10 10:33:36

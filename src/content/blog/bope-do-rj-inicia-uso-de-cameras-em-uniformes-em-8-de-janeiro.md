@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/policia-rj.webp"
+heroImage: "/hero/wp2250_policia-rj.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bope do RJ inicia uso de câmeras em uniformes em 8 de janeiro'
 pubDate: 2024-01-03 10:40:00

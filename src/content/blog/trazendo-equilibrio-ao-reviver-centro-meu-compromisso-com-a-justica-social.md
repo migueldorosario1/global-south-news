@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Cinelandia_1_2021_5_05_17_30_48_1620235848-compressed.jpg"
+heroImage: "/hero/wp1269_Cinelandia_1_2021_5_05_17_30_48_1620235848-compressed.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Edson Santos Trazendo equilíbrio ao Reviver Centro - meu compromisso com a justiça social'
 pubDate: 2023-09-02 07:55:47

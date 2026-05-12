@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20250328-WA0044.jpg"
+heroImage: "/hero/wp6695_IMG-20250328-WA0044.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sintuperj celebra 25 anos com homenagem à força feminina'
 pubDate: 2025-03-28 11:10:53

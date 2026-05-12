@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-32.webp"
+heroImage: "/hero/wp3380_imagem-32.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Desmatamento na Amazônia despenca brutalmente em janeiro'
 pubDate: 2024-02-21 20:07:17

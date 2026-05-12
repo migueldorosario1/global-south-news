@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Liesa_DF_Credito_Leo-Queiroz-scaled-1.jpg"
+heroImage: "/hero/wp1747_Liesa_DF_Credito_Leo-Queiroz-scaled-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval 2024 Venda de Ingressos para as Arquibancadas da Sapucaí Começa em 23 de Novembro'
 pubDate: 2023-10-31 00:00:00

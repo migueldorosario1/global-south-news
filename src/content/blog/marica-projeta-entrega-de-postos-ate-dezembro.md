@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2026-04-02-at-20.21.13-1.jpeg"
+heroImage: "/hero/wp7772_WhatsApp-Image-2026-04-02-at-20.21.13-1.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá projeta entrega de postos até dezembro'
 pubDate: 2026-04-07 11:28:50

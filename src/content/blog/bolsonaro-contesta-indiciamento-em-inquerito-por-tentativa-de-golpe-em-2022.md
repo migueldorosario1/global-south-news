@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-45.webp"
+heroImage: "/hero/wp5773_imagem-45.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro contesta indiciamento em inquérito por tentativa de golpe em 2022'
 pubDate: 2024-10-19 14:44:01

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-38.png"
+heroImage: "/hero/wp1174_image-38.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'CCBB Rio apresenta a peça Brás Cubas'
 pubDate: 2023-08-22 13:11:15

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/transferir-8.jpg"
+heroImage: "/hero/wp2525_transferir-8.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mocidade Independente apresenta inovação com cajueiros-cnões no Carnaval'
 pubDate: 2024-01-23 12:00:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2023-10-17-at-13.52.09.webp"
+heroImage: "/hero/wp2035_WhatsApp-Image-2023-10-17-at-13.52.09.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Abelha é destituido da presidência da cúpula do Comando Vermelho'
 pubDate: 2023-11-28 08:00:00

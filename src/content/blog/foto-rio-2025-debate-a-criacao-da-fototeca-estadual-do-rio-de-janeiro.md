@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20250911-WA0224-1-scaled.jpg"
+heroImage: "/hero/wp7152_IMG-20250911-WA0224-1-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Foto Rio 2025 debate a criação da Fototeca Estadual do Rio de Janeiro'
 pubDate: 2025-09-12 13:15:06

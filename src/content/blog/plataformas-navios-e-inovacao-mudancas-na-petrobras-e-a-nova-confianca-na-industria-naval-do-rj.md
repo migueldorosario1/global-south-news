@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2024-05-23-at-17.13.20.jpeg"
+heroImage: "/hero/wp4515_WhatsApp-Image-2024-05-23-at-17.13.20.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Plataformas, navios e inovação mudanças na Petrobras e a nova confiança na indústria naval do RJ'
 pubDate: 2024-05-24 11:21:33

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp4724_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa diz que 60% do público LGBTQIAPN+ sofre violência de familiares'
 pubDate: 2024-06-29 15:39:32

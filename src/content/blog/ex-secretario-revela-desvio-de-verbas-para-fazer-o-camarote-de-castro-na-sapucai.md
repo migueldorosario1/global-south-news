@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-13.jpg"
+heroImage: "/hero/wp3028_imagem-13.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Grave! Ex-secretário revela desvio de verbas para fazer o camarote de Castro na Sapucaí'
 pubDate: 2024-02-06 08:38:55

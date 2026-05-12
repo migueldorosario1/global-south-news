@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.jpg"
+heroImage: "/hero/wp2830_imagem-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Chiquinho Brazão é exonerado da gestão Paes no Rio'
 pubDate: 2024-02-01 09:22:49

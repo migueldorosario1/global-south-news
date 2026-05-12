@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-53.webp"
+heroImage: "/hero/wp5247_imagem-53.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Boninho deixa Globo após disputa interna com diretor de programação'
 pubDate: 2024-09-16 10:39:51

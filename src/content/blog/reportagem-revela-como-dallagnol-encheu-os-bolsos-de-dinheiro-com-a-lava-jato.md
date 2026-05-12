@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-03-03T083325.274.jpeg"
+heroImage: "/hero/wp3614_images-2024-03-03T083325.274.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Reportagem revela como Dallagnol encheu os bolsos de dinheiro com a Lava Jato'
 pubDate: 2024-03-03 08:37:04

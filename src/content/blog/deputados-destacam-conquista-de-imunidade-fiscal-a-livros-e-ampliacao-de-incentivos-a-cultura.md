@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-28.png"
+heroImage: "/hero/wp719_image-28.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputados destacam conquista de imunidade fiscal a livros e ampliação de incentivos à Cultura'
 pubDate: 2023-07-09 10:05:23

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-17.jpeg"
+heroImage: "/hero/wp5499_imagem-17.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'X pede ao STF para retomar atividades no Brasil após cumprir exigências'
 pubDate: 2024-09-26 15:56:59

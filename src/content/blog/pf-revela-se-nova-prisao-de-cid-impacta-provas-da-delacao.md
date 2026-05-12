@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-11.jpeg"
+heroImage: "/hero/wp3926_images-11.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF revela se nova prisão de Cid impacta provas da delação'
 pubDate: 2024-03-23 11:31:32

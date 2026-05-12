@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg"
+heroImage: "/hero/wp4011_imagem.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PSDB vai anunciar apoio a Tabata na eleição de SP'
 pubDate: 2024-04-01 09:05:05

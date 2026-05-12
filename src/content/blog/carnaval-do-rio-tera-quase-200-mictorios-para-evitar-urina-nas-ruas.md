@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-27.png"
+heroImage: "/hero/wp6625_image-27.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval do Rio terá quase 200 mictórios para evitar urina nas ruas'
 pubDate: 2025-02-26 07:22:07

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp988_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa mostra que cariocas não se sentem representados por Paes'
 pubDate: 2023-08-01 10:35:24

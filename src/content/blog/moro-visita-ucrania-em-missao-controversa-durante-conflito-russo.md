@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-22.webp"
+heroImage: "/hero/wp6066_imagem-22.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Moro visita Ucrânia em missão controversa durante conflito Russo'
 pubDate: 2024-11-29 17:08:34

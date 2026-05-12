@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-69.png"
+heroImage: "/hero/wp875_image-69.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça proíbe exigência de teste HIV para concursos'
 pubDate: 2023-07-22 21:21:16

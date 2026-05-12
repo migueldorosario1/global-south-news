@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/csm_motorista_abandona_onibus_lotado_na_Avenida_Brasil_16c2f3ba1f.jpeg"
+heroImage: "/hero/wp942_csm_motorista_abandona_onibus_lotado_na_Avenida_Brasil_16c2f3ba1f.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Motorista de Ônibus Abandona Volante em Cena Inusitada no Rio de Janeiro'
 pubDate: 2023-07-28 19:05:53

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-3.png"
+heroImage: "/hero/wp7488_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio abre dezembro com mais de 1.500 vagas de trabalho'
 pubDate: 2025-12-01 14:04:47

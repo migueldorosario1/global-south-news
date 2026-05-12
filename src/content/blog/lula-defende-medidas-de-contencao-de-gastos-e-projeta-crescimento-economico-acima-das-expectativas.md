@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.webp"
+heroImage: "/hero/wp6107_imagem-7.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula defende medidas de contenção de gastos e projeta crescimento econômico acima das expectativas'
 pubDate: 2024-12-05 05:21:15

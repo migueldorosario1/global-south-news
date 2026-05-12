@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg"
+heroImage: "/hero/wp5603_imagem.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quaquá é eleito prefeito de Maricá pela terceira vez e consolida hegemonia do PT na cidade'
 pubDate: 2024-10-07 11:14:14

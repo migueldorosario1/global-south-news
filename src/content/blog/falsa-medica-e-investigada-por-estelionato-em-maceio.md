@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-47.jpg"
+heroImage: "/hero/wp4372_imagem-47.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Falsa médica é investigada por estelionato em Maceió'
 pubDate: 2024-04-30 09:37:32

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-03-05T210316.513.jpeg"
+heroImage: "/hero/wp3660_images-2024-03-05T210316.513.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Trabalhadores da RLAM vão paralisar as atividades nesta quarta'
 pubDate: 2024-03-05 21:05:22

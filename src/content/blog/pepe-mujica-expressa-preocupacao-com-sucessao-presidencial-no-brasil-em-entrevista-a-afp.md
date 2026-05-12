@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.webp"
+heroImage: "/hero/wp6088_imagem-2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pepe Mujica se diz preocupado com o futuro político do Brasil'
 pubDate: 2024-12-01 11:36:55

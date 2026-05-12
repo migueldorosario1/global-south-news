@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp6456_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Constituição impede nova Força Municipal armada no Rio, diz entidade'
 pubDate: 2025-01-14 13:06:19

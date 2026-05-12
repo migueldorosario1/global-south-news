@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.webp"
+heroImage: "/hero/wp4552_imagem-6.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pablo Marçal é um dos favoritos na disputa pela prefeitura de SP'
 pubDate: 2024-05-29 09:41:43

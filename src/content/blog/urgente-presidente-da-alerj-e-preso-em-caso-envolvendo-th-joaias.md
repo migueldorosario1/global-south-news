@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-11.png"
+heroImage: "/hero/wp7511_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Urgente! Presidente da Alerj é preso em caso envolvendo TH Joias'
 pubDate: 2025-12-03 11:47:14

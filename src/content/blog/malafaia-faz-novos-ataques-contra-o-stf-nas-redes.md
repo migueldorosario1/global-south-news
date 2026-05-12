@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-18.jpg"
+heroImage: "/hero/wp4179_imagem-18.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Malafaia faz novos ataques contra o STF nas redes'
 pubDate: 2024-04-15 08:57:18

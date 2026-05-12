@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Screenshot_20230728_190057_WhatsApp.webp"
+heroImage: "/hero/wp951_Screenshot_20230728_190057_WhatsApp.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Urgente Incêndio de grandes proporções atinge mata, em Caxias; Veja'
 pubDate: 2023-07-28 20:10:47

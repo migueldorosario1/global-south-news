@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.jpg"
+heroImage: "/hero/wp4397_imagem-4.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil dispara posição em ranking global de liberdade de imprensa'
 pubDate: 2024-05-03 09:53:09

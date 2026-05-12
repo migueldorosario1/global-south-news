@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-11.png"
+heroImage: "/hero/wp6985_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ato em Copacabana cobrará rompimento das relações diplomáticas do Brasil com Israel'
 pubDate: 2025-07-04 17:54:58

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.jpg"
+heroImage: "/hero/wp3298_imagem-3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pobreza explode na Argentina e atinge nível recorde no governo Milei'
 pubDate: 2024-02-18 17:19:17

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.jpg"
+heroImage: "/hero/wp4025_imagem-2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula se reúne com ministros para debater redução na conta de luz'
 pubDate: 2024-04-02 08:51:00

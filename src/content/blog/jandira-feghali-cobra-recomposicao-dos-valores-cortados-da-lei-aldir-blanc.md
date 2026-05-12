@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-6.png"
+heroImage: "/hero/wp6674_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jandira Feghali cobra “recomposição dos valores” cortados da Lei Aldir Blanc'
 pubDate: 2025-03-26 13:00:43

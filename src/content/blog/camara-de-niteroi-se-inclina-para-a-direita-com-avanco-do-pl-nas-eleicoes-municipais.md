@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.jpg"
+heroImage: "/hero/wp5707_imagem-3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Câmara de Niterói se inclina para a direita com avanço do PL nas eleições municipais'
 pubDate: 2024-10-14 17:13:10

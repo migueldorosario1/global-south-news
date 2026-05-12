@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/101703842-ri-rio-de-janeiro-rj-08-01-2023-blocos-de-pre-carnaval-agitam-a-praca-xv-no-centro-da-ci.webp"
+heroImage: "/hero/wp2278_101703842-ri-rio-de-janeiro-rj-08-01-2023-blocos-de-pre-carnaval-agitam-a-praca-xv-no-centro-da-ci.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval 2024 datas e feriados no Rio de Janeiro'
 pubDate: 2024-01-04 10:00:00

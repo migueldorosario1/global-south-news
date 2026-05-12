@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-58.jpeg"
+heroImage: "/hero/wp3252_images-58.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro teve surto e está paranóico com a possibilidade de ser preso'
 pubDate: 2024-02-16 09:25:53

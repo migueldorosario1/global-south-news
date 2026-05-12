@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-36.png"
+heroImage: "/hero/wp1684_image-36.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Silvio Tendler lança filme sobre blogosfera no Rio nesta sexta-feira (27/10)'
 pubDate: 2023-10-25 10:30:53

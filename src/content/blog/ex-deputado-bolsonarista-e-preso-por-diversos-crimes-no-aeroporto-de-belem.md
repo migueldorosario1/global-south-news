@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.png"
+heroImage: "/hero/wp4241_imagem-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ex-deputado bolsonarista é preso por diversos crimes no aeroporto de Belém'
 pubDate: 2024-04-18 09:34:10

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-38.png"
+heroImage: "/hero/wp7307_image-38.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula quer evitar rótulo de defensor de traficante'
 pubDate: 2025-10-30 09:37:21

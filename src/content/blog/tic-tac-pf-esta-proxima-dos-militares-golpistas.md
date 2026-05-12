@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.png"
+heroImage: "/hero/wp3346_imagem-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tic Tac! PF está próxima dos militares golpistas'
 pubDate: 2024-02-20 16:10:10

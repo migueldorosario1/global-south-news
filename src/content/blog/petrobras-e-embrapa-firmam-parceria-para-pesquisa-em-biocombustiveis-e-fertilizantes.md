@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-44.webp"
+heroImage: "/hero/wp5189_imagem-44.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Petrobras e Embrapa firmam parceria para pesquisa em Biocombustíveis e Fertilizantes'
 pubDate: 2024-09-11 19:41:48

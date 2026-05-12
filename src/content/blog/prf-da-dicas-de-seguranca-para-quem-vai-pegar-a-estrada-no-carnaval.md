@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-22.webp"
+heroImage: "/hero/wp3117_imagem-22.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PRF dá dicas de segurança para quem vai pegar a estrada no carnaval'
 pubDate: 2024-02-10 05:39:00

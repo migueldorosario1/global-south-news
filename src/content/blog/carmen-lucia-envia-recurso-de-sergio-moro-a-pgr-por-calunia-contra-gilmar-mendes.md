@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-63.webp"
+heroImage: "/hero/wp5281_imagem-63.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cármen Lúcia envia recurso de Sergio Moro à PGR por calúnia contra Gilmar Mendes'
 pubDate: 2024-09-16 20:44:46

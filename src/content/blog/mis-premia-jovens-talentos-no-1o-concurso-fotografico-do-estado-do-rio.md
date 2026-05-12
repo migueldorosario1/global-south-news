@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-32-e1766079378671.png"
+heroImage: "/hero/wp7579_image-32-e1766079378671.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'MIS premia jovens talentos no 1º Concurso Fotográfico do Estado do Rio'
 pubDate: 2025-12-18 14:36:37

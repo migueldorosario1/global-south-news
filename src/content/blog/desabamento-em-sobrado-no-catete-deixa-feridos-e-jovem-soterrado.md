@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-25.png"
+heroImage: "/hero/wp7556_image-25.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Desabamento em sobrado no Catete deixa feridos e jovem soterrado'
 pubDate: 2025-12-08 12:54:12

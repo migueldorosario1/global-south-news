@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-54.webp"
+heroImage: "/hero/wp5797_imagem-54.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Glauber Braga denuncia perseguição política em processo de cassação'
 pubDate: 2024-10-19 15:53:44

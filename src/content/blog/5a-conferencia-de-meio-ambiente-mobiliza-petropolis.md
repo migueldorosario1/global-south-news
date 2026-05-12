@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-25.png"
+heroImage: "/hero/wp1365_image-25.png"
 description: "Matéria arquivada do Rio Carta"
 title: '5ª Conferência de Meio Ambiente mobiliza Petrópolis'
 pubDate: 2023-09-17 23:56:45

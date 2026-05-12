@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg"
+heroImage: "/hero/wp2594_imagem.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Abin Paralela Carlos Bolsonaro é alvo da PF'
 pubDate: 2024-01-29 09:42:44

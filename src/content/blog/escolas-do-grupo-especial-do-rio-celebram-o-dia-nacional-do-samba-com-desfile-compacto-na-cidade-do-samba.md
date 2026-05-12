@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2022-02-24-at-20.27.04.jpeg"
+heroImage: "/hero/wp2064_WhatsApp-Image-2022-02-24-at-20.27.04.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Escolas do grupo especial do rio celebram o Dia Nacional do Samba com desfile compacto na Cidade do Samba'
 pubDate: 2023-12-02 07:30:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-16.webp"
+heroImage: "/hero/wp5666_imagem-16.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Datafolha Ricardo Nunes lidera intenções de voto para segundo turno em SP'
 pubDate: 2024-10-10 20:39:29

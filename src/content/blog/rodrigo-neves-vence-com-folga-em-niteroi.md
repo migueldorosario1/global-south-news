@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-11.jpg"
+heroImage: "/hero/wp5889_imagem-11.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rodrigo Neves vence com folga em Niterói'
 pubDate: 2024-10-27 19:45:30

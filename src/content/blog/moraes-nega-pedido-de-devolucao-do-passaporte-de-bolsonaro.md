@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.jpg"
+heroImage: "/hero/wp4031_imagem-4.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Moraes nega pedido de devolução do passaporte de Bolsonaro'
 pubDate: 2024-04-02 08:58:09

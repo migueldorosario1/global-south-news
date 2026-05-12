@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/domingos-brazao-marielle-franco.webp"
+heroImage: "/hero/wp2575_domingos-brazao-marielle-franco.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brazão, suspeito no caso Marielle, ganha direito a férias remuneradas no TCE-RJ'
 pubDate: 2024-01-28 08:30:00

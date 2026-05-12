@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-20.jpg"
+heroImage: "/hero/wp2785_imagem-20.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Taxa de desemprego no Brasil fica no patamar da pré-Lava Jato'
 pubDate: 2024-01-31 12:42:58

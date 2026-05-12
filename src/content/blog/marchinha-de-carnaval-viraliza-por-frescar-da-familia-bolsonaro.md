@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-21.jpeg"
+heroImage: "/hero/wp3172_images-21.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Marchinha de carnaval viraliza por frescar da família Bolsonaro'
 pubDate: 2024-02-12 11:17:41

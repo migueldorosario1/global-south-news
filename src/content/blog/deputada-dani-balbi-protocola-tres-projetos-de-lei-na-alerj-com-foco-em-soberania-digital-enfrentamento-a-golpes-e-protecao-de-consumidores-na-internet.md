@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-6.png"
+heroImage: "/hero/wp7163_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputada Dani Balbi protocola três projetos de lei na Alerj com foco em soberania digital, enfrentamento a golpes e proteção de consumidores na internet'
 pubDate: 2025-09-24 12:53:17

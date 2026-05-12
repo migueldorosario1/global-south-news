@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-43.png"
+heroImage: "/hero/wp7471_image-43.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio regulamenta spray de pimenta para autodefesa feminina'
 pubDate: 2025-11-27 13:10:38

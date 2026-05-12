@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-81.png"
+heroImage: "/hero/wp912_image-81.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jandira Feghali João Donato, um amoroso gênio!'
 pubDate: 2023-07-27 12:57:35

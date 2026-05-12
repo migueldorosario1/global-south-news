@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp2200_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Diana Conrado Tarifa Zero nos Transportes Públicos - um sonho possível para os cariocas'
 pubDate: 2023-12-23 12:30:42

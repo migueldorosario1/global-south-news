@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.jpg"
+heroImage: "/hero/wp5177_imagem-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Conselho de Ética da Câmara prova investigação contra Deputado Glauber Braga por quebra de decoro'
 pubDate: 2024-09-11 18:58:28

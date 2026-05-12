@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.jpg"
+heroImage: "/hero/wp4449_imagem-10.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa revela que Lira e Pacheco são os políticos mais rejeitados do Brasil'
 pubDate: 2024-05-09 09:34:55

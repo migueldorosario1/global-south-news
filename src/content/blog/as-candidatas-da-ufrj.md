@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20240907-WA0293-scaled.jpg"
+heroImage: "/hero/wp5118_IMG-20240907-WA0293-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'As candidatas da UFRJ'
 pubDate: 2024-09-08 17:56:07

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp6868_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj aprova regalias para MP, Judiciário e Tribunal de Contas do RJ'
 pubDate: 2025-05-23 13:32:57

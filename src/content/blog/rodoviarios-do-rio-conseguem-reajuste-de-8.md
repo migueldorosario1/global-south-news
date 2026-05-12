@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-23.png"
+heroImage: "/hero/wp694_image-23.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rodoviários do Rio conseguem reajuste de 8%'
 pubDate: 2023-07-07 19:50:15

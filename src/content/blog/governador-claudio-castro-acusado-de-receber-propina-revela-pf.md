@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/perfil-governador-rj-castro.webp"
+heroImage: "/hero/wp2471_perfil-governador-rj-castro.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governador Cláudio Castro acusado de receber propina, revela PF'
 pubDate: 2024-01-18 11:29:34

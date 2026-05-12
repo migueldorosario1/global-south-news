@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-80.webp"
+heroImage: "/hero/wp5900_imagem-80.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PGR recorre de decisão de Mendonça que encerra investigações sobre governador do Rio'
 pubDate: 2024-10-29 12:27:05

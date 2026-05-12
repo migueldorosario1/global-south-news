@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-08-17T102234.793.jpeg"
+heroImage: "/hero/wp4835_images-2024-08-17T102234.793.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio de Janeiro é eleito melhor destino para vida noturna no mundo'
 pubDate: 2024-08-17 10:25:19

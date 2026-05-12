@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-19.png"
+heroImage: "/hero/wp1072_image-19.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'ALERJ concede o Prêmio Dandara para a cantora Preta Gil'
 pubDate: 2023-08-09 16:06:29

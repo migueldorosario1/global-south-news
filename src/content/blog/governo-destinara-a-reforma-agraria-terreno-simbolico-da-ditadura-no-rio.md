@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-30.png"
+heroImage: "/hero/wp1135_image-30.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo destinará à reforma agrária terreno simbólico da ditadura no Rio'
 pubDate: 2023-08-19 09:35:30

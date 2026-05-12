@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-33.png"
+heroImage: "/hero/wp6842_image-33.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Previsão do tempo frente fria avança e muda o clima no Rio'
 pubDate: 2025-04-28 14:37:21

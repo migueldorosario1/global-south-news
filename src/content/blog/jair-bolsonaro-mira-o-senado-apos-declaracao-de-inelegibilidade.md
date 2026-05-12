@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-93.webp"
+heroImage: "/hero/wp5384_imagem-93.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jair Bolsonaro mira o senado após declaração de inelegibilidade'
 pubDate: 2024-09-23 20:16:58

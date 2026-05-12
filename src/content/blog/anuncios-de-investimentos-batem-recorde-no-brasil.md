@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.webp"
+heroImage: "/hero/wp4981_imagem.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Anúncios de investimentos batem recorde no Brasil, diz relatório de banco'
 pubDate: 2024-09-02 16:35:08

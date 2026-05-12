@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/carteira-de-trabalho-14042023163954655.jpeg"
+heroImage: "/hero/wp2132_carteira-de-trabalho-14042023163954655.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Reajuste do Salário Mínimo para R$ 1.412 em 2024'
 pubDate: 2023-12-12 00:00:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Screenshot-2023-02-26-15.21.50.png"
+heroImage: "/hero/wp3217_Screenshot-2023-02-26-15.21.50.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Herdeiros da cúpula do Jogo do Bicho do Rio dominam Carnaval com fichas limpas'
 pubDate: 2024-02-15 08:14:05

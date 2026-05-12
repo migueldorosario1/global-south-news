@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.webp"
+heroImage: "/hero/wp5011_imagem-10.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Projeções econômicas expectativas para inflação e PIB sobem, selic deve permanecer em 2024'
 pubDate: 2024-09-02 19:12:29

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-27.png"
+heroImage: "/hero/wp1626_image-27.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Parada LGBT do Rio irá às ruas contra retrocesso em direitos'
 pubDate: 2023-10-19 10:08:58

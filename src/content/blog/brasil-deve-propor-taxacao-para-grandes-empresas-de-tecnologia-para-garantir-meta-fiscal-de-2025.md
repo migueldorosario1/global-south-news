@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.webp"
+heroImage: "/hero/wp4999_imagem-6.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil deve propor taxação para grandes empresas de tecnologia para garantir meta fiscal de 2025'
 pubDate: 2024-09-02 18:39:06

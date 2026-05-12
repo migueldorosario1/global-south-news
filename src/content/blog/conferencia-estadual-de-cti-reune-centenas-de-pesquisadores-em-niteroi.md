@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp3501_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Conferência Estadual de CT&I reúne centenas de pesquisadores em Niterói'
 pubDate: 2024-02-27 00:22:57

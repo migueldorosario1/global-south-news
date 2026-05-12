@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-11.png"
+heroImage: "/hero/wp1317_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi “Você tem fome e sede de quê?”, gritam os excluídos'
 pubDate: 2023-09-06 19:15:49

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-3.png"
+heroImage: "/hero/wp1000_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Confronto entre PM e traficantes deixa 10 mortos e 3 feridos na Penha; um dos baleados é policial'
 pubDate: 2023-08-02 11:48:33

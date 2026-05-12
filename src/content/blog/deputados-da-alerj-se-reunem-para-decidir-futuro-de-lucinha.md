@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-17-scaled.webp"
+heroImage: "/hero/wp3067_imagem-17-scaled.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputados da Alerj se reúnem para decidir futuro de Lucinha'
 pubDate: 2024-02-07 14:03:00

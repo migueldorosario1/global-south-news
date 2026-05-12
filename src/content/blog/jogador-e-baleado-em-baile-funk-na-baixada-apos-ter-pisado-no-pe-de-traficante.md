@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.webp"
+heroImage: "/hero/wp6329_imagem-3.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jogador é baleado em baile funk na Baixada após ter pisado no pé de traficante'
 pubDate: 2025-01-03 10:54:47

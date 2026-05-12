@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-6.png"
+heroImage: "/hero/wp579_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo do RJ publica decreto para que PM instale câmeras em fardas'
 pubDate: 2023-07-04 18:55:46

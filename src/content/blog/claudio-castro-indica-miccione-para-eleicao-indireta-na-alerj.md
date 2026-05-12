@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-6-e1769193402512.png"
+heroImage: "/hero/wp7611_image-6-e1769193402512.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cláudio Castro indica Miccione para eleição indireta na Alerj'
 pubDate: 2026-01-23 15:38:46

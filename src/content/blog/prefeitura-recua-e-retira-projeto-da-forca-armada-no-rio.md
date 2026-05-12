@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp6679_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura recua e retira projeto da força armada no Rio'
 pubDate: 2025-03-27 09:56:24

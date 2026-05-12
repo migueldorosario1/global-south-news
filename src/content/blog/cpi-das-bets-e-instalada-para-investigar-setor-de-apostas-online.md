@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-68.webp"
+heroImage: "/hero/wp5850_imagem-68.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'CPI das Bets é instalada para investigar setor de apostas online nesta sexta-feira'
 pubDate: 2024-10-24 20:15:23

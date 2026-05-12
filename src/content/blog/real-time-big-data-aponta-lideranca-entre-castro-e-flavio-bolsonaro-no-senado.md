@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp7506_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Real Time Big Data aponta liderança entre Castro e Flávio Bolsonaro no Senado'
 pubDate: 2025-12-03 11:36:41

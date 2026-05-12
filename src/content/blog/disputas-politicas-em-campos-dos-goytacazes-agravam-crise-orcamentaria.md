@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/thumb.jpg"
+heroImage: "/hero/wp2406_thumb.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Disputas políticas em Campos dos Goytacazes agravam crise orçamentária'
 pubDate: 2024-01-12 14:40:00

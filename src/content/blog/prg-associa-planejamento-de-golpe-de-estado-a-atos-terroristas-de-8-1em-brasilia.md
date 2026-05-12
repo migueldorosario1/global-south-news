@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-31.webp"
+heroImage: "/hero/wp5731_imagem-31.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PRG associa planejamento de golpe de estado a atos terroristas de 8/1em Brasília'
 pubDate: 2024-10-17 20:03:59

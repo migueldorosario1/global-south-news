@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Screenshot_20251122-184857_Instagram-e1763848916855.jpg"
+heroImage: "/hero/wp7436_Screenshot_20251122-184857_Instagram-e1763848916855.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gab Van se filia ao PCdoB em evento marcado por representatividade e fortalecimento de lideranças trans no Rio'
 pubDate: 2025-11-22 19:05:46

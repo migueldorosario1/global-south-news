@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Enel-anuncia-novas-vagas-de-emprego-para-inicio-imediato-nas-regioes-de-SP-RJ-e-Ceara.jpg"
+heroImage: "/hero/wp1612_Enel-anuncia-novas-vagas-de-emprego-para-inicio-imediato-nas-regioes-de-SP-RJ-e-Ceara.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Enel oferece até 75% de desconto para renegociar dívidas de energia elétrica'
 pubDate: 2023-10-18 12:47:41

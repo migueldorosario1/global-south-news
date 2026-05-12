@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-19.jpg"
+heroImage: "/hero/wp4537_imagem-19.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula anuncia doação de 200 mil toneladas de carne para o RS'
 pubDate: 2024-05-28 09:32:49

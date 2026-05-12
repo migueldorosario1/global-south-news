@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-20.png"
+heroImage: "/hero/wp7543_image-20.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Real Time Big Data aponta Paes como favorito ao governo do RJ em 2026'
 pubDate: 2025-12-06 19:49:53

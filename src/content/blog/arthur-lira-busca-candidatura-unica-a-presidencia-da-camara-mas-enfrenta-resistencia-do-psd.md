@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-38.webp"
+heroImage: "/hero/wp5145_imagem-38.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Arthur Lira busca candidatura única à presidência da Câmara, mas enfrenta resistência do PSD'
 pubDate: 2024-09-10 16:42:35

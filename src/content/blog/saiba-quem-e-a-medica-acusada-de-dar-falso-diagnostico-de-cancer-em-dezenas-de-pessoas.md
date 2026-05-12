@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-22.jpg"
+heroImage: "/hero/wp3869_imagem-22.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Saiba quem é a médica acusada de dar falso diagnóstico de câncer em dezenas de pessoas'
 pubDate: 2024-03-19 09:15:59

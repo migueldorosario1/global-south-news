@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/cdd1.webp"
+heroImage: "/hero/wp1048_cdd1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Adolescente de 13 anos é morto em ação da PM na Cidade de Deus'
 pubDate: 2023-08-07 08:36:29

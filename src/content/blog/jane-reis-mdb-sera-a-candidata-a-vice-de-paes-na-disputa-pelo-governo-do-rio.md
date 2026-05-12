@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-14-e1771521398186.png"
+heroImage: "/hero/wp7675_image-14-e1771521398186.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jane Reis (MDB) será a candidata a vice de Paes na disputa pelo governo do Rio'
 pubDate: 2026-02-19 14:23:17

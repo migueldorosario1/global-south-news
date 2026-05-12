@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-25.webp"
+heroImage: "/hero/wp6291_imagem-25.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Especialista em economia defende uso do renminbi digital diante de tensões EUA-China'
 pubDate: 2024-12-27 09:30:23

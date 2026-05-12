@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-85.webp"
+heroImage: "/hero/wp5359_imagem-85.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministro do STF determina soltura de ex-diretor da Gaviões da Fiel preso na Argentina'
 pubDate: 2024-09-20 11:06:11

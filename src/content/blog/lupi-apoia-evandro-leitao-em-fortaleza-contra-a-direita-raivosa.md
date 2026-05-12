@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-30.webp"
+heroImage: "/hero/wp5728_imagem-30.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lupi apoia Evandro Leitão em Fortaleza contra a direita raivosa'
 pubDate: 2024-10-17 19:47:10

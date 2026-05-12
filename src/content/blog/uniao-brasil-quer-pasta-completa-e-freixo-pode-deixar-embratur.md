@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp163_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'União Brasil quer pasta completa e Freixo pode deixar Embratur'
 pubDate: 2023-06-15 09:08:22

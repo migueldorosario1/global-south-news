@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-18.png"
+heroImage: "/hero/wp1946_image-18.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Diana Conrado Cidade do Rio não está preparada para mudanças climáticas'
 pubDate: 2023-11-14 13:02:27

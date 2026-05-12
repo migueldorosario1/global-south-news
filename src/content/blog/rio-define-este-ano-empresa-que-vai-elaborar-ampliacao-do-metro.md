@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-26.png"
+heroImage: "/hero/wp1621_image-26.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio define este ano empresa que vai elaborar ampliação do metrô'
 pubDate: 2023-10-18 14:16:33

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Screenshot_20240419-113816_Instagram.jpg"
+heroImage: "/hero/wp4262_Screenshot_20240419-113816_Instagram.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Professora Trans, Sophia Pereira é aposta do PCdoB como vereadora em Angra'
 pubDate: 2024-04-19 11:30:52

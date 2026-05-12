@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5.png"
+heroImage: "/hero/wp6668_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputada quer garantir acesso ao DIU em hospitais no Estado do RJ'
 pubDate: 2025-03-26 12:43:23

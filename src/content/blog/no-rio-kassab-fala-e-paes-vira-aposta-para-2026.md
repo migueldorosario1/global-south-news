@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-11.png"
+heroImage: "/hero/wp6780_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'No Rio, Kassab fala e Paes vira aposta para 2026'
 pubDate: 2025-04-08 10:24:24

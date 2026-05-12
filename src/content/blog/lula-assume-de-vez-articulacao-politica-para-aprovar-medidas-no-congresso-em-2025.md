@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-5.jpg"
+heroImage: "/hero/wp6361_imagem-5.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula assume de vez articulação política para aprovar medidas no Congresso em 2025'
 pubDate: 2025-01-07 16:50:44

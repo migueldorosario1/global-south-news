@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.jpg"
+heroImage: "/hero/wp6150_imagem-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ex-secretário de Turismo é baleado após entrar em comunidade no Rio'
 pubDate: 2024-12-13 12:41:15

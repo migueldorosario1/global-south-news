@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-75.webp"
+heroImage: "/hero/wp5328_imagem-75.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Copom eleva Selic para 10,75% e recebe críticas de Lindbergh Farias'
 pubDate: 2024-09-19 18:48:32

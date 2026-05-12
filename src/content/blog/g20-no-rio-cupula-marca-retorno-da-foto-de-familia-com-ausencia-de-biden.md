@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.jpg"
+heroImage: "/hero/wp6019_imagem-2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'G20 no Rio Cúpula marca retorno da foto de família com ausência de Biden'
 pubDate: 2024-11-20 10:27:38

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/gracyanne.webp"
+heroImage: "/hero/wp2333_gracyanne.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Camila Moura, esposa de Léo Moura, surpreende com semelhança com Gracyanne Barbosa'
 pubDate: 2024-01-10 17:30:00

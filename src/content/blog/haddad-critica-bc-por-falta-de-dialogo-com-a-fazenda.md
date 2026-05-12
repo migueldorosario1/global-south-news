@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-25.jpg"
+heroImage: "/hero/wp4560_imagem-25.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Haddad critica BC por falta de diálogo com a Fazenda'
 pubDate: 2024-05-31 08:50:58

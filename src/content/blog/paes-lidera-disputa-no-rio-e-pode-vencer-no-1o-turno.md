@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-45-scaled.jpg"
+heroImage: "/hero/wp4361_imagem-45-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes lidera disputa no Rio e pode vencer no 1º turno'
 pubDate: 2024-04-30 09:25:05

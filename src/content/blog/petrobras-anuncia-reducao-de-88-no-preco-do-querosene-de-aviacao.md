@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.webp"
+heroImage: "/hero/wp4990_imagem-3.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Petrobras anuncia redução de 8,8% no preço do querosene de aviação'
 pubDate: 2024-09-02 18:05:16

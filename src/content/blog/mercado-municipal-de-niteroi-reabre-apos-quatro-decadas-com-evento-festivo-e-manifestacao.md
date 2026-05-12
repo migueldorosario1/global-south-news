@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG_0100.webp"
+heroImage: "/hero/wp931_IMG_0100.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mercado Municipal de Niterói reabre após quatro décadas, com evento festivo e manifestação'
 pubDate: 2023-07-28 07:03:00

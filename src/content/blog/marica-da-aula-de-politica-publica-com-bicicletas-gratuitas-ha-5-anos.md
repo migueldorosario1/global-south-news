@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Foto_-Marcos-Fabricio.jpg"
+heroImage: "/hero/wp7748_Foto_-Marcos-Fabricio.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá dá aula de política pública com bicicletas gratuitas há 5 anos'
 pubDate: 2026-03-20 16:33:55

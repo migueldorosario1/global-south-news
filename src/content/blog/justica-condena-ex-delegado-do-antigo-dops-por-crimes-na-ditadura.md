@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-6.png"
+heroImage: "/hero/wp188_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça condena ex-delegado do antigo Dops por crimes na Ditadura'
 pubDate: 2023-06-15 10:10:17

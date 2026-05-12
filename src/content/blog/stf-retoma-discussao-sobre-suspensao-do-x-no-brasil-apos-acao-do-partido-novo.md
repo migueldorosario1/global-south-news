@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-14.webp"
+heroImage: "/hero/wp5032_imagem-14.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'STF retoma discussão sobre suspensão do X no Brasil após ação do Partido Novo'
 pubDate: 2024-09-03 13:23:34

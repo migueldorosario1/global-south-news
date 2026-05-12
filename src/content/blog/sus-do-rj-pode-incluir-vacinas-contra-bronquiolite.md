@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-3.png"
+heroImage: "/hero/wp6968_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'SUS do RJ pode incluir vacinas contra bronquiolite'
 pubDate: 2025-07-02 11:32:19

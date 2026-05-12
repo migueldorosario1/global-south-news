@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.webp"
+heroImage: "/hero/wp6104_imagem-6.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alckmin destaca crescimento econômico do Brasil e alerta contra acomodação em seminário da câmara'
 pubDate: 2024-12-05 05:03:16

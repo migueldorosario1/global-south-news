@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-23.png"
+heroImage: "/hero/wp1596_image-23.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministro da Justiça se reúne com forças federais no Rio'
 pubDate: 2023-10-16 16:17:35

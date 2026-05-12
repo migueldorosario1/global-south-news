@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.png"
+heroImage: "/hero/wp4575_imagem.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministro promete medidas para preservar empregos em áreas atingidas por enchentes no RS'
 pubDate: 2024-06-03 08:36:23

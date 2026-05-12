@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-70.webp"
+heroImage: "/hero/wp5859_imagem-70.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann critica diretor do BC por comentários sobre alta de juros'
 pubDate: 2024-10-24 20:50:05

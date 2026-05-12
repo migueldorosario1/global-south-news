@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-22.png"
+heroImage: "/hero/wp522_image-22.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'As esperanças do PL em relação a Braga Netto na prefeitura do Rio'
 pubDate: 2023-06-22 14:59:36

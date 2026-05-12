@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-45.png"
+heroImage: "/hero/wp786_image-45.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'No Rio, espetáculo Antes da Aula entra em cartaz nesta semana em Santa Teresa'
 pubDate: 2023-07-13 00:22:32

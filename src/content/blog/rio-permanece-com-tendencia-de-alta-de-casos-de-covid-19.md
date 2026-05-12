@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-31.png"
+heroImage: "/hero/wp1379_image-31.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio permanece com tendência de alta de casos de covid-19'
 pubDate: 2023-09-19 10:56:40

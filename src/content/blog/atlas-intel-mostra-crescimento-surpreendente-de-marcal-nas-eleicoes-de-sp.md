@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.jpeg"
+heroImage: "/hero/wp5163_imagem-7.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Atlas/Intel mostra crescimento surpreendente de Marçal nas eleições de SP'
 pubDate: 2024-09-11 10:29:27

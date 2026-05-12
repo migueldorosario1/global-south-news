@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/fd_corinthians_0801-487-scaled.jpg"
+heroImage: "/hero/wp1064_fd_corinthians_0801-487-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ex-jogador Emerson Sheik é cogitado como possível candidato à prefeitura de Mangaratiba pelo PL'
 pubDate: 2023-08-08 07:00:00

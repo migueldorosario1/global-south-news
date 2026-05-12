@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/operacao-dinastia-foi-realizada-para-prender-liderancas-da-milicia-de-luis-antonio-da-silva-braga-o-zinho-1661428252489_v2_900x506-1.jpg"
+heroImage: "/hero/wp2203_operacao-dinastia-foi-realizada-para-prender-liderancas-da-milicia-de-luis-antonio-da-silva-braga-o-zinho-1661428252489_v2_900x506-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Queda de zinho abala estrutura das milícias no Rio'
 pubDate: 2023-12-26 10:49:17

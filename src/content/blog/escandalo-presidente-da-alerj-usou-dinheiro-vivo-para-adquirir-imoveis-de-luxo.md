@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/c82f1d81bd60ae3b4eee860837b4bd3822062023101647649449bf39670.jpeg"
+heroImage: "/hero/wp1082_c82f1d81bd60ae3b4eee860837b4bd3822062023101647649449bf39670.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Escândalo Presidente da Alerj Usou Dinheiro Vivo para Adquirir Imóveis de Luxo'
 pubDate: 2023-08-11 06:43:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/49c122de-7b35-453d-83c9-ead69d9816a6.jpg"
+heroImage: "/hero/wp2151_49c122de-7b35-453d-83c9-ead69d9816a6.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura do Rio notifica parque bondinho sobre uso de imagens do Pão de Açúcar'
 pubDate: 2023-12-14 09:20:00

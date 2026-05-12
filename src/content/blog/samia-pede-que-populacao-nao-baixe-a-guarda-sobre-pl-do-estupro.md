@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-20.jpg"
+heroImage: "/hero/wp4684_imagem-20.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sâmia pede que população não baixe a guarda sobre PL do Estupro'
 pubDate: 2024-06-17 09:10:43

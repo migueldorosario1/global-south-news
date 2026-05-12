@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.png"
+heroImage: "/hero/wp2878_imagem.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Embaixador chinês nos EUA pede fim de obstáculos a intercâmbios educacionais'
 pubDate: 2024-02-04 05:51:00

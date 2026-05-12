@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-3.png"
+heroImage: "/hero/wp6731_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Violência cresce no Maracanã e transforma rotina da Uerj'
 pubDate: 2025-04-02 14:29:21

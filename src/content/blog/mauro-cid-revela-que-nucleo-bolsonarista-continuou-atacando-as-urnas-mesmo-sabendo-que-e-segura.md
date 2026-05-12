@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-03-12T135404.844.jpeg"
+heroImage: "/hero/wp3727_images-2024-03-12T135404.844.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mauro Cid revela que núcleo bolsonarista continuou atacando as urnas mesmo sabendo que é segura'
 pubDate: 2024-03-12 13:59:26

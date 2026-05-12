@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/FvD27K7WYBADg71.jpg"
+heroImage: "/hero/wp1860_FvD27K7WYBADg71.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes assina projeto que abre caminho para reforma e ampliação de São Januário, entenda proximos passos'
 pubDate: 2023-11-08 16:00:00

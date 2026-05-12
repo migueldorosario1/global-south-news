@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-48.png"
+heroImage: "/hero/wp803_image-48.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mostra na Biblioteca Nacional conta história dos periódicos do país'
 pubDate: 2023-07-14 18:30:58

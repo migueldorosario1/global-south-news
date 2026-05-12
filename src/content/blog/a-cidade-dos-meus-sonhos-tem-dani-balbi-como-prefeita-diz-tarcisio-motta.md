@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/4970141060240092618_121.jpg"
+heroImage: "/hero/wp4211_4970141060240092618_121.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'A cidade dos meus sonhos tem Dani Balbi como prefeita, diz Tarcísio Motta'
 pubDate: 2024-04-16 14:31:02

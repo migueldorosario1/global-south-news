@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-60.webp"
+heroImage: "/hero/wp5270_imagem-60.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Caixa Econômica Federal fecha acordos trabalhistas de R$ 14 milhões após casos de assédio'
 pubDate: 2024-09-16 20:00:31

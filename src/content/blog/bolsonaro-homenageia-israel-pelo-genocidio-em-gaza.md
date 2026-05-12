@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/20240225150228_cd1a3b1f3287d12835d5667e139714bcc9b48e8204c2be743b182fd95da68cfd.png"
+heroImage: "/hero/wp3463_20240225150228_cd1a3b1f3287d12835d5667e139714bcc9b48e8204c2be743b182fd95da68cfd.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro homenageia Israel pelo genocídio em Gaza'
 pubDate: 2024-02-25 16:33:35

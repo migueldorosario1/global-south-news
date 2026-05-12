@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-22.jpg"
+heroImage: "/hero/wp3197_imagem-22.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fervo da Lud atrai multidão recorde no Centro do Rio'
 pubDate: 2024-02-14 09:48:18

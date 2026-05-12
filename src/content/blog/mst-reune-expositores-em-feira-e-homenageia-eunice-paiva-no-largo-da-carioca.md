@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG_2557-scaled.jpg"
+heroImage: "/hero/wp7563_IMG_2557-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'MST reúne expositores em Feira e homenageia Eunice Paiva no Largo da Carioca'
 pubDate: 2025-12-08 13:22:16

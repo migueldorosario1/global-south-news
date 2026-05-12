@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-49.jpg"
+heroImage: "/hero/wp3565_imagem-49.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gilmar avalia o discurso de Bolsonaro no ato da Paulista'
 pubDate: 2024-02-28 15:55:24

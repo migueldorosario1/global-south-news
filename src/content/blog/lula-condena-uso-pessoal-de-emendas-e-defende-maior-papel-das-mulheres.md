@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-31.webp"
+heroImage: "/hero/wp5094_imagem-31.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula condena uso pessoal de emendas e defende maior papel das mulheres'
 pubDate: 2024-09-05 20:40:43

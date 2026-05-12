@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-23.png"
+heroImage: "/hero/wp7028_image-23.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PCdoB realiza debate sobre cenário internacional no Rio de Janeiro com presença de especialistas'
 pubDate: 2025-07-30 13:34:35

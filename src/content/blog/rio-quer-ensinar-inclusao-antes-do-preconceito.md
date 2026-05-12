@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp6964_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio quer ensinar inclusão antes do preconceito'
 pubDate: 2025-07-02 11:12:23

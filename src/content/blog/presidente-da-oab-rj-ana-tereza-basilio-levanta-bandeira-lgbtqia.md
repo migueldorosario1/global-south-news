@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-e1738721529658.png"
+heroImage: "/hero/wp6534_image-e1738721529658.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Presidente da OAB/RJ Ana Tereza Basílio levanta bandeira LGBTQIA+'
 pubDate: 2025-02-04 23:13:02

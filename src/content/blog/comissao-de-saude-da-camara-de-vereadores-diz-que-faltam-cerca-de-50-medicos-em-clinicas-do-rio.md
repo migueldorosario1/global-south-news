@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-29.png"
+heroImage: "/hero/wp722_image-29.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Comissão de Saúde da Câmara de Vereadores diz que faltam cerca de 50 médicos em clínicas do Rio'
 pubDate: 2023-07-09 10:08:45

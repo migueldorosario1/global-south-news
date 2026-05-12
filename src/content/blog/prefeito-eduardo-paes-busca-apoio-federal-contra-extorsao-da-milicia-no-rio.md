@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/frame-00-00-11.011.webp"
+heroImage: "/hero/wp2356_frame-00-00-11.011.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeito Eduardo Paes busca apoio federal Contra extorsão da milícia no Rio'
 pubDate: 2024-01-11 13:01:50

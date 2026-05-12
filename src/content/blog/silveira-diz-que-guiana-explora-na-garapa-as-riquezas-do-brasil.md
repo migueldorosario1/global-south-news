@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-5.webp"
+heroImage: "/hero/wp4532_imagem-5.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Silveira diz que Guiana explora na garapa as riquezas do Brasil'
 pubDate: 2024-05-28 09:24:06

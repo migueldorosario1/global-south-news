@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-20.png"
+heroImage: "/hero/wp1990_image-20.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Esquerda critica proposta de internação compulsória feita por Eduardo Paes'
 pubDate: 2023-11-21 17:18:40

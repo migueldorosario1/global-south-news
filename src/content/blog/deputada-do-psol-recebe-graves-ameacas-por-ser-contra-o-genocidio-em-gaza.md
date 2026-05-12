@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-38.jpg"
+heroImage: "/hero/wp3422_imagem-38.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputada do PSOL recebe graves ameaças por criticar o genocídio em Gaza'
 pubDate: 2024-02-23 09:38:12

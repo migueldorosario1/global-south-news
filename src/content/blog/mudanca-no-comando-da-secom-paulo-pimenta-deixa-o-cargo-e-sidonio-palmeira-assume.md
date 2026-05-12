@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.jpg"
+heroImage: "/hero/wp6350_imagem-4.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mudança no comando da Secom Paulo Pimenta deixa o cargo e Sidônio Palmeira assume'
 pubDate: 2025-01-07 16:41:15

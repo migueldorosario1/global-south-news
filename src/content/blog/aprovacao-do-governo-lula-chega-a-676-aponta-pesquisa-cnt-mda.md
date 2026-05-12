@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-12.webp"
+heroImage: "/hero/wp5998_imagem-12.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Aprovação do Governo Lula chega a 67,6%, aponta pesquisa CNT/MDA'
 pubDate: 2024-11-12 19:49:29

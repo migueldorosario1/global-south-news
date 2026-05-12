@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp7491_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes libera estacionamentos em  shoppings e mercados do Rio'
 pubDate: 2025-12-02 11:04:50

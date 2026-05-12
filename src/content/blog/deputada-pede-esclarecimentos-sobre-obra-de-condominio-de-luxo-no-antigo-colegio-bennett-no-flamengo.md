@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-12.png"
+heroImage: "/hero/wp7666_image-12.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputada pede esclarecimentos sobre obra de condomínio de luxo no antigo Colégio Bennett, no Flamengo'
 pubDate: 2026-02-11 21:22:22

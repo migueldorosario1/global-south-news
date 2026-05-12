@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.webp"
+heroImage: "/hero/wp4323_imagem-10.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PGR solicita continuidade das investigações contra Monark por rasgar ordem da Justiça'
 pubDate: 2024-04-26 09:14:46

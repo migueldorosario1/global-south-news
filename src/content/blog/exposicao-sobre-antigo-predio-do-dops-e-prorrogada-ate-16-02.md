@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-24.png"
+heroImage: "/hero/wp6558_image-24.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Exposição sobre antigo prédio do DOPS é prorrogada até 16/02'
 pubDate: 2025-02-07 11:58:35

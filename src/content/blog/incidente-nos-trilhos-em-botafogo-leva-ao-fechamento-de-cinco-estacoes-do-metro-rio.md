@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/1_metro_parado-31269955.webp"
+heroImage: "/hero/wp2044_1_metro_parado-31269955.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Incidente nos trilhos em Botafogo leva ao fechamento de cinco estações do Metrô Rio'
 pubDate: 2023-11-29 16:00:00

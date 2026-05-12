@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20250731-WA0044.jpg"
+heroImage: "/hero/wp7032_IMG-20250731-WA0044.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Observatório das Metrópoles discute desenvolvimento Urbano sustentável'
 pubDate: 2025-07-31 14:12:20

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-84.png"
+heroImage: "/hero/wp939_image-84.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Censo IBGE estado do Rio de Janeiro concentra mais de 20 mil quilombolas'
 pubDate: 2023-07-28 11:11:37

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-19.png"
+heroImage: "/hero/wp681_image-19.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministra defende retomada do complexo econômico-industrial da saúde'
 pubDate: 2023-07-07 14:38:36

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/1_53128968617_5b8ce1f6c3_h-30291583.webp"
+heroImage: "/hero/wp1869_1_53128968617_5b8ce1f6c3_h-30291583.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vasco abandona disputa pela gestão temporária do maracanã após impugnação negada pelo governo'
 pubDate: 2023-11-09 12:11:21

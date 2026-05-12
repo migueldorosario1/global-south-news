@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-26.webp"
+heroImage: "/hero/wp4956_imagem-26.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Déficit das Contas Externas do Brasil Atinge Maior Nível Desde 2019'
 pubDate: 2024-08-26 20:34:53

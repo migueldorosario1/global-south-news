@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.png"
+heroImage: "/hero/wp4441_imagem-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'CNM Prejuízos a Agricultura no RS chegam a mais de meio bilhão'
 pubDate: 2024-05-09 09:25:18

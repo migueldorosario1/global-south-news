@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5.png"
+heroImage: "/hero/wp3942_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Braga Netto foi responsável por indicação de Rivaldo Barbosa como chefe da Polícia Civil no Rio'
 pubDate: 2024-03-24 13:10:57

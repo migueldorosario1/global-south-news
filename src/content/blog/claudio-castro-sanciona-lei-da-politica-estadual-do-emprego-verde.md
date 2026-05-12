@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-41.png"
+heroImage: "/hero/wp1443_image-41.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Claudio Castro sanciona lei da Política Estadual do Emprego Verde'
 pubDate: 2023-09-27 21:02:10

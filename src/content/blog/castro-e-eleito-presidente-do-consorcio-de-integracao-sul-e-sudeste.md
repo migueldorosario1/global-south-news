@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-19.webp"
+heroImage: "/hero/wp6044_imagem-19.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Castro é eleito presidente do consórcio de integração Sul e Sudeste'
 pubDate: 2024-11-26 11:23:22

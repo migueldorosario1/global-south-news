@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-14.jpeg"
+heroImage: "/hero/wp5300_imagem-14.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Marçal cai na Quaest após levar cadeirada de Datena'
 pubDate: 2024-09-18 10:25:16

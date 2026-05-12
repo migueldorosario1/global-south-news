@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/rosangela-moro.jpg"
+heroImage: "/hero/wp3732_rosangela-moro.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mamata? Veja quanto Rosângela Moro gastou de passagem aérea em 1 ano de mandato'
 pubDate: 2024-03-12 14:23:31

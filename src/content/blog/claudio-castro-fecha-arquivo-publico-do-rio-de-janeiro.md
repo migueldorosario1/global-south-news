@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-e1736351484774.png"
+heroImage: "/hero/wp6371_image-e1736351484774.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cláudio Castro fecha Arquivo Público do Rio de Janeiro'
 pubDate: 2025-01-08 13:04:30

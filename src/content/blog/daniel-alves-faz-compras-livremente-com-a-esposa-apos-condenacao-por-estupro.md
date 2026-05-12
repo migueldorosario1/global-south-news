@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-8.webp"
+heroImage: "/hero/wp4229_imagem-8.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Daniel Alves faz compras livremente com a esposa após condenação por estupro'
 pubDate: 2024-04-17 09:15:10

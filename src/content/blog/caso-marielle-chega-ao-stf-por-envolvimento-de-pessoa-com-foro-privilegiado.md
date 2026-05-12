@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-3.jpeg"
+heroImage: "/hero/wp3875_images-3.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Caso Marielle chega ao STF por envolvimento de pessoa com foro privilegiado'
 pubDate: 2024-03-19 19:34:32

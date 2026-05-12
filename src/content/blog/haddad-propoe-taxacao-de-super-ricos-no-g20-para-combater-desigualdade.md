@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-71.webp"
+heroImage: "/hero/wp5862_imagem-71.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Haddad propõe taxação de super-ricos no G20 para combater desigualdade'
 pubDate: 2024-10-24 20:59:25

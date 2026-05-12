@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-5.webp"
+heroImage: "/hero/wp3909_imagem-5.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Equipe de Haddad estaria pressionando Lula para pagar os dividendos extraordinários da Petrobras'
 pubDate: 2024-03-21 09:28:21

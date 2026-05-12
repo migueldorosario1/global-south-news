@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-11.webp"
+heroImage: "/hero/wp5639_imagem-11.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministério da Fazenda estuda imposto mínimo para milionários no Brasil'
 pubDate: 2024-10-09 08:41:20

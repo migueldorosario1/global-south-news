@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-18.png"
+heroImage: "/hero/wp7392_image-18.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação contra o CV avança e revela drogas em escola do Rio'
 pubDate: 2025-11-19 11:57:30

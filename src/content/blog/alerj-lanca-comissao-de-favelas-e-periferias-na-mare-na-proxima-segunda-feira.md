@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp7217_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj lança Comissão de Favelas e Periferias na Maré na próxima segunda-feira'
 pubDate: 2025-10-10 21:28:31

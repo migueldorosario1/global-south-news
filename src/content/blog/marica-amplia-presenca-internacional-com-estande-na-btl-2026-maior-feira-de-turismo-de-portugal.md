@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-22.png"
+heroImage: "/hero/wp7701_image-22.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá amplia presença internacional com estande na BTL 2026, maior feira de turismo de Portugal'
 pubDate: 2026-02-25 18:34:54

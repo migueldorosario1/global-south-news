@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/download-2.jpeg"
+heroImage: "/hero/wp2739_download-2.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dino confirma monitoramento ilegal pela Abin durante governo Bolsonaro'
 pubDate: 2024-01-30 16:46:49

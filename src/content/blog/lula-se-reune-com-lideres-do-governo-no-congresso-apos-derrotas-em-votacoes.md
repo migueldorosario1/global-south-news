@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-74.jpeg"
+heroImage: "/hero/wp4574_images-74.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula se reúne com líderes do governo no Congresso após derrotas em votações'
 pubDate: 2024-06-03 08:36:20

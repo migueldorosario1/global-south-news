@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.webp"
+heroImage: "/hero/wp4534_imagem-3.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Magda Chambriard defende esforço exploratório da Petrobras para garantir soberania energética'
 pubDate: 2024-05-28 09:24:09

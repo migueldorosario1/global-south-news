@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-63.jpeg"
+heroImage: "/hero/wp3268_images-63.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Mauro Cid revela como Flávio escapou de ser preso pela PF'
 pubDate: 2024-02-16 18:29:43

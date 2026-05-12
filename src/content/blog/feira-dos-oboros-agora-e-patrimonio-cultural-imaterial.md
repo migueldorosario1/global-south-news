@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-3.png"
+heroImage: "/hero/wp1494_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Feira dos Oborós agora é Patrimônio Cultural Imaterial'
 pubDate: 2023-10-05 12:44:11

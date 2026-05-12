@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-48.jpeg"
+heroImage: "/hero/wp3224_images-48.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Clube Militar fica em silêncio diante da investigação sobre militares no golpe de Bolsonaro'
 pubDate: 2024-02-15 08:27:05

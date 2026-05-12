@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-12.webp"
+heroImage: "/hero/wp5642_imagem-12.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Canal de Pablo Marçal se torna foco de conspirações após derrota em São Paulo'
 pubDate: 2024-10-09 09:24:17

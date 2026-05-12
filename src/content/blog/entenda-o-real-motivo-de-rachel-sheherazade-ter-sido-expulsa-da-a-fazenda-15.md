@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/2034727096-rachel-sheherazade-fazenda.webp"
+heroImage: "/hero/wp1636_2034727096-rachel-sheherazade-fazenda.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Entenda o real motivo de Rachel Sheherazade ter sido expulsa da A Fazenda 15'
 pubDate: 2023-10-19 19:09:42

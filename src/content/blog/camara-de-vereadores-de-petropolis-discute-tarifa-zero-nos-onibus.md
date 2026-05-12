@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp6405_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Câmara de Vereadores de Petrópolis discute Tarifa Zero nos ônibus'
 pubDate: 2025-01-11 12:25:05

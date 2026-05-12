@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-39.png"
+heroImage: "/hero/wp7459_image-39.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura de Maricá celebra Dia do Empreendedorismo Feminino com palestras e atrações culturais nesta sexta (28/11)'
 pubDate: 2025-11-27 11:19:00

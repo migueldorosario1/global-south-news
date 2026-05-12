@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-38.png"
+heroImage: "/hero/wp1702_image-38.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vereadores do Rio aprovam projeto que retira das ruas estátuas e homenagens a escravocratas, ditadores e racistas'
 pubDate: 2023-10-26 22:09:59

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/dilma-2.png"
+heroImage: "/hero/wp3013_dilma-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Participação dos salários no PIB caiu desde a derrubada de Dilma'
 pubDate: 2024-02-05 16:24:50

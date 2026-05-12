@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.jpg"
+heroImage: "/hero/wp5618_imagem-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tainá de Paula é reeleita como a vereadora mais votada do Rio'
 pubDate: 2024-10-07 11:26:48

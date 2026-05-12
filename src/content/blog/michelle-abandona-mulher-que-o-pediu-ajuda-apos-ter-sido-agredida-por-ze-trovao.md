@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-13.jpg"
+heroImage: "/hero/wp3752_imagem-13.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Michelle abandona mulher que o pediu ajuda após ter sido agredida por Zé Trovão'
 pubDate: 2024-03-13 09:05:23

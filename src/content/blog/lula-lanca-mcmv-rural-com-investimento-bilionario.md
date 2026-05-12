@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-5.webp"
+heroImage: "/hero/wp4145_imagem-5.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula lança MCMV Rural com investimento bilionário'
 pubDate: 2024-04-10 10:08:27

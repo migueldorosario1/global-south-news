@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-64.webp"
+heroImage: "/hero/wp5284_imagem-64.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil e EUA fortalecem cooperação para o desenvolvimento do etanol'
 pubDate: 2024-09-16 20:56:44

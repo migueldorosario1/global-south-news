@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-31.jpg"
+heroImage: "/hero/wp3987_imagem-31.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula busca apaziguar preocupações de motoristas de app com projeto de regulamentação'
 pubDate: 2024-03-28 09:41:42

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-17.png"
+heroImage: "/hero/wp1566_image-17.png"
 description: "Matéria arquivada do Rio Carta"
 title: '“Estado ainda é muito ausente”, diz conselheira tutelar Heloísa Helena'
 pubDate: 2023-10-10 14:25:31

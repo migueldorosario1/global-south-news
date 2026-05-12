@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-8.png"
+heroImage: "/hero/wp7503_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Michelle Bolsonaro confronta Eduardo Paes e aciona Silas Malafaia'
 pubDate: 2025-12-03 08:11:37

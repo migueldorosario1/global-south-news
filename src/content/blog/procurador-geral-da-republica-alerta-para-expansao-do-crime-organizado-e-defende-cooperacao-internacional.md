@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-24.webp"
+heroImage: "/hero/wp5691_imagem-24.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Procurador-Geral da República alerta para expansão do crime organizado e defende cooperação internacional'
 pubDate: 2024-10-12 08:38:38

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-45.webp"
+heroImage: "/hero/wp5192_imagem-45.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula Fortalece Campanha de Guilherme Boulos para Prefeitura de São Paulo com agenda extra'
 pubDate: 2024-09-11 19:52:40

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-03-13T143658.689.jpeg"
+heroImage: "/hero/wp3761_images-2024-03-13T143658.689.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jogo sujo Estadão usa ex-procurador da Lava Jato para atacar Lula e a Petrobras'
 pubDate: 2024-03-13 14:40:48

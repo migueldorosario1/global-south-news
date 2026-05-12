@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-27.jpg"
+heroImage: "/hero/wp3907_imagem-27.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'STJ determina que Robinho cumpra pena por estupro em regime fechado'
 pubDate: 2024-03-21 09:28:19

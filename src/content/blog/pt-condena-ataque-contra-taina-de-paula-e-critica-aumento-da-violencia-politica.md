@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.webp"
+heroImage: "/hero/wp5576_imagem-2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT condena ataque contra Tainá de Paula e critica aumento da violência política'
 pubDate: 2024-10-04 13:41:14

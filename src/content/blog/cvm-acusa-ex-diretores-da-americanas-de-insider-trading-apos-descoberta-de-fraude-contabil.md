@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-35.webp"
+heroImage: "/hero/wp5743_imagem-35.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'CVM acusa ex-diretores da Americanas de insider trading após descoberta de fraude contábil'
 pubDate: 2024-10-19 12:47:25

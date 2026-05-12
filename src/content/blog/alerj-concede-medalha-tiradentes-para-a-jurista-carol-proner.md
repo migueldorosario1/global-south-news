@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-33.png"
+heroImage: "/hero/wp1157_image-33.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'ALERJ concede Medalha Tiradentes para a jurista Carol Proner'
 pubDate: 2023-08-21 11:30:41

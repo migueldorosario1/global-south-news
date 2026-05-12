@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-26.png"
+heroImage: "/hero/wp7559_image-26.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Superlotação favoreceu fuga em Degase da Ilha'
 pubDate: 2025-12-08 13:08:24

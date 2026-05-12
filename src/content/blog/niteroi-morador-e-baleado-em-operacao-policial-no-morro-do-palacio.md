@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-21.png"
+heroImage: "/hero/wp688_image-21.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Niterói Morador é baleado em operação policial no Morro do Palácio'
 pubDate: 2023-07-07 17:37:44

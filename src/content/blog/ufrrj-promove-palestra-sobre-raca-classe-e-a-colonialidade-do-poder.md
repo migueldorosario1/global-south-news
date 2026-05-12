@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp7353_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'UFRRJ promove palestra sobre “Raça, classe e a colonialidade do poder”'
 pubDate: 2025-11-08 08:22:13

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/1_lula_eduardo_paes-32498177.jpg"
+heroImage: "/hero/wp2263_1_lula_eduardo_paes-32498177.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula e Janja apoiam Anielle Franco para vice de Paes'
 pubDate: 2024-01-04 06:40:00

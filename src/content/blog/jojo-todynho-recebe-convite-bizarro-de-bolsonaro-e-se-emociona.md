@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-100.jpeg"
+heroImage: "/hero/wp3599_images-100.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jojo Todynho recebe convite bizarro de Bolsonaro e se emociona'
 pubDate: 2024-03-01 15:03:04

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp6657_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cristo Redentor é a atração mais procurada por gringos'
 pubDate: 2025-03-24 10:43:10

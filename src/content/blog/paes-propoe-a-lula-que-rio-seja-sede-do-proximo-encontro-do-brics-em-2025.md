@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-20.webp"
+heroImage: "/hero/wp6046_imagem-20.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes propõe a Lula que Rio seja sede do próximo encontro do Brics em 2025'
 pubDate: 2024-11-26 11:23:24

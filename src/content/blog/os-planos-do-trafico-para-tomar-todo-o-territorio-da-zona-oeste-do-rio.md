@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-14.jpg"
+heroImage: "/hero/wp2718_imagem-14.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Os planos do tráfico para tomar todo o território da Zona Oeste do Rio'
 pubDate: 2024-01-30 13:05:36

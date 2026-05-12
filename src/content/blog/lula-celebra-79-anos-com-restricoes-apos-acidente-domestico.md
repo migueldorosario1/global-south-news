@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-74.webp"
+heroImage: "/hero/wp5871_imagem-74.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula celebra 79 anos com restrições após acidente doméstico'
 pubDate: 2024-10-27 09:27:18

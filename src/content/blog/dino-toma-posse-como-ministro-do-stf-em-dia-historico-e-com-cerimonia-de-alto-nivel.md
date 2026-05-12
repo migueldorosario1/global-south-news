@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-35.jpg"
+heroImage: "/hero/wp3398_imagem-35.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dino toma posse como ministro do STF em dia histórico e com cerimônia de alto nível'
 pubDate: 2024-02-22 10:08:03

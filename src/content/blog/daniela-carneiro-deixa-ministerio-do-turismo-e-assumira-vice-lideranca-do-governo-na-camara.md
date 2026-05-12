@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-92.webp"
+heroImage: "/hero/wp5381_imagem-92.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Daniela Carneiro deixa Ministério do Turismo e assumirá vice-liderança do governo na Câmara'
 pubDate: 2024-09-23 20:05:21

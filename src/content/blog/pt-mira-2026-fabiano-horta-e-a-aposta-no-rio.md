@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/whatsapp-image-2022-09-01-at-15.32.57.jpeg.jpg"
+heroImage: "/hero/wp2506_whatsapp-image-2022-09-01-at-15.32.57.jpeg.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT mira 2026 Fabiano Horta é a aposta no Rio'
 pubDate: 2024-01-23 07:00:00

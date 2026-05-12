@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-3.png"
+heroImage: "/hero/wp1288_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Projeto de deputado bolsonarista para extinguir UERJ será votado na ALERJ'
 pubDate: 2023-09-04 15:18:25

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.jpg"
+heroImage: "/hero/wp6379_imagem-7.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputados da Alerj comemoram decisão da Meta de encerrar verificação de fatos'
 pubDate: 2025-01-09 11:20:24

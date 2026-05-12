@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-16.png"
+heroImage: "/hero/wp7387_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi promove entrega do Prêmio “Mulheres que Florescem na Ciência” na Uerj'
 pubDate: 2025-11-18 16:42:13

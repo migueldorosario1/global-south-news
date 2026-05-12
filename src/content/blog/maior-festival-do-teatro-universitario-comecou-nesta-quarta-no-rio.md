@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-60.png"
+heroImage: "/hero/wp844_image-60.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maior festival do teatro universitário começou nesta quarta no Rio'
 pubDate: 2023-07-20 22:51:11

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-21.png"
+heroImage: "/hero/wp7698_image-21.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PL define Douglas Ruas ao governo do RJ e lança Castro ao Senado'
 pubDate: 2026-02-25 10:13:53

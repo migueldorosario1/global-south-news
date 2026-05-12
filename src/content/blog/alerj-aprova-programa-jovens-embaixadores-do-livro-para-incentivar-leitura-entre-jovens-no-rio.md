@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp7738_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj aprova programa Jovens Embaixadores do Livro para incentivar leitura entre jovens no Rio'
 pubDate: 2026-03-12 14:36:53

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.webp"
+heroImage: "/hero/wp4625_imagem.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PRTB de Marçal tem dirigente ligado ao PCC'
 pubDate: 2024-06-11 09:53:26

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/5089375945151851844_121.jpg"
+heroImage: "/hero/wp5652_5089375945151851844_121.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Multiplicando lideranças Dani Balbi elege dois assessores como vereadores no Rio'
 pubDate: 2024-10-09 11:10:35

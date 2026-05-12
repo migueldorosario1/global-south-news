@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/abb3d54c-9efa-420a-899e-80588a525ca0.jpg"
+heroImage: "/hero/wp2346_abb3d54c-9efa-420a-899e-80588a525ca0.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasileiros vítimas de violência brutal em Portugal polícia identifica seis suspeitos'
 pubDate: 2024-01-10 19:30:00

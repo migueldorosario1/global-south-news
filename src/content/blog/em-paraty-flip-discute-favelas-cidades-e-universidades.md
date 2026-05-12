@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-28.png"
+heroImage: "/hero/wp2024_image-28.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Em Paraty, FLIP discute favelas, cidades e universidades'
 pubDate: 2023-11-26 12:43:04

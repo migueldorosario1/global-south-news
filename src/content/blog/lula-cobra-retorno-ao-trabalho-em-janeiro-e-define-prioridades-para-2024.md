@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-24.webp"
+heroImage: "/hero/wp6285_imagem-24.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula quer retorno de ministros em janeiro e define prioridades para 2025'
 pubDate: 2024-12-21 11:45:34

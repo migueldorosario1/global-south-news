@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/20240225160240_b423b722500d4dee0cbb46e70ca9952a0773c0eea8a5d0326a4f5c60ec1db022.webp"
+heroImage: "/hero/wp3466_20240225160240_b423b722500d4dee0cbb46e70ca9952a0773c0eea8a5d0326a4f5c60ec1db022.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro defende terroristas e abre novo flanco de guerra contra o STF'
 pubDate: 2024-02-25 17:00:10

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp6972_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cabeleireiras serão aliadas na luta contra a violência à mulher'
 pubDate: 2025-07-02 11:42:39

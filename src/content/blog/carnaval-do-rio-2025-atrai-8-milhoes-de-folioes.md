@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-22.png"
+heroImage: "/hero/wp6610_image-22.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval do Rio 2025 atrai 8 milhões de foliões'
 pubDate: 2025-02-25 15:38:48

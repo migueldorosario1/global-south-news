@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.jpg"
+heroImage: "/hero/wp4198_imagem-2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula planeja redução brusca na conta de luz a partir de 2025'
 pubDate: 2024-04-16 09:12:19

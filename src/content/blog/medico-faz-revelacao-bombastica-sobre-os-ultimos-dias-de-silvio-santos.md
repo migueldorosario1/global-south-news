@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-14.webp"
+heroImage: "/hero/wp4877_imagem-14.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Médico faz revelação bombástica sobre os últimos dias de Silvio Santos'
 pubDate: 2024-08-19 17:39:46

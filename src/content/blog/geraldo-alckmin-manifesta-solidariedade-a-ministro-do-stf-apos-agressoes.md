@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-89.webp"
+heroImage: "/hero/wp5372_imagem-89.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Geraldo Alckmin manifesta solidariedade a ministro do STF após agressões'
 pubDate: 2024-09-23 19:31:05

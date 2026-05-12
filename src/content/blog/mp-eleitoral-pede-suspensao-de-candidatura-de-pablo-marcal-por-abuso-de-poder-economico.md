@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-18.webp"
+heroImage: "/hero/wp4894_imagem-18.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'MP Eleitoral Pede Suspensão de Candidatura de Pablo Marçal por Abuso de Poder Econômico'
 pubDate: 2024-08-19 21:34:36

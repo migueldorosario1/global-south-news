@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-16.jpg"
+heroImage: "/hero/wp4670_imagem-16.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jandira Feghali Chega de barbárie, é hora de (re)civilizar o Parlamento'
 pubDate: 2024-06-14 08:59:34

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-32.webp"
+heroImage: "/hero/wp5097_imagem-32.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula exalta sucesso educacional do Nordeste em cerimônia no Palácio do Planalto'
 pubDate: 2024-09-05 20:55:17

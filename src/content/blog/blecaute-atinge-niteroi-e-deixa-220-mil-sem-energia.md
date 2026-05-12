@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5.png"
+heroImage: "/hero/wp6735_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Blecaute atinge Niterói e deixa 220 mil sem energia'
 pubDate: 2025-04-02 14:51:58

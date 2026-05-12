@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-15.png"
+heroImage: "/hero/wp422_image-15.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministro da Justiça visita Niterói para assinatura de Convênios'
 pubDate: 2023-06-19 21:41:31

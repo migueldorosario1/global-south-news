@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-21.jpg"
+heroImage: "/hero/wp3151_imagem-21.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval do Rio promete movimentar R$ 5 bilhões em 2024'
 pubDate: 2024-02-10 13:24:14

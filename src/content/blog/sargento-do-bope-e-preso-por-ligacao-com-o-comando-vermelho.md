@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-23.png"
+heroImage: "/hero/wp7552_image-23.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sargento do Bope é preso por ligação com o Comando Vermelho'
 pubDate: 2025-12-08 12:43:29

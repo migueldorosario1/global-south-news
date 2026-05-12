@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2024-01-12-at-13.17.42.jpeg"
+heroImage: "/hero/wp2403_WhatsApp-Image-2024-01-12-at-13.17.42.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tentativa de assalto na Barra da Tijuca termina com um baleado e agressão'
 pubDate: 2024-01-12 14:14:00

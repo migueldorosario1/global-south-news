@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2026-02-05-at-12.45.37-2.jpeg"
+heroImage: "/hero/wp7635_WhatsApp-Image-2026-02-05-at-12.45.37-2.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá lidera investimentos em segurança e zera latrocínios'
 pubDate: 2026-02-05 21:31:18

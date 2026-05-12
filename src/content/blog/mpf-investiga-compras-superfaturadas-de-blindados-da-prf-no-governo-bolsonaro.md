@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg-6.png"
+heroImage: "/hero/wp3915_imagem.jpg-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'MPF investiga compras superfaturadas de blindados da PRF no governo Bolsonaro'
 pubDate: 2024-03-21 15:14:07

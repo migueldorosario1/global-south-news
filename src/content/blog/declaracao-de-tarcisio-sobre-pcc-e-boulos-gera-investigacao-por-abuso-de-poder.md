@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-81.webp"
+heroImage: "/hero/wp5903_imagem-81.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Declaração de Tarcísio sobre PCC e Boulos gera investigação por abuso de poder'
 pubDate: 2024-10-29 12:27:07

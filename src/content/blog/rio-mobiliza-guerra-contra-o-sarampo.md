@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp6654_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio mobiliza guerra contra o sarampo'
 pubDate: 2025-03-24 10:20:30

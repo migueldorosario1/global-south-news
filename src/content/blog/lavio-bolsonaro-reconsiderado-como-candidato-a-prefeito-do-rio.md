@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/transferir-9.jpg"
+heroImage: "/hero/wp2568_transferir-9.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Flávio Bolsonaro reconsiderado como candidato a prefeito do Rio?'
 pubDate: 2024-01-28 09:00:00

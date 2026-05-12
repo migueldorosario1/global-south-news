@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-30.jpg"
+heroImage: "/hero/wp3979_imagem-30.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Requião anuncia saída do PT e diz que partido endireitou'
 pubDate: 2024-03-28 09:26:18

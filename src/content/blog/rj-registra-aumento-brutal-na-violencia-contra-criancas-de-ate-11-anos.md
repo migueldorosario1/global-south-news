@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.webp"
+heroImage: "/hero/wp4676_imagem-4.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'RJ registra aumento brutal na violência contra crianças de até 11 anos'
 pubDate: 2024-06-17 09:03:26

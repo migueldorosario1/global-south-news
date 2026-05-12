@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20240401-WA0106.jpg"
+heroImage: "/hero/wp4022_IMG-20240401-WA0106.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Movimentos sociais realizam ato contra a ditadura na porta do antigo DOPS no Rio'
 pubDate: 2024-04-01 20:39:02

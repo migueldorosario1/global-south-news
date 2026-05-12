@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-35.png"
+heroImage: "/hero/wp7445_image-35.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação revela o peso do abandono urbano fluminense'
 pubDate: 2025-11-24 11:48:01

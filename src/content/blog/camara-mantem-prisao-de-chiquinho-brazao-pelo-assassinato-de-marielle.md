@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-24.jpg"
+heroImage: "/hero/wp4149_imagem-24.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Câmara mantém prisão de Chiquinho Brazão pelo assassinato de Marielle'
 pubDate: 2024-04-10 20:10:01

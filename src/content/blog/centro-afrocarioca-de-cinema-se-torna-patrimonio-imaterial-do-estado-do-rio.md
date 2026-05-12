@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp2415_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Centro Afrocarioca de Cinema se torna patrimônio imaterial do estado do Rio'
 pubDate: 2024-01-12 15:48:32

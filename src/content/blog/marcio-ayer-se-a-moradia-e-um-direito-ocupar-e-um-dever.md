@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Tomas-Silva-Agencia-Brasil-scaled.jpg"
+heroImage: "/hero/wp3573_Tomas-Silva-Agencia-Brasil-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Márcio Ayer Se a moradia é um direito, ocupar é um dever'
 pubDate: 2024-02-28 17:06:15

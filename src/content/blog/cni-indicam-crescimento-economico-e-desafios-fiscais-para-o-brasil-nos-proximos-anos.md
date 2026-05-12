@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-19.webp"
+heroImage: "/hero/wp6249_imagem-19.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'CNI indicam crescimento econômico e desafios fiscais para o Brasil nos próximos anos'
 pubDate: 2024-12-17 16:07:23

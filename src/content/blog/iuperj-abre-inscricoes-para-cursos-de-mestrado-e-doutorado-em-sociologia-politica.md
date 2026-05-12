@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-19.png"
+heroImage: "/hero/wp7249_image-19.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Iuperj abre inscrições para cursos de mestrado e doutorado em Sociologia Política'
 pubDate: 2025-10-25 09:49:37

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg-3.png"
+heroImage: "/hero/wp2803_imagem.jpg-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Polícia prende marido suspeito de matar mulher trans em Itaguí'
 pubDate: 2024-01-31 13:10:49

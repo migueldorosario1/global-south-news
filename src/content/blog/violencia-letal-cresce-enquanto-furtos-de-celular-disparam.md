@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-33.png"
+heroImage: "/hero/wp7433_image-33.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Violência letal cresce enquanto furtos de celular disparam'
 pubDate: 2025-11-21 13:49:18

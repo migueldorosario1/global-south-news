@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/carros-1_2-scaled.jpg"
+heroImage: "/hero/wp2167_carros-1_2-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Calendário de pagamento do IPVA 2024 no Rio datas para motoristas e motociclistas'
 pubDate: 2023-12-18 17:00:00

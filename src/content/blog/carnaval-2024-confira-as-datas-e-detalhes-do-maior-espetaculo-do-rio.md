@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/145.jpg"
+heroImage: "/hero/wp1724_145.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval 2024 Confira as Datas e Detalhes do Maior Espetáculo do Rio'
 pubDate: 2023-10-30 17:23:28

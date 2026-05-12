@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.jpeg"
+heroImage: "/hero/wp4832_imagem-3.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Saiba quantos ônibus foram incendiados nas últimas horas'
 pubDate: 2024-08-14 16:39:43

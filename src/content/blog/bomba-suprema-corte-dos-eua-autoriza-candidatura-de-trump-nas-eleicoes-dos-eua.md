@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.jpg"
+heroImage: "/hero/wp3628_imagem-2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Suprema Corte dos EUA autoriza candidatura de Trump nas eleições dos EUA'
 pubDate: 2024-03-04 12:36:28

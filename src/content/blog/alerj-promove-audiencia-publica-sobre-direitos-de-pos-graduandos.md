@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp7072_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj promove audiência pública sobre direitos de pós-graduandos'
 pubDate: 2025-08-25 14:52:56

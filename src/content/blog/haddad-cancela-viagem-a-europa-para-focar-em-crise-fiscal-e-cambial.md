@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-5.webp"
+heroImage: "/hero/wp5959_imagem-5.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Haddad cancela viagem à Europa para focar em crise fiscal e cambial'
 pubDate: 2024-11-03 12:54:03

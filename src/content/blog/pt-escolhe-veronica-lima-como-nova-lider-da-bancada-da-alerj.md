@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2024-04-11-at-11.41.27.jpeg"
+heroImage: "/hero/wp4173_WhatsApp-Image-2024-04-11-at-11.41.27.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT escolhe Verônica Lima como nova líder da bancada da ALERJ'
 pubDate: 2024-04-11 11:56:39

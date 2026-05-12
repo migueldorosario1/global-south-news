@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/20240225150256_bd9e7993e019d6509878527b7526b069193a86f85347236bbe5b04fe8fe2063c.webp"
+heroImage: "/hero/wp3460_20240225150256_bd9e7993e019d6509878527b7526b069193a86f85347236bbe5b04fe8fe2063c.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Malafaia ataca Lula, STF e defende Israel do genocídio em Gaza'
 pubDate: 2024-02-25 16:17:15

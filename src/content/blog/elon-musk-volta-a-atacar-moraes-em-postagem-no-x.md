@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.webp"
+heroImage: "/hero/wp4235_imagem-6.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Elon Musk volta a atacar Moraes em postagem no X'
 pubDate: 2024-04-18 09:23:19

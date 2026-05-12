@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.jpg"
+heroImage: "/hero/wp2682_imagem-6.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Abin Paralela MPF e TCU pedem informações sobre o prejuízo aos cofres públicos'
 pubDate: 2024-01-29 20:53:21

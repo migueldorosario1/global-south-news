@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.webp"
+heroImage: "/hero/wp4007_imagem.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula vai cumprir agenda cheia no Rio'
 pubDate: 2024-04-01 09:05:03

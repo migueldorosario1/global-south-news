@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp7657_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi e Elias Jabbour fazem conversa pública no Bip Bip nesta sexta-feira (06/02)'
 pubDate: 2026-02-06 13:40:45

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-44.png"
+heroImage: "/hero/wp7319_image-44.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Menina de 11 anos é baleada cinco vezes em Jacarepaguá'
 pubDate: 2025-10-31 10:51:54

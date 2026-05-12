@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg-3.png"
+heroImage: "/hero/wp3072_imagem.jpg-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Núcleo golpista de Bolsonaro também é alvo da PF'
 pubDate: 2024-02-08 09:36:00

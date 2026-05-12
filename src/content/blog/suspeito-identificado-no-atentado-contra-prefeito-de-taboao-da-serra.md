@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-51.webp"
+heroImage: "/hero/wp5791_imagem-51.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Suspeito identificado no atentado contra Prefeito de Taboão da Serra'
 pubDate: 2024-10-19 15:39:31

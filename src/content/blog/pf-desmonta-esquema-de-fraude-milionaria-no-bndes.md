@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-82.webp"
+heroImage: "/hero/wp5908_imagem-82.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF desmonta esquema de fraude milionária no BNDES'
 pubDate: 2024-10-30 10:04:23

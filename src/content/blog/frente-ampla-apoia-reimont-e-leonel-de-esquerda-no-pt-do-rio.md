@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp6852_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Frente ampla apoia Reimont e Leonel de Esquerda no PT do Rio'
 pubDate: 2025-05-13 10:38:51

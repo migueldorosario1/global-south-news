@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-21.jpeg"
+heroImage: "/hero/wp5539_imagem-21.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF pode entrar na investigação sobre lavagem de dinheiro que envolve Gusttavo Lima'
 pubDate: 2024-09-30 15:20:29

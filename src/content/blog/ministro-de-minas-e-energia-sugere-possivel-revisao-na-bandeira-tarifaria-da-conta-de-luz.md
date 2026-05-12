@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-25.webp"
+heroImage: "/hero/wp5076_imagem-25.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministro de Minas e Energia sugere possível revisão na bandeira tarifária da conta de luz'
 pubDate: 2024-09-04 18:51:14

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-16.png"
+heroImage: "/hero/wp1933_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Terreiros se preparam para a 3ª Caminhada Contra as Intolerâncias e o Racismo Religioso em Petrópolis'
 pubDate: 2023-11-13 23:11:24

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-18.png"
+heroImage: "/hero/wp6600_image-18.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Nova força de segurança municipal muda tudo no Rio'
 pubDate: 2025-02-21 09:51:59

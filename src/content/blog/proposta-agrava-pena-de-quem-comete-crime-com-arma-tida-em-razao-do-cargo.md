@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.jpg"
+heroImage: "/hero/wp2854_imagem-3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Proposta agrava pena de quem comete crime com arma tida em razão do cargo'
 pubDate: 2024-02-02 05:30:00

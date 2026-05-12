@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.webp"
+heroImage: "/hero/wp5634_imagem-10.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT amplia representação nas eleições municipais de 2024'
 pubDate: 2024-10-08 19:34:19

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp4192_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Esquerda Unida? Tarcísio Motta e Dani Balbi estarão juntos hoje na Livraria Blooks no Rio'
 pubDate: 2024-04-15 12:08:45

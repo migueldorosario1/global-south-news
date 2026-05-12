@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-23.jpg"
+heroImage: "/hero/wp4206_imagem-23.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Congresso prepara sessão para derrubar vetos de Lula'
 pubDate: 2024-04-16 09:26:33

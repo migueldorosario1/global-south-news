@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-34.png"
+heroImage: "/hero/wp738_image-34.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jari Oliveira pode ser o candidato da esquerda para a prefeitura de Volta Redonda'
 pubDate: 2023-07-10 13:55:12

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp7485_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fazenda divulga prazos e regras para o IPVA RJ 2026'
 pubDate: 2025-12-01 13:57:30

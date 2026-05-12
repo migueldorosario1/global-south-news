@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-22.webp"
+heroImage: "/hero/wp4941_imagem-22.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pablo Marçal criticou a liderança de Bolsonaro na extrema-direita'
 pubDate: 2024-08-26 19:06:48

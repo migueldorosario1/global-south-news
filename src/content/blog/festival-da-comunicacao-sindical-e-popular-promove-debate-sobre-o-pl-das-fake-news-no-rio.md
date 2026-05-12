@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-75.png"
+heroImage: "/hero/wp891_image-75.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Festival da Comunicação Sindical e Popular promove debate sobre o PL das Fake News no Rio'
 pubDate: 2023-07-26 16:05:41

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-16.png"
+heroImage: "/hero/wp7000_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Casa da Favela celebra os autores das periferias em sua terceira edição na Flip'
 pubDate: 2025-07-22 16:19:06

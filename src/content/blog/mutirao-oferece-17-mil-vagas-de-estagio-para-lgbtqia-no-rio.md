@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-17.png"
+heroImage: "/hero/wp1336_image-17.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mutirão oferece 1,7 mil vagas de estágio para LGBTQIA+ no Rio'
 pubDate: 2023-09-11 14:55:53

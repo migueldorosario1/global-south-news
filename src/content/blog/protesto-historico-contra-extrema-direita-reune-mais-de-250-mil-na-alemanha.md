@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2024-01-21-at-01.19.22.jpeg"
+heroImage: "/hero/wp2483_WhatsApp-Image-2024-01-21-at-01.19.22.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Protesto histórico contra extrema-direita reúne mais de 250 mil na Alemanha'
 pubDate: 2024-01-21 07:00:00

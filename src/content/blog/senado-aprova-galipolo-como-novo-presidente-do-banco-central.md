@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.webp"
+heroImage: "/hero/wp5622_imagem-6.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Senado aprova Galípolo como novo Presidente do Banco Central'
 pubDate: 2024-10-08 18:41:12

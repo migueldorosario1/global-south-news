@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20240318-WA0084-2-e1710805551689.jpg"
+heroImage: "/hero/wp3839_IMG-20240318-WA0084-2-e1710805551689.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jandira Feghali e Rafaela Albergaria organizam agenda de ações para o Rio'
 pubDate: 2024-03-18 20:47:19

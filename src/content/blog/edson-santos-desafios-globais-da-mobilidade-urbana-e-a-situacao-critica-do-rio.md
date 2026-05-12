@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-20.png"
+heroImage: "/hero/wp446_image-20.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Edson Santos desafios globais da mobilidade urbana e a situação crítica do Rio'
 pubDate: 2023-06-19 23:17:23

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.jpg"
+heroImage: "/hero/wp4050_imagem-7.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Embaixada da Hungria demite funcionários brasileiros após vazamento das imagens da fuga de Bolsonaro'
 pubDate: 2024-04-03 10:39:51

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-11.png"
+heroImage: "/hero/wp1851_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça dá vitória ao Sindicato dos Comerciários do Rio em ação contra hortifruti'
 pubDate: 2023-11-07 21:33:02

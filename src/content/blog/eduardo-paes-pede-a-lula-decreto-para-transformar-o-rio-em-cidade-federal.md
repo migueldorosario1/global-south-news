@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp6544_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Paes pede a Lula decreto para transformar o Rio em cidade federal'
 pubDate: 2025-02-07 11:59:47

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/12niteroi.webp"
+heroImage: "/hero/wp2126_12niteroi.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tragédia em Niterói Menina de Origem Africana, de 8 Anos, é Assassinada – Pai Detido como Suspeito'
 pubDate: 2023-12-12 10:48:06

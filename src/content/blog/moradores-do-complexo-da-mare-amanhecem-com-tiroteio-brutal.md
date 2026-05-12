@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/mare.jpeg"
+heroImage: "/hero/wp2686_mare.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Moradores do Complexo da Maré amanhecem com tiroteio brutal'
 pubDate: 2024-01-30 08:50:38

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2024-01-29-at-09.58.09.jpeg"
+heroImage: "/hero/wp2742_WhatsApp-Image-2024-01-29-at-09.58.09.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'IML Professor de jiu-jitsu deixou múltiplos hematomas e quebrou os dentes da ex-esposa'
 pubDate: 2024-01-30 16:55:07

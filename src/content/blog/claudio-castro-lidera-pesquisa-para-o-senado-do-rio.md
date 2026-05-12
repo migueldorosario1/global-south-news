@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Captura-de-tela-de-2025-04-07-09-13-42.png"
+heroImage: "/hero/wp6764_Captura-de-tela-de-2025-04-07-09-13-42.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cláudio Castro lidera pesquisa para o Senado do Rio'
 pubDate: 2025-04-07 09:14:36

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-32.png"
+heroImage: "/hero/wp732_image-32.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Botafogo vence o Grêmio em casa e abre 10 pontos à frente do 2º colocado no Brasileirão'
 pubDate: 2023-07-10 11:06:24

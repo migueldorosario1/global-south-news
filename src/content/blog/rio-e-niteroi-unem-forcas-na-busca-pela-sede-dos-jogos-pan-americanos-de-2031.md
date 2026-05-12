@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/img_0106-1.jpg"
+heroImage: "/hero/wp6056_img_0106-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio e Niterói unem forças na busca pela sede dos jogos Pan-Americanos de 2031'
 pubDate: 2024-11-27 22:22:13

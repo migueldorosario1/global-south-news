@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-40.png"
+heroImage: "/hero/wp766_image-40.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Turismo LGBT no Brasil é fortalecido com retomada da parceria da Embratur e IGLTA'
 pubDate: 2023-07-10 22:19:55

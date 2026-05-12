@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/miliciano-tubarao.webp"
+heroImage: "/hero/wp3045_miliciano-tubarao.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Miliciano Tubarão é morto em confronto com a PM em Nova Iguaçu'
 pubDate: 2024-02-06 16:38:06

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-75.jpeg"
+heroImage: "/hero/wp3303_images-75.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Traficante internacional é preso com bicicleta roubada na Zona Sul do Rio'
 pubDate: 2024-02-18 19:02:01

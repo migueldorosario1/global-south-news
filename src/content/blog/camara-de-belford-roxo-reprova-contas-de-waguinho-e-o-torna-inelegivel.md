@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.avif"
+heroImage: "/hero/wp6052_imagem.avif"
 description: "Matéria arquivada do Rio Carta"
 title: 'Câmara de Belford Roxo reprova contas de  Waguinho e o torna inelegível'
 pubDate: 2024-11-26 18:11:45

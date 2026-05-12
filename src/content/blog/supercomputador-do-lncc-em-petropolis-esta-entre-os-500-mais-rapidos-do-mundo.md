@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp1466_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Supercomputador do LNCC em Petrópolis está entre os 500 mais rápidos do mundo'
 pubDate: 2023-10-02 10:52:41

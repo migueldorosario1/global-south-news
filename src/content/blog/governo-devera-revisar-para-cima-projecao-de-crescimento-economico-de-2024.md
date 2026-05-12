@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-19.webp"
+heroImage: "/hero/wp5058_imagem-19.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo deverá revisar para cima projeção de crescimento econômico de 2024'
 pubDate: 2024-09-03 18:20:46

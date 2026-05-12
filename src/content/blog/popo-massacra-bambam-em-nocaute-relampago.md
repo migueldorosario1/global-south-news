@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/20240225_101548.png"
+heroImage: "/hero/wp3454_20240225_101548.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Popó massacra Bambam em nocaute relâmpago'
 pubDate: 2024-02-25 10:17:53

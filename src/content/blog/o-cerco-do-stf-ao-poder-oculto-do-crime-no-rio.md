@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp7335_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'O cerco do STF ao poder oculto do crime no Rio'
 pubDate: 2025-11-06 11:30:33

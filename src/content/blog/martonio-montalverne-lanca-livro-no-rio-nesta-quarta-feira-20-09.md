@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-33.png"
+heroImage: "/hero/wp1387_image-33.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Martonio Mont’Alverne lança livro no Rio nesta quarta-feira (20/09)'
 pubDate: 2023-09-20 10:46:56

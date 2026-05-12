@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-78.jpeg"
+heroImage: "/hero/wp3402_images-78.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro se acovarda e fica em silêncio durante depoimento a PF'
 pubDate: 2024-02-22 15:56:38

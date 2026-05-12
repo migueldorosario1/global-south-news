@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-52.webp"
+heroImage: "/hero/wp5794_imagem-52.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Apagão em São Paulo mais de 100 mil imóveis afetados pela falta de energia'
 pubDate: 2024-10-19 15:45:08

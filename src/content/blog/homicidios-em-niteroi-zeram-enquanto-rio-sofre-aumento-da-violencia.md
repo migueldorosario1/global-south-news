@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp7132_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Homicídios em Niterói zeram enquanto Rio sofre aumento da violência'
 pubDate: 2025-09-03 12:55:02

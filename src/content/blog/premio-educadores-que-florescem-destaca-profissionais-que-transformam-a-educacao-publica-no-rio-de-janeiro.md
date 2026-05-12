@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20251118-WA0033.jpg"
+heroImage: "/hero/wp7381_IMG-20251118-WA0033.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prêmio “Educadores que Florescem” destaca profissionais que transformam a educação pública no Rio de Janeiro'
 pubDate: 2025-11-18 16:03:23

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/25set2022-paes-e-lula-em-comicio-na-portela-1664121709333_v2_4x3-scaled.jpg"
+heroImage: "/hero/wp2593_25set2022-paes-e-lula-em-comicio-na-portela-1664121709333_v2_4x3-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT quer indicar vice para apoiar reeleição de Eduardo Paes no Rio'
 pubDate: 2024-01-29 10:00:00

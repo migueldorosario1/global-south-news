@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp1276_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ato no Rio lembra os 2 mil dias sem solução para o caso Marielle'
 pubDate: 2023-09-03 10:49:13

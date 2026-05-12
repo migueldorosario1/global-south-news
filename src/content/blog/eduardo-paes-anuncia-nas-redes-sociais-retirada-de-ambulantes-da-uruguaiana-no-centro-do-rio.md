@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp3577_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Paes anuncia nas redes sociais retirada de ambulantes da Uruguaiana, no centro do Rio'
 pubDate: 2024-02-28 23:15:18

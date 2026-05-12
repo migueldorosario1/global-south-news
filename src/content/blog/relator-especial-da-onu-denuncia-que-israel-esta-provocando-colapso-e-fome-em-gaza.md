@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.jpg"
+heroImage: "/hero/wp3692_imagem-7.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Relator especial da ONU denuncia que Israel está provocando colapso e fome em Gaza'
 pubDate: 2024-03-08 10:12:54

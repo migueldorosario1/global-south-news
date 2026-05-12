@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp7081_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Benedita da Silva deve ser candidata unificada da esquerda ao Senado no Rio em 2026'
 pubDate: 2025-08-26 19:48:06

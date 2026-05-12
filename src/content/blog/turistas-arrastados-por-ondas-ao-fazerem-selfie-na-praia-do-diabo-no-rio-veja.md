@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/praia.webp"
+heroImage: "/hero/wp1487_praia.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Turistas arrastados por ondas ao fazerem selfie na Praia do Diabo, no Rio; Veja'
 pubDate: 2023-10-02 11:44:58

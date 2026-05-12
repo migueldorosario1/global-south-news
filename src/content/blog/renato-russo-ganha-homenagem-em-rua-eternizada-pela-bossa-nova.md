@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-87.png"
+heroImage: "/hero/wp982_image-87.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Renato Russo ganha homenagem em rua eternizada pela bossa-nova'
 pubDate: 2023-07-31 17:39:08

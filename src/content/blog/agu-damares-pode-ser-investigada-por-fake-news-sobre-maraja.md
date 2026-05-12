@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-39.jpg"
+heroImage: "/hero/wp3436_imagem-39.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'AGU Damares pode ser investigada por fake news sobre Marajá'
 pubDate: 2024-02-24 11:34:02

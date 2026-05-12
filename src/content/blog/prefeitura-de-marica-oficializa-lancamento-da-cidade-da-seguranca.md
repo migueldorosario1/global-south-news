@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp7500_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura de Maricá oficializa lançamento da Cidade da Segurança'
 pubDate: 2025-12-02 12:41:06

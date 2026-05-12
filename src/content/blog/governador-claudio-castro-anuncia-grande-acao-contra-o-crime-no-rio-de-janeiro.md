@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/dsc1886_0.jpg"
+heroImage: "/hero/wp1456_dsc1886_0.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governador Cláudio Castro anuncia grande ação contra o crime no Rio de Janeiro'
 pubDate: 2023-09-29 14:39:37

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/82444242_EC-Rio-de-Janeiro-RJ-30-04-2019-Fila-de-empregos-no-SINTTEL-na-Tijuca.-Foto-Pablo-Jacob.jpg"
+heroImage: "/hero/wp968_82444242_EC-Rio-de-Janeiro-RJ-30-04-2019-Fila-de-empregos-no-SINTTEL-na-Tijuca.-Foto-Pablo-Jacob.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio de Janeiro registra crescimento contínuo na criação de empregos formais em 2023'
 pubDate: 2023-07-31 12:56:00

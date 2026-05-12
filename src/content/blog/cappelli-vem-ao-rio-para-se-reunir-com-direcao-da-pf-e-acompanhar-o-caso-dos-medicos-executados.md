@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp1498_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cappelli vem ao Rio para se reunir com direção da PF e acompanhar o caso dos médicos executados'
 pubDate: 2023-10-05 12:48:52

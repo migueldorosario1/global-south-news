@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/17347011722454773739111617513899.jpg"
+heroImage: "/hero/wp6259_17347011722454773739111617513899.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Paes anuncia Elias Jabbour como novo presidente do IPP'
 pubDate: 2024-12-20 10:23:57

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-21.png"
+heroImage: "/hero/wp7401_image-21.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj promove debate sobre democracia e movimentos sociais LGBTI+ no Brasil e na Argentina'
 pubDate: 2025-11-19 15:26:52

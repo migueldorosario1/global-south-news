@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.webp"
+heroImage: "/hero/wp4639_imagem-2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Enel quer contratar mais de 1000 funcionários em SP'
 pubDate: 2024-06-12 09:39:56

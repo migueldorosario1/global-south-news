@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-10-e1743172083990.png"
+heroImage: "/hero/wp6701_image-10-e1743172083990.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Aliado de Bolsonaro, Thiago Pampolha quer ser o candidato do MDB ao governo do Rio em 2026'
 pubDate: 2025-03-28 11:30:52

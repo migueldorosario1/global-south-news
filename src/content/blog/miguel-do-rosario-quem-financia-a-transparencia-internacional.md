@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/moro-detonador-vitort-740x555-1.jpg"
+heroImage: "/hero/wp3004_moro-detonador-vitort-740x555-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Miguel do Rosário  Quem financia a Transparência Internacional?'
 pubDate: 2024-02-05 16:20:27

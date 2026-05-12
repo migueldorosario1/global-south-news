@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-19.webp"
+heroImage: "/hero/wp4898_imagem-19.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'O último pedido de Patrícia Abravanel antes da morte de Sílvio Santos'
 pubDate: 2024-08-20 08:56:19

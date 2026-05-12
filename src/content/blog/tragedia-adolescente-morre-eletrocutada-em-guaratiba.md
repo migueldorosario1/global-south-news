@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg-2.png"
+heroImage: "/hero/wp2729_imagem.jpg-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tragédia! Adolescente morre eletrocutada em Guaratiba'
 pubDate: 2024-01-30 13:26:40

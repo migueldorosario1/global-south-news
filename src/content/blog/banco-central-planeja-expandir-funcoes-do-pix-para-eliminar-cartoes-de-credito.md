@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpeg"
+heroImage: "/hero/wp5550_imagem.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Banco Central planeja expandir funções do Pix para eliminar cartões de crédito'
 pubDate: 2024-10-03 16:33:24

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-5.webp"
+heroImage: "/hero/wp5612_imagem-5.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Andrezinho Ceciliano é eleito prefeito de Paracambi com mais de 64% dos votos'
 pubDate: 2024-10-07 11:22:00

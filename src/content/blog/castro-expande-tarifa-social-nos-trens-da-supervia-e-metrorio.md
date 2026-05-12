@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.webp"
+heroImage: "/hero/wp2837_imagem-2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Castro expande tarifa social nos trens da SuperVia e MetrôRio'
 pubDate: 2024-02-01 09:35:37

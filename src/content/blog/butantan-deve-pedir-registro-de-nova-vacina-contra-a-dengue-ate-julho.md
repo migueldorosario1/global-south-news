@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-5.webp"
+heroImage: "/hero/wp2867_imagem-5.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Butantan deve pedir registro de nova vacina contra a dengue até julho'
 pubDate: 2024-02-03 05:43:00

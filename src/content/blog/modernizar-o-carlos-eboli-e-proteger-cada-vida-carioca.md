@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp7055_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Modernizar o Carlos Éboli é proteger cada vida carioca'
 pubDate: 2025-08-11 11:30:09

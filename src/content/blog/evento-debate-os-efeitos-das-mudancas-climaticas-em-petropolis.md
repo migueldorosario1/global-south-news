@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp4807_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'EVENTO DEBATE OS EFEITOS DAS MUDANÇAS CLIMÁTICAS EM PETRÓPOLIS'
 pubDate: 2024-08-07 17:05:29

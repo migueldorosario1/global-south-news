@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-59.png"
+heroImage: "/hero/wp841_image-59.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quem será o candidato do PL no Rio em 2024?'
 pubDate: 2023-07-20 22:39:04

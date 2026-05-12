@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp7621_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj aprova nesta quinta-feira Medalha Tiradentes para cientista da UFRJ responsável por avanço histórico no tratamento de lesões medulares'
 pubDate: 2026-02-01 16:23:46

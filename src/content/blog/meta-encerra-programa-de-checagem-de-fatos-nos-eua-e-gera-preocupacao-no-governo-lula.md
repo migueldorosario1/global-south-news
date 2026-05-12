@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.png"
+heroImage: "/hero/wp6393_imagem.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Meta encerra programa de checagem de fatos nos EUA e gera preocupação no governo Lula'
 pubDate: 2025-01-09 11:50:22

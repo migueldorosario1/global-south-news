@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-10.png"
+heroImage: "/hero/wp6982_image-10.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Terreno de antigo colégio Bennett no Flamengo vira alvo de polêmica'
 pubDate: 2025-07-03 16:16:54

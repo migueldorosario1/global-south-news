@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-8.webp"
+heroImage: "/hero/wp2904_imagem-8.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes assina decreto que veta uso de celular nas escolas do Rio, em qualquer horário'
 pubDate: 2024-02-02 09:12:25

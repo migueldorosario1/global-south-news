@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp7721_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula inaugura primeiro túnel de Campo Grande e destaca investimentos em mobilidade na Zona Oeste do Rio'
 pubDate: 2026-03-06 18:12:09

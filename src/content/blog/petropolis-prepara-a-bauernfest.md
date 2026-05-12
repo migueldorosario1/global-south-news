@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-16.png"
+heroImage: "/hero/wp428_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Petrópolis prepara a Bauernfest'
 pubDate: 2023-06-19 21:52:47

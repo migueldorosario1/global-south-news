@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp556_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Presidente da Finep anuncia investimento de R$ 1,2 bilhão para pesquisa e tecnologia'
 pubDate: 2023-07-03 18:09:44

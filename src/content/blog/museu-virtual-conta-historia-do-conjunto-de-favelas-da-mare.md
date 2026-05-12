@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp1479_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Museu virtual conta história do conjunto de favelas da Maré'
 pubDate: 2023-10-02 11:17:40

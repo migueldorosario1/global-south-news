@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.jpg"
+heroImage: "/hero/wp3706_imagem-10.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Villas Bôas foi procurado por Bolsonaro e Braga Netto para prosseguir com o golpe'
 pubDate: 2024-03-11 09:05:53

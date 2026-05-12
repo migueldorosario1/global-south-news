@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-61.jpeg"
+heroImage: "/hero/wp3265_images-61.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Conheça o neonazista russo que se tornou ídolo nos EUA e que morreu em prisão da Sibéria'
 pubDate: 2024-02-16 18:21:31

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/panorama.png"
+heroImage: "/hero/wp2693_panorama.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Abrasel processa a Enel por apagões seguidos em Niterói'
 pubDate: 2024-01-30 09:13:30

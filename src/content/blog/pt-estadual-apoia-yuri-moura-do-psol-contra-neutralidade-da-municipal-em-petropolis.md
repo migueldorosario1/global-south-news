@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-26.webp"
+heroImage: "/hero/wp5698_imagem-26.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT estadual apoia Yuri Moura do PSOL contra neutralidade da municipal em Petrópolis'
 pubDate: 2024-10-14 17:02:09

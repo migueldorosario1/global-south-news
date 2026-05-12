@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-23.png"
+heroImage: "/hero/wp6510_image-23.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lei aprovada em Petrópolis cria o Conselho Municipal de Diversidade Sexual e de Gênero'
 pubDate: 2025-01-24 18:49:56

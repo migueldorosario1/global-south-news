@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/jh-alexandre-de-moraes-usp-20240226-1108-frame-51251.jpeg"
+heroImage: "/hero/wp3498_jh-alexandre-de-moraes-usp-20240226-1108-frame-51251.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'O alerta de Xandão 24 horas após o ato pró-Bolsonaro na Paulista'
 pubDate: 2024-02-26 21:38:09

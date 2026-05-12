@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/audax_pabloviana_resized_compressed.webp"
+heroImage: "/hero/wp1883_audax_pabloviana_resized_compressed.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jogador de futebol agride namorada, PMs e funcionário de boate'
 pubDate: 2023-11-09 17:10:22

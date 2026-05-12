@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-36.webp"
+heroImage: "/hero/wp5746_imagem-36.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Polícia Federal prepara indiciamento de Bolsonaro e aliados por tentativa de golpe'
 pubDate: 2024-10-19 12:55:14

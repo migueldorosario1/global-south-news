@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Nova-UPP.jpg"
+heroImage: "/hero/wp960_Nova-UPP.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'UPP Policiais presos após levar mulher para alojamento; flagrados nus por colega'
 pubDate: 2023-07-30 07:34:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/calor-no-rio-de-janeiro-NESTOR-J.-BEREMBLUM-BRAZIL-PHOTO-PRESS-AFP.webp"
+heroImage: "/hero/wp2409_calor-no-rio-de-janeiro-NESTOR-J.-BEREMBLUM-BRAZIL-PHOTO-PRESS-AFP.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio enfrenta onda de calor Extremo sem plano de contingência efetivo'
 pubDate: 2024-01-12 14:00:00

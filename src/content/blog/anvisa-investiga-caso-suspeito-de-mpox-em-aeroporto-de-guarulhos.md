@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-24.webp"
+heroImage: "/hero/wp4950_imagem-24.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Anvisa Investiga Caso Suspeito de Mpox em Aeroporto de Guarulhos'
 pubDate: 2024-08-26 19:56:36

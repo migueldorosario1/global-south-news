@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/download.jpg"
+heroImage: "/hero/wp2503_download.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Singapura e Zurique no topo as cidades mais caras do mundo em 2023'
 pubDate: 2024-01-21 21:25:00

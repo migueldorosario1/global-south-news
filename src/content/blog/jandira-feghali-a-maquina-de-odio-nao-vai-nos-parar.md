@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-38.png"
+heroImage: "/hero/wp1407_image-38.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jandira Feghali A máquina de ódio não vai nos parar'
 pubDate: 2023-09-25 20:12:36

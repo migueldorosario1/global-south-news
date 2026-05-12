@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp7148_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Debate na Lapa discute regulação das big techs no Brasil na próxima quinta-feira'
 pubDate: 2025-09-12 10:02:47

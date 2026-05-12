@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-8.png"
+heroImage: "/hero/wp6569_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Glauber Braga avalia sair do PSOL'
 pubDate: 2025-02-09 09:25:09

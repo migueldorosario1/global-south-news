@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-12.jpg"
+heroImage: "/hero/wp3020_imagem-12.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Metrô do Rio funcionará 24 horas durante o Carnaval; Confira os horários'
 pubDate: 2024-02-06 08:26:03

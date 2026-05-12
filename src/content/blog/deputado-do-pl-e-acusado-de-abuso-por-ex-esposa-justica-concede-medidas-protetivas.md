@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-17.webp"
+heroImage: "/hero/wp5669_imagem-17.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputado do PL é acusado de abuso por ex-esposa; justiça concede medidas protetivas'
 pubDate: 2024-10-10 20:57:51

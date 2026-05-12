@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2024-02-03-at-09.29.59-860x484-1.webp"
+heroImage: "/hero/wp3048_WhatsApp-Image-2024-02-03-at-09.29.59-860x484-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Conselho de Arquitetura do RJ reforça fiscalização na Sapucaí'
 pubDate: 2024-02-06 16:43:52

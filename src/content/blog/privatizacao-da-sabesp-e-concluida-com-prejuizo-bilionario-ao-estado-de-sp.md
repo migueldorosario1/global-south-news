@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.jpeg"
+heroImage: "/hero/wp4785_imagem-4.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Privatização da Sabesp é concluída com prejuízo bilionário ao estado de SP'
 pubDate: 2024-07-23 08:57:36

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-44.png"
+heroImage: "/hero/wp782_image-44.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Theatro Municipal do Rio comemora 114 anos com apresentações gratuitas e pré-estreia de ópera'
 pubDate: 2023-07-13 00:16:30

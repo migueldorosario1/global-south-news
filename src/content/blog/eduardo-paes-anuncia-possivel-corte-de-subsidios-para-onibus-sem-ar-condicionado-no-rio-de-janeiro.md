@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/76b092e00e4a587646639d4efb8962fc.jpg"
+heroImage: "/hero/wp1955_76b092e00e4a587646639d4efb8962fc.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Paes anuncia possível corte de subsídios para ônibus sem ar-condicionado no Rio de Janeiro'
 pubDate: 2023-11-17 12:01:42

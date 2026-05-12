@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Claudio-Castro-e-Rodrigo-Bacellar-696x464-1.webp"
+heroImage: "/hero/wp7630_Claudio-Castro-e-Rodrigo-Bacellar-696x464-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Direita fluminense segue desorientada com prisão de Bacellar'
 pubDate: 2026-02-03 20:42:14

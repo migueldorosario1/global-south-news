@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-21.png"
+heroImage: "/hero/wp6496_image-21.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mudança climática será destaque em festival do Arquivo Nacional'
 pubDate: 2025-01-21 13:03:58

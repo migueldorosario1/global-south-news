@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Fachada-TRE-RJ-848x477-1.png"
+heroImage: "/hero/wp2562_Fachada-TRE-RJ-848x477-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'TRE do Rio retira seções eleitorais em áreas de milícia'
 pubDate: 2024-01-28 07:00:00

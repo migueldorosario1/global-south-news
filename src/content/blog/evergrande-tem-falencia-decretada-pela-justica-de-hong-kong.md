@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-5.jpg"
+heroImage: "/hero/wp2623_imagem-5.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Evergrande tem falência decretada pela Justiça de Hong Kong'
 pubDate: 2024-01-29 11:02:45

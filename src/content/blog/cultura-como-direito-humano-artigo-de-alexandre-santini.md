@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp7192_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cultura como direito humano, artigo de Alexandre Santini'
 pubDate: 2025-10-07 10:05:31

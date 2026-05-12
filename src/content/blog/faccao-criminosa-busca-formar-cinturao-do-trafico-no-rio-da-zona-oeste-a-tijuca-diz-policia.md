@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Opera-Instantaneo_2023-02-01_173100_pbs.twimg_.com_.png"
+heroImage: "/hero/wp2608_Opera-Instantaneo_2023-02-01_173100_pbs.twimg_.com_.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Facção criminosa busca formar cinturão do tráfico no Rio, da Zona Oeste à Tijuca, diz Polícia'
 pubDate: 2024-01-29 12:00:00

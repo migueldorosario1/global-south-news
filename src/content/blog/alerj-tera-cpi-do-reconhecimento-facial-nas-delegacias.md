@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp154_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'ALERJ terá CPI do Reconhecimento Facial nas Delegacias'
 pubDate: 2023-06-15 08:51:33

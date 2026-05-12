@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.webp"
+heroImage: "/hero/wp4651_imagem-3.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tarcísio segue Ratinho Jr. e também vai entregar gestão das escolas estaduais de SP a iniciativa privada'
 pubDate: 2024-06-13 09:07:33

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-18.webp"
+heroImage: "/hero/wp6246_imagem-18.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula parabeniza Papa Francisco por Seu 88º aniversário'
 pubDate: 2024-12-17 15:59:12

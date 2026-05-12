@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-118.webp"
+heroImage: "/hero/wp5478_imagem-118.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula avalia compromissos internacionais e destaca otimismo com acordo União Europeia-Mercosul'
 pubDate: 2024-09-26 05:12:29

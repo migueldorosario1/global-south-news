@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.webp"
+heroImage: "/hero/wp4378_imagem.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula vai ao Rio Grande do Sul após devastação pelas chuvas'
 pubDate: 2024-05-02 09:31:58

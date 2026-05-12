@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-12.webp"
+heroImage: "/hero/wp6420_imagem-12.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'José Dirceu é cogitado por ala do PT a disputar presidência'
 pubDate: 2025-01-13 11:33:51

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-56.png"
+heroImage: "/hero/wp826_image-56.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeito de Cabo Frio morre aos 78 anos'
 pubDate: 2023-07-17 10:48:09

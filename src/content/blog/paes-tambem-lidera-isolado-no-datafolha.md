@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-15.jpeg"
+heroImage: "/hero/wp5320_imagem-15.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes também lidera isolado no Datafolha'
 pubDate: 2024-09-19 18:40:50

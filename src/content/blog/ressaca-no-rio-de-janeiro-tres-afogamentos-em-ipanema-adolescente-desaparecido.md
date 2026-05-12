@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/20231105-114035.webp"
+heroImage: "/hero/wp1817_20231105-114035.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ressaca no Rio de Janeiro Três Afogamentos em Ipanema, Adolescente Desaparecido'
 pubDate: 2023-11-05 18:39:58

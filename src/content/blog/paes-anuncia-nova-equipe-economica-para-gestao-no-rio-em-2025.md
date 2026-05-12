@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Secretariado-Foto-MARCELO-PIU-768x512-1.jpg"
+heroImage: "/hero/wp6153_Secretariado-Foto-MARCELO-PIU-768x512-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes anuncia nova equipe econômica para gestão no Rio em 2025'
 pubDate: 2024-12-13 12:41:17

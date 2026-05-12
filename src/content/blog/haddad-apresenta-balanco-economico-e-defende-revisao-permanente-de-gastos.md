@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-23.webp"
+heroImage: "/hero/wp6282_imagem-23.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Haddad apresenta balanço econômico e defende revisão permanente de gastos'
 pubDate: 2024-12-21 11:01:21

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/transferir-1.jpg"
+heroImage: "/hero/wp2147_transferir-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Denúncia de racismo em loja do boticário no Rio é investigada pela polícia'
 pubDate: 2023-12-14 08:00:00

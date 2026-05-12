@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.webp"
+heroImage: "/hero/wp2819_imagem.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Heleno tinha em mãos informações sobre os espionados pela Abin paralela'
 pubDate: 2024-02-01 09:11:29

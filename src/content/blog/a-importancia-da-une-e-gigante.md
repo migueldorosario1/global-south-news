@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-63.png"
+heroImage: "/hero/wp855_image-63.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi A importância da UNE é gigante!'
 pubDate: 2023-07-21 08:41:59

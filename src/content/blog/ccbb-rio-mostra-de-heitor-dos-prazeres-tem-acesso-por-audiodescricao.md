@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-18.png"
+heroImage: "/hero/wp1340_image-18.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'CCBB Rio mostra de Heitor dos Prazeres tem acesso por audiodescrição'
 pubDate: 2023-09-12 20:40:37

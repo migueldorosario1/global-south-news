@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-23.jpg"
+heroImage: "/hero/wp4554_imagem-23.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dallagnol queria usar ONG para evitar fiscalização do TCU sobre multas da Petrobras'
 pubDate: 2024-05-29 09:41:46

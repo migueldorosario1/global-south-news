@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-12-08T115948.494.jpeg"
+heroImage: "/hero/wp6135_images-2024-12-08T115948.494.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rodrigo Neves é eleito presidente do Mercocidades'
 pubDate: 2024-12-08 12:12:39

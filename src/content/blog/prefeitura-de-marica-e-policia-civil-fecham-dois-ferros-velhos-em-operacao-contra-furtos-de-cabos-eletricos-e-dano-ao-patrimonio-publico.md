@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-3.png"
+heroImage: "/hero/wp7597_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura de Maricá e Polícia Civil fecham dois ferros-velhos em operação contra furtos de cabos elétricos e dano ao patrimônio público'
 pubDate: 2026-01-21 11:36:09

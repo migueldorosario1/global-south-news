@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/beco-do-rato-lapa.jpg"
+heroImage: "/hero/wp512_beco-do-rato-lapa.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Beco do Rato deve se tornar Patrimônio Cultural Imaterial do Município'
 pubDate: 2023-06-21 14:34:37

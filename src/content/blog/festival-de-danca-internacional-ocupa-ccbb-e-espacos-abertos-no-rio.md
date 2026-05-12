@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-10.png"
+heroImage: "/hero/wp1022_image-10.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Festival de dança internacional ocupa CCBB e espaços abertos no Rio'
 pubDate: 2023-08-03 11:14:43

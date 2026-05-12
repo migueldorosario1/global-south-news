@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-32.png"
+heroImage: "/hero/wp6641_image-32.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quaest aponta Paes à frente na eleição para o governo do Rio'
 pubDate: 2025-02-27 10:09:38

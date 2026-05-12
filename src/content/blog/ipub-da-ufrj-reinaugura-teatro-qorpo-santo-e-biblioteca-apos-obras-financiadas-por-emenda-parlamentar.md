@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5.png"
+heroImage: "/hero/wp7786_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'IPUB da UFRJ reinaugura Teatro Qorpo Santo e biblioteca após obras financiadas por emenda parlamentar'
 pubDate: 2026-04-09 13:13:32

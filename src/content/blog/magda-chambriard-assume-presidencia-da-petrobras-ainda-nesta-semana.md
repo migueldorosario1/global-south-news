@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.webp"
+heroImage: "/hero/wp4496_imagem-3.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Magda Chambriard assume presidência da Petrobras ainda nesta semana'
 pubDate: 2024-05-21 09:20:36

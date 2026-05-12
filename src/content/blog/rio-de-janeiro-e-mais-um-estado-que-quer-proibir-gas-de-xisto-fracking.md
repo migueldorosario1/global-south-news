@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5.png"
+heroImage: "/hero/wp6253_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio de Janeiro é mais um estado que quer proibir gás de xisto (fracking)'
 pubDate: 2024-12-18 11:09:00

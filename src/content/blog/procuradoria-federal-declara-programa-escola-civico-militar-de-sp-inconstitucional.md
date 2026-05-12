@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.jpg"
+heroImage: "/hero/wp4622_imagem-10.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Procuradoria Federal declara programa Escola Cívico-Militar de SP inconstitucional'
 pubDate: 2024-06-11 09:53:23

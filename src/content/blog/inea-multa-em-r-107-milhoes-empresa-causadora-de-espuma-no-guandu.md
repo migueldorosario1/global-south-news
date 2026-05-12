@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-60.png"
+heroImage: "/hero/wp1259_image-60.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Inea multa em R$ 10,7 milhões empresa causadora de espuma no Guandu'
 pubDate: 2023-08-31 22:05:12

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-62.webp"
+heroImage: "/hero/wp5824_imagem-62.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula publica primeira foto após acidente doméstico e segue em recuperação'
 pubDate: 2024-10-21 13:36:45

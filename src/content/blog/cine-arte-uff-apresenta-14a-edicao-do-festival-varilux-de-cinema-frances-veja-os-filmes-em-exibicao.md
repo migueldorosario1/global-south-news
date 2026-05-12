@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/2019-10-05.jpg"
+heroImage: "/hero/wp1731_2019-10-05.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cine Arte UFF Apresenta 14ª Edição do Festival Varilux de Cinema Francês Veja os Filmes em Exibição'
 pubDate: 2023-10-31 10:14:17

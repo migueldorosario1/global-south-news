@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-71.webp"
+heroImage: "/hero/wp5307_imagem-71.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula coordena esforços contra emergência climática'
 pubDate: 2024-09-18 18:54:32

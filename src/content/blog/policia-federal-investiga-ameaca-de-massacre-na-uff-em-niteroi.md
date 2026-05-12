@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/uff-sisu-cursos-como-ingressar-960x540-1.jpg"
+heroImage: "/hero/wp1426_uff-sisu-cursos-como-ingressar-960x540-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Polícia Federal investiga ameaça de massacre na UFF em Niterói'
 pubDate: 2023-09-27 11:51:15

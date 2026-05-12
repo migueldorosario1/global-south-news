@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-21.webp"
+heroImage: "/hero/wp6276_imagem-21.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula planeja ato em memória do ataque aos três poderes em 2023'
 pubDate: 2024-12-21 10:38:14

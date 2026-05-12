@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp6448_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eleições 2026 no Rio Rodrigo Bacellar x Eduardo Paes?'
 pubDate: 2025-01-14 12:35:41

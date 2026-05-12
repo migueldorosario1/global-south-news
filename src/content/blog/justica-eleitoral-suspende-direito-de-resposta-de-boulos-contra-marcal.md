@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-8.jpeg"
+heroImage: "/hero/wp4925_imagem-8.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça Eleitoral suspende direito de resposta de Boulos contra Marçal'
 pubDate: 2024-08-22 10:41:21

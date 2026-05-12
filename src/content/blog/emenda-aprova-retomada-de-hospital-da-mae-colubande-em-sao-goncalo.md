@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-11.png"
+heroImage: "/hero/wp6941_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Emenda aprova retomada de hospital da Mãe Colubandê em São Gonçalo'
 pubDate: 2025-06-24 11:23:27

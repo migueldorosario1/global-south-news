@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-21.jpg"
+heroImage: "/hero/wp2792_imagem-21.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Abin paralela de Bolsonaro também espionou autoridades estrangeiras'
 pubDate: 2024-01-31 12:53:06

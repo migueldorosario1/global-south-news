@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-03-05T135501.339.jpeg"
+heroImage: "/hero/wp3653_images-2024-03-05T135501.339.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Urgente! General revela segunda minuta golpista apresentada por Bolsonaro'
 pubDate: 2024-03-05 13:58:12

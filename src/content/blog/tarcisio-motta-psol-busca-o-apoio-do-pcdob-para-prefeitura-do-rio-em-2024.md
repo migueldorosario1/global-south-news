@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-35.png"
+heroImage: "/hero/wp1393_image-35.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tarcísio Motta (PSOL) busca o apoio do PCdoB para prefeitura do Rio em 2024'
 pubDate: 2023-09-22 09:29:01

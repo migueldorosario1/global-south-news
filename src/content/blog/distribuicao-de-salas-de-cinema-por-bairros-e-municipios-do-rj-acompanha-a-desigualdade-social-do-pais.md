@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-19.png"
+heroImage: "/hero/wp1343_image-19.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Distribuição de salas de cinema por bairros e municípios do RJ acompanha a desigualdade social do país'
 pubDate: 2023-09-12 20:45:13

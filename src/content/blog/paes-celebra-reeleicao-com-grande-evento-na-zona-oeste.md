@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.webp"
+heroImage: "/hero/wp5604_imagem-4.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes celebra reeleição com grande evento na Zona Oeste'
 pubDate: 2024-10-07 11:13:44

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-3.png"
+heroImage: "/hero/wp6661_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Céu muda de humor e Rio enfrenta sol, calor e pancadas'
 pubDate: 2025-03-24 11:04:50

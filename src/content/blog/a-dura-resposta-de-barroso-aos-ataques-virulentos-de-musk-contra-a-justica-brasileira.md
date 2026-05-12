@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.jpg"
+heroImage: "/hero/wp4095_imagem-10.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'A dura resposta de Barroso aos ataques virulentos de Musk contra a justiça brasileira'
 pubDate: 2024-04-08 16:45:49

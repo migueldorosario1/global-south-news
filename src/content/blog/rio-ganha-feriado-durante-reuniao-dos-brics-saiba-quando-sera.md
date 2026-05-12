@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-18.png"
+heroImage: "/hero/wp6807_image-18.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio ganha feriado durante reunião dos Brics; saiba quando será!'
 pubDate: 2025-04-11 14:55:08

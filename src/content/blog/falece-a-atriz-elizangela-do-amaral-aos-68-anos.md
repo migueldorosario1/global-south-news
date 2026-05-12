@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/20231103182504111772i.jpg"
+heroImage: "/hero/wp1784_20231103182504111772i.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Falece a atriz Elizangela do Amaral, aos 68 Anos'
 pubDate: 2023-11-03 19:20:54

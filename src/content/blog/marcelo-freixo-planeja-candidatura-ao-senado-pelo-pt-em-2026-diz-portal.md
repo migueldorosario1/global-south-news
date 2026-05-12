@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Freixo.jpg"
+heroImage: "/hero/wp2294_Freixo.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Marcelo Freixo planeja candidatura ao Senado pelo PT em 2026, diz portal'
 pubDate: 2024-01-04 15:29:22

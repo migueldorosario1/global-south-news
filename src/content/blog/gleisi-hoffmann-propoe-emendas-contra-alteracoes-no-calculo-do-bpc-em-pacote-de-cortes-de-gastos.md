@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-17.webp"
+heroImage: "/hero/wp6243_imagem-17.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann propõe emendas contra alterações no cálculo do BPC em Pacote de cortes de gastos'
 pubDate: 2024-12-17 15:48:45

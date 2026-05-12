@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-13.webp"
+heroImage: "/hero/wp3190_imagem-13.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'RJ registra segunda morte por Dengue em 2024'
 pubDate: 2024-02-14 09:26:15

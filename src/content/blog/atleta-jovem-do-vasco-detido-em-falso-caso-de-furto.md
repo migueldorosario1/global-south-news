@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/GEAj794WkAA9xp2.jpg"
+heroImage: "/hero/wp2465_GEAj794WkAA9xp2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Atleta jovem do Vasco detido em falso caso de furto'
 pubDate: 2024-01-17 18:40:00

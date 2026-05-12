@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-28.webp"
+heroImage: "/hero/wp5085_imagem-28.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula apoia suspensão do X no Brasil e critica Elon Musk por interferências políticas'
 pubDate: 2024-09-04 19:35:12

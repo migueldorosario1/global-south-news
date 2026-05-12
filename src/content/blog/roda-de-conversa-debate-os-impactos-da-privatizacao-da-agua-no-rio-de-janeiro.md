@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-38.png"
+heroImage: "/hero/wp7454_image-38.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Roda de conversa debate os impactos da privatização da água no Rio de Janeiro'
 pubDate: 2025-11-25 17:35:29

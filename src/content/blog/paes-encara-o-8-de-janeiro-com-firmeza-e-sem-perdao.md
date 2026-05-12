@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp6774_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes encara o 8 de janeiro com firmeza e sem perdão'
 pubDate: 2025-04-08 10:05:46

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.webp"
+heroImage: "/hero/wp3828_imagem-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula investiga aumento de grupos neonazistas em Santa Catarina'
 pubDate: 2024-03-18 09:31:35

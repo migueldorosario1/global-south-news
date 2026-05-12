@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-31.png"
+heroImage: "/hero/wp7287_image-31.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula reage ao caos no Rio de Janeiro'
 pubDate: 2025-10-29 12:37:41

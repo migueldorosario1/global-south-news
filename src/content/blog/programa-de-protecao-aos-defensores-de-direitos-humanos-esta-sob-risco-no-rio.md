@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp4317_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Programa de Proteção aos Defensores de Direitos Humanos está sob risco no Rio'
 pubDate: 2024-04-26 09:00:17

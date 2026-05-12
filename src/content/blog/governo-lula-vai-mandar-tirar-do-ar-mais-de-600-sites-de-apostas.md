@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-124.webp"
+heroImage: "/hero/wp5530_imagem-124.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula vai mandar tirar do ar mais de 600 sites de apostas'
 pubDate: 2024-09-30 14:45:09

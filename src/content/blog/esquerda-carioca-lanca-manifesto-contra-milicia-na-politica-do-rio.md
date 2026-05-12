@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-11.png"
+heroImage: "/hero/wp4004_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Esquerda carioca lança manifesto contra milícia na política do Rio'
 pubDate: 2024-03-28 16:38:18

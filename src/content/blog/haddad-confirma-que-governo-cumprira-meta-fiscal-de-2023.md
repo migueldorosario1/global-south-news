@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-100.webp"
+heroImage: "/hero/wp5406_imagem-100.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Haddad confirma que Governo cumprirá meta fiscal de 2023'
 pubDate: 2024-09-24 06:07:12

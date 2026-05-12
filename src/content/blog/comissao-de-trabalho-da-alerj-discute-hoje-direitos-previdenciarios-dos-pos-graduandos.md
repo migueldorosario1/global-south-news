@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-12.png"
+heroImage: "/hero/wp1544_image-12.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Comissão de Trabalho da ALERJ discute hoje direitos previdenciários dos pós-graduandos'
 pubDate: 2023-10-09 11:59:28

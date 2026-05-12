@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-24.png"
+heroImage: "/hero/wp1362_image-24.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'São Paulo vence Flamengo na partida de ida da final da Copa do Brasil'
 pubDate: 2023-09-17 22:24:54

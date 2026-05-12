@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-1-e1712162916869.png"
+heroImage: "/hero/wp4057_image-1-e1712162916869.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi lança livro sobre “Direito à cidade no Rio de Janeiro” na UFRJ nesta quinta (04/04)'
 pubDate: 2024-04-03 13:46:53

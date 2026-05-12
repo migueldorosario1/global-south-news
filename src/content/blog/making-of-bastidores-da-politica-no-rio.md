@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5.png"
+heroImage: "/hero/wp177_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Making Of - Bastidores da Política no Rio'
 pubDate: 2023-06-15 09:35:11

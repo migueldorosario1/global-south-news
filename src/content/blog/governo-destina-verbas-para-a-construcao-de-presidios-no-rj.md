@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp367_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo destina verbas para a construção de presídios no RJ'
 pubDate: 2023-06-19 19:48:49

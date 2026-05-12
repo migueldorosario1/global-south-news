@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-1.png"
+heroImage: "/hero/wp4909_image-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Partidos apostam em fortes largadas para apresentar seus candidatos prioritários'
 pubDate: 2024-08-20 16:48:55

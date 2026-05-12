@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg-1.png"
+heroImage: "/hero/wp2709_imagem.jpg-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vídeo Soldados israelenses disfarçados assassinam civis dentro de hospital na Cisjordânia'
 pubDate: 2024-01-30 12:55:08

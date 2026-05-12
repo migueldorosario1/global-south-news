@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG_20240826_230604_940.jpg"
+heroImage: "/hero/wp4962_IMG_20240826_230604_940.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'APTR reúne candidatos no Theatro Casa Grande para debater cultura no Rio'
 pubDate: 2024-08-26 23:28:51

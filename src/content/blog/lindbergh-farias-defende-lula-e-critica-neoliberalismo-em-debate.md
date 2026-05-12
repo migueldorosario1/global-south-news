@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-50.webp"
+heroImage: "/hero/wp5788_imagem-50.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lindbergh Farias defende Lula e critica neoliberalismo em debate'
 pubDate: 2024-10-19 15:32:16

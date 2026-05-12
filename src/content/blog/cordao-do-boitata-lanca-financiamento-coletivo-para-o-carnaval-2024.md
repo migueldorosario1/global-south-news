@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/transferir-6.jpg"
+heroImage: "/hero/wp2365_transferir-6.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cordão do Boitatá lança financiamento coletivo para o carnaval 2024'
 pubDate: 2024-01-11 14:20:00

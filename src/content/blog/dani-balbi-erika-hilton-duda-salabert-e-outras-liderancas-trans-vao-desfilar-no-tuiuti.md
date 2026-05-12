@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-26.png"
+heroImage: "/hero/wp6523_image-26.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi, Érika Hilton, Duda Salabert e outras lideranças trans vão desfilar no Tuiuti'
 pubDate: 2025-01-28 10:41:34

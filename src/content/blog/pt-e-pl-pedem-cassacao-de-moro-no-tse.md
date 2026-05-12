@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.png"
+heroImage: "/hero/wp4274_imagem-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT e PL pedem cassação de Moro no TSE'
 pubDate: 2024-04-23 09:18:25

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-17.png"
+heroImage: "/hero/wp431_image-17.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Americanas “É preciso punir os culpados e proteger os empregos”, diz Marcio Ayer'
 pubDate: 2023-06-19 22:11:52

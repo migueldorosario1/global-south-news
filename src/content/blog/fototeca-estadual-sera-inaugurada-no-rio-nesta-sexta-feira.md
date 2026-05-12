@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-20.png"
+heroImage: "/hero/wp6603_image-20.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fototeca estadual será inaugurada no Rio nesta sexta-feira'
 pubDate: 2025-02-21 11:13:16

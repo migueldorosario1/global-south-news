@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/torcedor-boca-racista.webp"
+heroImage: "/hero/wp1810_torcedor-boca-racista.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Torcedor do Boca Juniors comete atos racistas em entrevista na praia de Copacabana'
 pubDate: 2023-11-04 10:50:27

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-26.jpg"
+heroImage: "/hero/wp4244_imagem-26.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Motorista de app relata se idoso estava vivo ou não antes de chegar ao banco no Rio'
 pubDate: 2024-04-18 09:34:13

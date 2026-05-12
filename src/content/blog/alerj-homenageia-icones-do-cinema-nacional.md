@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-10.png"
+heroImage: "/hero/wp371_image-10.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'ALERJ homenageia ícones do cinema nacional'
 pubDate: 2023-06-19 19:56:46

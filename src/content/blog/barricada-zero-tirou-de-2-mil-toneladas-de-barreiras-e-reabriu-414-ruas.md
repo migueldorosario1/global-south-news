@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-6.png"
+heroImage: "/hero/wp7497_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Barricada Zero tirou de 2 mil toneladas de barreiras e reabriu 414 ruas'
 pubDate: 2025-12-02 11:20:47

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-76.jpeg"
+heroImage: "/hero/wp3318_images-76.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Merval aproveita onda da extrema-direita para atacar Lula por criticar Israel'
 pubDate: 2024-02-19 19:48:27

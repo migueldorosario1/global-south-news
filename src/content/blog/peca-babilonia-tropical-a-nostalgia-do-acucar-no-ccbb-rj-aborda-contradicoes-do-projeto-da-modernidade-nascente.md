@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp1291_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Peça Babilônia tropical - A Nostalgia do Açúcar, no CCBB-RJ, aborda contradições do projeto da modernidade nascente'
 pubDate: 2023-09-04 15:23:31

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/73_big.jpg"
+heroImage: "/hero/wp1874_73_big.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Três policiais militares condenados por morte de seis pessoas no Morro da Coroa no Rio'
 pubDate: 2023-11-09 12:18:04

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/gariscomlurb.jpg"
+heroImage: "/hero/wp2378_gariscomlurb.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval no Rio Comlurb utiliza essência de eucalipto para combater odor nas ruas'
 pubDate: 2024-01-11 15:15:00

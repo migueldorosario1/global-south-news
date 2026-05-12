@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.png"
+heroImage: "/hero/wp4042_imagem-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Terremoto em Taiwan mata nove e deixa centenas de feridos'
 pubDate: 2024-04-03 10:25:05

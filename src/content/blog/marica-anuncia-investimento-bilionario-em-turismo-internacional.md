@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5.png"
+heroImage: "/hero/wp7604_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá anuncia investimento bilionário em turismo internacional'
 pubDate: 2026-01-22 18:24:23

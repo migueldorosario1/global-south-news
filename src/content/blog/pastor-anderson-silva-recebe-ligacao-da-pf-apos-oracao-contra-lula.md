@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/pastor-anderson-silva-e1554493717805.jpg"
+heroImage: "/hero/wp2578_pastor-anderson-silva-e1554493717805.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pastor Anderson Silva recebe ligação da PF após oração contra Lula'
 pubDate: 2024-01-28 11:00:00

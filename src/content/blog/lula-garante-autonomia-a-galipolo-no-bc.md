@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.avif"
+heroImage: "/hero/wp4974_imagem.avif"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula garante autonomia a Galípolo no BC'
 pubDate: 2024-09-02 16:25:30

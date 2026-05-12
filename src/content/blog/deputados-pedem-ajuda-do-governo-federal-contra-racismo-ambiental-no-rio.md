@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-13.png"
+heroImage: "/hero/wp1927_image-13.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputados pedem ajuda do governo federal contra racismo ambiental no Rio'
 pubDate: 2023-11-13 22:57:20

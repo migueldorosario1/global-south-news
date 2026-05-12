@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.jpg"
+heroImage: "/hero/wp3635_imagem-3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Saiba como Xandão sustentou prisão de deputado bolsonarista'
 pubDate: 2024-03-04 12:45:58

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-17.jpg"
+heroImage: "/hero/wp4672_imagem-17.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Erika Hilton convoca população a pressionar Lira contra PL que torna aborto crime de homicídio'
 pubDate: 2024-06-14 08:59:38

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-9.jpg"
+heroImage: "/hero/wp6386_imagem-9.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'As duas cidades do Rio que mais registraram furto de energia em 2024'
 pubDate: 2025-01-09 11:32:34

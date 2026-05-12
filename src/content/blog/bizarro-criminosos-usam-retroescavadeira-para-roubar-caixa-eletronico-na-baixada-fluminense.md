@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-20.webp"
+heroImage: "/hero/wp3098_imagem-20.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bizarro! Criminosos usam retroescavadeira para roubar caixa eletrônico na baixada fluminense'
 pubDate: 2024-02-09 11:11:00

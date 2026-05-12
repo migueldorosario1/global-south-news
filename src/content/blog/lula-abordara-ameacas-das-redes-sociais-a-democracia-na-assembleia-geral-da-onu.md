@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-67.webp"
+heroImage: "/hero/wp5292_imagem-67.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula abordará ameaças das redes sociais á democracia na Assembleia Geral da ONU'
 pubDate: 2024-09-16 21:20:02

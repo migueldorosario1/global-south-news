@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.png"
+heroImage: "/hero/wp3581_imagem-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF prende mecânico acusado de sumir com o carro usado no assassinato de Marielle'
 pubDate: 2024-02-29 11:56:36

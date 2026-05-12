@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp7777_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'ALERJ PRORROGA POR 90 DIAS TRABALHO DA COMISSÃO ESPECIAL DAS FAVELAS'
 pubDate: 2026-04-08 15:36:45

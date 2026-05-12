@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-5.webp"
+heroImage: "/hero/wp6101_imagem-5.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula expressa descontentamento com vídeo da marinha sobre privilégios militares'
 pubDate: 2024-12-05 04:50:34

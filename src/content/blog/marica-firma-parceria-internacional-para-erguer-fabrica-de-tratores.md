@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-37.png"
+heroImage: "/hero/wp7451_image-37.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá firma parceria internacional para erguer fábrica de tratores'
 pubDate: 2025-11-24 12:23:11

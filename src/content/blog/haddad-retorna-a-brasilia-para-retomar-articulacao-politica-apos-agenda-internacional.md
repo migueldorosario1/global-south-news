@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.jpg"
+heroImage: "/hero/wp4606_imagem-6.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Haddad retorna a Brasília para retomar articulação política após agenda internacional'
 pubDate: 2024-06-10 09:35:19

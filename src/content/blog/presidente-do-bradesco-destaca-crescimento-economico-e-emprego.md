@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.webp"
+heroImage: "/hero/wp5949_imagem-2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Presidente do Bradesco destaca crescimento econômico e emprego'
 pubDate: 2024-11-02 15:08:17

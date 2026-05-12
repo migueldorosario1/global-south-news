@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-25.png"
+heroImage: "/hero/wp1618_image-25.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dia do Comerciário reúne milhares de pessoas no Parque Madureira'
 pubDate: 2023-10-18 14:07:47

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/20240130a4926716313f40aa9a4f067c234550b8_XxjwspP007022_20240130_CBMFN0A001.jpg"
+heroImage: "/hero/wp2756_20240130a4926716313f40aa9a4f067c234550b8_XxjwspP007022_20240130_CBMFN0A001.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Empresas estatais da China registram crescimento de receita em 2023'
 pubDate: 2024-02-01 05:13:00

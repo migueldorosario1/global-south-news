@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-55-768x415-1.webp"
+heroImage: "/hero/wp3800_imagem-55-768x415-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Depoimentos de comandantes afundam de vez Bolsonaro na lama golpista'
 pubDate: 2024-03-15 14:41:37

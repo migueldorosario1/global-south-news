@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-14.png"
+heroImage: "/hero/wp1930_image-14.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa revela desigualdades nas favelas brasileiras'
 pubDate: 2023-11-13 23:04:17

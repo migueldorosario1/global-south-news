@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-91.webp"
+heroImage: "/hero/wp5378_imagem-91.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PL enfrenta desafios internos na Câmara dos Deputados'
 pubDate: 2024-09-23 19:53:14

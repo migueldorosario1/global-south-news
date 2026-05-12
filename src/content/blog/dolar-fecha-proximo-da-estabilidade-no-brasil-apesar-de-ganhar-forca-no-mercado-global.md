@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-32.webp"
+heroImage: "/hero/wp5734_imagem-32.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dólar fecha próximo da estabilidade no Brasil, apesar de ganhar força no mercado global'
 pubDate: 2024-10-17 20:20:26

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-15.webp"
+heroImage: "/hero/wp5046_imagem-15.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'TCU investiga possível irregularidade em licitação da starlink com comando militar da Amazônia'
 pubDate: 2024-09-03 17:31:46

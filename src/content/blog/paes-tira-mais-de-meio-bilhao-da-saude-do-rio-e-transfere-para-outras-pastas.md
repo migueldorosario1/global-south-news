@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5-e1709004541198.png"
+heroImage: "/hero/wp3504_image-5-e1709004541198.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes tira mais de meio bilhão da Saúde do Rio e transfere para outras pastas'
 pubDate: 2024-02-27 00:30:04

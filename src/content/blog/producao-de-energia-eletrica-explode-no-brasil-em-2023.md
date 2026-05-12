@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg.png"
+heroImage: "/hero/wp2981_imagem.jpg.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Produção de energia elétrica explode no Brasil em 2023'
 pubDate: 2024-02-06 05:17:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-23.png"
+heroImage: "/hero/wp2002_image-23.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Crise da luz Deputada propõe estatização da ENEL e da LIGHT'
 pubDate: 2023-11-22 11:10:32

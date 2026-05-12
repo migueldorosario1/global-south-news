@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-15.jpg"
+heroImage: "/hero/wp2726_imagem-15.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Michelle Bolsonaro ataca PF após operação contra Carluxo'
 pubDate: 2024-01-30 13:17:52

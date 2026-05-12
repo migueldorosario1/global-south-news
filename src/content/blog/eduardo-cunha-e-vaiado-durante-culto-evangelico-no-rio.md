@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpeg"
+heroImage: "/hero/wp4733_imagem.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Cunha é vaiado durante culto evangélico no Rio'
 pubDate: 2024-07-01 08:00:49

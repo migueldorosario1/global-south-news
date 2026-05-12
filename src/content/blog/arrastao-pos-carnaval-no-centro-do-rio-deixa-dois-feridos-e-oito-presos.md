@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2024-01-23-at-02.53.23.jpeg"
+heroImage: "/hero/wp2519_WhatsApp-Image-2024-01-23-at-02.53.23.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Arrastão pós-carnaval no centro do Rio deixa dois feridos e oito presos'
 pubDate: 2024-01-23 10:00:00

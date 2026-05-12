@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-24.webp"
+heroImage: "/hero/wp3124_imagem-24.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Consulta ao valor do PIS/Pasep de 2024 é liberada'
 pubDate: 2024-02-10 05:45:00

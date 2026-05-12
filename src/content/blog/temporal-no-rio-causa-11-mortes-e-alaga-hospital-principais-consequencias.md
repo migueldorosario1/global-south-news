@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/chuva-rj.jpg"
+heroImage: "/hero/wp2436_chuva-rj.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Temporal no Rio causa 11 mortes e alaga hospital; principais consequências'
 pubDate: 2024-01-15 09:30:00

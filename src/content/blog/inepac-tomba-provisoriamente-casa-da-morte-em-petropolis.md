@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-11.png"
+heroImage: "/hero/wp641_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Inepac tomba provisoriamente Casa da Morte em  Petrópolis'
 pubDate: 2023-07-05 10:46:15

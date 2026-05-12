@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-20.jpg"
+heroImage: "/hero/wp4539_imagem-20.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Desmatamento no Brasil diminui em 2023, mas cerrado supera Amazônia pela primeira vez'
 pubDate: 2024-05-28 09:32:52

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/cleiton.webp"
+heroImage: "/hero/wp1719_cleiton.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pré-candidato a vereador é assassinado em Queimados'
 pubDate: 2023-10-29 16:32:00

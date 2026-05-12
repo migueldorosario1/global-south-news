@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-11.jpg"
+heroImage: "/hero/wp3022_imagem-11.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Subsecretário do governo Castro pede exoneração e pode fazer denúncias explosivas'
 pubDate: 2024-02-06 08:26:39

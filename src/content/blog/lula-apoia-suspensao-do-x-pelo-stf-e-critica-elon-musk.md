@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-11.webp"
+heroImage: "/hero/wp5014_imagem-11.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula apoia suspensão do X pelo STF e critica Elon Musk'
 pubDate: 2024-09-02 19:20:40

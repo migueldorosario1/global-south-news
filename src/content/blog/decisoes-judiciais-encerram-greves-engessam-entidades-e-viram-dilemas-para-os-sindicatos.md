@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/greve-petropolis.jpeg"
+heroImage: "/hero/wp518_greve-petropolis.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Decisões Judiciais encerram greves, engessam entidades e viram dilemas para os Sindicatos'
 pubDate: 2023-06-21 20:03:15

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20240902-WA0200.jpg"
+heroImage: "/hero/wp5017_IMG-20240902-WA0200.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Candidata a vereadora no Rio assina compromisso com o Grupo Arco-Íris e a Aliança Nacional LGBT'
 pubDate: 2024-09-02 20:41:09

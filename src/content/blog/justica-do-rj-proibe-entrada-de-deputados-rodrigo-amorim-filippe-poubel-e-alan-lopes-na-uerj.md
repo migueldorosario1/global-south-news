@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/deputados.webp"
+heroImage: "/hero/wp1710_deputados.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça do RJ proíbe entrada de deputados Rodrigo Amorim, Filippe Poubel e Alan Lopes na Uerj'
 pubDate: 2023-10-29 15:24:37

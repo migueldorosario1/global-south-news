@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-67.png"
+heroImage: "/hero/wp869_image-67.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Chacina da Candelária vítimas são lembradas após 30 anos do crime'
 pubDate: 2023-07-22 21:11:40

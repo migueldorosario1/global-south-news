@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.jpg"
+heroImage: "/hero/wp4586_imagem-3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministros visitam Gramado e Canela para traçar plano de recuperação do turismo gaúcho'
 pubDate: 2024-06-06 10:03:30

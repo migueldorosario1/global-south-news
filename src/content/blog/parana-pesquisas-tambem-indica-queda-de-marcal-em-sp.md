@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.png"
+heroImage: "/hero/wp5520_imagem.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paraná Pesquisas também indica queda de Marçal em SP'
 pubDate: 2024-09-27 13:04:28

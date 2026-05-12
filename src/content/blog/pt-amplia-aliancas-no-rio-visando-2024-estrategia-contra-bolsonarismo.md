@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Ex-presidente-Lula-encontra-se-com-Eduardo-Paes-foto-Ricardo-Stuckert-Instituto-Lula_201502040001-696x464-1.webp"
+heroImage: "/hero/wp2176_Ex-presidente-Lula-encontra-se-com-Eduardo-Paes-foto-Ricardo-Stuckert-Instituto-Lula_201502040001-696x464-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT amplia alianças no Rio visando 2024 estratégia contra bolsonarismo'
 pubDate: 2023-12-19 10:39:07

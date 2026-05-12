@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-3.png"
+heroImage: "/hero/wp6894_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lançamento do livro Cultura é Poder de Jandira Feghali reúne grandes nomes da política e da cultura'
 pubDate: 2025-06-04 14:41:23

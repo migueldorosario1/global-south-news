@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp5931_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Aldo Arantes lança o livro “Domínio das mentes” no Rio dia 06/11'
 pubDate: 2024-11-02 09:45:25

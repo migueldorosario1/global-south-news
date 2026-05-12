@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-19.png"
+heroImage: "/hero/wp7395_image-19.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Polícia desmonta quadrilha que aterrorizava ruas do Rio'
 pubDate: 2025-11-19 12:00:49

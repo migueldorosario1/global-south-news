@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-30.png"
+heroImage: "/hero/wp6839_image-30.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'BRICS Rio será o palco da nova ordem mundial?'
 pubDate: 2025-04-28 14:27:58

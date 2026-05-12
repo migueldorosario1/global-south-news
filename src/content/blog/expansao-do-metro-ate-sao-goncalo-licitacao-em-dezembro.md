@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/metro-rio.webp"
+heroImage: "/hero/wp1605_metro-rio.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Expansão do metrô até São Gonçalo licitação em dezembro'
 pubDate: 2023-10-16 16:33:38

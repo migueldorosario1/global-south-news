@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-18.png"
+heroImage: "/hero/wp7691_image-18.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cláudio Castro anuncia saída do governo'
 pubDate: 2026-02-25 10:01:04

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-16.jpg"
+heroImage: "/hero/wp4474_imagem-16.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Porto Alegre fez investimento pífio na Defesa Civil'
 pubDate: 2024-05-20 09:19:02

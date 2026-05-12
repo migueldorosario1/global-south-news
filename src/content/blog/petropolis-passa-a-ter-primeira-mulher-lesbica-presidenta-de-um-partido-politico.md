@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-16.png"
+heroImage: "/hero/wp1560_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Petrópolis passa a ter primeira mulher lésbica presidenta de um partido político'
 pubDate: 2023-10-09 23:23:03

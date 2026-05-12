@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-68.png"
+heroImage: "/hero/wp872_image-68.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio de Janeiro cria programa de descoberta precoce do autismo'
 pubDate: 2023-07-22 21:16:15

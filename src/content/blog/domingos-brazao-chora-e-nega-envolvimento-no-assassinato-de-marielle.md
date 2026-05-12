@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-9.webp"
+heroImage: "/hero/wp4778_imagem-9.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Domingos Brazão chora e nega envolvimento no assassinato de Marielle'
 pubDate: 2024-07-17 09:32:04

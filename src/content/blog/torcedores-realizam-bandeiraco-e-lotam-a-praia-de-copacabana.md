@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/trbr1344.webp"
+heroImage: "/hero/wp1787_trbr1344.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Torcedores realizam Bandeiraço e lotam a praia de Copacabana'
 pubDate: 2023-11-03 19:27:38

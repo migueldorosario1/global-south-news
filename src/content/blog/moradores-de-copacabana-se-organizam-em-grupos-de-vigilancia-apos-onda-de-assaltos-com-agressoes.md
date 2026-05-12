@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/170186602965706a2d77ee8_1701866029_3x2_md.jpg"
+heroImage: "/hero/wp2083_170186602965706a2d77ee8_1701866029_3x2_md.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Moradores de Copacabana se organizam em grupos de vigilância após onda de assaltos com agressões'
 pubDate: 2023-12-06 15:41:04

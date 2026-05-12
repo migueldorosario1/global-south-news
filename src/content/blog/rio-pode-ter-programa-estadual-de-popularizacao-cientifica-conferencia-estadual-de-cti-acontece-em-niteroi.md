@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp3528_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio pode ter Programa Estadual de Popularização Científica; Conferência Estadual de CT&I acontece em Niterói'
 pubDate: 2024-02-27 15:49:19

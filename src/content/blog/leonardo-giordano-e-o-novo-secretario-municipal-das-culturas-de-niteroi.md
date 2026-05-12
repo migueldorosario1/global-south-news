@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp6402_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Leonardo Giordano é o novo Secretário Municipal das Culturas de Niterói'
 pubDate: 2025-01-10 10:14:38

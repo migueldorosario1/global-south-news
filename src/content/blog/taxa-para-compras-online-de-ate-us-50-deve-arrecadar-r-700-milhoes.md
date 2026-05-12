@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.webp"
+heroImage: "/hero/wp4993_imagem-4.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Taxa para compras online de até US$ 50 deve arrecadar R$ 700 milhões'
 pubDate: 2024-09-02 18:16:02

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-20.jpg"
+heroImage: "/hero/wp4187_imagem-20.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes expande sua base para se reeleger no Rio'
 pubDate: 2024-04-15 09:14:48

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/2023081609084_64c9ae78ca6a5e30be4625616ffd563ba0dd927a409d1acfd94274bbf233c3f9.jpg"
+heroImage: "/hero/wp3920_2023081609084_64c9ae78ca6a5e30be4625616ffd563ba0dd927a409d1acfd94274bbf233c3f9.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Família de Mauro Cid está aterrorizada com a possibilidade de ser presa pela PF'
 pubDate: 2024-03-23 11:11:24

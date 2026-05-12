@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-37.webp"
+heroImage: "/hero/wp5749_imagem-37.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governador da Bahia decreta luto oficial após massacre escolar'
 pubDate: 2024-10-19 13:15:46

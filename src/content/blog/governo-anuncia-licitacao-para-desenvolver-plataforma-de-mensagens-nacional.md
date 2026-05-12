@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-15.webp"
+heroImage: "/hero/wp4882_imagem-15.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo anuncia licitação para desenvolver zap brasileiro'
 pubDate: 2024-08-19 20:19:40

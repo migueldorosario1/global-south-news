@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/conheca-a-cidade-maravilhosa.jpg"
+heroImage: "/hero/wp2240_conheca-a-cidade-maravilhosa.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tarifas de táxis no Rio subiram confira os novos preços'
 pubDate: 2024-01-02 08:00:00

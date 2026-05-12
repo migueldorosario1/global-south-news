@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5.png"
+heroImage: "/hero/wp7350_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Educadora Elen Ferreira recebe Prêmio Dandara na Alerj por atuação contra o racismo'
 pubDate: 2025-11-08 08:12:11

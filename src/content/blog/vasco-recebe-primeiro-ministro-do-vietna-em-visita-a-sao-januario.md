@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-10.png"
+heroImage: "/hero/wp7094_image-10.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vasco recebe primeiro-ministro do Vietnã em visita a São Januário'
 pubDate: 2025-08-28 23:00:38

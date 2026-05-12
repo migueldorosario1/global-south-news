@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-54.png"
+heroImage: "/hero/wp1241_image-54.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Estádio do Vasco permanecerá fechado para o público, decide Justiça'
 pubDate: 2023-08-30 22:56:33

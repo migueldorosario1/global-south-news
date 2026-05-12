@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-29.jpg"
+heroImage: "/hero/wp3362_imagem-29.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jaques Wagner critica Lula por comparar genocídio em Gaza ao holocausto de Hitler'
 pubDate: 2024-02-21 08:26:23

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-20.png"
+heroImage: "/hero/wp1347_image-20.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Estado do Rio de Janeiro registra aumento nos casos de covid-19'
 pubDate: 2023-09-12 20:49:04

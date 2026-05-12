@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp3954_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lívia Miranda Centenário e Indispensável '
 pubDate: 2024-03-25 21:19:39

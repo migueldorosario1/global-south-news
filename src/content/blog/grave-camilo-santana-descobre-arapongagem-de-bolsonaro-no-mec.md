@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.jpg"
+heroImage: "/hero/wp3638_imagem-4.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Grave! Camilo Santana descobre arapongagem de Bolsonaro no MEC'
 pubDate: 2024-03-04 12:46:07

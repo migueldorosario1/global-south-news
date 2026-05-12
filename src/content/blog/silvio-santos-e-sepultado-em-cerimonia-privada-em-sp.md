@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-13.webp"
+heroImage: "/hero/wp4868_imagem-13.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Silvio Santos é sepultado em cerimônia privada em SP'
 pubDate: 2024-08-19 09:15:06

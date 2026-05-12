@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-12.webp"
+heroImage: "/hero/wp6161_imagem-12.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF apreende celulares no freezer de prefeito eleito de Duque de Caxias'
 pubDate: 2024-12-13 12:52:47

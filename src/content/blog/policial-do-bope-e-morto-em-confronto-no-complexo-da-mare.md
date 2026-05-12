@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/sargentobope.jpg"
+heroImage: "/hero/wp4628_sargentobope.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Policial do BOPE é morto em confronto no Complexo da Maré'
 pubDate: 2024-06-11 22:39:29

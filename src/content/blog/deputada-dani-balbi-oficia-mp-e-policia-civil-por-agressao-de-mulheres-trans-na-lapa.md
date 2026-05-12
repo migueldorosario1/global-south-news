@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-15.png"
+heroImage: "/hero/wp2541_image-15.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputada Dani Balbi oficia MP e Polícia Civil por agressão de mulheres trans na Lapa'
 pubDate: 2024-01-24 14:41:51

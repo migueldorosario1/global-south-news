@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-34.png"
+heroImage: "/hero/wp1160_image-34.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Líder do Psol na Câmara do Rio recebe ameaça de ‘estupro coletivo terapêutico’'
 pubDate: 2023-08-21 20:33:16

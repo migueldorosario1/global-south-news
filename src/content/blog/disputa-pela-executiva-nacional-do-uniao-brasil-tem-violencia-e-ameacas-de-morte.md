@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-45.jpg"
+heroImage: "/hero/wp3539_imagem-45.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Disputa pela executiva nacional do União Brasil tem violência e ameaças de morte'
 pubDate: 2024-02-28 09:35:20

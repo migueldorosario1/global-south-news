@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-10.jpeg"
+heroImage: "/hero/wp3923_images-10.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! TRE do Paraná marca julgamento de Moro para 1º de abril'
 pubDate: 2024-03-23 11:20:19

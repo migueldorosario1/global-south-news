@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-74.jpeg"
+heroImage: "/hero/wp3348_images-74.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa revela que aprovação de Lula influencia preferência eleitoral em SP'
 pubDate: 2024-02-20 23:23:37

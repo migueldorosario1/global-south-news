@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Screenshot_20240319-1924082.png"
+heroImage: "/hero/wp3872_Screenshot_20240319-1924082.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Caso Marielle Delação de Ronnie Lessa é homologada pela Justiça'
 pubDate: 2024-03-19 19:29:22

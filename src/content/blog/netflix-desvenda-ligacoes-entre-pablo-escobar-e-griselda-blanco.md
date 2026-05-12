@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-01-29T191110.281.jpeg"
+heroImage: "/hero/wp2679_images-2024-01-29T191110.281.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Netflix desvenda ligações entre Pablo Escobar e Griselda Blanco'
 pubDate: 2024-01-29 19:12:21

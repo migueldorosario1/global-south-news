@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.jpg"
+heroImage: "/hero/wp2911_imagem-10.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura do Rio inaugura primeiro centro de atendimento especializado em autismo'
 pubDate: 2024-02-02 09:21:42

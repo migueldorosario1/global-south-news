@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-16.png"
+heroImage: "/hero/wp6799_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Paes decide assumir a Supervia e expandir metrô para o Recreio'
 pubDate: 2025-04-11 13:43:40

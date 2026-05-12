@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.jpg"
+heroImage: "/hero/wp2631_imagem-7.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Aliado de Jordy confessou a existência da Abin paralela no governo Bolsonaro'
 pubDate: 2024-01-29 11:35:32

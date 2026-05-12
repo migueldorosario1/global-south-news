@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5.png"
+heroImage: "/hero/wp574_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministra das Mulheres inaugura Centro de Referência da Mulher no Rio'
 pubDate: 2023-07-04 10:06:03

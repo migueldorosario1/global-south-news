@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-19.png"
+heroImage: "/hero/wp7538_image-19.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Patrimônio de Bacellar cresce 832% em quatro anos, diz Justiça Eleitoral'
 pubDate: 2025-12-06 19:46:11

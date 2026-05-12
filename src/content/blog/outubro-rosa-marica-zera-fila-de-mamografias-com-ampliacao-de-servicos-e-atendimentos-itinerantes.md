@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-28.png"
+heroImage: "/hero/wp7277_image-28.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Outubro Rosa Maricá zera fila de mamografias com ampliação de serviços e atendimentos itinerantes'
 pubDate: 2025-10-29 09:25:20

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-8.jpg"
+heroImage: "/hero/wp2636_imagem-8.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'EUA cogitam ações militares em resposta a ataque fatal na fronteira com o Irã'
 pubDate: 2024-01-30 05:44:00

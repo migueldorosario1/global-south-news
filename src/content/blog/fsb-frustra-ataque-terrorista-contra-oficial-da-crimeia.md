@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/1412043.jpg"
+heroImage: "/hero/wp3000_1412043.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'FSB frustra ataque terrorista contra oficial da Crimeia'
 pubDate: 2024-02-07 05:35:00

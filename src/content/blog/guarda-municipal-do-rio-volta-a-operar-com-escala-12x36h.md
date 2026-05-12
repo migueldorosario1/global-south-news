@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-1.png"
+heroImage: "/hero/wp559_image-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Guarda Municipal do Rio volta a operar com escala 12x36h'
 pubDate: 2023-07-03 18:39:03

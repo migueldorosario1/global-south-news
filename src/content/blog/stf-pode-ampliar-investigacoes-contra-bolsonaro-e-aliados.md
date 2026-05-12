@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.jpg"
+heroImage: "/hero/wp2657_imagem-10.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'STF pode ampliar investigações contra Bolsonaro e aliados'
 pubDate: 2024-01-31 05:12:00

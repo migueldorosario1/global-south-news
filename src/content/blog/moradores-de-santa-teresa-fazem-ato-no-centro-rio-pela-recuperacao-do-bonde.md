@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-46.png"
+heroImage: "/hero/wp1215_image-46.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Moradores de Santa Teresa fazem ato no Centro do Rio pela recuperação do Bonde'
 pubDate: 2023-08-25 11:53:20

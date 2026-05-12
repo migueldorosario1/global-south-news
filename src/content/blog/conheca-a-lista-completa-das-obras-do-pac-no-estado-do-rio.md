@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-36.png"
+heroImage: "/hero/wp1167_image-36.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Conheça a lista completa das obras do PAC no estado do Rio'
 pubDate: 2023-08-22 12:58:18

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-5.png"
+heroImage: "/hero/wp3586_imagem-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lesa Pátria Relatório da Polícia Civil do DF revela papel dos empresários presos pela PF'
 pubDate: 2024-02-29 12:07:46

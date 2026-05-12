@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/B7D5OMYASNHSRBVK6352ESUA5Q-scaled.jpg"
+heroImage: "/hero/wp3051_B7D5OMYASNHSRBVK6352ESUA5Q-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula inicia 2024 com alto índice de aprovação, diz AtlasIntel'
 pubDate: 2024-02-06 16:51:06

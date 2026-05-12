@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-82.png"
+heroImage: "/hero/wp918_image-82.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eleição para prefeitura do Rio em 2024 já tem 9 pretendentes'
 pubDate: 2023-07-27 14:17:46

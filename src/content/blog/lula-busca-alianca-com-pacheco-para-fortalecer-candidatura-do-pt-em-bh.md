@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-8.webp"
+heroImage: "/hero/wp4715_imagem-8.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula busca aliança com Pacheco para fortalecer candidatura do PT em BH'
 pubDate: 2024-06-28 08:07:39

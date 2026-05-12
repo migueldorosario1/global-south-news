@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-10.png"
+heroImage: "/hero/wp6777_image-10.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes abre mão de royalties e estende a mão a São Gonçalo'
 pubDate: 2025-04-08 10:15:15

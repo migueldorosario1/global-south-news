@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-1-e1759842058255.png"
+heroImage: "/hero/wp7178_image-1-e1759842058255.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fenae se une à marcha histórica pela cidadania feminina'
 pubDate: 2025-10-01 16:58:53

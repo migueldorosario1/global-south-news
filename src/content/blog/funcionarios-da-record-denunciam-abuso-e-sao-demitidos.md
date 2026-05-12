@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-42.jpg"
+heroImage: "/hero/wp4352_imagem-42.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Funcionários da Record denunciam abuso e são demitidos'
 pubDate: 2024-04-29 09:55:29

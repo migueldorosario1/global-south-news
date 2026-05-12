@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/20220404115659__mg_4124-24785124.webp"
+heroImage: "/hero/wp2170_20220404115659__mg_4124-24785124.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Conheça os nomes mais populares para bebês no Rio em 2023'
 pubDate: 2023-12-18 17:25:00

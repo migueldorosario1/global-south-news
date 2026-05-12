@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp7139_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj promove encontro do Movimento pelo Campo do Livro na próxima segunda-feira'
 pubDate: 2025-09-11 17:41:28

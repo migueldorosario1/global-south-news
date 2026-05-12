@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.jpg"
+heroImage: "/hero/wp4608_imagem-7.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eletrobras vende termelétricas à Âmbar Energia por valor bilionário'
 pubDate: 2024-06-10 09:35:21

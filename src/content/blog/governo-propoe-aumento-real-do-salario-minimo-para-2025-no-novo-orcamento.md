@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-12.webp"
+heroImage: "/hero/wp5023_imagem-12.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo propõe aumento real do salário mínimo para 2025 no novo Orçamento'
 pubDate: 2024-09-02 22:10:57

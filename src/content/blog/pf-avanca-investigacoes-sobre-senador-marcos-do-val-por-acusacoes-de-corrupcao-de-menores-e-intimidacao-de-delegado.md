@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-109.webp"
+heroImage: "/hero/wp5450_imagem-109.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF avança investigações sobre Senador Marcos do Val por acusações de corrupção de menores e intimidação de Delegado'
 pubDate: 2024-09-24 20:29:31

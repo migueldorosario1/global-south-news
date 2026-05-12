@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-19.webp"
+heroImage: "/hero/wp3080_imagem-19.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ex-comandante da Marinha que apoiou plano golpista de Bolsonaro é alvo de busca e apreensão'
 pubDate: 2024-02-08 10:02:59

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-35.webp"
+heroImage: "/hero/wp5134_imagem-35.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Câmara aprova urgência para votação da desoneração da folha de pagamento'
 pubDate: 2024-09-10 10:33:38

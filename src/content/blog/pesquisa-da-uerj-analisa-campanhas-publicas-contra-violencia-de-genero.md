@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-13.png"
+heroImage: "/hero/wp648_image-13.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa da Uerj analisa campanhas públicas contra violência de gênero'
 pubDate: 2023-07-05 15:29:41

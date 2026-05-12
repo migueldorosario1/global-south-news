@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg-1.png"
+heroImage: "/hero/wp4492_imagem.jpg-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputado do PSOL revela omissão de Melo sobre riscos de inundações em Porto Alegre'
 pubDate: 2024-05-21 09:20:32

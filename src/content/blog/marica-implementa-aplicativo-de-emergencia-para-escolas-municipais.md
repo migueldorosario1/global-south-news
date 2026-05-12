@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2024-01-29-at-15.19.36-1.webp"
+heroImage: "/hero/wp2930_WhatsApp-Image-2024-01-29-at-15.19.36-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá implementa aplicativo de emergência para escolas municipais'
 pubDate: 2024-02-02 20:16:46

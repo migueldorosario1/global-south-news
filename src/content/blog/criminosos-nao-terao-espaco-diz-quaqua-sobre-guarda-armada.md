@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-1.png"
+heroImage: "/hero/wp6725_image-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Criminosos não terão espaço, diz Quaquá sobre Guarda armada'
 pubDate: 2025-04-02 14:10:28

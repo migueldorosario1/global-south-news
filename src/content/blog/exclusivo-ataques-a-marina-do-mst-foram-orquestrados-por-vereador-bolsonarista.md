@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/2023-08-13-17-32-56-marina-do-mst-marinadomst-x-compressed.jpg"
+heroImage: "/hero/wp1117_2023-08-13-17-32-56-marina-do-mst-marinadomst-x-compressed.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Exclusivo! Ataques a Marina do MST foram orquestrados por vereador bolsonarista'
 pubDate: 2023-08-17 06:36:01

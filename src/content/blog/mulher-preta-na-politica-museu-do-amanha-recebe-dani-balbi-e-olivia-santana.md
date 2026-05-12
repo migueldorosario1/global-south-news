@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-52.png"
+heroImage: "/hero/wp817_image-52.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mulher Preta na Política Museu do Amanhã recebe Dani Balbi e Olivia Santana'
 pubDate: 2023-07-15 13:11:15

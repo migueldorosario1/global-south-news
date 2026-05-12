@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-28.png"
+heroImage: "/hero/wp7566_image-28.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá terá vans municipais totalmente gratuitas a partir de janeiro'
 pubDate: 2025-12-11 13:17:15

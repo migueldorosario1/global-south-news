@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/52023124726_c57e4b09f5_c.jpg"
+heroImage: "/hero/wp2164_52023124726_c57e4b09f5_c.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval 2024 no Rio promete desfiles espetaculares a partir de 9 de fevereiro, confira datas'
 pubDate: 2023-12-18 16:20:00

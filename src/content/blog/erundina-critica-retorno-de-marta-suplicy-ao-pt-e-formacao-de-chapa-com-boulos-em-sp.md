@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.webp"
+heroImage: "/hero/wp3825_imagem.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Erundina critica retorno de Marta Suplicy ao PT e formação de chapa com Boulos em SP'
 pubDate: 2024-03-18 09:31:31

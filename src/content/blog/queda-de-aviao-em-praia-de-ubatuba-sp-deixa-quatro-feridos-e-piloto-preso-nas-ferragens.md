@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-11.webp"
+heroImage: "/hero/wp6390_imagem-11.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Queda de avião em praia de Ubatuba (SP) deixa quatro feridos e piloto preso nas ferragens'
 pubDate: 2025-01-09 11:50:20

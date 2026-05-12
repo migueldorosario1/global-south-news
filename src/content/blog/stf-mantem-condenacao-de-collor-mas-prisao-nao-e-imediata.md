@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.webp"
+heroImage: "/hero/wp5982_imagem-6.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'STF mantém condenação de Collor, mas prisão não é imediata'
 pubDate: 2024-11-09 08:31:42

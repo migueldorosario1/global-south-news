@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-27-e1738112518701.png"
+heroImage: "/hero/wp6526_image-27-e1738112518701.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'IPP e Clube de Engenharia preparam convênio de cooperação'
 pubDate: 2025-01-28 22:04:58

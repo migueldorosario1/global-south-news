@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-10.png"
+heroImage: "/hero/wp4358_image-10.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Líder da esquerda americana, Bernie Sanders terá encontro com Jandira Feghali nos EUA'
 pubDate: 2024-04-29 10:41:44

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/o-contraventor-rogerio-andrade-1652217155094_v2_4x3.jpg"
+heroImage: "/hero/wp2500_o-contraventor-rogerio-andrade-1652217155094_v2_4x3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rogério Andrade balança carnaval e desafia milícia'
 pubDate: 2024-01-21 21:09:17

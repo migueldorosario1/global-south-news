@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp3798_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Conferência de Ciência e Tecnologia para o Desenvolvimento Social lota Teatro da UERJ'
 pubDate: 2024-03-15 14:45:34

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-13.png"
+heroImage: "/hero/wp6465_image-13.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tentativa de roubo de carga no Rio é frustrada pela polícia'
 pubDate: 2025-01-15 16:00:24

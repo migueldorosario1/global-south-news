@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/dur-9240.webp"
+heroImage: "/hero/wp1906_dur-9240.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Emoções nos gramados cariocas Vasco vence com gol nos acréscimos, Botafogo empata e Flamengo e Fluminense ficam no 1 a 1'
 pubDate: 2023-11-13 11:20:21

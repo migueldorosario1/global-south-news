@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.webp"
+heroImage: "/hero/wp5946_imagem-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Estudo do Ipea revela falhas na progressividade tributária brasileira'
 pubDate: 2024-11-02 14:51:28

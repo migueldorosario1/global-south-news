@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-61.png"
+heroImage: "/hero/wp1262_image-61.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj poderá ter Comissão Especial em apoio a catadores de material reciclável'
 pubDate: 2023-08-31 22:08:49

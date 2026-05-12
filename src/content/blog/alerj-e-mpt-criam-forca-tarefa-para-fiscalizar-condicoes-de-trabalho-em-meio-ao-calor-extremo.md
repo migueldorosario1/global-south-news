@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp6665_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj e MPT criam força-tarefa para fiscalizar condições de trabalho em meio ao calor extremo'
 pubDate: 2025-03-26 12:35:49

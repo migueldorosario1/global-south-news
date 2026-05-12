@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-e1714746126879.png"
+heroImage: "/hero/wp4404_image-e1714746126879.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dia do Trabalho Invisível Alerj cria lei que joga luz sobre o trabalho doméstico feminino'
 pubDate: 2024-05-03 11:22:19

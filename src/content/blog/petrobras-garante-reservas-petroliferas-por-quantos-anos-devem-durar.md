@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-01-29T152446.714.jpeg"
+heroImage: "/hero/wp2668_images-2024-01-29T152446.714.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Petrobras garante reservas petrolíferas; Por quantos anos devem durar?'
 pubDate: 2024-01-29 15:28:24

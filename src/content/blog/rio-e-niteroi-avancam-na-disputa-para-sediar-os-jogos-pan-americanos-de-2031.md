@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-9.webp"
+heroImage: "/hero/wp6365_imagem-9.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio e Niterói avançam na disputa para sediar os Jogos Pan-Americanos de 2031'
 pubDate: 2025-01-07 17:01:26

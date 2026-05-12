@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-10.png"
+heroImage: "/hero/wp6924_image-10.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Movimento pede demissão de presidente do INPI por DEI Washing'
 pubDate: 2025-06-12 13:38:07

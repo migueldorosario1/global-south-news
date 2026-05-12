@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2-e1734204648532.png"
+heroImage: "/hero/wp6208_image-2-e1734204648532.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Presidente do Coren reúne-se com ministra de Ciência e Tecnologia'
 pubDate: 2024-12-14 16:32:40

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-8.jpg"
+heroImage: "/hero/wp4646_imagem-8.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Defesa de Rivaldo Barbosa pede julgamento no plenário do STF'
 pubDate: 2024-06-13 08:59:30

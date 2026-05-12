@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/53af0161bdcf4c892c691e5fb176523b_L.jpg"
+heroImage: "/hero/wp1039_53af0161bdcf4c892c691e5fb176523b_L.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Câmara do Rio promove semana especial para discutir políticas culturais'
 pubDate: 2023-08-06 20:02:52

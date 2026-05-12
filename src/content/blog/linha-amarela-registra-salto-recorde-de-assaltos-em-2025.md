@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp7362_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Linha Amarela registra salto recorde de assaltos em 2025'
 pubDate: 2025-11-10 12:04:22

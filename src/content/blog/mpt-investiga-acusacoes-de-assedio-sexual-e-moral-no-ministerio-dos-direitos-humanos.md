@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-39.webp"
+heroImage: "/hero/wp5151_imagem-39.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'MPT investiga relatos de assédio moral no Ministério dos Direitos Humanos'
 pubDate: 2024-09-10 17:42:09

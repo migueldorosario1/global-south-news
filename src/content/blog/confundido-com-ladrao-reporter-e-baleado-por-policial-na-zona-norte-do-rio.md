@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-26.png"
+heroImage: "/hero/wp6622_image-26.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Confundido com ladrão, repórter é baleado por policial na Zona Norte do Rio'
 pubDate: 2025-02-25 15:56:35

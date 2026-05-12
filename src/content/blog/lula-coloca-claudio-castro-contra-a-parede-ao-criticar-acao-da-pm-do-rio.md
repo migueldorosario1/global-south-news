@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-21.png"
+heroImage: "/hero/wp1079_image-21.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula coloca Claudio Castro contra a parede ao criticar ação da PM do Rio'
 pubDate: 2023-08-10 15:50:04

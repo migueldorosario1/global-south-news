@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-82.webp"
+heroImage: "/hero/wp5349_imagem-82.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gilson Machado lidera índice de rejeição em Recife, aponta Datafolha'
 pubDate: 2024-09-19 19:52:02

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Dani-Balbi-11.webp"
+heroImage: "/hero/wp6691_Dani-Balbi-11.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj quer criar Programa de Pontos de Inovação Sustentável em regiões com baixo IDH'
 pubDate: 2025-03-27 15:42:29

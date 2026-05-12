@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.webp"
+heroImage: "/hero/wp2639_imagem-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Civis em Gaza continuam sendo brutalmente atacados por soldados israelenses'
 pubDate: 2024-01-30 05:49:00

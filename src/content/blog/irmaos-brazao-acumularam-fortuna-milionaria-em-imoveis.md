@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.avif"
+heroImage: "/hero/wp4739_imagem.avif"
 description: "Matéria arquivada do Rio Carta"
 title: 'Irmãos Brazão acumularam fortuna milionária em imóveis'
 pubDate: 2024-07-02 07:45:16

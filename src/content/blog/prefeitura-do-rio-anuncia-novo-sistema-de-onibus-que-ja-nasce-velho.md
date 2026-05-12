@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-15.png"
+heroImage: "/hero/wp6997_image-15.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura do Rio anuncia novo sistema de ônibus que já nasce velho'
 pubDate: 2025-07-22 11:05:44

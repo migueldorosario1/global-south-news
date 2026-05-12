@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/104454030-ri-rio-27-09-2023-calor-cidade-rio-pode-ter-calorao-recorde-tempestade-e-ventani.webp"
+heroImage: "/hero/wp1440_104454030-ri-rio-27-09-2023-calor-cidade-rio-pode-ter-calorao-recorde-tempestade-e-ventani.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pior para o pobre Temperatura Chega a 53 Graus nos Ônibus do Rio'
 pubDate: 2023-09-27 15:20:58

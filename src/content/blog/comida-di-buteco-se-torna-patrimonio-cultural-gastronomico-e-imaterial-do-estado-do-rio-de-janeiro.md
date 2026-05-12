@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Screenshot_20240606-1721162.png"
+heroImage: "/hero/wp4597_Screenshot_20240606-1721162.png"
 description: "Matéria arquivada do Rio Carta"
 title: '“Comida di Buteco” se torna Patrimônio Cultural gastronômico e imaterial do Estado do Rio de Janeiro.'
 pubDate: 2024-06-06 20:39:00

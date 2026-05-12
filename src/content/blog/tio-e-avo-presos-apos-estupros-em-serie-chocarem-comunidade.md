@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/estupro-14.webp"
+heroImage: "/hero/wp2086_estupro-14.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tio e Avô Presos Após Estupros em Série Chocarem Comunidade'
 pubDate: 2023-12-06 15:51:19

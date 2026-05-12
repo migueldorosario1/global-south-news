@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-73.webp"
+heroImage: "/hero/wp5313_imagem-73.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo aponta aumento na disparidade salarial de gênero no Brasil'
 pubDate: 2024-09-18 19:17:39

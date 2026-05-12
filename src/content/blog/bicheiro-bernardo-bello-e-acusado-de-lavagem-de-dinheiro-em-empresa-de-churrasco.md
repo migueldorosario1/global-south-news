@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/bello-1.jpg"
+heroImage: "/hero/wp2123_bello-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bicheiro Bernardo Bello é acusado de lavagem de dinheiro em empresa de churrasco'
 pubDate: 2023-12-11 08:00:00

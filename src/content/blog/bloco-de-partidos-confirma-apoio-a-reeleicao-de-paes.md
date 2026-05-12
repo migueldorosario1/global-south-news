@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-45-scaled.jpg"
+heroImage: "/hero/wp4773_imagem-45-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bloco de partidos confirma apoio à reeleição de Paes'
 pubDate: 2024-07-16 15:06:28

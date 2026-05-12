@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Creche-Saquarema-1024x682-1.jpeg"
+heroImage: "/hero/wp2189_Creche-Saquarema-1024x682-1.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Saquarema Contrato de R$ 27 milhões com empresa familiar gera questionamentos'
 pubDate: 2023-12-20 08:30:00

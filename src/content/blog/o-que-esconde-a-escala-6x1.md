@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp6734_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'O que esconde a escala 6x1'
 pubDate: 2025-04-02 14:45:53

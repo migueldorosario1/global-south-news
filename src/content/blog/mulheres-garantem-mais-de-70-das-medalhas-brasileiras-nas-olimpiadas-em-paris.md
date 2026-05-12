@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.jpeg"
+heroImage: "/hero/wp4800_imagem-1.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mulheres garantem mais de 70% das medalhas brasileiras nas Olimpíadas em Paris'
 pubDate: 2024-08-07 12:28:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.jpg"
+heroImage: "/hero/wp6413_imagem-10.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tensões internas no União Brasil sobre apoio a Lula em 2026'
 pubDate: 2025-01-13 11:22:27

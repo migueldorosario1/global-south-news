@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-77.jpeg"
+heroImage: "/hero/wp3326_images-77.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Anderson Torres pode entregar Bolsonaro em depoimento a PF'
 pubDate: 2024-02-19 21:24:19

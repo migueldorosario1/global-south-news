@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-20.jpeg"
+heroImage: "/hero/wp3160_images-20.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo do Rio bate recorde de incentivos para o carnaval do interior'
 pubDate: 2024-02-12 10:55:17

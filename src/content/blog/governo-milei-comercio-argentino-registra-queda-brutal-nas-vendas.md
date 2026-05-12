@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.jpg"
+heroImage: "/hero/wp2615_imagem-3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Milei Comércio argentino registra queda brutal nas vendas'
 pubDate: 2024-01-29 10:08:48

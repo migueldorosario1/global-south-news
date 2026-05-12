@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.webp"
+heroImage: "/hero/wp2733_imagem-6.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula anuncia as prioridades do governo em 2024'
 pubDate: 2024-01-30 13:29:24

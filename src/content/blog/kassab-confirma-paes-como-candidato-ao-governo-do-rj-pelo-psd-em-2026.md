@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp6747_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Kassab confirma Paes como candidato ao governo do RJ pelo PSD em 2026'
 pubDate: 2025-04-05 14:06:26

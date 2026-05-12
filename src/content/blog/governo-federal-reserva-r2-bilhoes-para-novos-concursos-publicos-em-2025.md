@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.webp"
+heroImage: "/hero/wp4987_imagem-2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo federal reserva R$2 bilhões para novos concursos públicos em 2025'
 pubDate: 2024-09-02 17:55:29

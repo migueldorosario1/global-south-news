@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg"
+heroImage: "/hero/wp4379_imagem.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Leite diz que RS é vítima do maior desastre da história'
 pubDate: 2024-05-02 09:32:02

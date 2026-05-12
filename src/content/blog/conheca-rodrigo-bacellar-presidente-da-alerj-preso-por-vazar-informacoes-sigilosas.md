@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-14.png"
+heroImage: "/hero/wp7509_image-14.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Conheça Rodrigo Bacellar, presidente da Alerj preso por vazar informações sigilosas'
 pubDate: 2025-12-03 12:11:36

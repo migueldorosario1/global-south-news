@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-11.jpg"
+heroImage: "/hero/wp2662_imagem-11.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pacheco pede ao STF lista de congressistas espionados pelo governo Bolsonaro'
 pubDate: 2024-01-31 05:25:00

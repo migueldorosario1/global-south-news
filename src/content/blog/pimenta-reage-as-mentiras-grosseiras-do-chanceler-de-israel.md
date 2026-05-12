@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg-5.png"
+heroImage: "/hero/wp3365_imagem.jpg-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pimenta reage às mentiras grosseiras do chanceler de Israel'
 pubDate: 2024-02-21 08:26:27

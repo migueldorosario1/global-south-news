@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/a1487f44301_m9.jpg"
+heroImage: "/hero/wp2565_a1487f44301_m9.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Emerson Sheik avalia candidatura eleitoral em Mangaratiba com apoio de Bolsonaro'
 pubDate: 2024-01-28 08:00:00

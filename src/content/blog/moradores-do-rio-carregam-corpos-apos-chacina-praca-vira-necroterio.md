@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-26.png"
+heroImage: "/hero/wp7272_image-26.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Moradores do Rio carregam corpos após chacina; praça vira necrotério'
 pubDate: 2025-10-29 09:17:02

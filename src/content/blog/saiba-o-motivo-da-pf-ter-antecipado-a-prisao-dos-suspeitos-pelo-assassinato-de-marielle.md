@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-12.jpeg"
+heroImage: "/hero/wp3952_images-12.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Saiba o motivo da PF ter antecipado a prisão dos suspeitos pelo assassinato de Marielle'
 pubDate: 2024-03-24 16:24:05

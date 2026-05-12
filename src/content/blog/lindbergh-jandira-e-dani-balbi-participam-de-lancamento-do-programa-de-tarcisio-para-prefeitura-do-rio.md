@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-28.png"
+heroImage: "/hero/wp1647_image-28.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lindbergh, Jandira e Dani Balbi participam de lançamento do programa de Tarcísio para prefeitura do Rio'
 pubDate: 2023-10-21 15:35:50

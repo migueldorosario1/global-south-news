@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.jpg"
+heroImage: "/hero/wp2874_imagem-7.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Setor chinês de logística cresce em 2023'
 pubDate: 2024-02-04 05:48:00

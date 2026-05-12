@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/1_whatsapp_image_2023_11_10_at_16_37_33-31104684.webp"
+heroImage: "/hero/wp1895_1_whatsapp_image_2023_11_10_at_16_37_33-31104684.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vídeo mostra assessores discutindo após a morte do Vereador'
 pubDate: 2023-11-11 10:25:00

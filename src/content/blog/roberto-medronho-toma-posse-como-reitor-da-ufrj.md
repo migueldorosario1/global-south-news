@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-24.png"
+heroImage: "/hero/wp698_image-24.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Roberto Medronho toma posse como reitor da UFRJ'
 pubDate: 2023-07-07 20:02:04

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg.png"
+heroImage: "/hero/wp3689_imagem.jpg.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jornalista diz que governo Lula vai reagir contra a eleição de Nikolas Ferreira a Comissão de Educação'
 pubDate: 2024-03-08 10:12:46

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-26.png"
+heroImage: "/hero/wp7412_image-26.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dia da Consciência Negra chega em meio ao impacto da maior chacina da história'
 pubDate: 2025-11-20 12:42:59

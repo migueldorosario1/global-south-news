@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/20240225150256_bd9e7993e019d6509878527b7526b069193a86f85347236bbe5b04fe8fe2063c.webp"
+heroImage: "/hero/wp3486_20240225150256_bd9e7993e019d6509878527b7526b069193a86f85347236bbe5b04fe8fe2063c.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Malafaia faz ameaças e insinua que haverá guerra civil com a prisão de Bolsonaro'
 pubDate: 2024-02-26 10:05:04

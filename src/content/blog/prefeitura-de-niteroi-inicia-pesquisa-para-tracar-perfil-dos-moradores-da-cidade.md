@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/pessoas-na-rua-em-niteroi-qehhogowcuz5sjzap3lzzj3rsut4u0378zhyqrqtc8.jpg"
+heroImage: "/hero/wp2260_pessoas-na-rua-em-niteroi-qehhogowcuz5sjzap3lzzj3rsut4u0378zhyqrqtc8.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura de Niterói inicia pesquisa para traçar perfil dos moradores da cidade'
 pubDate: 2024-01-03 12:30:00

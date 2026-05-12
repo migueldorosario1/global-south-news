@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-6.png"
+heroImage: "/hero/wp5481_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Religiosos de todas as crenças poderão ter acesso livre às instituições de idosos e comunidades terapêuticas'
 pubDate: 2024-09-26 11:59:31

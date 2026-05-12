@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-13.png"
+heroImage: "/hero/wp6945_image-13.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Voz dos trabalhadores do Rio ecoa em Genebra'
 pubDate: 2025-06-24 13:24:35

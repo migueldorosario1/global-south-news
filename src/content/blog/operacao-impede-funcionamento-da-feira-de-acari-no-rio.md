@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2024-01-28-at-12.52.23.jpeg"
+heroImage: "/hero/wp2584_WhatsApp-Image-2024-01-28-at-12.52.23.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação impede funcionamento da Feira de Acari no Rio'
 pubDate: 2024-01-28 12:52:47

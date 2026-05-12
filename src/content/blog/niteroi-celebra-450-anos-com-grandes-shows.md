@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/a68fcf03-c667-4c12-b7b7-d24cd3473cd5.jpeg"
+heroImage: "/hero/wp1828_a68fcf03-c667-4c12-b7b7-d24cd3473cd5.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Niterói celebra 450 Anos com grandes shows'
 pubDate: 2023-11-07 11:59:12

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/mae.webp"
+heroImage: "/hero/wp2117_mae.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Corpo de Menina Desaparecida é Encontrado na Baixada Fluminense'
 pubDate: 2023-12-11 07:00:00

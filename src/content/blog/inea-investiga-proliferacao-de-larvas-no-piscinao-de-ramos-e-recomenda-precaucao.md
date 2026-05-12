@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/area-piscinao11.webp"
+heroImage: "/hero/wp2342_area-piscinao11.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Inea investiga proliferação de larvas no piscinão de ramos e recomenda precaução'
 pubDate: 2024-01-10 17:39:14

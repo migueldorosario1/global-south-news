@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-36.webp"
+heroImage: "/hero/wp5139_imagem-36.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'OCDE revela que investimentos em educação no Brasil despencaram no pós-golpe contra Dilma'
 pubDate: 2024-09-10 10:46:45

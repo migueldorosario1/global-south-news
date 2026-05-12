@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/img20231213134519608-768x473-1.jpg"
+heroImage: "/hero/wp2992_img20231213134519608-768x473-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Projeto determina acesso prioritário de pacientes com câncer a serviço odontológico do SUS'
 pubDate: 2024-02-07 05:28:00

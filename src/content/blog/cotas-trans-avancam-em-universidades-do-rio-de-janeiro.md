@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-4.png"
+heroImage: "/hero/wp7347_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cotas trans avançam em universidades do Rio de Janeiro'
 pubDate: 2025-11-08 08:04:33

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-29.png"
+heroImage: "/hero/wp6836_image-29.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Facções tomam o wi-fi, mercado e abastecem o crime com postos de gasolina no Rio'
 pubDate: 2025-04-25 11:05:13

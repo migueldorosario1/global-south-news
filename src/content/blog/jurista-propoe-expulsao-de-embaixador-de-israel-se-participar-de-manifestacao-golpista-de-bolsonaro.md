@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-25.jpg"
+heroImage: "/hero/wp3312_imagem-25.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jurista propõe expulsão de embaixador de Israel se participar de manifestação golpista de Bolsonaro'
 pubDate: 2024-02-19 09:33:25

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.jpg"
+heroImage: "/hero/wp4527_imagem-2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Consumo de carne aumentou no Brasil sob governo Lula'
 pubDate: 2024-05-27 09:57:36

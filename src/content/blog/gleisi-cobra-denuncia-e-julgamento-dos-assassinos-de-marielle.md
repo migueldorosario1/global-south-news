@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.webp"
+heroImage: "/hero/wp4167_imagem-7.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi cobra denúncia e julgamento dos assassinos de Marielle'
 pubDate: 2024-04-11 09:56:39

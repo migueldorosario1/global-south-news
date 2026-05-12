@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/droga-apreendida.webp"
+heroImage: "/hero/wp1643_droga-apreendida.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Polícia Federal realiza operação contra policiais acusados de desviar 280 kg de cocaína'
 pubDate: 2023-10-20 17:58:05

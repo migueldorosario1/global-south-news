@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/20240118180136_cf28811e1ee1dc45b1da0d3a3b8130550f927a91354b34be226266b6a4300214.webp"
+heroImage: "/hero/wp3648_20240118180136_cf28811e1ee1dc45b1da0d3a3b8130550f927a91354b34be226266b6a4300214.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Raquel Lyra pede que PSDB abandone a extrema-direita e pare de atacar Lula'
 pubDate: 2024-03-04 23:00:29

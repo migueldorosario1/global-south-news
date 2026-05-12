@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-87.webp"
+heroImage: "/hero/wp5922_imagem-87.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Câmara rejeita taxação de grandes fortunas e deputado critica decisão quem tem medo dos super-ricos?'
 pubDate: 2024-10-30 20:30:05

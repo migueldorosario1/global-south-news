@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/19042023-HB-Cerimonia-do-Dia-do-Exercito-O-Presidente-da-Republica-Luiz-Inacio-Lula-da-Silva-participa-na-manha-dessa-quarta-feira-da-Cerimonia-do-Dia-do-Exercito-072.webp"
+heroImage: "/hero/wp1781_19042023-HB-Cerimonia-do-Dia-do-Exercito-O-Presidente-da-Republica-Luiz-Inacio-Lula-da-Silva-participa-na-manha-dessa-quarta-feira-da-Cerimonia-do-Dia-do-Exercito-072.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Forças Armadas na Operação de GLO Entenda a Atuação em Portos e Aeroportos do Rio e São Paulo'
 pubDate: 2023-11-03 06:33:00

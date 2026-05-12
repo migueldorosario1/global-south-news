@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.webp"
+heroImage: "/hero/wp6085_imagem-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Relações Brasil-China alcançam melhor momento com novos acordos, afirma executivo da Vale'
 pubDate: 2024-12-01 11:22:04

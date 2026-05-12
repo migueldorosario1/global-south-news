@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-42.png"
+heroImage: "/hero/wp1191_image-42.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministério da Saúde lança campanha de multivacinação no Rio de Janeiro'
 pubDate: 2023-08-24 15:04:31

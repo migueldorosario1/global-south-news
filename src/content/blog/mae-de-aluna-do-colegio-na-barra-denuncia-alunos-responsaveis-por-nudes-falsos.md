@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/colegio-santo-agostinho-1912931.png"
+heroImage: "/hero/wp1778_colegio-santo-agostinho-1912931.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mãe de Aluna do Colégio na Barra Denuncia Alunos Responsáveis por Nudes Falsos'
 pubDate: 2023-11-03 03:08:39

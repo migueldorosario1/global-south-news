@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-13.webp"
+heroImage: "/hero/wp6013_imagem-13.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Federal propõe reforma previdenciária militar para equilibrar orçamento'
 pubDate: 2024-11-20 09:37:36

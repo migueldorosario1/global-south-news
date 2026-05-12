@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.png"
+heroImage: "/hero/wp5573_imagem.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Anielle Franco quebra o silêncio sobre caso de assédio envolvendo Silvio Almeida'
 pubDate: 2024-10-04 13:41:10

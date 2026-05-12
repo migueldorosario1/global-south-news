@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/55116795032_7f093072ca_c.jpg"
+heroImage: "/hero/wp7708_55116795032_7f093072ca_c.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Na maior feira de turismo da Europa, Maricá atrai indústria portuguesa e fecha acordo para produção anual de até 5 milhões de enlatados'
 pubDate: 2026-02-27 19:11:55

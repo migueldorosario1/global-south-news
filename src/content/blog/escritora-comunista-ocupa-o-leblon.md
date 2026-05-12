@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20250617-WA0141.jpeg"
+heroImage: "/hero/wp6930_IMG-20250617-WA0141.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Escritora comunista ocupa o Leblon'
 pubDate: 2025-06-17 21:58:07

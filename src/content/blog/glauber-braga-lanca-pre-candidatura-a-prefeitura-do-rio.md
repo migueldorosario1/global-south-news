@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-1.png"
+heroImage: "/hero/wp994_image-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Glauber Braga lança pré-candidatura à prefeitura do Rio'
 pubDate: 2023-08-01 16:06:29

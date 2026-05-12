@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-87.webp"
+heroImage: "/hero/wp5365_imagem-87.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'ONS sugere retomada do horário de verão; decisão final será de Lula'
 pubDate: 2024-09-20 12:44:06

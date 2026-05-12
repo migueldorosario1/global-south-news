@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-14.jpg"
+heroImage: "/hero/wp4124_imagem-14.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Investimentos na indústria automobilística brasileira alcançam bilhões de reais até 2032'
 pubDate: 2024-04-09 09:58:17

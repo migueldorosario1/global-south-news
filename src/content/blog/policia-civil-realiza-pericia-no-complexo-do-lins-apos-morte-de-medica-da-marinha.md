@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.avif"
+heroImage: "/hero/wp6168_imagem-1.avif"
 description: "Matéria arquivada do Rio Carta"
 title: 'Polícia Civil realiza perícia no Complexo do Lins após morte de médica da Marinha'
 pubDate: 2024-12-13 13:03:41

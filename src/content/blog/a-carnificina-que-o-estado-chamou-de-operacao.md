@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-22.png"
+heroImage: "/hero/wp7259_image-22.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'A carnificina que o Estado chamou de operação'
 pubDate: 2025-10-28 19:28:20

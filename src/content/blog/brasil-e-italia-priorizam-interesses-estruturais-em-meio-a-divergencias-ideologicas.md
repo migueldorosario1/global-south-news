@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-15.webp"
+heroImage: "/hero/wp6025_imagem-15.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil e Itália priorizam interesses estruturais em meio a divergências ideológicas'
 pubDate: 2024-11-20 11:03:25

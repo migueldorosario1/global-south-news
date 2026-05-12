@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-12.png"
+heroImage: "/hero/wp1032_image-12.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT avalia candidatura de Lindbergh Farias para prefeitura de Nova Iguaçu'
 pubDate: 2023-08-06 13:13:57

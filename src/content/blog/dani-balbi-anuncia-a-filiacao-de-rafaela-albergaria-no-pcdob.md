@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20240307-WA0100-e1709849522817.jpg"
+heroImage: "/hero/wp3675_IMG-20240307-WA0100-e1709849522817.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi anuncia a filiação de Rafaela Albergaria no PCdoB'
 pubDate: 2024-03-07 19:12:21

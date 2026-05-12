@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.png"
+heroImage: "/hero/wp5583_imagem-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'BC desbloqueia contas do X após anúncio de pagamento de multas'
 pubDate: 2024-10-04 14:03:42

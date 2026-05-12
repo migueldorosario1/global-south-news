@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-25.webp"
+heroImage: "/hero/wp5694_imagem-25.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ricardo Cappelli analisa avanço da direita e desafios da esquerda no cenário político brasileiro'
 pubDate: 2024-10-12 08:57:16

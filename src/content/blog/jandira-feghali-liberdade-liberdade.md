@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-10.png"
+heroImage: "/hero/wp1313_image-10.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jandira Feghali Liberdade, liberdade'
 pubDate: 2023-09-06 16:13:38

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Design-sem-nome-8.png"
+heroImage: "/hero/wp1044_Design-sem-nome-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Resumo da Rodada Clubes cariocas no Brasileirão'
 pubDate: 2023-08-07 06:00:00

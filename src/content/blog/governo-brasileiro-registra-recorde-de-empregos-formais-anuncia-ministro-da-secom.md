@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-89.webp"
+heroImage: "/hero/wp5928_imagem-89.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo brasileiro registra recorde de empregos formais, anuncia Ministro da Secom'
 pubDate: 2024-10-30 20:56:49

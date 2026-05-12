@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.webp"
+heroImage: "/hero/wp5002_imagem-7.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Arthur Lira em busca de sucessor na câmara dos deputados desafios e disputas internas'
 pubDate: 2024-09-02 18:49:00

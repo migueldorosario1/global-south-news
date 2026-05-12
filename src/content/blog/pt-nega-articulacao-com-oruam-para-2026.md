@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-40.png"
+heroImage: "/hero/wp7462_image-40.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT nega articulação com Oruam para 2026'
 pubDate: 2025-11-27 12:57:14

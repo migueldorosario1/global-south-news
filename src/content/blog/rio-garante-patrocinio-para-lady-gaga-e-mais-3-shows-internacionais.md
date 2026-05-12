@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5.png"
+heroImage: "/hero/wp6545_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio garante patrocínio para Lady Gaga e mais 3 shows internacionais'
 pubDate: 2025-02-07 12:13:25

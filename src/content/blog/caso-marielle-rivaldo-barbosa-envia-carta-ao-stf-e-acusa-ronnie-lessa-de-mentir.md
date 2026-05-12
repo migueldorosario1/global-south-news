@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-8.jpg"
+heroImage: "/hero/wp4716_imagem-8.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Caso Marielle Rivaldo Barbosa envia carta ao STF e acusa Ronnie Lessa de mentir'
 pubDate: 2024-06-28 08:07:42

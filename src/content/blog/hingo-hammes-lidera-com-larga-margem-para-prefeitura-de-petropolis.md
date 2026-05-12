@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.jpg"
+heroImage: "/hero/wp5877_imagem-10.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Hingo Hammes lidera com larga margem para prefeitura de Petrópolis, aponta pesquisa'
 pubDate: 2024-10-27 09:59:45

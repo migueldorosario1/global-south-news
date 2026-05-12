@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/prefeito-do-rio-de-janeiro-eduardo-paes-pede-que-populacao-nao-saia-de-casa-em-dias-de-chuvas-fortes-1675871807853_v2_900x506.jpg.webp"
+heroImage: "/hero/wp3246_prefeito-do-rio-de-janeiro-eduardo-paes-pede-que-populacao-nao-saia-de-casa-em-dias-de-chuvas-fortes-1675871807853_v2_900x506.jpg.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes vai estatizar o transporte público do Rio'
 pubDate: 2024-02-15 19:36:37

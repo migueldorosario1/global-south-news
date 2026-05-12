@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-15.png"
+heroImage: "/hero/wp656_image-15.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vasco comemora lei que institui ‘Dia da Resposta Histórica Contra o Racismo no Futebol’'
 pubDate: 2023-07-07 10:11:01

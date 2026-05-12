@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.jpeg"
+heroImage: "/hero/wp4905_imagem-6.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quaest Paes lidera popularidade digital entre candidatos no Rio'
 pubDate: 2024-08-20 09:03:15

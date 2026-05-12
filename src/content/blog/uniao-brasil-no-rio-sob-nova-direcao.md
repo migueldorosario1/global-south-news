@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-18.png"
+heroImage: "/hero/wp677_image-18.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'União Brasil sob nova direção no Rio'
 pubDate: 2023-07-07 13:38:42

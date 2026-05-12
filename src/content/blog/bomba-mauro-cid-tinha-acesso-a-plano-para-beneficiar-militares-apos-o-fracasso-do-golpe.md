@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-27.jpg"
+heroImage: "/hero/wp3337_imagem-27.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Mauro Cid tinha acesso a plano para beneficiar militares após o fracasso do golpe'
 pubDate: 2024-02-20 10:05:03

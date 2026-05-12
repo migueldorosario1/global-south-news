@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-16.jpg"
+heroImage: "/hero/wp4270_imagem-16.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Elon Musk usou exército de robôs para atacar Alexandre de Moraes'
 pubDate: 2024-04-23 09:18:22

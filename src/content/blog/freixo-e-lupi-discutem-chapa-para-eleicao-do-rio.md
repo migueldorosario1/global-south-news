@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-83.png"
+heroImage: "/hero/wp923_image-83.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Freixo e Lupi discutem chapa para eleição do Rio'
 pubDate: 2023-07-27 16:00:26

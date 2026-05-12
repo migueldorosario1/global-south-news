@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-113.webp"
+heroImage: "/hero/wp5462_imagem-113.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cármen Lúcia, condena violência nas eleições municipais de São Paulo'
 pubDate: 2024-09-25 05:07:38

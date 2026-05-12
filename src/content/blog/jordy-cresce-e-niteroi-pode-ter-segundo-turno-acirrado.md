@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/taliria-petrone-psol-rj-e-rodrigo-neves-pdt-rj-defendem-acao-da-pf-contra-carlos-jordy-compressed-1.jpg"
+heroImage: "/hero/wp5572_taliria-petrone-psol-rj-e-rodrigo-neves-pdt-rj-defendem-acao-da-pf-contra-carlos-jordy-compressed-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jordy cresce e Niterói pode ter segundo turno acirrado'
 pubDate: 2024-10-04 13:48:52

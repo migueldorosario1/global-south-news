@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-21.jpg"
+heroImage: "/hero/wp4195_imagem-21.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Aliado de Bolsonaro é condenado a pagar indenização por postagem racista'
 pubDate: 2024-04-16 09:12:16

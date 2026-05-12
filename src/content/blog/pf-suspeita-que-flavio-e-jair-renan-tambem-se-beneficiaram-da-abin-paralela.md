@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.jpg"
+heroImage: "/hero/wp2630_imagem-6.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF suspeita que Flávio e Jair Renan também se beneficiaram da Abin Paralela'
 pubDate: 2024-01-29 11:35:27

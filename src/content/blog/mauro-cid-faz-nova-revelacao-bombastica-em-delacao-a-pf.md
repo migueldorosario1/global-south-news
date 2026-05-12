@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-78.jpeg"
+heroImage: "/hero/wp3343_images-78.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mauro Cid faz nova revelação bombástica em delação a PF'
 pubDate: 2024-02-20 16:02:58

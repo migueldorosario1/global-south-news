@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/09.01-SOLENE-GC-27-768x512-1.jpg"
+heroImage: "/hero/wp3277_09.01-SOLENE-GC-27-768x512-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ex-comandante do Exército dá sua versão sobre o golpe de Bolsonaro'
 pubDate: 2024-02-16 22:27:14

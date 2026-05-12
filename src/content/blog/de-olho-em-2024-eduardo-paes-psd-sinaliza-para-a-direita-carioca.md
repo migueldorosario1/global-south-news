@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-46.png"
+heroImage: "/hero/wp789_image-46.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'De olho em 2024, Eduardo Paes (PSD) sinaliza para a direita carioca'
 pubDate: 2023-07-13 14:24:12

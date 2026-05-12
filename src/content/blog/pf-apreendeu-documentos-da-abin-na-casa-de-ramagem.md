@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-18.webp"
+heroImage: "/hero/wp3041_imagem-18.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF apreendeu documentos da Abin na casa de Ramagem'
 pubDate: 2024-02-06 08:59:01

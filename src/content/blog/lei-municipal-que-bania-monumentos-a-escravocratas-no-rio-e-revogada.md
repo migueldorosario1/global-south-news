@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-8.png"
+heroImage: "/hero/wp6453_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lei municipal que bania monumentos a escravocratas no Rio é revogada'
 pubDate: 2025-01-14 13:03:08

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-17.jpg"
+heroImage: "/hero/wp2771_imagem-17.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Palestinos em Gaza vivem sob miséria extrema enquanto Israel prossegue com o genocídio'
 pubDate: 2024-01-31 08:22:29

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-51.png"
+heroImage: "/hero/wp813_image-51.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cultura de Niterói na frente nacional'
 pubDate: 2023-07-15 12:56:44

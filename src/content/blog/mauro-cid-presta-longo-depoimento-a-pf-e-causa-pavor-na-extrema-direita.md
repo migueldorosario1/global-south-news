@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-88.jpeg"
+heroImage: "/hero/wp3717_images-88.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mauro Cid presta longo depoimento a PF e causa pavor na extrema-direita'
 pubDate: 2024-03-12 09:20:02

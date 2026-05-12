@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-49.png"
+heroImage: "/hero/wp1226_image-49.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Catadores de recicláveis do Rio ocupam ALERJ por regulamentação da profissão'
 pubDate: 2023-08-28 17:23:29

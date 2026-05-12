@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-34.jpg"
+heroImage: "/hero/wp3394_imagem-34.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro e aliados devem jogar a bucha do golpe no colo de Braga Netto'
 pubDate: 2024-02-22 10:07:59

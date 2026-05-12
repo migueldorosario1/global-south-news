@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-37.jpg"
+heroImage: "/hero/wp4320_imagem-37.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'G20 debate proposta brasileira de taxação global dos super-ricos'
 pubDate: 2024-04-26 09:14:44

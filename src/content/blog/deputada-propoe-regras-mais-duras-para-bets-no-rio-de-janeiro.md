@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-16.png"
+heroImage: "/hero/wp7682_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputada propõe regras mais duras para bets no Rio de Janeiro'
 pubDate: 2026-02-23 10:19:50

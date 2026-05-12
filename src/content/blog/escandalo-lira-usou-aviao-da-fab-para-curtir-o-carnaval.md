@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-57.jpeg"
+heroImage: "/hero/wp3249_images-57.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Escândalo! Lira usou avião da FAB para curtir o Carnaval'
 pubDate: 2024-02-16 09:12:16

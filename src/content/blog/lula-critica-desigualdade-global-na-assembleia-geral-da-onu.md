@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-112.webp"
+heroImage: "/hero/wp5459_imagem-112.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula critica desigualdade global na assembleia geral da ONU'
 pubDate: 2024-09-25 04:58:41

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-79.webp"
+heroImage: "/hero/wp5340_imagem-79.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'CMSE discute retorno do horário de verão para aliviar pressão no sistema elétrico'
 pubDate: 2024-09-19 19:22:26

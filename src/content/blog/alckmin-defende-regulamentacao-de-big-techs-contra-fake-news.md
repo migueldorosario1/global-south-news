@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-11.jpg"
+heroImage: "/hero/wp6414_imagem-11.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alckmin defende regulamentação de Big Techs contra fake news'
 pubDate: 2025-01-13 11:22:23

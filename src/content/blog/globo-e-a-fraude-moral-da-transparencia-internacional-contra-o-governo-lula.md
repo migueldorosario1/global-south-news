@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/20231123221523359838a.jpg"
+heroImage: "/hero/wp2808_20231123221523359838a.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Globo e a fraude moral da Transparência Internacional contra o governo Lula'
 pubDate: 2024-01-31 17:58:35

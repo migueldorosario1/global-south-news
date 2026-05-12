@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-8.jpg"
+heroImage: "/hero/wp6383_imagem-8.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Preço da cesta básica no Rio parou de subir em dezembro, aponta Dieese'
 pubDate: 2025-01-09 11:32:31

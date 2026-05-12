@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/2024011813010_440a317c-343c-49e5-96ae-7b661b7e2ac7.jpg"
+heroImage: "/hero/wp2480_2024011813010_440a317c-343c-49e5-96ae-7b661b7e2ac7.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputado Carlos Jordy investigado por liderar movimentos antidemocráticos'
 pubDate: 2024-01-18 13:26:43

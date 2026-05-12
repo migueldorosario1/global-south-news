@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-37.webp"
+heroImage: "/hero/wp5142_imagem-37.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'AGU recorre ao STF contra suspensão de investigações a Campos Neto'
 pubDate: 2024-09-10 10:46:50

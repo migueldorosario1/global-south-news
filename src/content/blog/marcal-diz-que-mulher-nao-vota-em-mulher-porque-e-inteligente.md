@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-125.webp"
+heroImage: "/hero/wp5537_imagem-125.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Marçal diz que mulher não vota em mulher porque é inteligente'
 pubDate: 2024-09-30 15:20:26

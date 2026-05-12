@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.jpg"
+heroImage: "/hero/wp6334_imagem-3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Policial Civil que ameaçou jornalista da Globo é afastado do cargo'
 pubDate: 2025-01-03 10:54:51

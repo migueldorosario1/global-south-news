@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp1019_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Desde 2018, mais de 7.800 pessoas morreram devido a intervenções de agentes do Estado no Rio'
 pubDate: 2023-08-03 10:59:39

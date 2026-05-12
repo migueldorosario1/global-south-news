@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-122.webp"
+heroImage: "/hero/wp5511_imagem-122.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Candidata a vereadora Léo Áquilla sofre atentado a tiros em São Paulo'
 pubDate: 2024-09-27 12:47:50

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp6920_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputada propõe ação inédita contra impactos do clima no Rio'
 pubDate: 2025-06-11 10:20:00

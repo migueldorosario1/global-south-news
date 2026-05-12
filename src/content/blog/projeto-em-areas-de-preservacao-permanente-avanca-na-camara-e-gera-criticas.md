@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-9.webp"
+heroImage: "/hero/wp4853_imagem-9.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Projeto em áreas de preservação permanente avança na Câmara e gera críticas'
 pubDate: 2024-08-18 08:28:19

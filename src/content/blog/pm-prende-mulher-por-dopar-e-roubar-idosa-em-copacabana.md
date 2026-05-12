@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-9.webp"
+heroImage: "/hero/wp2908_imagem-9.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PM prende mulher por dopar e roubar idosa em Copacabana'
 pubDate: 2024-02-02 09:21:39

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-96.webp"
+heroImage: "/hero/wp5394_imagem-96.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gusttavo Lima incluído na lista de procurados após decisão judicial em Pernambuco'
 pubDate: 2024-09-24 05:31:22

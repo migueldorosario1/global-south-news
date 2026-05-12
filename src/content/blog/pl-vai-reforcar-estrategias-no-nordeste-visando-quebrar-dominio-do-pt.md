@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-19.jpg"
+heroImage: "/hero/wp4682_imagem-19.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PL vai reforçar estratégias no Nordeste visando quebrar domínio do PT'
 pubDate: 2024-06-17 09:10:41

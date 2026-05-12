@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.webp"
+heroImage: "/hero/wp6376_imagem-10.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio adia novamente a implementação do sistema de bilhetagem Jaé'
 pubDate: 2025-01-09 11:20:21

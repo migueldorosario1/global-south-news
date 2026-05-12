@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/167685637463f2cc36bc69b_1676856374_3x2_md.jpg"
+heroImage: "/hero/wp2284_167685637463f2cc36bc69b_1676856374_3x2_md.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval 2024 no Rio um esplendor na sapucaí'
 pubDate: 2024-01-04 13:00:00

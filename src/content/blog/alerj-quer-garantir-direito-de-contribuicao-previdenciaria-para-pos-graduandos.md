@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-14.png"
+heroImage: "/hero/wp1557_image-14.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'ALERJ quer garantir direito de contribuição previdenciária para pós-graduandos'
 pubDate: 2023-10-09 20:56:00

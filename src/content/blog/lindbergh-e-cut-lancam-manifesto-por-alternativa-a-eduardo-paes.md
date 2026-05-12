@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-24.png"
+heroImage: "/hero/wp1599_image-24.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lindbergh e CUT lançam manifesto por alternativa a Eduardo Paes'
 pubDate: 2023-10-16 16:25:43

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-20.png"
+heroImage: "/hero/wp7398_image-20.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Só 23% dos policiais usaram câmeras na megaoperação do Rio'
 pubDate: 2025-11-19 12:04:59

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-11-e1763476577619.png"
+heroImage: "/hero/wp7367_image-11-e1763476577619.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'IESP-UERJ celebra aniversário do MAPE com seminário e presença da deputada Dani Balbi'
 pubDate: 2025-11-18 11:37:19

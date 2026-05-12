@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-16.png"
+heroImage: "/hero/wp7241_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Elias Jabbour recebe, nesta sexta, título de Cidadão Honorário do Rio de Janeiro'
 pubDate: 2025-10-21 22:35:50

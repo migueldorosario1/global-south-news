@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-94.webp"
+heroImage: "/hero/wp5387_imagem-94.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula critica falta de ação política contra a fome na premiação Goalkeepers'
 pubDate: 2024-09-24 05:14:11

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2024-01-04-at-00.40.30.jpeg"
+heroImage: "/hero/wp2266_WhatsApp-Image-2024-01-04-at-00.40.30.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tecnologia de vigilância captura foragidos em Copacabana'
 pubDate: 2024-01-04 07:00:00

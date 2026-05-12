@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-6.png"
+heroImage: "/hero/wp3507_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Professora trans é afastada do cargo de diretora de escola'
 pubDate: 2024-02-27 00:36:36

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-70.webp"
+heroImage: "/hero/wp5304_imagem-70.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann critica Netanyahu por explosões no Líbano'
 pubDate: 2024-09-18 18:25:20

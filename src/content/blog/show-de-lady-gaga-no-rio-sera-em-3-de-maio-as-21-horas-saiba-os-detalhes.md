@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-6.png"
+heroImage: "/hero/wp6444_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Show de Lady Gaga no Rio será em 3 de maio às 21 horas; saiba os detalhes'
 pubDate: 2025-01-14 12:11:39

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp6978_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Educação popular conquista lugar na história do Rio'
 pubDate: 2025-07-02 11:55:42

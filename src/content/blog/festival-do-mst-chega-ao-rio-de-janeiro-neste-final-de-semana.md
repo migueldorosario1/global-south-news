@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-22.png"
+heroImage: "/hero/wp1355_image-22.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Festival do MST chega ao Rio de Janeiro neste final de semana'
 pubDate: 2023-09-14 15:44:02

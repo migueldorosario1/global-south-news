@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-23.png"
+heroImage: "/hero/wp528_image-23.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sucateamento do Transporte Público Carioca gerou, pelo menos, 5 mortes em 2023'
 pubDate: 2023-06-24 10:03:56

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg-4.png"
+heroImage: "/hero/wp3355_imagem.jpg-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'A sapatada antológica de Omar Aziz em Pacheco'
 pubDate: 2024-02-21 08:12:28

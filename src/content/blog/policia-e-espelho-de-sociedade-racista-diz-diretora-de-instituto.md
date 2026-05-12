@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-24.png"
+heroImage: "/hero/wp1087_image-24.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Polícia é espelho de sociedade racista, diz diretora de instituto'
 pubDate: 2023-08-11 09:43:56

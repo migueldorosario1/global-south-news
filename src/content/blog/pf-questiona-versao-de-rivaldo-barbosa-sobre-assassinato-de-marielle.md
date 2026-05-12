@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-8.jpg"
+heroImage: "/hero/wp4615_imagem-8.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF questiona versão de Rivaldo Barbosa sobre assassinato de Marielle'
 pubDate: 2024-06-11 09:40:46

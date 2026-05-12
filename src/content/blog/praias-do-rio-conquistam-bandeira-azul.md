@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/praia-do-sossego.jpg"
+heroImage: "/hero/wp1437_praia-do-sossego.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Praias do Rio Conquistam Bandeira Azul'
 pubDate: 2023-09-27 14:58:57

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-21.webp"
+heroImage: "/hero/wp4931_imagem-21.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo libera valor bilionário para dívidas de trabalhadores rurais do RS'
 pubDate: 2024-08-22 10:57:34

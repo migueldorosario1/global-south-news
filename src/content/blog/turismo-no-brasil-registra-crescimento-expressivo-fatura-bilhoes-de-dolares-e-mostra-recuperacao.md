@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-03-18T204758.614.jpeg"
+heroImage: "/hero/wp3843_images-2024-03-18T204758.614.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Turismo no Brasil registra crescimento expressivo, fatura bilhões de dólares e mostra recuperação'
 pubDate: 2024-03-18 20:52:11

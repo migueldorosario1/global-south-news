@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-13.webp"
+heroImage: "/hero/wp6440_imagem-13.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Meta suspende programa de checagem de fatos nos EUA e enfrenta questionamentos da AGU no Brasil'
 pubDate: 2025-01-14 11:47:30

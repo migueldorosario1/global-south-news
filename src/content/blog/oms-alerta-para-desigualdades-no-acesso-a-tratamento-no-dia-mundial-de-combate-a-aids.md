@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.webp"
+heroImage: "/hero/wp6082_imagem.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'OMS alerta para desigualdades no acesso a tratamento no dia mundial de combate à Aids'
 pubDate: 2024-12-01 11:04:34

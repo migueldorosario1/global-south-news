@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-21.png"
+heroImage: "/hero/wp7023_image-21.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Selo Editorial Dani Balbi abre chamada para obras sobre meio ambiente e povos originários'
 pubDate: 2025-07-29 13:17:42

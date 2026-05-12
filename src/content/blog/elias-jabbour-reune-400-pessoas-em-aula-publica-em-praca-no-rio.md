@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-1-e1747351241213.png"
+heroImage: "/hero/wp6857_image-1-e1747351241213.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Elias Jabbour reúne 400 pessoas em Aula Pública em praça no Rio'
 pubDate: 2025-05-15 20:24:42

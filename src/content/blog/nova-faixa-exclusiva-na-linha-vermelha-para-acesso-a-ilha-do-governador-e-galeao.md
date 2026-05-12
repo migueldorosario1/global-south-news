@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/whatsapp-image-2024-01-08-at-15.29.37.webp"
+heroImage: "/hero/wp2339_whatsapp-image-2024-01-08-at-15.29.37.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Nova faixa exclusiva na linha vermelha para acesso à ilha do governador e galeão'
 pubDate: 2024-01-10 19:00:00

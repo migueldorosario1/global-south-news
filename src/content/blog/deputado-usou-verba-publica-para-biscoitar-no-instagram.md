@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-39.jpg"
+heroImage: "/hero/wp4331_imagem-39.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputado usou verba pública para biscoitar no Instagram'
 pubDate: 2024-04-26 09:24:27

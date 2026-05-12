@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/victor-cesar-dos-santos.webp"
+heroImage: "/hero/wp2047_victor-cesar-dos-santos.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Miliciano jerominho homenageia novo Secretário de segurança do Rio'
 pubDate: 2023-11-29 15:33:34

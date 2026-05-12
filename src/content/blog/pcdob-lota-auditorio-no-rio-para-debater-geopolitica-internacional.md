@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20250804-WA0107.jpg"
+heroImage: "/hero/wp7048_IMG-20250804-WA0107.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PCdoB lota auditório no Rio para debater geopolítica internacional'
 pubDate: 2025-08-04 19:57:24

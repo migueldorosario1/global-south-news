@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-13.jpg"
+heroImage: "/hero/wp4122_imagem-13.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Musk vira alvo da PF por ataques a Moraes e a justiça brasileira'
 pubDate: 2024-04-09 09:58:15

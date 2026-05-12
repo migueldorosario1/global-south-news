@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.webp"
+heroImage: "/hero/wp4826_imagem-2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula defende redução dos juros para turbinar investimentos'
 pubDate: 2024-08-14 16:19:32

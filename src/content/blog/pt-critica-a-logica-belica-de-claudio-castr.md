@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-25.png"
+heroImage: "/hero/wp7268_image-25.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT critica a lógica bélica de Cláudio Castro'
 pubDate: 2025-10-29 09:09:52

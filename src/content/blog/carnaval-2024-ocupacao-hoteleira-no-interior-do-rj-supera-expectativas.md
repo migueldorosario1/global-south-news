@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2.jpeg"
+heroImage: "/hero/wp3148_images-2.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval 2024 Ocupação hoteleira no interior do RJ supera expectativas'
 pubDate: 2024-02-10 13:17:25

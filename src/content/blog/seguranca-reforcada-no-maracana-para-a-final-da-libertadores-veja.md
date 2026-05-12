@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/policiamento-ao-redor-do-maracana-antes-de-flamengo-x-corinthians-pela-libertadores-1660077676689_v2_4x3.jpg"
+heroImage: "/hero/wp1804_policiamento-ao-redor-do-maracana-antes-de-flamengo-x-corinthians-pela-libertadores-1660077676689_v2_4x3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Segurança reforçada no Maracanã para a final da libertadores, veja'
 pubDate: 2023-11-04 00:00:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp6682_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Corpo de Bombeiros do RJ vence batalha pela Taxa de Incêndio'
 pubDate: 2025-03-27 11:10:23

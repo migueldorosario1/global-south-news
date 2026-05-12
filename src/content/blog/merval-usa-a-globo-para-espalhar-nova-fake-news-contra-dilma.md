@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Dilma-e-Merval.jpg"
+heroImage: "/hero/wp3243_Dilma-e-Merval.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Merval usa a Globo para espalhar nova fake news contra Dilma'
 pubDate: 2024-02-15 18:55:39

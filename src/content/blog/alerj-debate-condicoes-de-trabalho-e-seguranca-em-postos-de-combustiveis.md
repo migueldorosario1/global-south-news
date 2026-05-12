@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp7198_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj debate condições de trabalho e segurança em postos de combustíveis'
 pubDate: 2025-10-07 10:21:06

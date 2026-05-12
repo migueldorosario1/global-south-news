@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp633_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'CBF bate martelo e Fernando Diniz será o técnico interino da Seleção'
 pubDate: 2023-07-04 20:35:02

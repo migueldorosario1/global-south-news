@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-29.png"
+heroImage: "/hero/wp7421_image-29.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'O programa “Barricada Zero” e a segurança pública enquanto protagonista no jogo político no estado do Rio de Janeiro'
 pubDate: 2025-11-21 11:50:13

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.webp"
+heroImage: "/hero/wp4748_imagem-4.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministério da Agricultura recolhe lotes de Café impróprio para consumo'
 pubDate: 2024-07-02 07:54:22

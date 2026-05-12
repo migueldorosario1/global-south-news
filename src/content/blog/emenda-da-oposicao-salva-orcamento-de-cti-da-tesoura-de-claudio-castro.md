@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-35.png"
+heroImage: "/hero/wp1681_image-35.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Emenda da oposição salva orçamento de CT&amp;I da tesoura de Cláudio Castro '
 pubDate: 2023-10-25 10:06:10

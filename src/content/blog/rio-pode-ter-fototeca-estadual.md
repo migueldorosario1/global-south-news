@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-14.png"
+heroImage: "/hero/wp388_image-14.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio pode ter Fototeca estadual'
 pubDate: 2023-06-19 21:33:40

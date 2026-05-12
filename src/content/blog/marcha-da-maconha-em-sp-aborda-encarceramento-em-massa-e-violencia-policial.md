@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-18.jpg"
+heroImage: "/hero/wp4677_imagem-18.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Marcha da Maconha em SP aborda encarceramento em massa e violência policial'
 pubDate: 2024-06-17 09:03:28

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-12.webp"
+heroImage: "/hero/wp2924_imagem-12.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Marcha em defesa da democracia marcará 60 anos do golpe'
 pubDate: 2024-02-02 11:36:33

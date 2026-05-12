@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-12.jpeg"
+heroImage: "/hero/wp5220_imagem-12.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Padre Fabrício Rodrigues morre em acidente fatal na BR-230 no Pará'
 pubDate: 2024-09-13 12:57:42

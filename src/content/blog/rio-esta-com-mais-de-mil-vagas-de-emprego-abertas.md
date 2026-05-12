@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-34.png"
+heroImage: "/hero/wp6849_image-34.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio está com mais de mil vagas de emprego abertas '
 pubDate: 2025-04-28 14:56:31

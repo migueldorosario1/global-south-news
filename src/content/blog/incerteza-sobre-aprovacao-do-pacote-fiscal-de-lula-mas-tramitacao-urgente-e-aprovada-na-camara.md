@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.webp"
+heroImage: "/hero/wp6132_imagem-10.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Incerteza sobre aprovação do pacote fiscal de Lula, mas tramitação urgente é aprovada na câmara'
 pubDate: 2024-12-08 10:08:38

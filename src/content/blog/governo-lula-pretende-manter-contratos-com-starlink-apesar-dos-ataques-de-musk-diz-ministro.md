@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.webp"
+heroImage: "/hero/wp4111_imagem-3.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula pretende manter contratos com Starlink apesar dos ataques de Musk, diz ministro'
 pubDate: 2024-04-09 09:40:13

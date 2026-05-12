@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Arena-do-Futuro-serviu-para-a-construcao-de-quatro-escolas-na-Zona-Oeste-Beth-SantosPrefeitura-860x592-1.webp"
+heroImage: "/hero/wp3055_Arena-do-Futuro-serviu-para-a-construcao-de-quatro-escolas-na-Zona-Oeste-Beth-SantosPrefeitura-860x592-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura do Rio inaugura dois Ginásios Educacionais Tecnológicos na Zona Oeste'
 pubDate: 2024-02-07 07:39:03

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-9.png"
+heroImage: "/hero/wp6573_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Agenda Cultural - Blocos de Rua do Rio de Janeiro em 2025'
 pubDate: 2025-02-11 16:04:23

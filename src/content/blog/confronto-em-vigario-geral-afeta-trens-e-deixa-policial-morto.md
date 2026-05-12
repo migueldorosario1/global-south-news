@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Tiroteio.jpg"
+heroImage: "/hero/wp2219_Tiroteio.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Confronto em Vigário Geral afeta trens e deixa policial morto'
 pubDate: 2023-12-27 10:20:00

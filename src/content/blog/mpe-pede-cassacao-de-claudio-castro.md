@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-46.jpeg"
+heroImage: "/hero/wp4064_images-46.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'MPE pede cassação de Cláudio Castro'
 pubDate: 2024-04-03 18:52:11

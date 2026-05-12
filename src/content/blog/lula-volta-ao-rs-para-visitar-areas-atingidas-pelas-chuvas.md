@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-12.jpg"
+heroImage: "/hero/wp4592_imagem-12.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula volta ao RS para visitar áreas atingidas pelas chuvas'
 pubDate: 2024-06-06 10:12:56

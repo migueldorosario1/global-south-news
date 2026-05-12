@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-11.webp"
+heroImage: "/hero/wp4859_imagem-11.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil pode receber quantia anual bilionária com novo fundo para preservação de florestas'
 pubDate: 2024-08-19 09:07:32

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG_4247.JPG-scaled.jpeg"
+heroImage: "/hero/wp7769_IMG_4247.JPG-scaled.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Por mais direitos, reajuste digno e redução da jornada'
 pubDate: 2026-04-01 13:31:02

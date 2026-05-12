@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-27.webp"
+heroImage: "/hero/wp5712_imagem-27.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Reforma tributária avança e segunda fase focará na renda'
 pubDate: 2024-10-14 17:28:29

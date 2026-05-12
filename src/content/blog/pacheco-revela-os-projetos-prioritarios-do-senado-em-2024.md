@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-5.jpg"
+heroImage: "/hero/wp2861_imagem-5.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pacheco revela os projetos prioritários do Senado em 2024'
 pubDate: 2024-02-03 05:36:00

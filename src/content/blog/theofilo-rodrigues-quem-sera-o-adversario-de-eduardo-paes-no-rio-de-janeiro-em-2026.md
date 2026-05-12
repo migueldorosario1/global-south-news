@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-400x264-1.png"
+heroImage: "/hero/wp7644_image-400x264-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Theófilo Rodrigues Quem será o adversário de Eduardo Paes no Rio de Janeiro em 2026?'
 pubDate: 2026-02-06 11:32:15

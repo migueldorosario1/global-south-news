@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-24.png"
+heroImage: "/hero/wp6677_image-24.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Exposição sobre a ditadura estreia em Niterói'
 pubDate: 2025-03-26 13:11:21

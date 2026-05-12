@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/53556475210_2b34b78b66_o-scaled.jpg"
+heroImage: "/hero/wp3531_53556475210_2b34b78b66_o-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Senado abre consulta pública sobre volta da homologação obrigatória nos sindicatos'
 pubDate: 2024-02-27 16:20:46

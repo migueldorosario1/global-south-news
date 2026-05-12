@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-84.webp"
+heroImage: "/hero/wp5906_imagem-84.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Nunes diz que é contra aliança do MDB com Lula em 2026'
 pubDate: 2024-10-30 10:04:19

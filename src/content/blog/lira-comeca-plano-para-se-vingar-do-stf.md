@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-24.jpg"
+heroImage: "/hero/wp4219_imagem-24.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lira começa plano para se vingar do STF'
 pubDate: 2024-04-17 09:01:09

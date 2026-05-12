@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-20.png"
+heroImage: "/hero/wp7695_image-20.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio vira palco central de articulação conservadora'
 pubDate: 2026-02-25 10:07:43

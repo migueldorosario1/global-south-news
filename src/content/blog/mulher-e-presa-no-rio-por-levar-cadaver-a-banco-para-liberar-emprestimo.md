@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-26.jpg"
+heroImage: "/hero/wp4226_imagem-26.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mulher é presa no Rio por levar cadáver a banco para liberar empréstimo'
 pubDate: 2024-04-17 09:15:07

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-23.webp"
+heroImage: "/hero/wp4946_imagem-23.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Itaipu Pode Patrocinar Equipe Brasileira de Canoagem, Anuncia Janja'
 pubDate: 2024-08-26 19:33:45

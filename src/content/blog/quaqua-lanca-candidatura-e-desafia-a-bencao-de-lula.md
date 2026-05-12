@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-17.png"
+heroImage: "/hero/wp6803_image-17.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quaquá lança candidatura à presidência do PT e desafia a bênção de Lula'
 pubDate: 2025-04-11 14:46:08

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-14.webp"
+heroImage: "/hero/wp5649_imagem-14.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cientistas responsáveis por avanços da proteína ganham o Prêmio Nobel de Química 2024'
 pubDate: 2024-10-09 10:46:06

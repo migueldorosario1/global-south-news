@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/whatsapp-image-2023-11-29-at-05.58.35.webp"
+heroImage: "/hero/wp2052_whatsapp-image-2023-11-29-at-05.58.35.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Nova rainha de bateria da Mocidade é Fabíola de Andrade, esposa do bicheiro Rogério Andrade'
 pubDate: 2023-11-29 17:00:00

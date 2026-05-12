@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/baba-02.webp"
+heroImage: "/hero/wp1761_baba-02.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Filme com inspiração de moradores da Barra da Tijuca,  estreia na Amazon Prime'
 pubDate: 2023-11-01 14:32:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.jpg"
+heroImage: "/hero/wp4393_imagem-3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula cria gabinete para enfrentar crise de enchentes no Rio Grande do Sul'
 pubDate: 2024-05-03 09:44:34

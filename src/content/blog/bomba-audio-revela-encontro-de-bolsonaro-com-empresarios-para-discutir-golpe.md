@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-16.jpg"
+heroImage: "/hero/wp3235_imagem-16.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Áudio revela encontro de Bolsonaro com empresários para discutir golpe'
 pubDate: 2024-02-15 14:46:59

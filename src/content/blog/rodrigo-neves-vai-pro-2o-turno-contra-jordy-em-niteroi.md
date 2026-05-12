@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.avif"
+heroImage: "/hero/wp5610_imagem-1.avif"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rodrigo Neves vai pro 2º turno contra Jordy em Niterói'
 pubDate: 2024-10-07 11:21:51

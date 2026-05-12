@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-43.webp"
+heroImage: "/hero/wp5766_imagem-43.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Caiado sinaliza possível candidatura à presidência em 2026'
 pubDate: 2024-10-19 14:18:02

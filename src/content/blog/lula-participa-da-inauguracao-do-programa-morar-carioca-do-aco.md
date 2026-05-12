@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/20240628100636_4bc78dc2151e1313fc7037a691355d718e7d85b43c2d2d8c28865301508dda79.webp"
+heroImage: "/hero/wp4735_20240628100636_4bc78dc2151e1313fc7037a691355d718e7d85b43c2d2d8c28865301508dda79.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula participa da inauguração do Programa Morar Carioca do Aço'
 pubDate: 2024-07-01 08:00:51

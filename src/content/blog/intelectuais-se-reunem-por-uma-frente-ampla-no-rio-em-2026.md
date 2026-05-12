@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20250606-WA0096-scaled.jpg"
+heroImage: "/hero/wp6907_IMG-20250606-WA0096-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Intelectuais se reúnem por uma frente ampla no Rio em 2026'
 pubDate: 2025-06-06 19:39:00

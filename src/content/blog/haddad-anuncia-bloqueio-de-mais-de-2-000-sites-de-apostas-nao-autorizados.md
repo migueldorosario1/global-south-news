@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-20.webp"
+heroImage: "/hero/wp5678_imagem-20.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Haddad anuncia bloqueio de mais de 2.000 sites de apostas não autorizados'
 pubDate: 2024-10-10 21:52:18

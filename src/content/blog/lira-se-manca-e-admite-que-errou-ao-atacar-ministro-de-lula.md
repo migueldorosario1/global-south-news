@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-33.jpg"
+heroImage: "/hero/wp4285_imagem-33.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lira se manca e admite que errou ao atacar ministro de Lula'
 pubDate: 2024-04-24 08:58:47

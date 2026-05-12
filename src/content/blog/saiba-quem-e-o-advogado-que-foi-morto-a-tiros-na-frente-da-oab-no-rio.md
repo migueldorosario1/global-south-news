@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-44.jpg"
+heroImage: "/hero/wp3511_imagem-44.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Saiba quem é o advogado que foi morto a tiros na frente da OAB no Rio'
 pubDate: 2024-02-27 09:28:12

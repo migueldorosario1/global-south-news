@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-31-e1765742094972.png"
+heroImage: "/hero/wp7576_image-31-e1765742094972.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ato em Copacabana reúne 50 mil pessoas contra PL da Dosimetria aprovado na Câmara'
 pubDate: 2025-12-14 16:55:09

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/transferir-2.jpg"
+heroImage: "/hero/wp2272_transferir-2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Família detida por homicídio brutal na Pavuna'
 pubDate: 2024-01-04 08:15:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.webp"
+heroImage: "/hero/wp4083_imagem-2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça mantém condenação de 50 anos a ex-deputada Flordelis'
 pubDate: 2024-04-05 10:53:46

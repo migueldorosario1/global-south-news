@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/6ut3b5uldk_2v1k0qulhw_file.png"
+heroImage: "/hero/wp1673_6ut3b5uldk_2v1k0qulhw_file.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Líder do tráfico retorna ao Rio após 4 anos em Presídio Federal'
 pubDate: 2023-10-25 06:00:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-34.webp"
+heroImage: "/hero/wp3442_imagem-34.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Esposa de Daniel Alves ataca feministas após a condenação do marido por estupro na Espanha'
 pubDate: 2024-02-24 11:51:23

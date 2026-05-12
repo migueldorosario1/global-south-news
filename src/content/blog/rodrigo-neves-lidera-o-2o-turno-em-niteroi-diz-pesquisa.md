@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.jpg"
+heroImage: "/hero/wp5718_imagem-6.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rodrigo Neves lidera isolado o 2º turno em Niterói, diz pesquisa'
 pubDate: 2024-10-14 18:39:19

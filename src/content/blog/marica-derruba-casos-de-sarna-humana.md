@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-13.png"
+heroImage: "/hero/wp7374_image-13.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá derruba casos de sarna humana'
 pubDate: 2025-11-18 13:31:41

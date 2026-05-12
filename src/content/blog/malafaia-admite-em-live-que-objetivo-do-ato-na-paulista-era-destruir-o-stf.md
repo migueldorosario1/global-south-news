@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg-3.png"
+heroImage: "/hero/wp3819_imagem.jpg-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Malafaia admite em live que objetivo do ato na Paulista era destruir o STF'
 pubDate: 2024-03-18 09:18:55

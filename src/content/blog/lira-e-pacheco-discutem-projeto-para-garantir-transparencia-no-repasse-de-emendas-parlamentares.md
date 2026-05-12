@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-64.webp"
+heroImage: "/hero/wp5832_imagem-64.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lira e Pacheco discutem projeto para garantir transparência no repasse de emendas parlamentares'
 pubDate: 2024-10-21 15:16:53

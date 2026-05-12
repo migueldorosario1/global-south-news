@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-36.webp"
+heroImage: "/hero/wp3537_imagem-36.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Boulos recebe ameaças e advogados recorrem a PF em vez da Secretaria de Segurança de SP'
 pubDate: 2024-02-28 09:35:16

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-11.jpg"
+heroImage: "/hero/wp4100_imagem-11.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Saiba quanto a Prefeitura do Rio vai injetar de patrocínio para o show da Madonna'
 pubDate: 2024-04-08 16:55:57

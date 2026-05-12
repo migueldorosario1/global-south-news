@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/barreira.webp"
+heroImage: "/hero/wp2572_barreira.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mulher detida com celulares furtados durante pré-carnaval no Rio'
 pubDate: 2024-01-28 10:00:00

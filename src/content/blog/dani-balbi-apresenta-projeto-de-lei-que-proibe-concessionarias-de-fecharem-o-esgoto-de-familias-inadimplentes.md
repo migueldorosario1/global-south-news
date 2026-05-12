@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp7207_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi apresenta projeto de lei que proíbe concessionárias de fecharem o esgoto de famílias inadimplentes'
 pubDate: 2025-10-09 09:27:29

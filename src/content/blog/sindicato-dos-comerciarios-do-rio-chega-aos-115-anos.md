@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-85.png"
+heroImage: "/hero/wp944_image-85.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sindicato dos Comerciários do Rio chega aos 115 anos'
 pubDate: 2023-07-28 19:09:29

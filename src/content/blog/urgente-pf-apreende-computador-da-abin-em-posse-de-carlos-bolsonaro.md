@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/1_carlos_bolsonaro-29647292.webp"
+heroImage: "/hero/wp2613_1_carlos_bolsonaro-29647292.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'URGENTE! PF apreende computador da Abin em posse de Carlos Bolsonaro'
 pubDate: 2024-01-29 10:05:54

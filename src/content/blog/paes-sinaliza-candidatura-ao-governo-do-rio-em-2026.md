@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-11-27T223002.908.jpeg"
+heroImage: "/hero/wp6061_images-2024-11-27T223002.908.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes sinaliza candidatura ao governo do Rio em 2026'
 pubDate: 2024-11-27 22:32:13

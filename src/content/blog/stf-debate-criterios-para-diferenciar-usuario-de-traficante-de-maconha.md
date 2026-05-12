@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.png"
+heroImage: "/hero/wp4698_imagem.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'STF debate critérios para diferenciar usuário de traficante de Maconha'
 pubDate: 2024-06-26 06:50:14

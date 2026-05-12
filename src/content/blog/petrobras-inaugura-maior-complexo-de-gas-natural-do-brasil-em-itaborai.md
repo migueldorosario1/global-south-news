@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-49.webp"
+heroImage: "/hero/wp5205_imagem-49.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Petrobras inaugura maior complexo de Gás Natural do Brasil em Itaboraí'
 pubDate: 2024-09-12 17:18:30

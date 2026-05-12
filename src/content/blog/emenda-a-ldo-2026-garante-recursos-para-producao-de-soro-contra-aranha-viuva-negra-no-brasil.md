@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-22.png"
+heroImage: "/hero/wp7022_image-22.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Emenda à LDO 2026 garante recursos para produção de soro contra aranha viúva-negra no Brasil'
 pubDate: 2025-07-29 15:00:38

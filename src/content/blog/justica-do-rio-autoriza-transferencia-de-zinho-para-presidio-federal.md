@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-37.jpg"
+heroImage: "/hero/wp3419_imagem-37.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça do Rio autoriza transferência de Zinho para presídio federal'
 pubDate: 2024-02-23 09:38:09

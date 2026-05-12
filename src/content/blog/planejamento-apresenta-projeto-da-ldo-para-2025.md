@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-19.jpg"
+heroImage: "/hero/wp4185_imagem-19.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Planejamento apresenta Projeto da LDO para 2025'
 pubDate: 2024-04-15 09:14:45

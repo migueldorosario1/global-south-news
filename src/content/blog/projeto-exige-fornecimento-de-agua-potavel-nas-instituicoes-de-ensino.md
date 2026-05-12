@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.jpg"
+heroImage: "/hero/wp2857_imagem-4.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Projeto exige fornecimento de água potável nas instituições de ensino'
 pubDate: 2024-02-02 05:33:00

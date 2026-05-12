@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-18.png"
+heroImage: "/hero/wp1068_image-18.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula lança novo PAC sexta-feira (11/08) no Theatro Municipal do Rio'
 pubDate: 2023-08-08 12:16:18

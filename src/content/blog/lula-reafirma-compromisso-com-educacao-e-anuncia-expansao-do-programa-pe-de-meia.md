@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-29.webp"
+heroImage: "/hero/wp5725_imagem-29.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula reafirma compromisso com educação e anuncia expansão do programa pé-de-meia'
 pubDate: 2024-10-17 19:29:03

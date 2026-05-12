@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.webp"
+heroImage: "/hero/wp4631_imagem-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Renata Souza registra ameaça de morte e ofensas racistas na polícia'
 pubDate: 2024-06-12 09:25:25

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp6916_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Profissionais de Enfermagem de Rio das Ostras têm decreto que ampliava jornada anulado pela Justiça'
 pubDate: 2025-06-12 12:57:02

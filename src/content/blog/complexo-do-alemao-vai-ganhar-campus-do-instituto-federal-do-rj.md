@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-74.png"
+heroImage: "/hero/wp887_image-74.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Complexo do Alemão vai ganhar campus do Instituto Federal do RJ'
 pubDate: 2023-07-24 23:16:41

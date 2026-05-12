@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-29.jpg"
+heroImage: "/hero/wp4251_imagem-29.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro organiza evento extremista no Rio em meio a investigações do STF'
 pubDate: 2024-04-19 09:16:16

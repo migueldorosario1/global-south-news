@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-17.png"
+heroImage: "/hero/wp663_image-17.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Clãs familiares se preparam para eleição em Campos dos Goytacazes'
 pubDate: 2023-07-07 11:06:10

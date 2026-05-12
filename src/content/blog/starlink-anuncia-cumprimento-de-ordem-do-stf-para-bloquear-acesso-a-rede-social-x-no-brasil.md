@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-17.webp"
+heroImage: "/hero/wp5052_imagem-17.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Starlink anuncia cumprimento de ordem do STF para bloquear acesso à rede social X no Brasil'
 pubDate: 2024-09-03 17:53:22

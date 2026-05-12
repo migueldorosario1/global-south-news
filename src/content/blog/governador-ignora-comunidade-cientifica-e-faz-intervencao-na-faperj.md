@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5.png"
+heroImage: "/hero/wp5973_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governador ignora comunidade científica e faz intervenção na Faperj'
 pubDate: 2024-11-07 11:05:15

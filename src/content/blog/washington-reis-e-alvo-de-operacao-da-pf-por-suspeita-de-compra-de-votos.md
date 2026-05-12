@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-11.webp"
+heroImage: "/hero/wp6140_imagem-11.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Washington Reis é alvo de operação da PF por suspeita de compra de votos'
 pubDate: 2024-12-13 12:31:44

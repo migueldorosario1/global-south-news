@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.png"
+heroImage: "/hero/wp2654_imagem.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro cobra resposta firme de Valdemar após seguidas operações da PF contra aliados'
 pubDate: 2024-01-31 05:10:00

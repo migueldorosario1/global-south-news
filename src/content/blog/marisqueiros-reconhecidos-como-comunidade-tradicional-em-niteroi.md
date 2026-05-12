@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-32.png"
+heroImage: "/hero/wp1383_image-32.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Marisqueiros reconhecidos como comunidade tradicional em Niterói'
 pubDate: 2023-09-19 23:17:01

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-5.jpeg"
+heroImage: "/hero/wp4897_imagem-5.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'O pitaco de Campos Neto na escolha do próximo presidente do BC'
 pubDate: 2024-08-20 08:56:16

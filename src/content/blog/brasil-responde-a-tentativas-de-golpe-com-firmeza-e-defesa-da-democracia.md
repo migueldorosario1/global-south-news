@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-22.webp"
+heroImage: "/hero/wp6279_imagem-22.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil responde a tentativas de golpe com firmeza e defesa da democracia'
 pubDate: 2024-12-21 10:47:44

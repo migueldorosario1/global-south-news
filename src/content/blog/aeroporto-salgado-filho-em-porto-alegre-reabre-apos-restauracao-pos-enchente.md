@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-40.webp"
+heroImage: "/hero/wp5762_imagem-40.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Aeroporto Salgado Filho em Porto Alegre reabre após restauração pós-enchente'
 pubDate: 2024-10-19 14:07:59

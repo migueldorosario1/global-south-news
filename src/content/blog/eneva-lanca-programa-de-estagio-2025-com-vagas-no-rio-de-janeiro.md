@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.webp"
+heroImage: "/hero/wp6309_imagem.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eneva lança programa de estágio 2025 com vagas no Rio de Janeiro'
 pubDate: 2025-01-02 15:51:09

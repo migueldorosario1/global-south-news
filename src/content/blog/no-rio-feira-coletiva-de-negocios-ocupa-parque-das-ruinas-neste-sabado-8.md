@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-14.png"
+heroImage: "/hero/wp653_image-14.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'No Rio, feira coletiva de negócios ocupa Parque das Ruínas neste sábado (8)'
 pubDate: 2023-07-06 20:25:49

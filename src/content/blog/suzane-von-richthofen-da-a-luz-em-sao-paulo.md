@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/8x924l296ta51unxdimqo5btx.webp"
+heroImage: "/hero/wp2581_8x924l296ta51unxdimqo5btx.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Suzane von Richthofen dá à luz em São Paulo'
 pubDate: 2024-01-28 09:15:00

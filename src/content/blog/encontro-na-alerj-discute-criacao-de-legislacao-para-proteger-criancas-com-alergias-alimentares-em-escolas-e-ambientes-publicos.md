@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5.png"
+heroImage: "/hero/wp6895_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Encontro na Alerj discute criação de legislação para proteger crianças com alergias alimentares em escolas e ambientes públicos'
 pubDate: 2025-06-04 20:56:33

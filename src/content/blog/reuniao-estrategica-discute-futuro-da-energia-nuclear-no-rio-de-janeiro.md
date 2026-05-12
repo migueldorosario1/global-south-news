@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-2024-02-02T203404.913.jpeg"
+heroImage: "/hero/wp2936_images-2024-02-02T203404.913.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Reunião estratégica discute futuro da energia nuclear no Rio de Janeiro'
 pubDate: 2024-02-02 20:37:03

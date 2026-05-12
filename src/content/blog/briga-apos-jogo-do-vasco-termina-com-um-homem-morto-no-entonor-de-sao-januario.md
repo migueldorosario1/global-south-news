@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/barreira-do-vasco-2-1.jpg"
+heroImage: "/hero/wp1553_barreira-do-vasco-2-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Exclusivo! Briga após jogo do Vasco termina com um homem morto perto de São Januário'
 pubDate: 2023-10-09 18:58:24

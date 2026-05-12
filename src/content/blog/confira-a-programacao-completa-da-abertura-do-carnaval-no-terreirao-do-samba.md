@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-11.webp"
+heroImage: "/hero/wp2919_imagem-11.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Confira a programação completa da abertura de carnaval no Terreirão do Samba'
 pubDate: 2024-02-02 09:33:54

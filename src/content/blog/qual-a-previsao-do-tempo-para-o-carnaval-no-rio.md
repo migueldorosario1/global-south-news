@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-10.webp"
+heroImage: "/hero/wp2916_imagem-10.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Qual a previsão do tempo para o carnaval no Rio?'
 pubDate: 2024-02-02 09:33:50

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.jpg"
+heroImage: "/hero/wp2597_imagem-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Moraes foi quem autorizou operação da PF contra Carluxo'
 pubDate: 2024-01-29 09:44:47

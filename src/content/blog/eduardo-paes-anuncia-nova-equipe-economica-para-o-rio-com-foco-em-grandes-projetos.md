@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-15.webp"
+heroImage: "/hero/wp6201_imagem-15.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Paes anuncia nova equipe econômica para o Rio com foco em grandes projetos'
 pubDate: 2024-12-14 12:27:58

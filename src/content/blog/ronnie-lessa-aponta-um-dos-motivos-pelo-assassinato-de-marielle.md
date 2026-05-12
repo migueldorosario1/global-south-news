@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-25.jpg"
+heroImage: "/hero/wp3897_imagem-25.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ronnie Lessa aponta um dos motivos pelo assassinato de Marielle'
 pubDate: 2024-03-21 09:18:43

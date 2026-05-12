@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-13.jpeg"
+heroImage: "/hero/wp5224_imagem-13.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula vai a Itaboraí e inaugura o maior complexo de gás natural do Brasil'
 pubDate: 2024-09-13 14:43:50

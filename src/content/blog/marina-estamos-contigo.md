@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image_processing20220629-30869-rn87rc-compressed.jpg"
+heroImage: "/hero/wp1208_image_processing20220629-30869-rn87rc-compressed.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Edson Santos Marina, estamos contigo!'
 pubDate: 2023-08-25 10:33:37

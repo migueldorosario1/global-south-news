@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-72.webp"
+heroImage: "/hero/wp5310_imagem-72.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula e Pedro Sánchez organizam evento na ONU para discutir democracia e extremismo'
 pubDate: 2024-09-18 19:06:30

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/6d8277e8-05c9-4d95-b320-4ae74dba73b3.jpeg"
+heroImage: "/hero/wp2374_6d8277e8-05c9-4d95-b320-4ae74dba73b3.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Investigação urgente PF procura responsável por falsa filição de Lula ao PL'
 pubDate: 2024-01-11 14:40:00

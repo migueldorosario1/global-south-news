@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Screenshot_20241102-100740_Instagram.jpg"
+heroImage: "/hero/wp5934_Screenshot_20241102-100740_Instagram.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Comunidade científica quer lista tríplice para escolha de presidente da Faperj'
 pubDate: 2024-11-02 10:08:57

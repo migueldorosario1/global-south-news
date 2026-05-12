@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/ece4056a0bdf97a341d497068644e1b4-gpLarge.jpg"
+heroImage: "/hero/wp830_ece4056a0bdf97a341d497068644e1b4-gpLarge.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Edson Santos Chacina da Candelária - três décadas de uma cicatriz aberta'
 pubDate: 2023-07-17 15:11:47

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-23.webp"
+heroImage: "/hero/wp3120_imagem-23.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação Carnaval da PRF começou na madrugada desta sexta-feira'
 pubDate: 2024-02-10 05:43:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-3.png"
+heroImage: "/hero/wp169_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Educação em Greve pelo Piso no Plano de Carreira'
 pubDate: 2023-06-15 09:18:05

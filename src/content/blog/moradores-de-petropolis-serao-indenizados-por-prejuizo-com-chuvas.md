@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-43.png"
+heroImage: "/hero/wp779_image-43.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Moradores de Petrópolis serão indenizados por prejuízo com chuvas'
 pubDate: 2023-07-13 00:12:33

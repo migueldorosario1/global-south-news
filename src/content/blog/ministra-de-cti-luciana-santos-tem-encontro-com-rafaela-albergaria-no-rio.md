@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/IMG-20240316-WA0047-e1710605259695.jpg"
+heroImage: "/hero/wp3810_IMG-20240316-WA0047-e1710605259695.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministra de CT&I, Luciana Santos tem encontro com Rafaela Albergaria no Rio'
 pubDate: 2024-03-16 13:16:01

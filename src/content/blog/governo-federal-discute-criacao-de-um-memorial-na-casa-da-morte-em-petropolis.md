@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-10.png"
+heroImage: "/hero/wp1846_image-10.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo federal discute criação de um memorial na Casa da Morte em Petrópolis'
 pubDate: 2023-11-07 21:08:57

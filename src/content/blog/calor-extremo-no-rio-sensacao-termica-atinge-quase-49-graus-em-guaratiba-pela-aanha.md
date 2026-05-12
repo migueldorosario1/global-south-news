@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/whatsapp-image-2023-12-16-at-12.42.21.webp"
+heroImage: "/hero/wp2368_whatsapp-image-2023-12-16-at-12.42.21.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Calor extremo no Rio sensação térmica atinge quase 49 graus em guaratiba pela aanhã'
 pubDate: 2024-01-11 13:25:18

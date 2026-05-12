@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/cartaz-madonna.jpg"
+heroImage: "/hero/wp4409_cartaz-madonna.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Madonna sacode Copacabana com show histórico'
 pubDate: 2024-05-05 08:48:03

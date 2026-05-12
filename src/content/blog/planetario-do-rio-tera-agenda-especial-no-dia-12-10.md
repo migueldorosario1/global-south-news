@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-20.png"
+heroImage: "/hero/wp1577_image-20.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Planetário do Rio terá agenda especial no dia 12/10'
 pubDate: 2023-10-11 18:40:49

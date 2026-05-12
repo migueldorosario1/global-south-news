@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-30.png"
+heroImage: "/hero/wp725_image-30.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maus-tratos e sofrimento morre quarta girafa do BioParque no Rio'
 pubDate: 2023-07-09 10:16:00

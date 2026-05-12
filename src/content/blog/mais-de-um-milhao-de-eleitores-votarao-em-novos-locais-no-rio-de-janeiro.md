@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-8.webp"
+heroImage: "/hero/wp4850_imagem-8.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mais de um milhão de eleitores votarão em novos locais no Rio de Janeiro'
 pubDate: 2024-08-18 08:08:56

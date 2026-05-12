@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/24.jpg"
+heroImage: "/hero/wp2359_24.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Herança milionária de Andreas Von Richthofen se torna dívida de meio milhão'
 pubDate: 2024-01-11 13:30:00

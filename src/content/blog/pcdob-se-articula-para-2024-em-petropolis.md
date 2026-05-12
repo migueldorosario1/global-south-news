@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-22.png"
+heroImage: "/hero/wp1593_image-22.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PCdoB se articula para 2024 em Petrópolis'
 pubDate: 2023-10-13 16:28:31

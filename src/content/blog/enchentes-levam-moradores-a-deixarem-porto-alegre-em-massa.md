@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.jpg"
+heroImage: "/hero/wp4434_imagem-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Enchentes levam moradores a deixarem Porto Alegre em massa'
 pubDate: 2024-05-08 08:09:10

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/060223-ricardocapelli-fotowendersonaraujo-33.webp"
+heroImage: "/hero/wp2425_060223-ricardocapelli-fotowendersonaraujo-33.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ricardo Cappelli recebe convite de Eduardo Paes após mudanças no ministério da justiça'
 pubDate: 2024-01-13 07:00:00

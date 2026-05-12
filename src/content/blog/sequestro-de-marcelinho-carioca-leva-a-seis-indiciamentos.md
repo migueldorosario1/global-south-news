@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/ATO20231218028-e1702989217341.webp"
+heroImage: "/hero/wp2183_ATO20231218028-e1702989217341.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sequestro de Marcelinho Carioca leva a seis indiciamentos'
 pubDate: 2023-12-20 07:00:00

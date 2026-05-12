@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-18.webp"
+heroImage: "/hero/wp5055_imagem-18.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Hackers reivindicam ataques a sistemas de escritório da família de Alexandre de Moraes'
 pubDate: 2024-09-03 18:08:45

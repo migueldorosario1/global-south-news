@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-123.webp"
+heroImage: "/hero/wp5517_imagem-123.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'IBGE Desemprego no Brasil atinge menor nível desde 2012'
 pubDate: 2024-09-27 13:04:25

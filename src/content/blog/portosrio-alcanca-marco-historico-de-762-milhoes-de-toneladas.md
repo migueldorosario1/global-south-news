@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-28.png"
+heroImage: "/hero/wp6628_image-28.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PortosRio alcança marco histórico de 76,2 milhões de toneladas'
 pubDate: 2025-02-26 07:30:17

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.jpg"
+heroImage: "/hero/wp4412_imagem-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula reconhece estado de emergência em todo o estado do RS'
 pubDate: 2024-05-06 08:38:02

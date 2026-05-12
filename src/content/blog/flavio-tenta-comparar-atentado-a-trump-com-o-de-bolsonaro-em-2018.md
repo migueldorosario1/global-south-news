@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.jpeg"
+heroImage: "/hero/wp4766_imagem-2.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Flávio tenta comparar atentado a Trump com o de Bolsonaro em 2018'
 pubDate: 2024-07-15 10:01:43

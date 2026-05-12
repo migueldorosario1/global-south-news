@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-13.png"
+heroImage: "/hero/wp385_image-13.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Escolas podem ser obrigadas a conscientizar alunos sobre importância da doação de órgãos'
 pubDate: 2023-06-19 20:11:38

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.webp"
+heroImage: "/hero/wp2766_imagem-7.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula e Tarcísio anunciam grandes obras de infraestrutura para o estado de SP'
 pubDate: 2024-01-31 08:12:38

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-13.webp"
+heroImage: "/hero/wp3178_imagem-13.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Explodiu os casos de dengue no estado do Rio'
 pubDate: 2024-02-12 20:34:44

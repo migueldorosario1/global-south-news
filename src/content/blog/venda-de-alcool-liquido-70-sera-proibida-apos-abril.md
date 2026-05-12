@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-9.jpg"
+heroImage: "/hero/wp4074_imagem-9.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Venda de álcool líquido 70% será proibida após abril'
 pubDate: 2024-04-05 10:47:26

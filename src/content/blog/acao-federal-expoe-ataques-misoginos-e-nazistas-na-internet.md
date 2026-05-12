@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-17.png"
+heroImage: "/hero/wp7380_image-17.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ação federal expõe ataques misóginos e nazistas na internet'
 pubDate: 2025-11-19 11:53:23

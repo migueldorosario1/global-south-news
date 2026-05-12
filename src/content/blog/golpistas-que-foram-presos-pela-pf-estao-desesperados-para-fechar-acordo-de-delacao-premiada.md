@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-88.jpeg"
+heroImage: "/hero/wp3448_images-88.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Golpistas que foram presos pela PF estão desesperados para fechar acordo de delação premiada'
 pubDate: 2024-02-25 09:11:39

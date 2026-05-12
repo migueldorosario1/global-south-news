@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-30.png"
+heroImage: "/hero/wp6635_image-30.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PM diz que universitário baleado no Rio estava armado, família nega'
 pubDate: 2025-02-26 07:45:27

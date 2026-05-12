@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-74.jpeg"
+heroImage: "/hero/wp3300_images-74.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Aprovação de Lula dispara em estado bolsonarista'
 pubDate: 2024-02-18 18:08:00

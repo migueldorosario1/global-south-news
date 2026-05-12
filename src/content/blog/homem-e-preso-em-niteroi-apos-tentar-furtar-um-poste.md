@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/homem-rouba-poste-12453_800x450.webp"
+heroImage: "/hero/wp1656_homem-rouba-poste-12453_800x450.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Homem é preso em Niterói após tentar furtar um poste'
 pubDate: 2023-10-23 17:07:18

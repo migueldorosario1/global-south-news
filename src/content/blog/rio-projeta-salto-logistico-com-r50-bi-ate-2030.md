@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5.png"
+heroImage: "/hero/wp7494_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio projeta salto logístico com R$50 bi até 2030'
 pubDate: 2025-12-02 11:13:17

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-98.webp"
+heroImage: "/hero/wp5400_imagem-98.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ibovespa registra queda pelo quinto dia consecutivo'
 pubDate: 2024-09-24 05:51:38

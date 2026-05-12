@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-25.jpg"
+heroImage: "/hero/wp4220_imagem-25.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Médico de Bolsonaro se torna alvo da PF por suspeita de ser funcionário fantasma'
 pubDate: 2024-04-17 09:01:11

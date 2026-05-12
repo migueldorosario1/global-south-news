@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-76.png"
+heroImage: "/hero/wp894_image-76.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio de Janeiro monitora meningite meningocócica no norte do estado'
 pubDate: 2023-07-26 16:11:56

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.jpg"
+heroImage: "/hero/wp3683_imagem-6.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonarista se humilha na cadeia e diz que é perseguido pelo comunismo'
 pubDate: 2024-03-08 09:55:52

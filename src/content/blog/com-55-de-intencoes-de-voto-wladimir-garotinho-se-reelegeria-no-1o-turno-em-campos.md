@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-45.png"
+heroImage: "/hero/wp1200_image-45.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Com 55% de intenções de voto, Wladimir Garotinho se reelegeria no 1º turno em Campos'
 pubDate: 2023-08-24 23:15:48

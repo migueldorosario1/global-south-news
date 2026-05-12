@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/53556475210_2b34b78b66_o-scaled.jpg"
+heroImage: "/hero/wp4595_53556475210_2b34b78b66_o-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Senado aprova taxação de 20% sobre compras internacionais de até US$ 50'
 pubDate: 2024-06-06 10:13:01

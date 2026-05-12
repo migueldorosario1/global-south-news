@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp3641_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ocupação Manoel Congo, no Rio, deve ser regularizada ainda em 2024'
 pubDate: 2024-03-04 13:38:41

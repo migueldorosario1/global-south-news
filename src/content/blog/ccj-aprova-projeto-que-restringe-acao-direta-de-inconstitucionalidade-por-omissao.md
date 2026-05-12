@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-33.webp"
+heroImage: "/hero/wp5100_imagem-33.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'CCJ aprova projeto que restringe ação direta de inconstitucionalidade por omissão'
 pubDate: 2024-09-05 21:05:06

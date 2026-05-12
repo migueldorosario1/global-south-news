@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-24.jpg"
+heroImage: "/hero/wp4558_imagem-24.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Apoiadores de Trump convocam motins e retaliação após condenação em Nova York'
 pubDate: 2024-05-31 08:50:55

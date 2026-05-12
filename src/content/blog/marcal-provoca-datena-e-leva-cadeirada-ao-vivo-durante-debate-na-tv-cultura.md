@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-50.webp"
+heroImage: "/hero/wp5238_imagem-50.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Marçal provoca Datena e leva cadeirada ao vivo durante debate na TV Cultura'
 pubDate: 2024-09-16 10:32:07

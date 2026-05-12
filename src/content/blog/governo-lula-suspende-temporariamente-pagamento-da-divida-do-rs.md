@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.webp"
+heroImage: "/hero/wp4429_imagem.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula suspende temporariamente pagamento da dívida do RS'
 pubDate: 2024-05-08 08:02:10

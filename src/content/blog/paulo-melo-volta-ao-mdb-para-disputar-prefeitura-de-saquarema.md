@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-23.png"
+heroImage: "/hero/wp1358_image-23.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paulo Melo volta ao MDB para disputar prefeitura de Saquarema'
 pubDate: 2023-09-14 16:02:06

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-39.png"
+heroImage: "/hero/wp1419_image-39.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'UFRRJ terá cota para trans na pós-graduação'
 pubDate: 2023-09-26 18:52:17

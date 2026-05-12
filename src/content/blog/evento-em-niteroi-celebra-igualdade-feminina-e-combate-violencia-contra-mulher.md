@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-43.png"
+heroImage: "/hero/wp1194_image-43.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Evento em Niterói celebra igualdade feminina e combate violência contra mulher'
 pubDate: 2023-08-24 15:08:50

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/gal-trbr1963.jpg"
+heroImage: "/hero/wp963_gal-trbr1963.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mulheres Negras protagonizam marcha histórica em copacabana'
 pubDate: 2023-07-31 07:30:00

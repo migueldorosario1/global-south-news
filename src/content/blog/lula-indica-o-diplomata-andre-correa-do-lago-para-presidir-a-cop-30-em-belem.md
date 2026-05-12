@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-22.png"
+heroImage: "/hero/wp6499_image-22.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula indica o Diplomata André Corrêa do Lago para presidir a COP 30 em Belém'
 pubDate: 2025-01-21 13:54:48

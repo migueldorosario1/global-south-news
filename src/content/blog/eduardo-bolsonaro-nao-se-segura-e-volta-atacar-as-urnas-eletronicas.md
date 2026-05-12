@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-43.jpg"
+heroImage: "/hero/wp3478_imagem-43.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Bolsonaro não se segura e volta atacar as urnas eletrônicas'
 pubDate: 2024-02-26 09:51:15

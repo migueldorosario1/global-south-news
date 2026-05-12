@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Martha-rocha.jpg"
+heroImage: "/hero/wp83_Martha-rocha.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Niterói pode ter Delegacia da Criança e Adolescente'
 pubDate: 2023-06-11 17:26:04

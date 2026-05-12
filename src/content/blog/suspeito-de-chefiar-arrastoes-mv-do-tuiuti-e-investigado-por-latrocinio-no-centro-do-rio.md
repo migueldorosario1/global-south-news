@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/3630889_x216.jpg"
+heroImage: "/hero/wp2144_3630889_x216.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Suspeito de chefiar arrastões, MV do Tuiuti é investigado por latrocínio no centro do Rio'
 pubDate: 2023-12-14 19:00:00

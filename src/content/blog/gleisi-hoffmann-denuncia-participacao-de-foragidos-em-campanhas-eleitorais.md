@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-56.webp"
+heroImage: "/hero/wp5258_imagem-56.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann denuncia participação de foragidos em campanhas eleitorais'
 pubDate: 2024-09-16 19:18:30

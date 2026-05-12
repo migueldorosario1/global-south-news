@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-58.png"
+heroImage: "/hero/wp1253_image-58.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi A hora e a vez do Emprego Verde'
 pubDate: 2023-08-31 16:58:02

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.webp"
+heroImage: "/hero/wp2847_imagem-3.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Saúde anuncia centro de emergência para conter epidemia de dengue'
 pubDate: 2024-02-02 05:08:00

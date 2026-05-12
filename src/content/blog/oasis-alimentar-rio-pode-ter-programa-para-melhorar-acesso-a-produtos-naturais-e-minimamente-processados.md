@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-29.png"
+heroImage: "/hero/wp1373_image-29.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'OÁSIS ALIMENTAR RIO PODE TER PROGRAMA PARA MELHORAR ACESSO A PRODUTOS NATURAIS E MINIMAMENTE PROCESSADOS'
 pubDate: 2023-09-18 11:54:48

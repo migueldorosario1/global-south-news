@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-19.png"
+heroImage: "/hero/wp7006_image-19.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fundações partidárias ampliam presença no YouTube e disputam espaço na formação política digital'
 pubDate: 2025-07-26 10:47:13

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-74.jpeg"
+heroImage: "/hero/wp3603_images-74.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PIB do Brasil fechou 2023 com crescimento acima do esperado'
 pubDate: 2024-03-01 15:08:05

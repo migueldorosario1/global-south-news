@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-106.webp"
+heroImage: "/hero/wp5441_imagem-106.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Geraldo Alckmin critica política monetária e efeitos da selic na economia'
 pubDate: 2024-09-24 19:37:17

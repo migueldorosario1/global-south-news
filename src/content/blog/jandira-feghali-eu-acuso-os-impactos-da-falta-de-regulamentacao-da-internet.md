@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-16.png"
+heroImage: "/hero/wp2552_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jandira Feghali ‘Eu acuso!’ Os impactos da falta de regulamentação da internet'
 pubDate: 2024-01-25 15:46:21

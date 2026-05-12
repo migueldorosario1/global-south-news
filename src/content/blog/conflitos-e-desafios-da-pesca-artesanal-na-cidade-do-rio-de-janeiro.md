@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-1.jpeg"
+heroImage: "/hero/wp4755_imagem-1.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Conflitos e desafios da pesca artesanal na cidade do Rio de Janeiro'
 pubDate: 2024-07-09 08:57:52

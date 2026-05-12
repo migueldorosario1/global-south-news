@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-24.png"
+heroImage: "/hero/wp2008_image-24.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mães de crianças com até 6 anos terão política afirmativa em editais da Faperj'
 pubDate: 2023-11-23 08:48:46

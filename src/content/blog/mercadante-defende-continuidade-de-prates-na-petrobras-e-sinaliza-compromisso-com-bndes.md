@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.png"
+heroImage: "/hero/wp4073_imagem-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mercadante defende continuidade de Prates na Petrobras e sinaliza compromisso com BNDES'
 pubDate: 2024-04-05 10:47:23

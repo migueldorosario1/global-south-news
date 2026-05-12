@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.webp"
+heroImage: "/hero/wp2651_imagem-3.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carlos Fávaro anuncia medidas para impulsionar o agro brasileiro'
 pubDate: 2024-01-30 05:30:00

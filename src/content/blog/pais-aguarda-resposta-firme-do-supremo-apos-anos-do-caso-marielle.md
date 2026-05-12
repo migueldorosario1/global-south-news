@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-18.png"
+heroImage: "/hero/wp7535_image-18.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'País aguarda resposta firme do Supremo após anos do caso Marielle'
 pubDate: 2025-12-06 19:40:55

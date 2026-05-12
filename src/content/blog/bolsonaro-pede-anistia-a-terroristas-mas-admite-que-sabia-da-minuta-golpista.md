@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Captura-de-Tela-2024-02-25-as-16.50.11-1024x654-1.png"
+heroImage: "/hero/wp3469_Captura-de-Tela-2024-02-25-as-16.50.11-1024x654-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro pede anistia a terroristas mas admite que sabia da minuta golpista'
 pubDate: 2024-02-25 17:29:27

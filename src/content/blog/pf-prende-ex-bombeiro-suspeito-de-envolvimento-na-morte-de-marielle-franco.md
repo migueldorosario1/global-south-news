@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-71.png"
+heroImage: "/hero/wp881_image-71.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF prende ex-bombeiro suspeito de envolvimento na morte de Marielle Franco'
 pubDate: 2023-07-24 09:24:19

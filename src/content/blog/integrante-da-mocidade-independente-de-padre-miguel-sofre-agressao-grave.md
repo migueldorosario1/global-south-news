@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/371524894-836744881179962-142811375500854894-n.webp"
+heroImage: "/hero/wp2032_371524894-836744881179962-142811375500854894-n.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Integrante da Mocidade Independente de Padre Miguel Sofre Agressão Grave'
 pubDate: 2023-11-28 07:00:00

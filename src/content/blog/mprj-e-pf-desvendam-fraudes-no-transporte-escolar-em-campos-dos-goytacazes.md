@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/protesto-rodoviarios.webp"
+heroImage: "/hero/wp1866_protesto-rodoviarios.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'MPRJ e PF desvendam fraudes no transporte escolar em Campos dos Goytacazes'
 pubDate: 2023-11-09 12:05:48

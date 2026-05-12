@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/images-90.jpeg"
+heroImage: "/hero/wp3457_images-90.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Núcleo de Bolsonaro teme não conseguir controlar os terroristas na Paulista'
 pubDate: 2024-02-25 10:31:48

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-23.png"
+heroImage: "/hero/wp6613_image-23.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio sediará evento econômico crucial do Brics em julho'
 pubDate: 2025-02-25 15:44:25

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-32.jpg"
+heroImage: "/hero/wp3387_imagem-32.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Urgente! Bolsonaro anuncia seu candidato para enfrentar Lula em 2026'
 pubDate: 2024-02-22 09:52:36

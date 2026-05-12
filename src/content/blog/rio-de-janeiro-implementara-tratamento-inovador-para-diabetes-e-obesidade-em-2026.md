@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.jpg"
+heroImage: "/hero/wp6324_imagem-2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio de Janeiro implementará tratamento inovador para diabetes e obesidade em 2026'
 pubDate: 2025-01-03 10:40:41

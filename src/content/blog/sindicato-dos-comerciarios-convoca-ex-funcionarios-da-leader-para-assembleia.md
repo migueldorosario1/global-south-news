@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/leader.jpg"
+heroImage: "/hero/wp3369_leader.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sindicato dos Comerciários convoca ex-funcionários da Leader para assembleia'
 pubDate: 2024-02-21 15:02:32

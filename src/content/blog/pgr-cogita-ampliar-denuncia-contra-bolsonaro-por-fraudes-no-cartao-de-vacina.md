@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.webp"
+heroImage: "/hero/wp3879_imagem-3.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PGR cogita ampliar denúncia contra Bolsonaro por fraudes no cartão de vacina'
 pubDate: 2024-03-20 09:45:15

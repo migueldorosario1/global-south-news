@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/whatsapp-image-2023-11-10-at-15.36.52.webp"
+heroImage: "/hero/wp2522_whatsapp-image-2023-11-10-at-15.36.52.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeito Eduardo Paes anuncia proibição da feira de Acari no Rio'
 pubDate: 2024-01-23 08:30:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-5.png"
+heroImage: "/hero/wp4258_imagem-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula vai apresentar proposta para acabar com a greve nas universidades federais'
 pubDate: 2024-04-19 09:35:14

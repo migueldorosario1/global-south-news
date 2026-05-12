@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/15.webp"
+heroImage: "/hero/wp1639_15.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Policiais vendem 29 fuzis para facção rival por vingança no Rio'
 pubDate: 2023-10-19 19:33:00

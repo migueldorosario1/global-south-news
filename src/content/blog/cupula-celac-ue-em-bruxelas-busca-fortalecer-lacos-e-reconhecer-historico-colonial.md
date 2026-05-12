@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-88.webp"
+heroImage: "/hero/wp5369_imagem-88.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cúpula CELAC-UE em Bruxelas busca fortalecer laços e reconhecer histórico colonial'
 pubDate: 2024-09-23 19:13:04

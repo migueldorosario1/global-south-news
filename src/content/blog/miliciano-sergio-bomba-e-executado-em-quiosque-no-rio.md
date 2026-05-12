@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2024-01-23-at-02.33.43.jpeg"
+heroImage: "/hero/wp2509_WhatsApp-Image-2024-01-23-at-02.33.43.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Miliciano Sérgio Bomba é executado em quiosque no Rio'
 pubDate: 2024-01-23 07:30:00

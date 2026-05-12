@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-72.webp"
+heroImage: "/hero/wp5865_imagem-72.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Boeing anuncia transformação cultural e enfrenta desafios financeiros sob nova liderança'
 pubDate: 2024-10-24 21:09:52

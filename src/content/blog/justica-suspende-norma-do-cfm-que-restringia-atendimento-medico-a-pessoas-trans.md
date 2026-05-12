@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-20.png"
+heroImage: "/hero/wp7010_image-20.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça suspende norma do CFM que restringia atendimento médico a pessoas trans'
 pubDate: 2025-07-26 17:08:21

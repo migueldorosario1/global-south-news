@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-97.webp"
+heroImage: "/hero/wp5397_imagem-97.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Geraldo Alckmin critica política monetária e destaca desafios para a economia Brasileira'
 pubDate: 2024-09-24 05:45:13

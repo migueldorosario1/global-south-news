@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-7.png"
+heroImage: "/hero/wp7614_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá tem balanço positivo na FITUR 2026, na Espanha, com avanços estratégicos no turismo internacional'
 pubDate: 2026-01-26 13:53:01

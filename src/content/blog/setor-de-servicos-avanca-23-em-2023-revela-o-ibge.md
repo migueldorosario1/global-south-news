@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-25.webp"
+heroImage: "/hero/wp3128_imagem-25.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Setor de serviços avança 2,3% em 2023, revela o IBGE'
 pubDate: 2024-02-11 05:49:00

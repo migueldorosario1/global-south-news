@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.jpg"
+heroImage: "/hero/wp2609_imagem-2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carluxo estava na praia com Bolsonaro enquanto PF vasculhava sua casa'
 pubDate: 2024-01-29 10:04:49

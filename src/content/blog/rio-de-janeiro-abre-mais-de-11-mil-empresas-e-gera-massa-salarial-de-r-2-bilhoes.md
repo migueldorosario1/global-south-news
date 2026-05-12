@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/WhatsApp-Image-2022-06-06-at-19.11.27.jpeg"
+heroImage: "/hero/wp1857_WhatsApp-Image-2022-06-06-at-19.11.27.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio de Janeiro Abre Mais de 1,1 Mil Empresas e Gera Massa Salarial de R$ 2 Bilhões'
 pubDate: 2023-11-08 15:19:27

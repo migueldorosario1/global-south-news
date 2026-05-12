@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-56.webp"
+heroImage: "/hero/wp5804_imagem-56.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann condena atentado contra Prefeito de Taboão e exige investigação rigorosa'
 pubDate: 2024-10-19 16:11:20

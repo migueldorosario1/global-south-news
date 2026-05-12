@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-11.png"
+heroImage: "/hero/wp4720_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PGR ercomenda manutenção de prisão dos acusados de assassinar Marielle'
 pubDate: 2024-06-28 08:14:31

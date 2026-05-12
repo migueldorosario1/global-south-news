@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-13.png"
+heroImage: "/hero/wp6789_image-13.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj quer criar relatório anual sobre violência contra profissionais da saúde no RJ'
 pubDate: 2025-04-09 18:48:34

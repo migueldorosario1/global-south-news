@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-26.png"
+heroImage: "/hero/wp6826_image-26.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quando o papa uniu milhões nas areias do Rio'
 pubDate: 2025-04-25 10:08:06

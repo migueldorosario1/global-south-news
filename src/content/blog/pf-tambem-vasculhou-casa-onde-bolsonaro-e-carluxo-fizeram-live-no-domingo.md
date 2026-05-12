@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.jpg"
+heroImage: "/hero/wp2620_imagem-4.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF também vasculhou casa onde Bolsonaro e Carluxo fizeram live no domingo'
 pubDate: 2024-01-29 10:29:04

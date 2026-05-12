@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-37.webp"
+heroImage: "/hero/wp3547_imagem-37.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Inquérito contra Aécio é arquivado pela 2ª Turma do STF'
 pubDate: 2024-02-28 09:50:18

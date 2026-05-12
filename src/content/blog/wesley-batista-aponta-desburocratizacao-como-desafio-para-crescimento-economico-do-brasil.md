@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-23.webp"
+heroImage: "/hero/wp5688_imagem-23.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Wesley Batista aponta desburocratização como desafio para crescimento econômico do Brasil'
 pubDate: 2024-10-12 08:10:10

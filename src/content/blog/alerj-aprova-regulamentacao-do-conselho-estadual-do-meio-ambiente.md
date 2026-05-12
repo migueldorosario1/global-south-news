@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-11.png"
+heroImage: "/hero/wp375_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'ALERJ aprova regulamentação do Conselho Estadual do Meio Ambiente'
 pubDate: 2023-06-19 20:02:55

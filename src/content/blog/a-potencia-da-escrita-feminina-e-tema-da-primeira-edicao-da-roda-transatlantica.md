@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-3.png"
+heroImage: "/hero/wp7183_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'A potência da escrita feminina é tema da primeira edição da Roda Transatlântica'
 pubDate: 2025-10-07 09:55:42

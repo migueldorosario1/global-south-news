@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem.jpg"
+heroImage: "/hero/wp6003_imagem.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura do Rio reduz verba para asfaltamento das ruas em 2025'
 pubDate: 2024-11-12 20:16:44

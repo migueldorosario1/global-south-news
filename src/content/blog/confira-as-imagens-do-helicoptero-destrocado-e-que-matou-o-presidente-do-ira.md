@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-17.jpg"
+heroImage: "/hero/wp4480_imagem-17.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Confira as imagens do helicóptero destroçado e que matou o presidente do Irã'
 pubDate: 2024-05-20 09:19:06

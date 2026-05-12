@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-73.webp"
+heroImage: "/hero/wp5868_imagem-73.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Petrobras projeta início da exploração na Foz do Amazonas para 2025'
 pubDate: 2024-10-24 21:20:52

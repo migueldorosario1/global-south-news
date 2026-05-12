@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-16.png"
+heroImage: "/hero/wp6716_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá terá a melhor Guarda Municipal armada do país, promete Quaquá'
 pubDate: 2025-03-31 14:44:05

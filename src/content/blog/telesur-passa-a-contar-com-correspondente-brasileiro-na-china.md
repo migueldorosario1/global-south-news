@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-5-e1757694516598.png"
+heroImage: "/hero/wp7155_image-5-e1757694516598.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Telesur passa a contar com correspondente brasileiro na China'
 pubDate: 2025-09-12 13:31:21

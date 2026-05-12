@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-4.jpeg"
+heroImage: "/hero/wp4862_imagem-4.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo brasileiro vai regular mercado de criptomoedas'
 pubDate: 2024-08-19 09:07:34

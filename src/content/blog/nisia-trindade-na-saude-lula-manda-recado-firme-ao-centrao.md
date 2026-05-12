@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-19.png"
+heroImage: "/hero/wp441_image-19.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Nísia Trindade na Saúde Lula manda recado firme ao Centrão'
 pubDate: 2023-06-19 22:48:45

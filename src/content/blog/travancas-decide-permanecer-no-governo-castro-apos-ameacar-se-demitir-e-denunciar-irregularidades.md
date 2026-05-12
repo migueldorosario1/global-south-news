@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-11.jpg"
+heroImage: "/hero/wp3069_imagem-11.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Travancas decide permanecer no governo Castro após ameaçar se demitir e denunciar irregularidades'
 pubDate: 2024-02-07 14:06:55

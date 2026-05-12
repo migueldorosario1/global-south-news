@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-8.jpg"
+heroImage: "/hero/wp2887_imagem-8.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quanto menos pacífico for o mundo, mais os EUA lucram'
 pubDate: 2024-02-04 05:57:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-7.webp"
+heroImage: "/hero/wp5625_imagem-7.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'STF autoriza reativação do X após cumprimento de determinações legais'
 pubDate: 2024-10-08 18:59:10

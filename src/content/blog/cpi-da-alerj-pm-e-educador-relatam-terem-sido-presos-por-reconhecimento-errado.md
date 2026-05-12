@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-59.png"
+heroImage: "/hero/wp1256_image-59.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'CPI da Alerj PM e educador relatam terem sido presos por reconhecimento errado '
 pubDate: 2023-08-31 21:47:30

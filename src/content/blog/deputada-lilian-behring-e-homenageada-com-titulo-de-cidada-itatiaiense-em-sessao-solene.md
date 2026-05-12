@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp6889_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputada Lilian Behring é homenageada com Título de Cidadã Itatiaiense em Sessão Solene'
 pubDate: 2025-06-02 15:38:22

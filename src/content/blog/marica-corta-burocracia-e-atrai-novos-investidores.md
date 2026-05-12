@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image.png"
+heroImage: "/hero/wp7175_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá corta burocracia e atrai novos investidores'
 pubDate: 2025-10-01 16:18:28

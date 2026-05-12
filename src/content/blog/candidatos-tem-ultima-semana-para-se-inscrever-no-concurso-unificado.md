@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/destaque_home_.webp"
+heroImage: "/hero/wp2977_destaque_home_.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Candidatos têm última semana para se inscrever no concurso unificado'
 pubDate: 2024-02-06 05:12:00

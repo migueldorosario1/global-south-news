@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-33.png"
+heroImage: "/hero/wp7296_image-33.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'A hora e a vez do Ministério de Segurança Pública!'
 pubDate: 2025-10-30 09:01:00

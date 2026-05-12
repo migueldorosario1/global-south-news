@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp1769_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Grupo do PT, DS apoia as pré-candidaturas de Dani Balbi (PCdoB) e Tarcísio (PSOL) para prefeitura do Rio'
 pubDate: 2023-11-02 10:59:42

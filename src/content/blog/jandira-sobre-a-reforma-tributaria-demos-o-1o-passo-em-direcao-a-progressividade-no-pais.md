@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-27.png"
+heroImage: "/hero/wp715_image-27.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jandira sobre a reforma tributária demos o 1º passo em direção à progressividade no país'
 pubDate: 2023-07-09 10:01:40

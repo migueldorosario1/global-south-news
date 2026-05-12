@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-34.png"
+heroImage: "/hero/wp7442_image-34.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sistema Guandu para na terça e Rio deve poupar água'
 pubDate: 2025-11-24 11:32:48

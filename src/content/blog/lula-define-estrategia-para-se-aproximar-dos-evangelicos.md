@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-26.jpg"
+heroImage: "/hero/wp3901_imagem-26.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula define estratégia para se aproximar dos evangélicos'
 pubDate: 2024-03-21 09:18:45

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-23.png"
+heroImage: "/hero/wp7704_image-23.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Águas do Rio é cobrada por falta de água potável no Jardim Gramacho, e moradores recorrem a poços'
 pubDate: 2026-02-25 23:46:08

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-2.png"
+heroImage: "/hero/wp1284_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Óperas são destaque do Theatro Municipal do Rio em setembro'
 pubDate: 2023-09-04 14:52:03

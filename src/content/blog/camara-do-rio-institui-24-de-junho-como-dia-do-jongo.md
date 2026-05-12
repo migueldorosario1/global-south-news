@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-15.png"
+heroImage: "/hero/wp1330_image-15.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Câmara do Rio institui 24 de junho como Dia do Jongo'
 pubDate: 2023-09-11 09:37:44

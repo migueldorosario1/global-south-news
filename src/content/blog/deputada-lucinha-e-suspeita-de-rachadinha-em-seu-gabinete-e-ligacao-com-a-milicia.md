@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-17-scaled.webp"
+heroImage: "/hero/wp3038_imagem-17-scaled.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputada Lucinha é suspeita de rachadinha em seu gabinete e ligação com a mílicia'
 pubDate: 2024-02-06 08:55:48

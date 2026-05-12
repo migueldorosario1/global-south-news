@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-6.webp"
+heroImage: "/hero/wp4159_imagem-6.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Musk quer incluir a Casa Branca na sua guerra contra o Brasil'
 pubDate: 2024-04-11 09:44:09

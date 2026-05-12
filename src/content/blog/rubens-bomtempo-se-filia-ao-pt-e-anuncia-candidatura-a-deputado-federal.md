@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-6.png"
+heroImage: "/hero/wp7654_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rubens Bomtempo se filia ao PT e anuncia candidatura a deputado federal'
 pubDate: 2026-02-06 13:32:41

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.avif"
+heroImage: "/hero/wp4823_imagem-2.avif"
 description: "Matéria arquivada do Rio Carta"
 title: 'Confira a previsão do tempo para os próximos dias no Rio'
 pubDate: 2024-08-14 14:28:13

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-1-e1710294100450.png"
+heroImage: "/hero/wp3740_image-1-e1710294100450.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Miguel do Rosário lança livro sobre Lula no Rio na próxima sexta-feira (15/03)'
 pubDate: 2024-03-12 22:41:48

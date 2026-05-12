@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/image-49.png"
+heroImage: "/hero/wp806_image-49.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vasco anuncia contratação do técnico Ramón Díaz'
 pubDate: 2023-07-15 12:39:04

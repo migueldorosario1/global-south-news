@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/flavio-dino-na-sabatina-no-ccj-13122023131055115.jpeg"
+heroImage: "/hero/wp2154_flavio-dino-na-sabatina-no-ccj-13122023131055115.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Senado aprova indicação de Flávio Dino para o STF e Paulo Gonet para a PGR'
 pubDate: 2023-12-14 06:30:00

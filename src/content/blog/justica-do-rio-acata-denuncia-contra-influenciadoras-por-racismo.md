@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.jpg"
+heroImage: "/hero/wp2841_imagem-2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça do Rio acata denúncia contra influenciadoras por racismo'
 pubDate: 2024-02-01 09:35:41

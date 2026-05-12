@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/domingos-brazao.jpg"
+heroImage: "/hero/wp2528_domingos-brazao.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ronnie Lessa, assassino de Marielle, acusa Domingos Brazão de mandante da morte da vereadora'
 pubDate: 2024-01-23 16:28:32

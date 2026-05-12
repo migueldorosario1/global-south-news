@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-3.jpeg"
+heroImage: "/hero/wp5038_imagem-3.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula anuncia investimento milionário no Porto do Rio'
 pubDate: 2024-09-03 13:34:26

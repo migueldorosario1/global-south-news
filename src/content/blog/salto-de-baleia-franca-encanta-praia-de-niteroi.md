@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/Baleia-Jubarte-em-sua-passagem-pelas-aguas-do-RJ.webp"
+heroImage: "/hero/wp954_Baleia-Jubarte-em-sua-passagem-pelas-aguas-do-RJ.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Salto de Baleia-Franca Encanta Praia de Niterói'
 pubDate: 2023-07-28 20:21:35

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/imagem-2.webp"
+heroImage: "/hero/wp4740_imagem-2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Nova pesquisa aponta empate entre Boulos e Nunes em SP'
 pubDate: 2024-07-02 07:45:18
