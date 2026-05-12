@@ -7,29 +7,28 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION } from '../../consts';
 
-const staticNavTags = [
-	'rio-de-janeiro',
-	'niteroi',
-	'sao-goncalo',
-	'baixada',
-	'cabo-frio',
-	'buzios',
-	'arraial-do-cabo',
-	'campos',
-	'macae',
-	'volta-redonda',
-	'resende',
-	'petropolis',
-	'teresopolis',
-	'nova-friburgo',
-	'angra-dos-reis',
-	'paraty',
-	'nacional',
-	'geopolitica',
-	'eleicoes-2026',
-];
-
 export async function getStaticPaths() {
+	const staticNavTags = [
+		'rio-de-janeiro',
+		'niteroi',
+		'sao-goncalo',
+		'baixada',
+		'cabo-frio',
+		'buzios',
+		'arraial-do-cabo',
+		'campos',
+		'macae',
+		'volta-redonda',
+		'resende',
+		'petropolis',
+		'teresopolis',
+		'nova-friburgo',
+		'angra-dos-reis',
+		'paraty',
+		'nacional',
+		'geopolitica',
+		'eleicoes-2026',
+	];
 	const allPosts = await getCollection('blog');
 	const uniqueTags = [...new Set([...allPosts.map((post) => post.data.tags || []).flat(), ...staticNavTags])];
 	
