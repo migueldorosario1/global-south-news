@@ -6,28 +6,16 @@ import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION } from '../../consts';
+import { allRjTagSlugs, rioZones, rjRegions, topicTags } from '../../data/rjTaxonomy';
 
 export async function getStaticPaths() {
 	const staticNavTags = [
-		'rio-de-janeiro',
-		'niteroi',
-		'sao-goncalo',
 		'baixada',
-		'cabo-frio',
 		'buzios',
-		'arraial-do-cabo',
 		'campos',
-		'macae',
-		'volta-redonda',
-		'resende',
-		'petropolis',
-		'teresopolis',
-		'nova-friburgo',
-		'angra-dos-reis',
-		'paraty',
 		'nacional',
 		'geopolitica',
-		'eleicoes-2026',
+		...allRjTagSlugs,
 	];
 	const allPosts = await getCollection('blog');
 	const uniqueTags = [...new Set([...allPosts.map((post) => post.data.tags || []).flat(), ...staticNavTags])];
@@ -48,6 +36,18 @@ const { posts } = Astro.props;
 const sortedPosts = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 // Fancy mapping
+const taxonomyMeta = new Map([
+	...rioZones.flatMap((group) => [
+		[group.slug, { title: 'Rio Capital', subtitle: group.label, icon: '📍', color: 'linear-gradient(135deg, #0052D4, #4364F7)' }],
+		...group.items.map((item) => [item.slug, { title: group.label, subtitle: item.label, icon: '📍', color: 'linear-gradient(135deg, #0052D4, #4364F7)' }]),
+	]),
+	...rjRegions.flatMap((group) => [
+		[group.slug, { title: 'Estado do Rio', subtitle: group.label, icon: '📍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' }],
+		...group.items.map((item) => [item.slug, { title: group.label, subtitle: item.label, icon: '📍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' }]),
+	]),
+	...topicTags.map((item) => [item.slug, { title: 'Rio Carta', subtitle: item.label, icon: '🗞️', color: 'linear-gradient(135deg, #141e30, #d32f2f)' }]),
+]);
+
 const regionMap = {
 	'rio-de-janeiro': { title: 'Região Metropolitana', subtitle: 'Rio de Janeiro', icon: '🏙️', color: 'linear-gradient(135deg, #0052D4, #4364F7)' },
 	'niteroi': { title: 'Região Metropolitana', subtitle: 'Niterói', icon: '🌉', color: 'linear-gradient(135deg, #0052D4, #4364F7)' },
@@ -70,7 +70,7 @@ const regionMap = {
 	'eleicoes-2026': { title: 'Política', subtitle: 'Eleições 2026', icon: '🗳️', color: 'linear-gradient(135deg, #141e30, #d32f2f)' },
 };
 
-const meta = regionMap[tag] || { title: 'Região do Estado', subtitle: tag.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '), icon: '📍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' };
+const meta = taxonomyMeta.get(tag) || regionMap[tag] || { title: 'Região do Estado', subtitle: tag.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '), icon: '📍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' };
 ---
 
 <!doctype html>

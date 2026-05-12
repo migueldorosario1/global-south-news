@@ -3,6 +3,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 import logoImg from '../assets/logo-transparent.png';
 import { Image } from 'astro:assets';
+import { rioZones, rjRegions } from '../data/rjTaxonomy';
 ---
 
 <header class="premium-header">
@@ -37,60 +38,40 @@ import { Image } from 'astro:assets';
 			<div class="nav-item dropdown">
 				<button class="dropbtn">Rio <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
 				<div class="dropdown-content">
-					<!-- Região Metropolitana -->
 					<div class="dropdown-submenu">
-						<span class="submenu-title">Região Metropolitana <span>▶</span></span>
-						<div class="submenu-content">
-							<a href="/tags/rio-de-janeiro">Rio de Janeiro</a>
-							<a href="/tags/niteroi">Niterói</a>
-							<a href="/tags/sao-goncalo">São Gonçalo</a>
-							<a href="/tags/baixada">Baixada Fluminense</a>
+						<span class="submenu-title">Rio Capital: zonas e bairros <span>▶</span></span>
+						<div class="submenu-content submenu-content-wide">
+							{rioZones.map((zone) => (
+								<div class="submenu-section">
+									<a href={`/tags/${zone.slug}`} class="submenu-section-title">{zone.label}</a>
+									{zone.items.map((item) => <a href={`/tags/${item.slug}`}>{item.label}</a>)}
+								</div>
+							))}
 						</div>
 					</div>
-					<!-- Região dos Lagos -->
 					<div class="dropdown-submenu">
-						<span class="submenu-title">Região dos Lagos <span>▶</span></span>
-						<div class="submenu-content">
-							<a href="/tags/cabo-frio">Cabo Frio</a>
-							<a href="/tags/buzios">Búzios</a>
-							<a href="/tags/arraial-do-cabo">Arraial do Cabo</a>
+						<span class="submenu-title">Cidades por região <span>▶</span></span>
+						<div class="submenu-content submenu-content-wide">
+							{rjRegions.map((region) => (
+								<div class="submenu-section">
+									<a href={`/tags/${region.slug}`} class="submenu-section-title">{region.label}</a>
+									{region.items.map((item) => <a href={`/tags/${item.slug}`}>{item.label}</a>)}
+								</div>
+							))}
 						</div>
 					</div>
-					<!-- Norte Fluminense -->
 					<div class="dropdown-submenu">
-						<span class="submenu-title">Norte Fluminense <span>▶</span></span>
+						<span class="submenu-title">Temas RJ <span>▶</span></span>
 						<div class="submenu-content">
-							<a href="/tags/campos">Campos dos Goytacazes</a>
-							<a href="/tags/macae">Macaé</a>
+							<a href="/tags/politica-rj">Política RJ</a>
+							<a href="/tags/seguranca-publica">Segurança Pública</a>
+							<a href="/tags/transporte-mobilidade">Transporte e Mobilidade</a>
+							<a href="/tags/saude">Saúde</a>
+							<a href="/tags/educacao">Educação</a>
+							<a href="/tags/cultura-carnaval">Cultura e Carnaval</a>
 						</div>
 					</div>
-					<!-- Sul Fluminense -->
-					<div class="dropdown-submenu">
-						<span class="submenu-title">Sul Fluminense <span>▶</span></span>
-						<div class="submenu-content">
-							<a href="/tags/volta-redonda">Volta Redonda</a>
-							<a href="/tags/resende">Resende</a>
-						</div>
-					</div>
-					<!-- Serrana -->
-					<div class="dropdown-submenu">
-						<span class="submenu-title">Região Serrana <span>▶</span></span>
-						<div class="submenu-content">
-							<a href="/tags/petropolis">Petrópolis</a>
-							<a href="/tags/teresopolis">Teresópolis</a>
-							<a href="/tags/nova-friburgo">Nova Friburgo</a>
-						</div>
-					</div>
-					<!-- Costa Verde -->
-					<div class="dropdown-submenu">
-						<span class="submenu-title">Costa Verde <span>▶</span></span>
-						<div class="submenu-content">
-							<a href="/tags/angra-dos-reis">Angra dos Reis</a>
-							<a href="/tags/paraty">Paraty</a>
-						</div>
-					</div>
-					<!-- Mapa Rio -->
-					<a href="#" class="submenu-title" style="text-decoration: none; border-top: 1px solid #eee; margin-top: 0.5rem; border-radius: 0 0 8px 8px; display: flex;">Mapa Rio <span class="badge">em construção</span></a>
+					<a href="/tags/rio-de-janeiro" class="submenu-title" style="text-decoration: none; border-top: 1px solid #eee; margin-top: 0.5rem; border-radius: 0 0 8px 8px; display: flex;">Mapa Rio <span class="badge">taxonomia ativa</span></a>
 				</div>
 			</div>
 			
@@ -321,11 +302,31 @@ import { Image } from 'astro:assets';
 		margin-left: 0.5rem;
 		background: white;
 		min-width: 200px;
+		max-height: 70vh;
+		overflow-y: auto;
 		border-radius: 12px;
 		box-shadow: 0 10px 40px rgba(0,0,0,0.1);
 		padding: 0.5rem;
 		transform: translateX(10px);
 		transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+	}
+
+	.submenu-content-wide {
+		min-width: min(720px, 70vw);
+		display: grid;
+		grid-template-columns: repeat(2, minmax(220px, 1fr));
+		gap: 0.35rem 1rem;
+	}
+
+	.submenu-section {
+		padding: 0.35rem;
+		border-bottom: 1px solid #f0f2f5;
+	}
+
+	.submenu-section-title {
+		font-weight: 800;
+		color: #111 !important;
+		background: #f7f9fc;
 	}
 
 	.dropdown-submenu:hover .submenu-content {
@@ -384,6 +385,10 @@ import { Image } from 'astro:assets';
 			margin-left: 1rem;
 			border-left: 2px solid #eee;
 			border-radius: 0;
+		}
+		.submenu-content-wide {
+			display: block;
+			min-width: 100%;
 		}
 	}
 </style>
