@@ -480,6 +480,8 @@ if (auditCurrentOnly) {
   }
 }
 
+const publishSet = auditCurrentOnly ? visible : [...new Set([...visible, ...nextBatch])];
+
 execFileSync('npm', ['run', 'build'], { cwd: repo, stdio: 'inherit' });
 
 if (!auditCurrentOnly) {
@@ -492,10 +494,9 @@ if (!auditCurrentOnly) {
   fs.writeFileSync(statePath, `${JSON.stringify(state, null, 2)}\n`);
 }
 
-writeHourlyReport({ published: auditCurrentOnly ? visible : nextBatch });
+writeHourlyReport({ published: publishSet });
 
 if (commitAndPush) {
-  const publishSet = auditCurrentOnly ? visible : nextBatch;
   const heroImages = publishSet
     .map((file) => {
       const text = fs.readFileSync(path.join(blogDir, file), 'utf8');
@@ -540,7 +541,7 @@ if (commitAndPush) {
   }
 }
 
-console.log(`${auditCurrentOnly ? 'Auditado neste ciclo' : 'Publicado neste ciclo'}: ${(auditCurrentOnly ? visible : nextBatch).join(', ')}`);
+console.log(`${auditCurrentOnly ? 'Auditado neste ciclo' : 'Publicado neste ciclo'}: ${publishSet.join(', ')}`);
 for (const result of results.filter((item) => item.warnings.length)) {
   console.log(`Aviso ${result.file}: ${result.warnings.join('; ')}`);
 }
