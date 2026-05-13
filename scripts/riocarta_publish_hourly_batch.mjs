@@ -392,7 +392,8 @@ for (const file of queue) {
   else hidden.push(file);
 }
 
-const batchSize = auditCurrentOnly ? 0 : forcedBatchSize || state.nextBatchSize || 3;
+const requestedBatchSize = forcedBatchSize || state.nextBatchSize || 3;
+const batchSize = auditCurrentOnly ? 0 : Math.min(requestedBatchSize, 3);
 let nextBatch = [];
 if (!auditCurrentOnly && hidden.length === 0) {
   console.log('Fila encerrada: nenhuma materia pendente.');
@@ -453,7 +454,7 @@ execFileSync('npm', ['run', 'build'], { cwd: repo, stdio: 'inherit' });
 if (!auditCurrentOnly) {
   state = {
     round: (state.round || 1) + 1,
-    nextBatchSize: Math.min((state.nextBatchSize || 3) * 2, 12),
+    nextBatchSize: 3,
     lastBatchSize: nextBatch.length,
     lastRun: new Date().toISOString(),
   };
