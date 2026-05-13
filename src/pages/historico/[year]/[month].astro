@@ -7,7 +7,7 @@ import FormattedDate from '../../../components/FormattedDate.astro';
 import { SITE_TITLE } from '../../../consts';
 
 export async function getStaticPaths() {
-	const posts = await getCollection('blog');
+	const posts = (await getCollection('blog')).filter((post) => !post.data.draft);
 	const monthsSet = new Set();
 	
 	posts.forEach(post => {
@@ -27,7 +27,7 @@ export async function getStaticPaths() {
 
 const { year, month } = Astro.params;
 
-const posts = (await getCollection('blog')).filter(post => {
+const posts = (await getCollection('blog')).filter((post) => !post.data.draft).filter(post => {
 	const date = post.data.pubDate;
 	return date.getFullYear().toString() === year && (date.getMonth() + 1).toString().padStart(2, '0') === month;
 }).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());

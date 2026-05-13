@@ -11,6 +11,7 @@ const blog = defineCollection({
 		pubDate: z.coerce.date(),
 		updatedDate: z.coerce.date().optional(),
 		heroImage: z.string().optional(),
+		draft: z.boolean().optional().default(false),
 		wp_id: z.number().optional(),
 		tags: z.array(z.string()).optional(),
 	}),

@@ -8,6 +8,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "riocarta:publish-hourly": "node scripts/riocarta_publish_hourly_batch.mjs --commit",
     "preview": "astro preview",
     "astro": "astro"
   },

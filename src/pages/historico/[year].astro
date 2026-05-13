@@ -6,7 +6,7 @@ import Footer from '../../components/Footer.astro';
 import { SITE_TITLE } from '../../consts';
 
 export async function getStaticPaths() {
-	const posts = await getCollection('blog');
+	const posts = (await getCollection('blog')).filter((post) => !post.data.draft);
 	const years = [...new Set(posts.map((post) => post.data.pubDate.getFullYear().toString()))];
 
 	return years.map((year) => ({
@@ -16,6 +16,7 @@ export async function getStaticPaths() {
 
 const { year } = Astro.params;
 const posts = (await getCollection('blog'))
+	.filter((post) => !post.data.draft)
 	.filter((post) => post.data.pubDate.getFullYear().toString() === year)
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
