@@ -54,4 +54,4 @@ A corrida ainda está em estágio inicial e segue aberta. Mas uma percepção j�
 
 Imagem ilustrativa gerada por IA/Clique Diário.
 
-*Fonte: [Cliquediario](https://cliquediario.com.br/politica/slug-interior-rio-disputa-governo-2026-paes-ruas-costa-do-sol).*
+*Fonte: [Clique Diário](https://cliquediario.com.br/politica/slug-interior-rio-disputa-governo-2026-paes-ruas-costa-do-sol).*

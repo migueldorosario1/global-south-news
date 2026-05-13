@@ -428,7 +428,28 @@ if (!auditCurrentOnly && hidden.length === 0) {
 
 const results = [];
 for (const file of visible) {
-  results.push(await auditAndFix(file, true));
+  try {
+    results.push(await auditAndFix(file, true));
+  } catch (error) {
+    // Fix Claude 2026-05-13 16:50 BRT (autorização Miguel "recomendo a, vamos corrigir logo"):
+    // Matéria já-publicada perdeu consenso na re-auditoria. Antes: throw fatal parava
+    // TODO o batch. Agora: rebaixa pra draft (esconde do público), loga e CONTINUA.
+    const reason = String(error.message || error);
+    fs.appendFileSync(logPath, `${JSON.stringify({
+      time: new Date().toISOString(),
+      file,
+      published: false,
+      rebaixada_por_reaudit: true,
+      reason: `re-auditoria de visible perdeu consenso: ${reason.slice(0, 320)}`,
+    })}\n`);
+    try {
+      // publish=false faz setDraft(true) → matéria some do público até revisão humana.
+      results.push(await auditAndFix(file, false));
+      console.log(`Rebaixada por re-auditoria: ${file} — ${reason.slice(0, 220)}`);
+    } catch (innerError) {
+      console.log(`Erro ao rebaixar ${file}: ${String(innerError.message || innerError).slice(0, 220)}`);
+    }
+  }
 }
 
 if (auditCurrentOnly) {

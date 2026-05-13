@@ -26,4 +26,4 @@ Os cerca de oito funcionários presentes devem ser liberados por não terem part
 
 Os investigados responderão por crimes contra a saúde pública e contra as relações de consumo. A partir desta quarta-feira, a polícia realiza diligências para localizar e apreender os produtos que já chegaram a farmácias e outros estabelecimentos da cidade.
 
-*Fonte: [Agência Internacional](https://www.tupi.fm/rio/fabrica-de-suplementos-falsificados-usava-amido-de-milho-para-enganar-consumidores-no-rio/).*
+*Fonte: [Super Rádio Tupi](https://www.tupi.fm/rio/fabrica-de-suplementos-falsificados-usava-amido-de-milho-para-enganar-consumidores-no-rio/).*

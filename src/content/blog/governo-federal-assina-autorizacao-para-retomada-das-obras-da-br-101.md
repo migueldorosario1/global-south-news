@@ -2,7 +2,7 @@
 title: "Governo Federal assina autorização para retomada das obras da BR-101"
 description: "Em reunião realizada nessa segunda-feira, 11, com o governador interino do Rio, Ricardo Couto, o ministro dos Transportes, George Santoro, assinou a autorização para a retomada das"
 pubDate: "2026-05-13T02:32:36Z"
-draft: false
+draft: true
 tags: ["rio-de-janeiro", "br-101", "campos-dos-goytacazes", "rio-das-ostras", "macae", "regiao-dos-lagos", "arteris-fluminense", "obras", "infraestrutura", "norte-noroeste-fluminense", "macae-norte-fluminense", "regiao-metropolitana", "niteroi", "campos"]
 heroImage: "/hero/governo-federal-assina-autorizacao-para-retomada-das-obras-da-br-101.jpg"
 ---
@@ -34,4 +34,4 @@ Ao todo, serão 13 municípios beneficiados pelas obras, que preveem 49,55 km de
 
 Estamos muito felizes com essa liberação para começar essas atividades”, disse o diretor superintendente da Arteris Fluminense, Helvécio Tamm.
 
-*Fonte: [Cliquediario](https://cliquediario.com.br/infraestrutura/governo-federal-assina-autorizacao-para-retomada-das-obras-da-br-101).*
+*Fonte: [Clique Diário](https://cliquediario.com.br/infraestrutura/governo-federal-assina-autorizacao-para-retomada-das-obras-da-br-101).*

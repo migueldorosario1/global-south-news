@@ -48,4 +48,4 @@ A Comissão de Transportes da Alerj informou que denúncias e reclamações pode
 
 282. 7060, do Alô Alerj.
 
-*Fonte: [Agência Internacional](https://agendadopoder.com.br/comissao-da-alerj-acionara-mp-para-investigar-contrato-bilionario-de-radares-do-der-rj/).*
+*Fonte: [Agenda do Poder](https://agendadopoder.com.br/comissao-da-alerj-acionara-mp-para-investigar-contrato-bilionario-de-radares-do-der-rj/).*

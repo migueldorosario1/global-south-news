@@ -26,4 +26,4 @@ Além da pressão política, a Alerj garantiu o acolhimento psicossocial da fam�
 
 “É preciso saber o que será feito para que casos como esse não se repitam”, concluiu Dani Monteiro, reforçando que o compromisso da Comissão é com a responsabilização integral dos envolvidos.
 
-*Fonte: [Agência Internacional](https://diariocarioca.com/2026/05/12/rio-de-janeiro/caso-thamires-alerj-comissao-direitos-humanos-policial-civil/).*
+*Fonte: [Diariocarioca](https://diariocarioca.com/2026/05/12/rio-de-janeiro/caso-thamires-alerj-comissao-direitos-humanos-policial-civil/).*
