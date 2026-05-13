@@ -7,6 +7,8 @@ const repo = process.cwd();
 const queuePath = path.join(repo, 'tools', 'riocarta_hourly_queue.json');
 const statePath = path.join(repo, 'tools', 'riocarta_hourly_state.json');
 const logPath = path.join(repo, 'logs', 'rio_carta_publication_audit.jsonl');
+const reportPath = path.join(repo, 'logs', 'rio_carta_relatorio_bloqueios.md');
+const brainPath = path.join(repo, '..', 'CEREBRO_INDEX_RIOCARTA.md');
 const blogDir = path.join(repo, 'src', 'content', 'blog');
 const publicDir = path.join(repo, 'public');
 
@@ -56,12 +58,120 @@ function cleanBody(body) {
     .trimEnd() + '\n';
 }
 
+function brainNotes() {
+  const notes = [];
+  const brain = fs.existsSync(brainPath) ? fs.readFileSync(brainPath, 'utf8') : '';
+  if (brain.includes('Media DB') || brain.includes('mídia')) {
+    notes.push('imagens devem ficar dentro do silo Rio Carta antes do deploy');
+  }
+  if (brain.includes('Markdown') || brain.includes('Astro')) {
+    notes.push('publicação correta é Markdown/Astro/Vercel, não WordPress');
+  }
+  notes.push('falha editorial crítica deve segurar a publicação, corrigir e tentar novamente');
+  return notes;
+}
+
+function summarizeReason(reason) {
+  if (!reason) return 'sem motivo registrado';
+  return reason
+    .replace(/auditoria ampliada sem mais de 3 votos [^:]+:\s*/, '')
+    .replace(/\s+/g, ' ')
+    .slice(0, 420);
+}
+
+function readAuditEvents() {
+  if (!fs.existsSync(logPath)) return [];
+  return fs.readFileSync(logPath, 'utf8')
+    .split(/\r?\n/)
+    .filter(Boolean)
+    .map((line) => {
+      try { return JSON.parse(line); } catch { return null; }
+    })
+    .filter(Boolean);
+}
+
+function writeHourlyReport(extra = {}) {
+  const events = readAuditEvents();
+  const blocked = events.filter((event) => event.blocked);
+  const latest = new Map();
+  for (const event of blocked) latest.set(event.file, event);
+  const published = events.filter((event) => event.published);
+  const notes = brainNotes();
+  const lines = [
+    '# Rio Carta - Relatorio horario de bloqueios',
+    '',
+    `Atualizado em: ${new Date().toISOString()}`,
+    `Publicadas/auditadas com sucesso no historico: ${published.length}`,
+    `Materias com bloqueio acumulado: ${latest.size}`,
+    '',
+    '## Solucoes do cerebro aplicadas',
+    ...notes.map((note) => `- ${note}`),
+    '',
+    '## Bloqueios acumulados',
+  ];
+  if (latest.size === 0) {
+    lines.push('- Nenhum bloqueio acumulado ate agora.');
+  } else {
+    for (const event of latest.values()) {
+      lines.push(`- ${event.file}: ${summarizeReason(event.reason)}`);
+    }
+  }
+  if (extra.published?.length) {
+    lines.push('', '## Publicadas nesta rodada', ...extra.published.map((file) => `- ${file}`));
+  }
+  if (extra.retained?.length) {
+    lines.push('', '## Retidas nesta rodada', ...extra.retained.map((item) => `- ${item.file}: ${summarizeReason(item.reason)}`));
+  }
+  fs.writeFileSync(reportPath, `${lines.join('\n')}\n`);
+}
+
+async function applyBrainFixes(file, context = {}) {
+  const fullPath = path.join(blogDir, file);
+  let text = fs.readFileSync(fullPath, 'utf8');
+  const { frontmatter, body } = splitFrontmatter(text);
+  const heroImage = getField(frontmatter, 'heroImage');
+  const heroPath = path.join(publicDir, heroImage.replace(/^\//, ''));
+  const applied = [];
+
+  const cleanedBody = cleanBody(body)
+    .replace(/\ncontinua após as imagens\n/gi, '\n')
+    .replace(/\nVeja o vídeo abaixo[^\n]*\n/gi, '\n');
+  if (cleanedBody !== body) {
+    text = `---\n${frontmatter}\n---\n${cleanedBody}`;
+    fs.writeFileSync(fullPath, text);
+    applied.push('limpeza de marcas internas/fonte conforme padrao Markdown Rio Carta');
+  }
+
+  if (fs.existsSync(heroPath)) {
+    const meta = await sharp(heroPath).metadata();
+    if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
+      await sharp(heroPath)
+        .resize({ width: Math.max(1200, meta.width || 1200), withoutEnlargement: false })
+        .toFile(`${heroPath}.tmp`);
+      fs.renameSync(`${heroPath}.tmp`, heroPath);
+      applied.push('imagem destacada ampliada dentro do silo Rio Carta');
+    }
+  }
+
+  if (context.reason) {
+    fs.appendFileSync(logPath, `${JSON.stringify({
+      time: new Date().toISOString(),
+      file,
+      brainFixAttempt: true,
+      applied,
+      previousReason: summarizeReason(context.reason),
+    })}\n`);
+  }
+  return applied;
+}
+
 async function askModelAuditor(auditor, article) {
   if (!auditor.key) return { auditor: auditor.name, ok: null, reason: 'chave ausente' };
   const prompt = [
     'Audite esta materia antes de publicacao no Rio Carta.',
     'Responda somente JSON: {"ok":true|false,"reason":"curto","fix":"curto"}.',
     'Critérios: fato plausivel, titulo honesto, categoria territorial coerente, imagem destacada aceitavel, sem aviso interno de rascunho.',
+    'Data atual para auditoria: 2026-05-13 BRT. Datas de 2025 ja sao passado.',
     `TITULO: ${article.title}`,
     `TAGS: ${article.tags}`,
     `IMAGEM: ${article.heroImage} ${article.imageSize}`,
@@ -210,16 +320,59 @@ for (const file of queue) {
 }
 
 const batchSize = auditCurrentOnly ? 0 : forcedBatchSize || state.nextBatchSize || 3;
-const nextBatch = hidden.slice(0, batchSize);
-if (!auditCurrentOnly && nextBatch.length === 0) {
+let nextBatch = [];
+if (!auditCurrentOnly && hidden.length === 0) {
   console.log('Fila encerrada: nenhuma materia pendente.');
   process.exit(0);
 }
 
 const results = [];
-for (const file of queue) {
-  const shouldPublish = auditCurrentOnly ? visible.includes(file) : nextBatch.includes(file) || visible.includes(file);
-  results.push(await auditAndFix(file, shouldPublish));
+for (const file of visible) {
+  results.push(await auditAndFix(file, true));
+}
+
+if (auditCurrentOnly) {
+  for (const file of hidden) {
+    results.push(await auditAndFix(file, false));
+  }
+} else {
+  for (const file of hidden) {
+    if (nextBatch.length >= batchSize) {
+      results.push(await auditAndFix(file, false));
+      continue;
+    }
+    try {
+      await applyBrainFixes(file);
+      results.push(await auditAndFix(file, true));
+      nextBatch.push(file);
+    } catch (error) {
+      const firstReason = String(error.message || error);
+      const applied = await applyBrainFixes(file, { reason: firstReason });
+      if (applied.length) {
+        try {
+          results.push(await auditAndFix(file, true));
+          nextBatch.push(file);
+          continue;
+        } catch (retryError) {
+          error = retryError;
+        }
+      }
+      fs.appendFileSync(logPath, `${JSON.stringify({
+        time: new Date().toISOString(),
+        file,
+        published: false,
+        blocked: true,
+        reason: String(error.message || error),
+      })}\n`);
+      try {
+        results.push(await auditAndFix(file, false));
+      } catch {}
+      console.log(`Retida pela auditoria: ${file} — ${String(error.message || error).slice(0, 220)}`);
+    }
+  }
+  if (nextBatch.length === 0) {
+    console.log('Nenhuma materia nova passou na auditoria deste ciclo.');
+  }
 }
 
 execFileSync('npm', ['run', 'build'], { cwd: repo, stdio: 'inherit' });
@@ -233,6 +386,8 @@ if (!auditCurrentOnly) {
   };
   fs.writeFileSync(statePath, `${JSON.stringify(state, null, 2)}\n`);
 }
+
+writeHourlyReport({ published: auditCurrentOnly ? visible : nextBatch });
 
 if (commitAndPush) {
   const publishSet = auditCurrentOnly ? visible : nextBatch;
@@ -250,6 +405,7 @@ if (commitAndPush) {
     'scripts/riocarta_hourly_cron.sh',
     'scripts/riocarta_publish_hourly_batch.mjs',
     'logs/rio_carta_publication_audit.jsonl',
+    'logs/rio_carta_relatorio_bloqueios.md',
     'src/content.config.ts',
     'src/components/Interlinks.astro',
     'src/pages/blog/[...slug].astro',
