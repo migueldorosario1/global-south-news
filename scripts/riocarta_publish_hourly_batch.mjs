@@ -21,7 +21,7 @@ const auditCurrentOnly = args.has('--audit-current');
 const queue = JSON.parse(fs.readFileSync(queuePath, 'utf8'));
 let state = fs.existsSync(statePath)
   ? JSON.parse(fs.readFileSync(statePath, 'utf8'))
-  : { nextBatchSize: 10, round: 1 };
+  : { nextBatchSize: 2, round: 1 };  // Miguel 13/05 17:18 BRT: cadência rebaixada 10→2/h
 
 if (fs.existsSync(envPath)) {
   for (const line of fs.readFileSync(envPath, 'utf8').split(/\r?\n/)) {
@@ -514,7 +514,7 @@ execFileSync('npm', ['run', 'build'], { cwd: repo, stdio: 'inherit' });
 if (!auditCurrentOnly) {
   state = {
     round: (state.round || 1) + 1,
-    nextBatchSize: 10,
+    nextBatchSize: 2,
     lastBatchSize: nextBatch.length,
     lastRun: new Date().toISOString(),
   };
