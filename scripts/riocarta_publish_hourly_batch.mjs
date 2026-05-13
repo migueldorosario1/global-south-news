@@ -51,11 +51,84 @@ function setDraft(frontmatter, draft) {
   return `${frontmatter}\ndraft: ${draft ? 'true' : 'false'}`;
 }
 
-function cleanBody(body) {
+function sourceNameFromUrl(url) {
+  try {
+    const hostname = new URL(url).hostname.replace(/^www\./, '');
+    const names = {
+      'diariodorio.com': 'Diário do Rio',
+      'portalfluminense.com.br': 'Portal Fluminense',
+      'sfnoticias.com.br': 'SF Notícias',
+      'agenciabrasil.ebc.com.br': 'Agência Brasil',
+      'g1.globo.com': 'g1',
+      'extra.globo.com': 'Extra',
+      'oglobo.globo.com': 'O Globo',
+      'ofluminense.com.br': 'O Fluminense',
+      'conexaofluminense.com.br': 'Conexao Fluminense',
+      'brasildefatorj.com.br': 'Brasil de Fato RJ',
+    };
+    return names[hostname] || hostname.split('.')[0].replace(/-/g, ' ').replace(/\b\w/g, (char) => char.toUpperCase());
+  } catch {
+    return 'fonte original';
+  }
+}
+
+function cleanSourceName(name, url) {
+  const cleaned = String(name || '')
+    .replace(/^publica[cç][aã]o original$/i, '')
+    .replace(/^fonte original$/i, '')
+    .trim();
+  return cleaned || sourceNameFromUrl(url);
+}
+
+function normalizeSourceCredits(body) {
   return body
+    .replace(/\*Fonte para revisão: \[([^\]]+)\]\(([^)]+)\)\.\*/g, (_match, name, url) => `*Fonte: [${cleanSourceName(name, url)}](${url}).*`)
+    .replace(/\*Fonte: \[(?:publicação original|fonte original)\]\(([^)]+)\)\.\*/gi, (_match, url) => `*Fonte: [${sourceNameFromUrl(url)}](${url}).*`);
+}
+
+function splitSentences(paragraph) {
+  const sentences = paragraph
+    .replace(/\s+/g, ' ')
+    .trim()
+    .match(/[^.!?]+(?:[.!?]+["”’']?|$)/g);
+  return sentences?.map((item) => item.trim()).filter(Boolean) || [paragraph.trim()];
+}
+
+function shortParagraphs(body) {
+  return body
+    .split(/\n{2,}/)
+    .map((block) => {
+      const trimmed = block.trim();
+      if (!trimmed) return '';
+      if (
+        trimmed.startsWith('*Fonte:') ||
+        trimmed.startsWith('#') ||
+        trimmed.startsWith('>') ||
+        trimmed.startsWith('- ') ||
+        trimmed.includes('<') ||
+        trimmed.includes('```')
+      ) {
+        return trimmed;
+      }
+      const lines = trimmed.split(/\n+/).map((line) => line.trim()).filter(Boolean);
+      const paragraphs = [];
+      for (const line of lines) {
+        const sentences = splitSentences(line);
+        for (let index = 0; index < sentences.length; index += 2) {
+          paragraphs.push(sentences.slice(index, index + 2).join(' '));
+        }
+      }
+      return paragraphs.join('\n\n');
+    })
+    .join('\n\n');
+}
+
+function cleanBody(body) {
+  const cleaned = body
     .replace(/^> Rascunho técnico de smoke\. Revisar edição, categoria e imagem antes de publicar\.\n\n/m, '')
-    .replace(/\*Fonte para revisão: \[[^\]]+\]\(([^)]+)\)\.\*/g, '*Fonte: [publicação original]($1).*')
-    .trimEnd() + '\n';
+    .replace(/^Compartilhe:\s*$/gim, '')
+    .trim();
+  return `${shortParagraphs(normalizeSourceCredits(cleaned)).trimEnd()}\n`;
 }
 
 function brainNotes() {
