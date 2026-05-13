@@ -63,6 +63,9 @@ const KNOWN_SOURCE_NAMES = {
   'ofluminense.com.br': 'O Fluminense',
   'conexaofluminense.com.br': 'Conexao Fluminense',
   'brasildefatorj.com.br': 'Brasil de Fato RJ',
+  'tupi.fm': 'Super Rádio Tupi',
+  'agendadopoder.com.br': 'Agenda do Poder',
+  'cliquediario.com.br': 'Clique Diário',
 };
 
 function hostnameFromUrl(url) {
@@ -85,9 +88,12 @@ function sourceNameFromUrl(url) {
 }
 
 function cleanSourceName(name, url) {
+  // Blacklist: nomes placeholder ou proibidos (diretrizes editoriais Rio Carta).
+  // Sempre derivam do URL via sourceNameFromUrl. Fix BUG-20260513-SARMAT §51.
   const cleaned = String(name || '')
     .replace(/^publica[cç][aã]o original$/i, '')
     .replace(/^fonte original$/i, '')
+    .replace(/^ag[êe]ncia internacional$/i, '')
     .trim();
   return cleaned || sourceNameFromUrl(url);
 }
