@@ -43,6 +43,26 @@ const categoryLabels = new Map([
 	['norte-noroeste-fluminense', 'Norte/Noroeste Fluminense'],
 	['noroeste-fluminense', 'Noroeste Fluminense'],
 	['macae-norte-fluminense', 'Macaé e Norte Fluminense'],
+	['niteroi', 'Niterói'],
+	['sao-goncalo', 'São Gonçalo'],
+	['duque-de-caxias', 'Duque de Caxias'],
+	['nova-iguacu', 'Nova Iguaçu'],
+	['sao-joao-de-meriti', 'São João de Meriti'],
+	['mage', 'Magé'],
+	['petropolis', 'Petrópolis'],
+	['teresopolis', 'Teresópolis'],
+	['nova-friburgo', 'Nova Friburgo'],
+	['cabo-frio', 'Cabo Frio'],
+	['armacao-dos-buzios', 'Armação dos Búzios'],
+	['arraial-do-cabo', 'Arraial do Cabo'],
+	['saquarema', 'Saquarema'],
+	['araruama', 'Araruama'],
+	['macae', 'Macaé'],
+	['campos-dos-goytacazes', 'Campos dos Goytacazes'],
+	['volta-redonda', 'Volta Redonda'],
+	['barra-mansa', 'Barra Mansa'],
+	['angra-dos-reis', 'Angra dos Reis'],
+	['paraty', 'Paraty'],
 	['rio-de-janeiro', 'Rio de Janeiro'],
 ]);
 
@@ -76,6 +96,26 @@ const categoryPriority = [
 	'norte-noroeste-fluminense',
 	'noroeste-fluminense',
 	'macae-norte-fluminense',
+	'niteroi',
+	'sao-goncalo',
+	'duque-de-caxias',
+	'nova-iguacu',
+	'sao-joao-de-meriti',
+	'mage',
+	'petropolis',
+	'teresopolis',
+	'nova-friburgo',
+	'cabo-frio',
+	'armacao-dos-buzios',
+	'arraial-do-cabo',
+	'saquarema',
+	'araruama',
+	'macae',
+	'campos-dos-goytacazes',
+	'volta-redonda',
+	'barra-mansa',
+	'angra-dos-reis',
+	'paraty',
 	'rio-de-janeiro',
 ];
 
@@ -158,6 +198,26 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 				background: rgb(var(--gray-light));
 				color: rgb(var(--accent-dark));
 			}
+			.category-footer {
+				display: flex;
+				align-items: center;
+				gap: 0.6rem;
+				margin-top: 2rem;
+				padding-top: 1rem;
+				border-top: 1px solid rgb(var(--gray-light));
+				font-size: 0.9rem;
+				color: rgb(var(--gray-dark));
+			}
+			.category-footer-label {
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 0.04em;
+				font-size: 0.78rem;
+				color: rgb(var(--gray));
+			}
+			.category-footer-link {
+				margin-bottom: 0;
+			}
 			.last-updated-on {
 				font-style: italic;
 			}
@@ -189,6 +249,10 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 						<hr />
 					</div>
 					<slot />
+					<div class="category-footer">
+						<span class="category-footer-label">Categoria:</span>
+						<a class="category category-footer-link" href={`/tags/${categorySlug}/`}>{categoryLabel}</a>
+					</div>
 				</div>
 				<div class="prose" style="padding-top: 0;">
 					<Interlinks />

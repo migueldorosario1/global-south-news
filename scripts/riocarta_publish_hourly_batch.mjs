@@ -51,25 +51,36 @@ function setDraft(frontmatter, draft) {
   return `${frontmatter}\ndraft: ${draft ? 'true' : 'false'}`;
 }
 
-function sourceNameFromUrl(url) {
+const KNOWN_SOURCE_NAMES = {
+  'diariodorio.com': 'Diário do Rio',
+  'portalfluminense.com.br': 'Portal Fluminense',
+  'sfnoticias.com.br': 'SF Notícias',
+  'agenciabrasil.ebc.com.br': 'Agência Brasil',
+  'g1.globo.com': 'g1',
+  'extra.globo.com': 'Extra',
+  'oglobo.globo.com': 'O Globo',
+  'ofluminense.com.br': 'O Fluminense',
+  'conexaofluminense.com.br': 'Conexao Fluminense',
+  'brasildefatorj.com.br': 'Brasil de Fato RJ',
+};
+
+function hostnameFromUrl(url) {
   try {
-    const hostname = new URL(url).hostname.replace(/^www\./, '');
-    const names = {
-      'diariodorio.com': 'Diário do Rio',
-      'portalfluminense.com.br': 'Portal Fluminense',
-      'sfnoticias.com.br': 'SF Notícias',
-      'agenciabrasil.ebc.com.br': 'Agência Brasil',
-      'g1.globo.com': 'g1',
-      'extra.globo.com': 'Extra',
-      'oglobo.globo.com': 'O Globo',
-      'ofluminense.com.br': 'O Fluminense',
-      'conexaofluminense.com.br': 'Conexao Fluminense',
-      'brasildefatorj.com.br': 'Brasil de Fato RJ',
-    };
-    return names[hostname] || hostname.split('.')[0].replace(/-/g, ' ').replace(/\b\w/g, (char) => char.toUpperCase());
+    return new URL(url).hostname.replace(/^www\./, '');
   } catch {
-    return 'fonte original';
+    return null;
   }
+}
+
+function isKnownHost(url) {
+  const h = hostnameFromUrl(url);
+  return h !== null && Object.prototype.hasOwnProperty.call(KNOWN_SOURCE_NAMES, h);
+}
+
+function sourceNameFromUrl(url) {
+  const hostname = hostnameFromUrl(url);
+  if (!hostname) return 'fonte original';
+  return KNOWN_SOURCE_NAMES[hostname] || hostname.split('.')[0].replace(/-/g, ' ').replace(/\b\w/g, (char) => char.toUpperCase());
 }
 
 function cleanSourceName(name, url) {
@@ -83,7 +94,14 @@ function cleanSourceName(name, url) {
 function normalizeSourceCredits(body) {
   return body
     .replace(/\*Fonte para revisão: \[([^\]]+)\]\(([^)]+)\)\.\*/g, (_match, name, url) => `*Fonte: [${cleanSourceName(name, url)}](${url}).*`)
-    .replace(/\*Fonte: \[(?:publicação original|fonte original)\]\(([^)]+)\)\.\*/gi, (_match, url) => `*Fonte: [${sourceNameFromUrl(url)}](${url}).*`);
+    .replace(/\*Fonte: \[([^\]]+)\]\(([^)]+)\)\.\*/gi, (_match, name, url) => {
+      // Se hostname está no mapa explícito, SEMPRE sobrepõe nome existente (mesmo se for "Agência Internacional" ou similar errado herdado do coletor).
+      if (isKnownHost(url)) {
+        return `*Fonte: [${sourceNameFromUrl(url)}](${url}).*`;
+      }
+      // Senão, só limpa "publicação original" / "fonte original" preservando outros nomes.
+      return `*Fonte: [${cleanSourceName(name, url)}](${url}).*`;
+    });
 }
 
 function splitSentences(paragraph) {

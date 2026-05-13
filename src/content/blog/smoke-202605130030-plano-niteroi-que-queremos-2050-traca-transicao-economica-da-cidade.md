@@ -36,4 +36,4 @@ E vamos avançar ainda mais, com a requalificação da Amaral Peixoto, da Rua da
 
 Uma cidade inovadora, sustentável, inclusiva e com alta qualidade de vida. Estamos planejando hoje o futuro das próximas gerações — conclui o prefeito.
 
-*Fonte: [Agência Internacional](https://portalfluminense.com.br/2026/05/08/plano-niteroi-que-queremos-2050-traca-transicao-economica-da-cidade/).*
+*Fonte: [Portal Fluminense](https://portalfluminense.com.br/2026/05/08/plano-niteroi-que-queremos-2050-traca-transicao-economica-da-cidade/).*
