@@ -11,12 +11,100 @@ import OpenComments from '../components/OpenComments.jsx';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, noindex = false, tags = [] } = Astro.props;
+
+const categoryLabels = new Map([
+	['politica-rj', 'Política RJ'],
+	['seguranca-publica', 'Segurança Pública'],
+	['seguranca-publica-rj', 'Segurança Pública RJ'],
+	['seguranca', 'Segurança'],
+	['rede-social', 'Rede Social'],
+	['redes-sociais', 'Rede Social'],
+	['nacional', 'Nacional'],
+	['internacional', 'Internacional'],
+	['geopolitica', 'Internacional'],
+	['transporte-mobilidade', 'Transporte e Mobilidade'],
+	['educacao', 'Educação'],
+	['saude', 'Saúde'],
+	['cultura-carnaval', 'Cultura e Carnaval'],
+	['economia-rj', 'Economia RJ'],
+	['rio-favelas-e-comunidades', 'Favelas e Comunidades'],
+	['favelas-comunidades', 'Favelas e Comunidades'],
+	['rio-capital-centro', 'Rio Capital - Centro'],
+	['rio-capital-zona-sul-grande-tijuca', 'Rio Capital - Zona Sul e Grande Tijuca'],
+	['rio-capital-zona-norte', 'Rio Capital - Zona Norte'],
+	['rio-capital-barra-recreio-jacarepagua', 'Rio Capital - Barra, Recreio e Jacarepaguá'],
+	['rio-capital-zona-oeste', 'Rio Capital - Zona Oeste'],
+	['regiao-metropolitana', 'Região Metropolitana'],
+	['baixada-fluminense', 'Baixada Fluminense'],
+	['regiao-serrana', 'Região Serrana'],
+	['regiao-dos-lagos', 'Região dos Lagos'],
+	['sul-fluminense-costa-verde', 'Sul Fluminense e Costa Verde'],
+	['norte-noroeste-fluminense', 'Norte/Noroeste Fluminense'],
+	['noroeste-fluminense', 'Noroeste Fluminense'],
+	['macae-norte-fluminense', 'Macaé e Norte Fluminense'],
+	['rio-de-janeiro', 'Rio de Janeiro'],
+]);
+
+const categoryPriority = [
+	'politica-rj',
+	'seguranca-publica-rj',
+	'rede-social',
+	'redes-sociais',
+	'nacional',
+	'internacional',
+	'geopolitica',
+	'seguranca-publica',
+	'seguranca',
+	'transporte-mobilidade',
+	'educacao',
+	'saude',
+	'cultura-carnaval',
+	'economia-rj',
+	'rio-favelas-e-comunidades',
+	'favelas-comunidades',
+	'rio-capital-centro',
+	'rio-capital-zona-sul-grande-tijuca',
+	'rio-capital-zona-norte',
+	'rio-capital-barra-recreio-jacarepagua',
+	'rio-capital-zona-oeste',
+	'regiao-metropolitana',
+	'baixada-fluminense',
+	'regiao-serrana',
+	'regiao-dos-lagos',
+	'sul-fluminense-costa-verde',
+	'norte-noroeste-fluminense',
+	'noroeste-fluminense',
+	'macae-norte-fluminense',
+	'rio-de-janeiro',
+];
+
+function formatTagLabel(slug: string) {
+	return slug
+		.split('-')
+		.filter(Boolean)
+		.map((word) => (word.length <= 2 ? word.toUpperCase() : word.charAt(0).toUpperCase() + word.slice(1)))
+		.join(' ');
+}
+
+const normalizedTitle = title
+	.toLowerCase()
+	.normalize('NFD')
+	.replace(/[\u0300-\u036f]/g, '');
+const categorySlug =
+	categoryPriority.find((slug) => tags.includes(slug)) ||
+	(normalizedTitle.includes('rede social') ? 'rede-social' : undefined) ||
+	(normalizedTitle.includes('seguranca') ? 'seguranca-publica' : undefined) ||
+	tags.find((tag) => categoryLabels.has(tag)) ||
+	tags.find((tag) => tag !== 'rio-de-janeiro') ||
+	'rio-de-janeiro';
+const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categorySlug);
 ---
 
-<html lang="en">
+<html lang="pt-BR">
 	<head>
 		<BaseHead title={title} description={description} />
+		{noindex && <meta name="robots" content="noindex,nofollow" />}
 		<style>
 			main {
 				width: calc(100% - 2em);
@@ -52,6 +140,24 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				margin-bottom: 0.5em;
 				color: rgb(var(--gray));
 			}
+			.category {
+				display: inline-flex;
+				align-items: center;
+				margin-bottom: 0.75rem;
+				padding: 0.35rem 0.7rem;
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 4px;
+				color: rgb(var(--accent));
+				font-size: 0.78rem;
+				font-weight: 700;
+				line-height: 1.2;
+				text-decoration: none;
+				text-transform: uppercase;
+			}
+			.category:hover {
+				background: rgb(var(--gray-light));
+				color: rgb(var(--accent-dark));
+			}
 			.last-updated-on {
 				font-style: italic;
 			}
@@ -67,6 +173,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				</div>
 				<div class="prose">
 					<div class="title">
+						<a class="category" href={`/tags/${categorySlug}/`}>{categoryLabel}</a>
 						<div class="date">
 							<FormattedDate date={pubDate} />
 							{
