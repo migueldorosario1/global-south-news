@@ -2,6 +2,7 @@
 set -euo pipefail
 
 cd "/home/migueldorosario/Downloads/Antigravity Google/Rio Carta Agentes/rio_carta"
+export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:$PATH"
 
 if [[ -f tools/loop_24h_until.txt ]]; then
   until_ts="$(cat tools/loop_24h_until.txt)"
@@ -15,6 +16,7 @@ fi
 
 {
   printf '\n[%s] Rio Carta hourly publish start\n' "$(date -Is)"
+  python3 "../root/riocarta_smoke_markdown.py" 15 --queue --mark-queued
   npm run riocarta:publish-hourly
   printf '[%s] Rio Carta hourly publish done\n' "$(date -Is)"
 } >> logs/rio_carta_hourly_cron.log 2>&1

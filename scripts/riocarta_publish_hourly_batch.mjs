@@ -20,7 +20,7 @@ const auditCurrentOnly = args.has('--audit-current');
 const queue = JSON.parse(fs.readFileSync(queuePath, 'utf8'));
 let state = fs.existsSync(statePath)
   ? JSON.parse(fs.readFileSync(statePath, 'utf8'))
-  : { nextBatchSize: 3, round: 1 };
+  : { nextBatchSize: 10, round: 1 };
 
 if (fs.existsSync(envPath)) {
   for (const line of fs.readFileSync(envPath, 'utf8').split(/\r?\n/)) {
@@ -392,8 +392,8 @@ for (const file of queue) {
   else hidden.push(file);
 }
 
-const requestedBatchSize = forcedBatchSize || state.nextBatchSize || 3;
-const batchSize = auditCurrentOnly ? 0 : Math.min(requestedBatchSize, 3);
+const requestedBatchSize = forcedBatchSize || state.nextBatchSize || 10;
+const batchSize = auditCurrentOnly ? 0 : Math.min(requestedBatchSize, 10);
 let nextBatch = [];
 if (!auditCurrentOnly && hidden.length === 0) {
   console.log('Fila encerrada: nenhuma materia pendente.');
@@ -454,7 +454,7 @@ execFileSync('npm', ['run', 'build'], { cwd: repo, stdio: 'inherit' });
 if (!auditCurrentOnly) {
   state = {
     round: (state.round || 1) + 1,
-    nextBatchSize: 3,
+    nextBatchSize: 10,
     lastBatchSize: nextBatch.length,
     lastRun: new Date().toISOString(),
   };

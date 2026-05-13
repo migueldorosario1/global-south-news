@@ -1,8 +1,8 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-13T03:06:09.045Z
-Publicadas/auditadas com sucesso no historico: 24
-Materias com bloqueio acumulado: 0
+Atualizado em: 2026-05-13T03:35:29.698Z
+Publicadas/auditadas com sucesso no historico: 42
+Materias com bloqueio acumulado: 12
 
 ## Solucoes do cerebro aplicadas
 - imagens devem ficar dentro do silo Rio Carta antes do deploy
@@ -10,9 +10,24 @@ Materias com bloqueio acumulado: 0
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
 
 ## Bloqueios acumulados
-- Nenhum bloqueio acumulado ate agora.
+- crime-organizado-amplia-atuacao-de-internet-clandestina-na-regiao-dos-lagos.md: imagem destacada pequena: /hero/crime-organizado-amplia-atuacao-de-internet-clandestina-na-regiao-dos-lagos.webp 560x315
+- operacao-da-pf-contra-esquema-de-r-200-milhoes-mira-deputado-e-tem-alvo-em-niteroi.md: [{"auditor":"deepseek","ok":false,"reason":"A data da operação (terça-feira, 12) não corresponde a maio de 2026; em 2026, 12 de maio é terça-feira, mas o texto não especifica o mês, e a referência a '2025 já é passado' sugere que a matéria pode estar desatualizada ou com data implícita incorreta. Além disso, a categoria 'cultura-carnaval' na tag é incoerente com o tema de fraude em castração animal.","fix":"Especific
+- intervencao-nas-unidades-de-saude-de-nova-iguacu-sob-gestao-de-oss-ideas.md: [{"auditor":"deepseek","ok":false,"reason":"TAG incoerente: 'niteroi-metropolitana', 'niteroi', 'transporte-mobilidade' nao pertencem a materia sobre saude em Nova Iguacu.","fix":"Remover tags 'niteroi-metropolitana', 'niteroi', 'transporte-mobilidade'."},{"auditor":"kimi","ok":true,"reason":"curto","fix":"curto"},{"auditor":"qwen","ok":false,"reason":"data implausível","fix":"Data da intervenção (08/05) está em 2025
+- quem-e-o-deputado-alvo-da-pf-em-operacao-contra-fraude-em-castracao-animal.md: [{"auditor":"deepseek","ok":false,"reason":"A data da operação é 'terça (12)', mas o texto não especifica o mês. Considerando a data de auditoria (2026-05-13), 'terça (12)' poderia ser 12 de maio de 2026, o que é futuro, não passado. Datas de 2025 são passado, mas o texto não deixa claro se a operação ocorreu em 2025 ou 2026. Isso gera ambiguidade temporal. Além disso, a tag 'seguranca-publica' é incoerente com o tem
+- rj-registra-2o-maior-numero-de-mortes-por-ondas-de-calor-no-pais-populacao-periferica-e-a-mais-a.md: [{"auditor":"deepseek","ok":false,"reason":"Data da reunião (12/07) sem ano; se for 2025, é passado e aceitável, mas se for 2026, 12/07/2026 é futuro (data atual é 13/05/2026). O texto não especifica o ano, gerando ambiguidade. Além disso, a fonte 'Diário do Rio' não é verificável no contexto.","fix":"Especificar o ano da reunião (ex.: 12/07/2025) ou ajustar para data passada plausível."},{"auditor":"kimi","ok":true,
+- smoke-202605130030-inea-sob-suspeita-auditoria-analisa-contrato-milionario-de-dragagem-em-nova-iguacu.md: [{"auditor":"deepseek","ok":false,"reason":"A imagem destacada contém 'smoke-smoke' no nome do arquivo, o que sugere fumaça ou poluição visual, inadequada para uma matéria jornalística séria sobre auditoria e contrato público. Além disso, a tag 'capital' é incoerente com a categoria territorial, pois Nova Iguaçu não é a capital do estado.","fix":"Substituir a imagem por uma foto neutra do Inea ou de obras de dragagem
+- smoke-202605130030-mprj-denuncia-mais-11-policiais-que-recebiam-propina-de-comerciantes-por-servico-de-seguranca-du.md: [{"auditor":"deepseek","ok":false,"reason":"A fonte 'Agência Internacional' com link para osaogoncalo.com.br é implausível e parece ser um erro ou invenção; além disso, a data '12/05' sem ano específico no texto pode gerar confusão, mas o maior problema é a fonte inconsistente.","fix":"Corrigir a fonte para uma referência verificável, como o site oficial do MPRJ ou um veículo de imprensa confiável, e ajustar a data p
+- smoke-202605130030-pf-aponta-aumento-de-665-no-patrimonio-de-marcelo-queiroz.md: [{"auditor":"deepseek","ok":false,"reason":"A fonte citada 'Agência Internacional' com link para 'agendadopoder.com.br' não corresponde a uma agência de notícias legítima e o link parece ser fictício ou enganoso, comprometendo a credibilidade da matéria. Além disso, a tag 'cultura-carnaval' é incoerente com o tema de corrupção e investigação policial.","fix":"Substituir a fonte por uma agência ou veículo confiável e 
+- smoke-202605130030-com-reducao-de-90-nos-principais-indices-criminais-macae-vive-nova-era-na-seguranca-publica.md: [{"auditor":"deepseek","ok":false,"reason":"A imagem destacada contém 'smoke-smoke' no nome do arquivo, o que sugere uso de placeholder ou erro de geração, inadequado para publicação. Além disso, a fonte citada como 'Agência Internacional' é genérica e não verificável, comprometendo a credibilidade.","fix":"Substituir a imagem por uma real e verificar a fonte oficial."},{"auditor":"kimi","ok":true,"reason":"curto","f
+- smoke-202605130030-caso-paloma-denuncia-sobre-ossada-leva-policia-civil-a-realizar-operacao-em-busca-de-estudante-d.md: [{"auditor":"deepseek","ok":false,"reason":"A data da operação (terça-feira, 12) não corresponde à data atual de auditoria (13 de maio de 2026, quarta-feira). Além disso, a referência a 'dezembro' sem ano específico no texto pode gerar ambiguidade, mas o principal problema é a inconsistência temporal entre o dia da semana e a data fornecida.","fix":"Corrigir o dia da semana para 'quarta-feira (13)' ou ajustar a data 
+- smoke-202605130030-professores-da-rede-estadual-do-rj-param-e-seguem-em-estado-de-mobilizacao.md: [{"auditor":"deepseek","ok":false,"reason":"{\"ok\":false,\"reason\":\"A data da materia (terca-feira, 5) nao corresponde a data atual de auditoria (2026-05-13). O texto menciona 'nesta terca-feira (5)' e 'dia 15 de maio' como fu","fix":""},{"auditor":"kimi","ok":true,"reason":"curto","fix":"curto"},{"auditor":"qwen","ok":false,"reason":"data implausivel","fix":"trocar 'terça-feira (5)' para data valida em 2026-05-13
+- smoke-202605130030-policia-prende-acusado-de-estupro-coletivo-em-uma-menina-de-13-anos-em-sao-joao-de-meriti-na-bai.md: [{"auditor":"deepseek","ok":false,"reason":"A imagem destacada (smoke-smoke-...) parece ser um placeholder ou nome genérico, não uma foto real do fato, e a fonte citada como 'Agência Internacional' é incomum e possivelmente fictícia para um caso local, indicando falta de verificação jornalística padrão.","fix":"Substituir a imagem por uma foto real do acusado ou da operação policial, e corrigir a fonte para um veícul
 
 ## Publicadas nesta rodada
-- chacinas-da-nova-brasilia-manifesto-denuncia-que-brasil-ignora-sentenca-internacional-por-violac.md
-- governo-federal-assina-autorizacao-para-retomada-das-obras-da-br-101.md
-- tjrj-arquiva-processo-da-lava-jato-que-condenou-ex-deputado-paulo-melo-no-rio.md
+- br-101-rj-recebera-r-6-bilhoes-em-obras-entre-niteroi-e-a-fronteira-com-o-espirito-santo.md
+- nova-br-101-com-investimento-de-r-10-bilhoes-saiba-o-que-mudara-entre-niteroi-e-itaborai.md
+- atraso-de-salarios-gera-revolta-em-hospitais-estaduais-temos-contas-pra-pagar.md
+- interior-entra-no-centro-da-disputa-pelo-governo-do-rio.md
+- pf-faz-operacao-contra-fraudes-milionarias-na-secretaria-de-agricultura-do-rj-macae-e-alvo-de-bu.md
+- smoke-202605130030-comissao-da-alerj-acionara-mp-para-investigar-contrato-bilionario-de-radares-do-der-rj.md
+- smoke-202605130030-plano-niteroi-que-queremos-2050-traca-transicao-economica-da-cidade.md

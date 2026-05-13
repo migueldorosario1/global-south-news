@@ -1,6 +1,6 @@
 {
-  "round": 2,
-  "nextBatchSize": 3,
-  "lastBatchSize": 3,
-  "lastRun": "2026-05-13T03:06:09.042Z"
+  "round": 3,
+  "nextBatchSize": 10,
+  "lastBatchSize": 7,
+  "lastRun": "2026-05-13T03:35:29.696Z"
 }
