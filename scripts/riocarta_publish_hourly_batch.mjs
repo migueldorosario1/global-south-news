@@ -15,6 +15,7 @@ const publicDir = path.join(repo, 'public');
 const args = new Set(process.argv.slice(2));
 const envPath = path.join(repo, '..', 'root', 'chaves_riocarta.env');
 const forcedBatchSize = process.env.RIOCARTA_BATCH_SIZE ? Number(process.env.RIOCARTA_BATCH_SIZE) : null;
+const forcedMaxAuditAttempts = process.env.RIOCARTA_MAX_AUDIT_ATTEMPTS ? Number(process.env.RIOCARTA_MAX_AUDIT_ATTEMPTS) : null;
 const commitAndPush = args.has('--commit');
 const auditCurrentOnly = args.has('--audit-current');
 const queue = JSON.parse(fs.readFileSync(queuePath, 'utf8'));
@@ -412,6 +413,7 @@ for (const file of queue) {
 
 const requestedBatchSize = forcedBatchSize || state.nextBatchSize || 10;
 const batchSize = auditCurrentOnly ? 0 : Math.min(requestedBatchSize, 10);
+const maxAuditAttempts = Math.max(batchSize, forcedMaxAuditAttempts || batchSize * 3);
 let nextBatch = [];
 if (!auditCurrentOnly && hidden.length === 0) {
   console.log('Fila encerrada: nenhuma materia pendente.');
@@ -428,11 +430,22 @@ if (auditCurrentOnly) {
     results.push(await auditAndFix(file, false));
   }
 } else {
+  let attemptedHidden = 0;
   for (const file of hidden) {
     if (nextBatch.length >= batchSize) {
       results.push(await auditAndFix(file, false));
       continue;
     }
+    if (attemptedHidden >= maxAuditAttempts) {
+      fs.appendFileSync(logPath, `${JSON.stringify({
+        time: new Date().toISOString(),
+        published: false,
+        blocked: true,
+        reason: `limite de auditoria da rodada atingido (${attemptedHidden}/${maxAuditAttempts}); aguardando proximo ciclo`,
+      })}\n`);
+      break;
+    }
+    attemptedHidden += 1;
     try {
       await applyBrainFixes(file);
       results.push(await auditAndFix(file, true));
@@ -517,6 +530,13 @@ if (commitAndPush) {
     const publishedTitles = publishSet.map((file) => path.basename(file, '.md')).join(', ');
     git(['commit', '-m', `Publish Rio Carta hourly batch (${publishSet.length})`, '-m', publishedTitles]);
     git(['push', 'origin', 'main']);
+    if (publishSet.length) {
+      execFileSync(
+        process.env.RIOCARTA_PYTHON || 'python3',
+        [path.join(repo, '..', 'root', 'riocarta_confirm_published.py'), ...publishSet],
+        { cwd: repo, stdio: 'inherit' },
+      );
+    }
   }
 }
 
