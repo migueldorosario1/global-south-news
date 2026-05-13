@@ -2,7 +2,7 @@
 title: "Intervenção nas unidades de saúde de Nova Iguaçu sob gestão de OSS IDEAS"
 description: "A Prefeitura de Nova Iguaçu iniciou na sexta, 08/05, intervenção temporária em unidades de saúde administradas pela Organização Social IDEAS no Hospital Geral de Nova Iguaçu HGNI, "
 pubDate: "2026-05-13T02:32:48Z"
-draft: false
+draft: true
 tags: ["nova-iguacu", "baixada-fluminense", "saude", "intervencao", "hospital", "upa", "oss-ideas", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "politica-rj"]
 heroImage: "/hero/intervencao-nas-unidades-de-saude-de-nova-iguacu-sob-gestao-de-oss-ideas.jpg"
 ---

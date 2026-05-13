@@ -417,8 +417,8 @@ for (const file of queue) {
   else hidden.push(file);
 }
 
-const requestedBatchSize = forcedBatchSize || state.nextBatchSize || 10;
-const batchSize = auditCurrentOnly ? 0 : Math.min(requestedBatchSize, 10);
+const requestedBatchSize = forcedBatchSize || state.nextBatchSize || 2;
+const batchSize = auditCurrentOnly ? 0 : Math.min(requestedBatchSize, 2);
 const maxAuditAttempts = Math.max(batchSize, forcedMaxAuditAttempts || batchSize * 3);
 let nextBatch = [];
 if (!auditCurrentOnly && hidden.length === 0) {
