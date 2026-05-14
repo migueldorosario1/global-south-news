@@ -1,5 +1,5 @@
 ---
-title: "Br-101/rj receberá r$ 6 bilhões em obras entre niterói e a fronteira com o espírito santo"
+title: "BR-101/RJ receberá R$ 6 bilhões em obras entre Niterói e a fronteira com o Espírito Santo"
 description: "A Agência Nacional de Transportes Terrestres (ANTT) viabilizou o início de uma nova fase de intervenções na BR-101/RJ, no trecho sob concessão da Arteris Fluminense, após a assinat"
 pubDate: "2026-05-14T18:17:47Z"
 heroImage: "/hero/br-101-rj-recebera-r-6-bilhoes-em-obras-entre-niteroi-e-a-fronteira-com-o-espirito-santo-1778782664.jpg"
