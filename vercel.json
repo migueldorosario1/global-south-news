@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/admin(.*)",
+      "destination": "http://159.89.185.209:5000/$1"
+    }
+  ]
+}
