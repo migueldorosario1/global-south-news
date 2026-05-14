@@ -411,14 +411,10 @@ const isHome = pathname === '/' || pathname === '/index.html';
 			padding: 0.2rem 0;
 		}
 		.social-links-header {
-			margin-left: 0;
-			padding-left: 0;
-			border-left: none;
-			justify-content: center;
-			margin-top: 0.5rem;
+			display: none; /* Removed from mobile header as requested */
 		}
 		.header-article .social-links-header {
-			margin-top: 0;
+			display: none; /* Ensure it's hidden on articles too */
 		}
 		.dropdown-content {
 			position: static;

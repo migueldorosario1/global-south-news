@@ -176,6 +176,14 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 			.title h1 {
 				margin: 0 0 0.5em 0;
 			}
+			@media (max-width: 768px) {
+				.title h1 {
+					font-size: 1.8rem;
+				}
+				.hero-image {
+					margin-bottom: 1rem;
+				}
+			}
 			.date {
 				margin-bottom: 0.5em;
 				color: rgb(var(--gray));
@@ -222,6 +230,27 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 				font-style: italic;
 			}
 		</style>
+		<script type="application/ld+json" set:html={JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "NewsArticle",
+			"headline": title,
+			"image": heroImage ? [new URL(heroImage, Astro.url).href] : [],
+			"datePublished": pubDate.toISOString(),
+			"dateModified": updatedDate ? updatedDate.toISOString() : pubDate.toISOString(),
+			"author": [{
+				"@type": "Organization",
+				"name": "Rio Carta",
+				"url": "https://riocarta.com.br"
+			}],
+			"publisher": {
+				"@type": "Organization",
+				"name": "Rio Carta",
+				"logo": {
+					"@type": "ImageObject",
+					"url": new URL('/favicon.png', Astro.url).href
+				}
+			}
+		})} />
 	</head>
 
 	<body>
@@ -230,6 +259,9 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 			<article>
 				<div class="hero-image">
 					{heroImage && <img width="1020" height="510" src={heroImage} alt="" />}
+				</div>
+				<div class="social-top" style="text-align: center; margin-top: 1rem;">
+					<SocialShare title={title} url={Astro.url.href} />
 				</div>
 				<div class="prose">
 					<div class="title">
@@ -245,7 +277,6 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 							}
 						</div>
 						<h1>{title}</h1>
-						<SocialShare title={title} url={Astro.url.href} />
 						<hr />
 					</div>
 					<slot />
