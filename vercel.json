@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/admin(.*)",
-      "destination": "http://159.89.185.209:5000/$1"
+      "source": "/admin",
+      "destination": "http://159.89.185.209:5000/admin"
     },
     {
       "source": "/login",
@@ -11,6 +11,18 @@
     {
       "source": "/logout",
       "destination": "http://159.89.185.209:5000/logout"
+    },
+    {
+      "source": "/drafts",
+      "destination": "http://159.89.185.209:5000/drafts"
+    },
+    {
+      "source": "/edit/:slug*",
+      "destination": "http://159.89.185.209:5000/edit/:slug*"
+    },
+    {
+      "source": "/upload_image",
+      "destination": "http://159.89.185.209:5000/upload_image"
     }
   ]
 }
