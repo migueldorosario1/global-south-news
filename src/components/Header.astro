@@ -312,6 +312,7 @@ const isHome = pathname === '/' || pathname === '/index.html';
 		padding: 0.5rem;
 		transform: translateX(10px);
 		transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+		z-index: 100;
 	}
 
 	.submenu-content-wide {
@@ -425,7 +426,8 @@ const isHome = pathname === '/' || pathname === '/index.html';
 			width: 100%;
 			margin-top: 10px;
 		}
-		.dropdown:hover .dropdown-content {
+		.dropdown:hover .dropdown-content,
+		.dropdown.is-active .dropdown-content {
 			display: block;
 		}
 		.dropdown-submenu .submenu-content {
@@ -436,6 +438,13 @@ const isHome = pathname === '/' || pathname === '/index.html';
 			margin-left: 1rem;
 			border-left: 2px solid #eee;
 			border-radius: 0;
+			display: none;
+			visibility: visible;
+			opacity: 1;
+		}
+		.dropdown-submenu:hover .submenu-content,
+		.dropdown-submenu.is-active .submenu-content {
+			display: block;
 		}
 		.submenu-content-wide {
 			display: block;
@@ -443,3 +452,36 @@ const isHome = pathname === '/' || pathname === '/index.html';
 		}
 	}
 </style>
+
+<script>
+	document.addEventListener('DOMContentLoaded', () => {
+		const dropdowns = document.querySelectorAll('.dropdown');
+		dropdowns.forEach(dropdown => {
+			const btn = dropdown.querySelector('.dropbtn');
+			if (!btn) return;
+			btn.addEventListener('click', (e) => {
+				if (window.innerWidth <= 768) {
+					// Se o clique não foi no link <a>, previne e abre o menu
+					if (e.target.tagName !== 'A') {
+						e.preventDefault();
+						dropdown.classList.toggle('is-active');
+					}
+				}
+			});
+		});
+
+		const submenus = document.querySelectorAll('.dropdown-submenu');
+		submenus.forEach(submenu => {
+			const title = submenu.querySelector('.submenu-title');
+			if (!title) return;
+			title.addEventListener('click', (e) => {
+				if (window.innerWidth <= 768) {
+					if (e.target.tagName !== 'A') {
+						e.preventDefault();
+						submenu.classList.toggle('is-active');
+					}
+				}
+			});
+		});
+	});
+</script>
