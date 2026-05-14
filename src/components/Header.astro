@@ -262,10 +262,13 @@ const isHome = pathname === '/' || pathname === '/index.html';
 		transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 	}
 
-	.dropdown:hover .dropdown-content {
-		visibility: visible;
-		opacity: 1;
-		transform: translateX(-50%) translateY(0);
+	/* Dropdown Hover apenas para Desktop */
+	@media (min-width: 769px) {
+		.dropdown:hover .dropdown-content {
+			visibility: visible;
+			opacity: 1;
+			transform: translateX(-50%) translateY(0);
+		}
 	}
 
 	/* Submenu Core */
@@ -291,9 +294,11 @@ const isHome = pathname === '/' || pathname === '/index.html';
 		color: #aaa;
 	}
 
-	.dropdown-submenu:hover .submenu-title {
-		background: #f4f7fb;
-		color: #0052D4;
+	@media (min-width: 769px) {
+		.dropdown-submenu:hover .submenu-title {
+			background: #f4f7fb;
+			color: #0052D4;
+		}
 	}
 
 	.submenu-content {
@@ -333,10 +338,12 @@ const isHome = pathname === '/' || pathname === '/index.html';
 		background: #f7f9fc;
 	}
 
-	.dropdown-submenu:hover .submenu-content {
-		visibility: visible;
-		opacity: 1;
-		transform: translateX(0);
+	@media (min-width: 769px) {
+		.dropdown-submenu:hover .submenu-content {
+			visibility: visible;
+			opacity: 1;
+			transform: translateX(0);
+		}
 	}
 
 	.submenu-content a {
@@ -417,18 +424,29 @@ const isHome = pathname === '/' || pathname === '/index.html';
 		.header-article .social-links-header {
 			display: none; /* Ensure it's hidden on articles too */
 		}
-		.dropdown-content {
+		.nav-item {
 			position: static;
-			transform: none;
-			box-shadow: none;
-			border: 1px solid #eee;
-			display: none;
-			width: 100%;
-			margin-top: 10px;
 		}
-		.dropdown:hover .dropdown-content,
-		.dropdown.is-active .dropdown-content {
+		.dropdown-content {
+			position: absolute;
+			top: 100%;
+			left: 0;
+			width: 100%;
+			margin-top: 0;
+			transform: none;
+			box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+			border: none;
+			border-top: 1px solid #eee;
+			border-radius: 0 0 12px 12px;
+			display: none;
+			box-sizing: border-box;
+			visibility: visible;
+			opacity: 1;
+		}
+		.dropdown.is-active > .dropdown-content {
 			display: block;
+			visibility: visible;
+			opacity: 1;
 		}
 		.dropdown-submenu .submenu-content {
 			position: static;
@@ -442,8 +460,7 @@ const isHome = pathname === '/' || pathname === '/index.html';
 			visibility: visible;
 			opacity: 1;
 		}
-		.dropdown-submenu:hover .submenu-content,
-		.dropdown-submenu.is-active .submenu-content {
+		.dropdown-submenu.is-active > .submenu-content {
 			display: block;
 		}
 		.submenu-content-wide {
@@ -460,10 +477,13 @@ const isHome = pathname === '/' || pathname === '/index.html';
 		if (!btn) return;
 		btn.addEventListener('click', (e) => {
 			if (window.innerWidth <= 768) {
-				// Se o clique não foi no link <a>, previne e abre o menu
 				const isAnchor = e.target.tagName === 'A' || e.target.closest('a');
 				if (!isAnchor) {
 					e.preventDefault();
+					// Fecha os outros dropdowns principais
+					dropdowns.forEach(d => {
+					    if (d !== dropdown) d.classList.remove('is-active');
+					});
 					dropdown.classList.toggle('is-active');
 				}
 			}
@@ -479,9 +499,28 @@ const isHome = pathname === '/' || pathname === '/index.html';
 				const isAnchor = e.target.tagName === 'A' || e.target.closest('a');
 				if (!isAnchor) {
 					e.preventDefault();
+					// Fecha os outros submenus dentro do mesmo dropdown
+					const parent = submenu.closest('.dropdown-content');
+					if (parent) {
+					    parent.querySelectorAll('.dropdown-submenu').forEach(s => {
+					        if (s !== submenu) s.classList.remove('is-active');
+					    });
+					}
 					submenu.classList.toggle('is-active');
 				}
 			}
 		});
+	});
+
+	// Fechar ao clicar fora no mobile
+	document.addEventListener('click', (e) => {
+		if (window.innerWidth <= 768) {
+			const isDropdownClick = e.target.closest('.dropdown');
+			if (!isDropdownClick) {
+				document.querySelectorAll('.dropdown.is-active').forEach(d => {
+					d.classList.remove('is-active');
+				});
+			}
+		}
 	});
 </script>
