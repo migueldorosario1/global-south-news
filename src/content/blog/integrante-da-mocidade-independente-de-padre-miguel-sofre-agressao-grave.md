@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Integrante da Mocidade Independente de Padre Miguel Sofre Agressão Grave'
 pubDate: 2023-11-28 07:00:00
 slug: "integrante-da-mocidade-independente-de-padre-miguel-sofre-agressao-grave"
+tags:
+  - 'rio-capital-zona-oeste'
 wp_id: 2032
 ---
 

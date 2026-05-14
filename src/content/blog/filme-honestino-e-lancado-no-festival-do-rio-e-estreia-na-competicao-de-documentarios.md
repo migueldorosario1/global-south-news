@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Filme Honestino é lançado no Festival do Rio e estreia na competição de documentários'
 pubDate: 2025-10-10 13:23:19
 slug: "filme-honestino-e-lancado-no-festival-do-rio-e-estreia-na-competicao-de-documentarios"
+tags:
+  - 'cultura-carnaval'
 wp_id: 7210
 ---
 

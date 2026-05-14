@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'CCBB Rio apresenta a peça Brás Cubas'
 pubDate: 2023-08-22 13:11:15
 slug: "ccbb-rio-apresenta-a-peca-bras-cubas"
+tags:
+  - 'cultura-carnaval'
 wp_id: 1174
 ---
 

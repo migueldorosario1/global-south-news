@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maricá instala botão do pânico nos ônibus municipais'
 pubDate: 2026-02-20 16:05:26
 slug: "marica-instala-botao-do-panico-nos-onibus-municipais"
+tags:
+  - 'regiao-metropolitana'
 wp_id: 7678
 ---
 

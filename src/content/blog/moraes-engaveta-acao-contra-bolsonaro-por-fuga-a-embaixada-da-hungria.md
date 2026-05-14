@@ -6,7 +6,7 @@ pubDate: 2024-04-25 09:59:12
 slug: "moraes-engaveta-acao-contra-bolsonaro-por-fuga-a-embaixada-da-hungria"
 wp_id: 4300
 tags:
-  - 'baixada'
+  - 'nacional'
 ---
 
 <!-- wp:paragraph -->

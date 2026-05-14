@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Fenae se une à marcha histórica pela cidadania feminina'
 pubDate: 2025-10-01 16:58:53
 slug: "fenae-se-une-a-marcha-historica-pela-cidadania-feminina"
+tags:
+  - 'nacional'
 wp_id: 7178
 ---
 

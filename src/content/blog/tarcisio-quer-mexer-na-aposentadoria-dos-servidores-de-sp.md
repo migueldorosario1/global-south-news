@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Tarcísio quer mexer na aposentadoria dos servidores de SP'
 pubDate: 2024-07-01 07:53:07
 slug: "tarcisio-quer-mexer-na-aposentadoria-dos-servidores-de-sp"
+tags:
+  - 'nacional'
 wp_id: 4727
 ---
 

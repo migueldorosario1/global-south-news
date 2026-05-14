@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Operação contra o CV avança e revela drogas em escola do Rio'
 pubDate: 2025-11-19 11:57:30
 slug: "operacao-contra-o-cv-avanca-e-revela-drogas-em-escola-do-rio"
+tags:
+  - 'seguranca-publica'
 wp_id: 7392
 ---
 

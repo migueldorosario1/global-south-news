@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Explosão de empregos em 2023 foi puxado por trabalhadores acima de 40 anos'
 pubDate: 2024-09-16 10:55:47
 slug: "explosao-de-empregos-em-2023-foi-puxado-por-trabalhadores-acima-de-40-anos"
+tags:
+  - 'nacional'
 wp_id: 5251
 ---
 

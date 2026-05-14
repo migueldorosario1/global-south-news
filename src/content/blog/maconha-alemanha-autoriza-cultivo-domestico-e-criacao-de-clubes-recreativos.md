@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maconha Alemanha autoriza cultivo doméstico e criação de clubes recreativos'
 pubDate: 2024-04-01 09:16:16
 slug: "maconha-alemanha-autoriza-cultivo-domestico-e-criacao-de-clubes-recreativos"
+tags:
+  - 'geopolitica'
 wp_id: 4015
 ---
 

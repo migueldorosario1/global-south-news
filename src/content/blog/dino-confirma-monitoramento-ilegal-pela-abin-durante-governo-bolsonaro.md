@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Dino confirma monitoramento ilegal pela Abin durante governo Bolsonaro'
 pubDate: 2024-01-30 16:46:49
 slug: "dino-confirma-monitoramento-ilegal-pela-abin-durante-governo-bolsonaro"
+tags:
+  - 'nacional'
 wp_id: 2739
 ---
 

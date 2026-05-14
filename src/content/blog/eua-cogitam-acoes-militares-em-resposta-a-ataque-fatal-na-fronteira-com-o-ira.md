@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'EUA cogitam ações militares em resposta a ataque fatal na fronteira com o Irã'
 pubDate: 2024-01-30 05:44:00
 slug: "eua-cogitam-acoes-militares-em-resposta-a-ataque-fatal-na-fronteira-com-o-ira"
+tags:
+  - 'geopolitica'
 wp_id: 2636
 ---
 

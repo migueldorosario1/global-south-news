@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Entenda o real motivo de Rachel Sheherazade ter sido expulsa da A Fazenda 15'
 pubDate: 2023-10-19 19:09:42
 slug: "entenda-o-real-motivo-de-rachel-sheherazade-ter-sido-expulsa-da-a-fazenda-15"
+tags:
+  - 'nacional'
 wp_id: 1636
 ---
 

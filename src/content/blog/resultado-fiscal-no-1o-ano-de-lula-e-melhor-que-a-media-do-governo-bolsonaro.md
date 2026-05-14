@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Resultado fiscal no primeiro ano de Lula é melhor que a média do governo Bolsonaro'
 pubDate: 2024-01-29 16:46:52
 slug: "resultado-fiscal-no-1o-ano-de-lula-e-melhor-que-a-media-do-governo-bolsonaro"
+tags:
+  - 'nacional'
 wp_id: 2671
 ---
 

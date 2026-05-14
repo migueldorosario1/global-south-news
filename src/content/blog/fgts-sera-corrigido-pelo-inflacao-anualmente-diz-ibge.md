@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'FGTS será corrigido pelo inflação anualmente, diz IBGE'
 pubDate: 2024-06-13 09:07:35
 slug: "fgts-sera-corrigido-pelo-inflacao-anualmente-diz-ibge"
+tags:
+  - 'nacional'
 wp_id: 4652
 ---
 

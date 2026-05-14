@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Importação de veículos chineses para o Brasil atinge montante recorde no 1º trimestre de 2024'
 pubDate: 2024-05-06 08:42:52
 slug: "importacao-de-veiculos-chineses-para-o-brasil-atinge-montante-recorde-no-1o-trimestre-de-2024"
+tags:
+  - 'nacional'
 wp_id: 4417
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'CVM acusa ex-diretores da Americanas de insider trading após descoberta de fraude contábil'
 pubDate: 2024-10-19 12:47:25
 slug: "cvm-acusa-ex-diretores-da-americanas-de-insider-trading-apos-descoberta-de-fraude-contabil"
+tags:
+  - 'nacional'
 wp_id: 5743
 ---
 

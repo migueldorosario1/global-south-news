@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula envolve-se no Enem 2024 com mensagem de encorajamento aos estudantes'
 pubDate: 2024-11-03 12:17:00
 slug: "lula-envolve-se-no-enem-2024-com-mensagem-de-encorajamento-aos-estudantes"
+tags:
+  - 'nacional'
 wp_id: 5956
 ---
 

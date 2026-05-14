@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Déficit das Contas Externas do Brasil Atinge Maior Nível Desde 2019'
 pubDate: 2024-08-26 20:34:53
 slug: "deficit-das-contas-externas-do-brasil-atinge-maior-nivel-desde-2019"
+tags:
+  - 'nacional'
 wp_id: 4956
 ---
 

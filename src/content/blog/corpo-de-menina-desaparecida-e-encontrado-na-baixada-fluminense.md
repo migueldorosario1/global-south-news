@@ -6,7 +6,7 @@ pubDate: 2023-12-11 07:00:00
 slug: "corpo-de-menina-desaparecida-e-encontrado-na-baixada-fluminense"
 wp_id: 2117
 tags:
-  - 'baixada'
+  - 'duque-de-caxias'
 ---
 
 <!-- wp:paragraph -->

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Banco Central planeja expandir funções do Pix para eliminar cartões de crédito'
 pubDate: 2024-10-03 16:33:24
 slug: "banco-central-planeja-expandir-funcoes-do-pix-para-eliminar-cartoes-de-credito"
+tags:
+  - 'nacional'
 wp_id: 5550
 ---
 

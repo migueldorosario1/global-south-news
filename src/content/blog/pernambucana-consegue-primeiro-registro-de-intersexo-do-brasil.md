@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Pernambucana consegue primeiro registro de intersexo do Brasil'
 pubDate: 2024-03-11 09:05:50
 slug: "pernambucana-consegue-primeiro-registro-de-intersexo-do-brasil"
+tags:
+  - 'nacional'
 wp_id: 3704
 ---
 

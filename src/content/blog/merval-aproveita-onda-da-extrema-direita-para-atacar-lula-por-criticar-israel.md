@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Merval aproveita onda da extrema-direita para atacar Lula por criticar Israel'
 pubDate: 2024-02-19 19:48:27
 slug: "merval-aproveita-onda-da-extrema-direita-para-atacar-lula-por-criticar-israel"
+tags:
+  - 'nacional'
 wp_id: 3318
 ---
 

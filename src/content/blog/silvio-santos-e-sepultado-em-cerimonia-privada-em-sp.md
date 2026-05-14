@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Silvio Santos é sepultado em cerimônia privada em SP'
 pubDate: 2024-08-19 09:15:06
 slug: "silvio-santos-e-sepultado-em-cerimonia-privada-em-sp"
+tags:
+  - 'nacional'
 wp_id: 4868
 ---
 

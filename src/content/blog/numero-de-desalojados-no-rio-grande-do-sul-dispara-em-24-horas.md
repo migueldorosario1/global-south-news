@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Número de desalojados no Rio Grande do Sul dispara em 24 horas'
 pubDate: 2024-05-10 08:55:48
 slug: "numero-de-desalojados-no-rio-grande-do-sul-dispara-em-24-horas"
+tags:
+  - 'nacional'
 wp_id: 4452
 ---
 

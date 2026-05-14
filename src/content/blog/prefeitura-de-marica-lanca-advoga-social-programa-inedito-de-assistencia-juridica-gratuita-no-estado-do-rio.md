@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura de Maricá lança Advoga Social, programa inédito de assistência jurídica gratuita no Estado do Rio'
 pubDate: 2026-01-22 18:10:14
 slug: "prefeitura-de-marica-lanca-advoga-social-programa-inedito-de-assistencia-juridica-gratuita-no-estado-do-rio"
+tags:
+  - 'regiao-metropolitana'
 wp_id: 7601
 ---
 

@@ -6,7 +6,7 @@ pubDate: 2024-01-21 07:30:00
 slug: "sargento-da-marinha-morre-afogado-em-clube-sem-salva-vidas-no-rj"
 wp_id: 2489
 tags:
-  - 'baixada'
+  - 'rio-de-janeiro'
 ---
 
 <!-- wp:paragraph -->

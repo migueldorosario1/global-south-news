@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'PF pode entrar na investigação sobre lavagem de dinheiro que envolve Gusttavo Lima'
 pubDate: 2024-09-30 15:20:29
 slug: "pf-pode-entrar-na-investigacao-sobre-lavagem-de-dinheiro-que-envolve-gusttavo-lima"
+tags:
+  - 'nacional'
 wp_id: 5539
 ---
 

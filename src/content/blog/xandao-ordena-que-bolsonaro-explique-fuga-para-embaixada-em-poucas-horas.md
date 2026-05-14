@@ -6,7 +6,7 @@ pubDate: 2024-03-26 11:00:34
 slug: "xandao-ordena-que-bolsonaro-explique-fuga-para-embaixada-em-poucas-horas"
 wp_id: 3968
 tags:
-  - 'baixada'
+  - 'nacional'
 ---
 
 <!-- wp:paragraph -->

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Participação dos salários no PIB caiu desde a derrubada de Dilma'
 pubDate: 2024-02-05 16:24:50
 slug: "participacao-dos-salarios-no-pib-caiu-desde-a-derrubada-de-dilma"
+tags:
+  - 'nacional'
 wp_id: 3013
 ---
 

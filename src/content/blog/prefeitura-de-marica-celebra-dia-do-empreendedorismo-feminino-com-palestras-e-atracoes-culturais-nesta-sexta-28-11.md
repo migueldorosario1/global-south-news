@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura de Maricá celebra Dia do Empreendedorismo Feminino com palestras e atrações culturais nesta sexta (28/11)'
 pubDate: 2025-11-27 11:19:00
 slug: "prefeitura-de-marica-celebra-dia-do-empreendedorismo-feminino-com-palestras-e-atracoes-culturais-nesta-sexta-28-11"
+tags:
+  - 'marica'
 wp_id: 7459
 ---
 

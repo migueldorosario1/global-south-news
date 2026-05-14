@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Deputado do PSOL revela omissão de Melo sobre riscos de inundações em Porto Alegre'
 pubDate: 2024-05-21 09:20:32
 slug: "deputado-do-psol-revela-omissao-de-melo-sobre-riscos-de-inundacoes-em-porto-alegre"
+tags:
+  - 'nacional'
 wp_id: 4492
 ---
 

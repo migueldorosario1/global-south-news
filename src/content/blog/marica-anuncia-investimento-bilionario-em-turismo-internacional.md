@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maricá anuncia investimento bilionário em turismo internacional'
 pubDate: 2026-01-22 18:24:23
 slug: "marica-anuncia-investimento-bilionario-em-turismo-internacional"
+tags:
+  - 'marica'
 wp_id: 7604
 ---
 

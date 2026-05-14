@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Advogado de tenente-coronel preso nega envolvimento em suposto plano para destabilizar governo'
 pubDate: 2024-11-29 17:37:22
 slug: "advogado-de-tenente-coronel-preso-nega-envolvimento-em-suposto-plano-para-destabilizar-governo"
+tags:
+  - 'nacional'
 wp_id: 6075
 ---
 

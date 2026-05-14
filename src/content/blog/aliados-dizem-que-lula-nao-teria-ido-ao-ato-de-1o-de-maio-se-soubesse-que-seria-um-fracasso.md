@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Aliados dizem que Lula não teria ido ao ato de 1º de Maio se soubesse que seria um fracasso'
 pubDate: 2024-05-03 09:44:22
 slug: "aliados-dizem-que-lula-nao-teria-ido-ao-ato-de-1o-de-maio-se-soubesse-que-seria-um-fracasso"
+tags:
+  - 'nacional'
 wp_id: 4391
 ---
 

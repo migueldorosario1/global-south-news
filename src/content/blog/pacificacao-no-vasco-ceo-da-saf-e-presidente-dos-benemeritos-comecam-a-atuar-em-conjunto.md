@@ -6,7 +6,7 @@ pubDate: 2024-04-05 10:41:10
 slug: "pacificacao-no-vasco-ceo-da-saf-e-presidente-dos-benemeritos-comecam-a-atuar-em-conjunto"
 wp_id: 4071
 tags:
-  - 'baixada'
+  - 'vasco-da-gama'
 ---
 
 <!-- wp:paragraph -->

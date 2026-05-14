@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Geraldo Alckmin critica política monetária e efeitos da selic na economia'
 pubDate: 2024-09-24 19:37:17
 slug: "geraldo-alckmin-critica-politica-monetaria-e-efeitos-da-selic-na-economia"
+tags:
+  - 'nacional'
 wp_id: 5441
 ---
 

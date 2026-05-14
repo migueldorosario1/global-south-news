@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Funcionários da Record denunciam abuso e são demitidos'
 pubDate: 2024-04-29 09:55:29
 slug: "funcionarios-da-record-denunciam-abuso-e-sao-demitidos"
+tags:
+  - 'nacional'
 wp_id: 4352
 ---
 

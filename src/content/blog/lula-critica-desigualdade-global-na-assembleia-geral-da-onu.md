@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula critica desigualdade global na assembleia geral da ONU'
 pubDate: 2024-09-25 04:58:41
 slug: "lula-critica-desigualdade-global-na-assembleia-geral-da-onu"
+tags:
+  - 'geopolitica'
 wp_id: 5459
 ---
 

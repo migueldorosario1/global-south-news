@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'TCU investiga possível irregularidade em licitação da starlink com comando militar da Amazônia'
 pubDate: 2024-09-03 17:31:46
 slug: "tcu-investiga-possivel-irregularidade-em-licitacao-da-starlink-com-comando-militar-da-amazonia"
+tags:
+  - 'nacional'
 wp_id: 5046
 ---
 

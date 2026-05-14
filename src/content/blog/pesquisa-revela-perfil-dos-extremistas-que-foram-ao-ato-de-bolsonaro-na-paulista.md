@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa revela perfil dos extremistas que foram ao ato de Bolsonaro na Paulista'
 pubDate: 2024-02-27 09:38:40
 slug: "pesquisa-revela-perfil-dos-extremistas-que-foram-ao-ato-de-bolsonaro-na-paulista"
+tags:
+  - 'nacional'
 wp_id: 3522
 ---
 

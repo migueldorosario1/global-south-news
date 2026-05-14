@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro dispensa presença de Nunes em ato na Paulista'
 pubDate: 2024-02-16 18:08:17
 slug: "bolsonaro-dispensa-presenca-de-nunes-em-ato-na-paulista"
+tags:
+  - 'nacional'
 wp_id: 3263
 ---
 

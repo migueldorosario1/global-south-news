@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Universal é condenada por demolição de casarões históricos em BH'
 pubDate: 2024-02-15 08:19:20
 slug: "universal-e-condenada-por-demolicao-de-casaroes-historicos-em-bh"
+tags:
+  - 'nacional'
 wp_id: 3220
 ---
 

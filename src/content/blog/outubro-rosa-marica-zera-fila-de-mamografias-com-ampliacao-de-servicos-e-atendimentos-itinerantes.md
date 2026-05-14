@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Outubro Rosa Maricá zera fila de mamografias com ampliação de serviços e atendimentos itinerantes'
 pubDate: 2025-10-29 09:25:20
 slug: "outubro-rosa-marica-zera-fila-de-mamografias-com-ampliacao-de-servicos-e-atendimentos-itinerantes"
+tags:
+  - 'marica'
 wp_id: 7277
 ---
 

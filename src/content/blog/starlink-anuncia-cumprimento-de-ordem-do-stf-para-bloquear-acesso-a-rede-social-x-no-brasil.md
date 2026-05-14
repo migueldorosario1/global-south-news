@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Starlink anuncia cumprimento de ordem do STF para bloquear acesso à rede social X no Brasil'
 pubDate: 2024-09-03 17:53:22
 slug: "starlink-anuncia-cumprimento-de-ordem-do-stf-para-bloquear-acesso-a-rede-social-x-no-brasil"
+tags:
+  - 'nacional'
 wp_id: 5052
 ---
 

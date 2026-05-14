@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Mercadinho São José em Laranjeiras será revitalizado'
 pubDate: 2023-09-22 23:50:03
 slug: "mercadinho-sao-jose-em-laranjeiras-sera-revitalizado"
+tags:
+  - 'laranjeiras'
 wp_id: 1402
 ---
 

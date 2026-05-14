@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula volta ao RS para visitar áreas atingidas pelas chuvas'
 pubDate: 2024-06-06 10:12:56
 slug: "lula-volta-ao-rs-para-visitar-areas-atingidas-pelas-chuvas"
+tags:
+  - 'nacional'
 wp_id: 4592
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ato em Copacabana cobrará rompimento das relações diplomáticas do Brasil com Israel'
 pubDate: 2025-07-04 17:54:58
 slug: "ato-em-copacabana-cobrara-rompimento-das-relacoes-diplomaticas-do-brasil-com-israel"
+tags:
+  - 'rio-capital-zona-sul-grande-tijuca'
 wp_id: 6985
 ---
 

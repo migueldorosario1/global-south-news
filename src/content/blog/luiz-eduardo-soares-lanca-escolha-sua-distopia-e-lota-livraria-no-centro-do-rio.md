@@ -6,7 +6,7 @@ pubDate: 2025-08-25 22:52:22
 slug: "luiz-eduardo-soares-lanca-escolha-sua-distopia-e-lota-livraria-no-centro-do-rio"
 wp_id: 7075
 tags:
-  - 'baixada'
+  - 'centro'
 ---
 
 <!-- wp:paragraph -->

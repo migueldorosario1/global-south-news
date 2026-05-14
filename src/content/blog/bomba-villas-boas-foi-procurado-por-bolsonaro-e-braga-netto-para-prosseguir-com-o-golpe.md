@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Villas Bôas foi procurado por Bolsonaro e Braga Netto para prosseguir com o golpe'
 pubDate: 2024-03-11 09:05:53
 slug: "bomba-villas-boas-foi-procurado-por-bolsonaro-e-braga-netto-para-prosseguir-com-o-golpe"
+tags:
+  - 'nacional'
 wp_id: 3706
 ---
 

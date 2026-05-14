@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Federal propõe reforma previdenciária militar para equilibrar orçamento'
 pubDate: 2024-11-20 09:37:36
 slug: "governo-federal-propoe-reforma-previdenciaria-militar-para-equilibrar-orcamento"
+tags:
+  - 'nacional'
 wp_id: 6013
 ---
 

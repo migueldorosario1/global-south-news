@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Dois convocados! Paulo Henrique e Puma Rodríguez representam o Vasco em suas seleções'
 pubDate: 2025-10-07 10:13:22
 slug: "dois-convocados-paulo-henrique-e-puma-rodriguez-representam-o-vasco-em-suas-selecoes"
+tags:
+  - 'vasco-da-gama'
 wp_id: 7195
 ---
 

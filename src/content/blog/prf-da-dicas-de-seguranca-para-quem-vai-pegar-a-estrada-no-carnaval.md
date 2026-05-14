@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'PRF dá dicas de segurança para quem vai pegar a estrada no carnaval'
 pubDate: 2024-02-10 05:39:00
 slug: "prf-da-dicas-de-seguranca-para-quem-vai-pegar-a-estrada-no-carnaval"
+tags:
+  - 'nacional'
 wp_id: 3117
 ---
 

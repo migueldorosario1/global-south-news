@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Movimento pede demissão de presidente do INPI por DEI Washing'
 pubDate: 2025-06-12 13:38:07
 slug: "movimento-pede-demissao-de-presidente-do-inpi-por-dei-washing"
+tags:
+  - 'nacional'
 wp_id: 6924
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Empresa de energia apresenta única proposta na privatização da Sabesp'
 pubDate: 2024-06-27 06:25:53
 slug: "empresa-de-energia-apresenta-unica-proposta-na-privatizacao-da-sabesp"
+tags:
+  - 'nacional'
 wp_id: 4701
 ---
 

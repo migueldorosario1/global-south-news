@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula expressa descontentamento com vídeo da marinha sobre privilégios militares'
 pubDate: 2024-12-05 04:50:34
 slug: "lula-expressa-descontentamento-com-video-da-marinha-sobre-privilegios-militares"
+tags:
+  - 'nacional'
 wp_id: 6101
 ---
 

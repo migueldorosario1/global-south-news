@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Energia eólica ajuda no processo de proteção ambiental da China'
 pubDate: 2024-02-04 05:55:00
 slug: "energia-eolica-ajuda-no-processo-de-protecao-ambiental-da-china"
+tags:
+  - 'geopolitica'
 wp_id: 2883
 ---
 

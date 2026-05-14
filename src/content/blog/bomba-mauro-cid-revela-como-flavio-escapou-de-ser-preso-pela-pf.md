@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Mauro Cid revela como Flávio escapou de ser preso pela PF'
 pubDate: 2024-02-16 18:29:43
 slug: "bomba-mauro-cid-revela-como-flavio-escapou-de-ser-preso-pela-pf"
+tags:
+  - 'nacional'
 wp_id: 3268
 ---
 

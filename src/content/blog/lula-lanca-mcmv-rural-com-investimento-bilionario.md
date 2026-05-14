@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula lança MCMV Rural com investimento bilionário'
 pubDate: 2024-04-10 10:08:27
 slug: "lula-lanca-mcmv-rural-com-investimento-bilionario"
+tags:
+  - 'nacional'
 wp_id: 4145
 ---
 

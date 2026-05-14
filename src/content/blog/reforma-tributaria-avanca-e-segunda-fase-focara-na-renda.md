@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Reforma tributária avança e segunda fase focará na renda'
 pubDate: 2024-10-14 17:28:29
 slug: "reforma-tributaria-avanca-e-segunda-fase-focara-na-renda"
+tags:
+  - 'nacional'
 wp_id: 5712
 ---
 

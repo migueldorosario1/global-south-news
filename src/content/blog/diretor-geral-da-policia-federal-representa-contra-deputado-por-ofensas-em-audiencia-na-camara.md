@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Chefe da PF representa contra deputado por ofensas em audiência na câmara'
 pubDate: 2024-12-05 04:39:33
 slug: "diretor-geral-da-policia-federal-representa-contra-deputado-por-ofensas-em-audiencia-na-camara"
+tags:
+  - 'nacional'
 wp_id: 6096
 ---
 

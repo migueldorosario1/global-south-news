@@ -6,7 +6,7 @@ pubDate: 2025-01-03 10:54:47
 slug: "jogador-e-baleado-em-baile-funk-na-baixada-apos-ter-pisado-no-pe-de-traficante"
 wp_id: 6329
 tags:
-  - 'baixada'
+  - 'seguranca-publica'
 ---
 
 <!-- wp:paragraph -->

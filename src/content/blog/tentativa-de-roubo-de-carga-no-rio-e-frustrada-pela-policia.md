@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Tentativa de roubo de carga no Rio é frustrada pela polícia'
 pubDate: 2025-01-15 16:00:24
 slug: "tentativa-de-roubo-de-carga-no-rio-e-frustrada-pela-policia"
+tags:
+  - 'seguranca-publica'
 wp_id: 6465
 ---
 

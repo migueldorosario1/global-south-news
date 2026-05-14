@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'AGU Damares pode ser investigada por fake news sobre Marajá'
 pubDate: 2024-02-24 11:34:02
 slug: "agu-damares-pode-ser-investigada-por-fake-news-sobre-maraja"
+tags:
+  - 'nacional'
 wp_id: 3436
 ---
 

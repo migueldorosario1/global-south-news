@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Jurista propõe expulsão de embaixador de Israel se participar de manifestação golpista de Bolsonaro'
 pubDate: 2024-02-19 09:33:25
 slug: "jurista-propoe-expulsao-de-embaixador-de-israel-se-participar-de-manifestacao-golpista-de-bolsonaro"
+tags:
+  - 'nacional'
 wp_id: 3312
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Sabatina de Gabriel Galípolo para presidência do Banco Central é adiada, anuncia presidente da CAE'
 pubDate: 2024-09-03 17:45:31
 slug: "sabatina-de-gabriel-galipolo-para-presidencia-do-banco-central-e-adiada-anuncia-presidente-da-cae"
+tags:
+  - 'nacional'
 wp_id: 5049
 ---
 

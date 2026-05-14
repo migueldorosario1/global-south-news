@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Senado avalia PEC para privatização das praias brasileiras'
 pubDate: 2024-05-27 10:01:02
 slug: "senado-avalia-pec-para-privatizacao-das-praias-brasileiras"
+tags:
+  - 'nacional'
 wp_id: 4529
 ---
 

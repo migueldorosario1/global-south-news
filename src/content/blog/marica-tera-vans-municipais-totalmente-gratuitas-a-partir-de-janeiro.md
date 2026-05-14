@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maricá terá vans municipais totalmente gratuitas a partir de janeiro'
 pubDate: 2025-12-11 13:17:15
 slug: "marica-tera-vans-municipais-totalmente-gratuitas-a-partir-de-janeiro"
+tags:
+  - 'marica'
 wp_id: 7566
 ---
 

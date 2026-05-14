@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Chico Buarque também condena genocídio de Israel em Gaza'
 pubDate: 2024-03-01 14:54:40
 slug: "chico-buarque-tambem-condena-genocidio-de-israel-em-gaza"
+tags:
+  - 'geopolitica'
 wp_id: 3596
 ---
 

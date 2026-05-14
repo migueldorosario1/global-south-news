@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Flávio tenta comparar atentado a Trump com o de Bolsonaro em 2018'
 pubDate: 2024-07-15 10:01:43
 slug: "flavio-tenta-comparar-atentado-a-trump-com-o-de-bolsonaro-em-2018"
+tags:
+  - 'nacional'
 wp_id: 4766
 ---
 

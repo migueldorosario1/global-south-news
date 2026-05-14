@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro teve surto e está paranóico com a possibilidade de ser preso'
 pubDate: 2024-02-16 09:25:53
 slug: "bolsonaro-teve-surto-e-esta-paranoico-com-a-possibilidade-de-ser-preso"
+tags:
+  - 'politica-rj'
 wp_id: 3252
 ---
 

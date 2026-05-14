@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Reinaldo Azevedo detona cobertura da mídia sobre a operação da PF contra Carluxo'
 pubDate: 2024-01-31 08:22:32
 slug: "reinaldo-azevedo-detona-cobertura-da-midia-sobre-a-operacao-da-pf-contra-carluxo"
+tags:
+  - 'nacional'
 wp_id: 2773
 ---
 

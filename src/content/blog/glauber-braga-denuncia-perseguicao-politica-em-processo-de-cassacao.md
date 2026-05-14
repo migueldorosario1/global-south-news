@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Glauber Braga denuncia perseguição política em processo de cassação'
 pubDate: 2024-10-19 15:53:44
 slug: "glauber-braga-denuncia-perseguicao-politica-em-processo-de-cassacao"
+tags:
+  - 'nacional'
 wp_id: 5797
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Anitta impede roubo no Carnaval de Salvador'
 pubDate: 2024-02-10 15:51:10
 slug: "anitta-impede-roubo-no-carnaval-de-salvador"
+tags:
+  - 'cultura-carnaval'
 wp_id: 3154
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maus-tratos e sofrimento morre quarta girafa do BioParque no Rio'
 pubDate: 2023-07-09 10:16:00
 slug: "maus-tratos-e-sofrimento-morre-quarta-girafa-do-bioparque-no-rio"
+tags:
+  - 'rio-capital-zona-oeste'
 wp_id: 725
 ---
 

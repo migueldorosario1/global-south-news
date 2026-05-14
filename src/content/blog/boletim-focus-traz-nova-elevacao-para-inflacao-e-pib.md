@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Boletim Focus traz nova elevação para inflação e PIB'
 pubDate: 2024-08-19 09:15:04
 slug: "boletim-focus-traz-nova-elevacao-para-inflacao-e-pib"
+tags:
+  - 'nacional'
 wp_id: 4866
 ---
 

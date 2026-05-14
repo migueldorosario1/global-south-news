@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Rabinos ortodoxos apoiam Lula contra os ataques de Netanyahu'
 pubDate: 2024-02-19 09:24:31
 slug: "rabinos-ortodoxos-apoiam-lula-contra-os-ataques-de-netanyahu"
+tags:
+  - 'geopolitica'
 wp_id: 3309
 ---
 

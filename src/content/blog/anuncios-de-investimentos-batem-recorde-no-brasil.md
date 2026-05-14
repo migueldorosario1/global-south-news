@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Anúncios de investimentos batem recorde no Brasil, diz relatório de banco'
 pubDate: 2024-09-02 16:35:08
 slug: "anuncios-de-investimentos-batem-recorde-no-brasil"
+tags:
+  - 'nacional'
 wp_id: 4981
 ---
 

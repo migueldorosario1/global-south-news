@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'TCU Envia ao STF dados sobre processos de irregularidades em emendas parlamentares'
 pubDate: 2024-08-19 20:53:40
 slug: "tcu-envia-ao-stf-dados-sobre-processos-de-irregularidades-em-emendas-parlamentares"
+tags:
+  - 'nacional'
 wp_id: 4886
 ---
 

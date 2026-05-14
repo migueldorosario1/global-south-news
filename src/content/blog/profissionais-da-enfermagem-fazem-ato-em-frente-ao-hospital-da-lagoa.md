@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Profissionais da enfermagem fazem ato em frente ao Hospital da Lagoa'
 pubDate: 2023-06-19 15:39:51
 slug: "profissionais-da-enfermagem-fazem-ato-em-frente-ao-hospital-da-lagoa"
+tags:
+  - 'lagoa'
 wp_id: 360
 ---
 

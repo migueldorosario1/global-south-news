@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Brasil pode receber quantia anual bilionária com novo fundo para preservação de florestas'
 pubDate: 2024-08-19 09:07:32
 slug: "brasil-pode-receber-quantia-anual-bilionaria-com-novo-fundo-para-preservacao-de-florestas"
+tags:
+  - 'nacional'
 wp_id: 4859
 ---
 

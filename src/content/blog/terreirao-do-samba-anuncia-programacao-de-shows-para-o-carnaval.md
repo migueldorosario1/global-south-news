@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Terreirão do Samba anuncia programação de shows para o Carnaval'
 pubDate: 2024-02-10 13:08:22
 slug: "terreirao-do-samba-anuncia-programacao-de-shows-para-o-carnaval"
+tags:
+  - 'cultura-carnaval'
 wp_id: 3145
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'MEC começa a fazer recuperação de escolas após desastre no Rio Grande do Sul'
 pubDate: 2024-05-06 08:38:06
 slug: "mec-comeca-a-fazer-recuperacao-de-escolas-apos-desastre-no-rio-grande-do-sul"
+tags:
+  - 'nacional'
 wp_id: 4413
 ---
 

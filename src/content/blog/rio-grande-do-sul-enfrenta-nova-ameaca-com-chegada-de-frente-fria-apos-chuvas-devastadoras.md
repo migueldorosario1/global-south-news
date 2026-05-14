@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Rio Grande do Sul enfrenta nova ameaça com chegada de frente fria após chuvas devastadoras'
 pubDate: 2024-05-06 08:42:55
 slug: "rio-grande-do-sul-enfrenta-nova-ameaca-com-chegada-de-frente-fria-apos-chuvas-devastadoras"
+tags:
+  - 'nacional'
 wp_id: 4420
 ---
 

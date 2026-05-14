@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa diz que 60% do público LGBTQIAPN+ sofre violência de familiares'
 pubDate: 2024-06-29 15:39:32
 slug: "pesquisa-diz-que-60-do-publico-lgbtqiapn-sofre-violencia-de-familiares"
+tags:
+  - 'nacional'
 wp_id: 4724
 ---
 

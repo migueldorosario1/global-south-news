@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Jandira Feghali A máquina de ódio não vai nos parar'
 pubDate: 2023-09-25 20:12:36
 slug: "jandira-feghali-a-maquina-de-odio-nao-vai-nos-parar"
+tags:
+  - 'politica-rj'
 wp_id: 1407
 ---
 

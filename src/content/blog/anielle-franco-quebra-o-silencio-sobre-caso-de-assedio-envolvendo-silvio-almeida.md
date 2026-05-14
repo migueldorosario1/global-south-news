@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Anielle Franco quebra o silêncio sobre caso de assédio envolvendo Silvio Almeida'
 pubDate: 2024-10-04 13:41:10
 slug: "anielle-franco-quebra-o-silencio-sobre-caso-de-assedio-envolvendo-silvio-almeida"
+tags:
+  - 'nacional'
 wp_id: 5573
 ---
 

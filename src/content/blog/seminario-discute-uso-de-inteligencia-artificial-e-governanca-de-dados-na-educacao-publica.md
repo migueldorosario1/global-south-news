@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Seminário discute uso de inteligência artificial e governança de dados na educação pública'
 pubDate: 2024-10-19 15:23:47
 slug: "seminario-discute-uso-de-inteligencia-artificial-e-governanca-de-dados-na-educacao-publica"
+tags:
+  - 'educacao'
 wp_id: 5785
 ---
 

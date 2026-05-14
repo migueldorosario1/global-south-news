@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Desabamento em sobrado no Catete deixa feridos e jovem soterrado'
 pubDate: 2025-12-08 12:54:12
 slug: "desabamento-em-sobrado-no-catete-deixa-feridos-e-jovem-soterrado"
+tags:
+  - 'catete'
 wp_id: 7556
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Márcio Ayer Sem retrocessos! Para abrir no feriado, só com acordo'
 pubDate: 2024-02-20 15:43:54
 slug: "marcio-ayer-sem-retrocessos-para-abrir-no-feriado-so-com-acordo"
+tags:
+  - 'politica-rj'
 wp_id: 3340
 ---
 

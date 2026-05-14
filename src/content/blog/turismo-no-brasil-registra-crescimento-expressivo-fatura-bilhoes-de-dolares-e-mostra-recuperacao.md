@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Turismo no Brasil registra crescimento expressivo, fatura bilhões de dólares e mostra recuperação'
 pubDate: 2024-03-18 20:52:11
 slug: "turismo-no-brasil-registra-crescimento-expressivo-fatura-bilhoes-de-dolares-e-mostra-recuperacao"
+tags:
+  - 'nacional'
 wp_id: 3843
 ---
 

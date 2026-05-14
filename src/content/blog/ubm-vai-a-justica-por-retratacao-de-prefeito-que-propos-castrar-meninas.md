@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'UBM vai à Justiça por retratação de prefeito que propôs castrar meninas'
 pubDate: 2023-09-20 11:08:43
 slug: "ubm-vai-a-justica-por-retratacao-de-prefeito-que-propos-castrar-meninas"
+tags:
+  - 'politica-rj'
 wp_id: 1390
 ---
 

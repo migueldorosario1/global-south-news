@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Queda de avião em praia de Ubatuba (SP) deixa quatro feridos e piloto preso nas ferragens'
 pubDate: 2025-01-09 11:50:20
 slug: "queda-de-aviao-em-praia-de-ubatuba-sp-deixa-quatro-feridos-e-piloto-preso-nas-ferragens"
+tags:
+  - 'nacional'
 wp_id: 6390
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Vale propõe acordo de R$ 170 bilhões para reparação de anos em Mariana'
 pubDate: 2024-10-19 14:54:14
 slug: "vale-propoe-acordo-de-r-170-bilhoes-para-reparacao-de-anos-em-mariana"
+tags:
+  - 'nacional'
 wp_id: 5776
 ---
 

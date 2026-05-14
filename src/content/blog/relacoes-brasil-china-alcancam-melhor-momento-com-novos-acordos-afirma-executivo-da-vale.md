@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Relações Brasil-China alcançam melhor momento com novos acordos, afirma executivo da Vale'
 pubDate: 2024-12-01 11:22:04
 slug: "relacoes-brasil-china-alcancam-melhor-momento-com-novos-acordos-afirma-executivo-da-vale"
+tags:
+  - 'geopolitica'
 wp_id: 6085
 ---
 

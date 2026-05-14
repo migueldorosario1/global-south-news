@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'FBI confirma que suspeito de ataque nos EUA agiu sozinho e que apoia o Estado Islâmico'
 pubDate: 2025-01-02 15:51:11
 slug: "fbi-confirma-que-suspeito-de-ataque-nos-eua-agiu-sozinho-e-que-apoia-o-estado-islamico"
+tags:
+  - 'geopolitica'
 wp_id: 6310
 ---
 

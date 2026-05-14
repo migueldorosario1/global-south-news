@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Aprovação do Governo Lula chega a 67,6%, aponta pesquisa CNT/MDA'
 pubDate: 2024-11-12 19:49:29
 slug: "aprovacao-do-governo-lula-chega-a-676-aponta-pesquisa-cnt-mda"
+tags:
+  - 'nacional'
 wp_id: 5998
 ---
 

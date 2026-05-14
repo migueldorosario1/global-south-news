@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Pastor Anderson Silva recebe ligação da PF após oração contra Lula'
 pubDate: 2024-01-28 11:00:00
 slug: "pastor-anderson-silva-recebe-ligacao-da-pf-apos-oracao-contra-lula"
+tags:
+  - 'nacional'
 wp_id: 2578
 ---
 

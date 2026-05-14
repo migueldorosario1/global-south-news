@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Desde 2018, mais de 7.800 pessoas morreram devido a intervenções de agentes do Estado no Rio'
 pubDate: 2023-08-03 10:59:39
 slug: "desde-2018-mais-de-7-800-pessoas-morreram-devido-a-intervencoes-de-agentes-do-estado-no-rio"
+tags:
+  - 'seguranca-publica'
 wp_id: 1019
 ---
 

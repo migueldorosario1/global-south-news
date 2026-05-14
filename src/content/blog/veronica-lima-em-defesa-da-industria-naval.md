@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Verônica Lima Em defesa da Indústria Naval!'
 pubDate: 2024-03-15 14:20:18
 slug: "veronica-lima-em-defesa-da-industria-naval"
+tags:
+  - 'nacional'
 wp_id: 3787
 ---
 

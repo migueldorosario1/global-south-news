@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Desmatamento na Amazônia despenca brutalmente em janeiro'
 pubDate: 2024-02-21 20:07:17
 slug: "desmatamento-na-amazonia-despenca-brutalmente-em-janeiro"
+tags:
+  - 'nacional'
 wp_id: 3380
 ---
 

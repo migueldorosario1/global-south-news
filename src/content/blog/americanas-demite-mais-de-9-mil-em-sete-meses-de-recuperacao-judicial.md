@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Americanas demite mais de 9 mil em sete meses de recuperação judicial'
 pubDate: 2023-08-28 11:48:16
 slug: "americanas-demite-mais-de-9-mil-em-sete-meses-de-recuperacao-judicial"
+tags:
+  - 'nacional'
 wp_id: 1223
 ---
 

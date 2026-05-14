@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Relatório Focus traz novas projeções para inflação e PIB'
 pubDate: 2024-10-14 17:28:32
 slug: "relatorio-focus-traz-novas-projecoes-para-inflacao-e-pib"
+tags:
+  - 'nacional'
 wp_id: 5714
 ---
 

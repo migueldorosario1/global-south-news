@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula inicia 2024 com alto índice de aprovação, diz AtlasIntel'
 pubDate: 2024-02-06 16:51:06
 slug: "lula-inicia-2024-com-alto-indice-de-aprovacao-diz-atlasintel"
+tags:
+  - 'nacional'
 wp_id: 3051
 ---
 

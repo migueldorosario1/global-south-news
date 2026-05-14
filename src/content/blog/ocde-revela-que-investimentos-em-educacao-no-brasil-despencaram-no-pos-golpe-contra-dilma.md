@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'OCDE revela que investimentos em educação no Brasil despencaram no pós-golpe contra Dilma'
 pubDate: 2024-09-10 10:46:45
 slug: "ocde-revela-que-investimentos-em-educacao-no-brasil-despencaram-no-pos-golpe-contra-dilma"
+tags:
+  - 'educacao'
 wp_id: 5139
 ---
 

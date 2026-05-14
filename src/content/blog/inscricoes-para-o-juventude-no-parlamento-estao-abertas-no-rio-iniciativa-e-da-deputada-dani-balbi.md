@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Inscrições para o Juventude no Parlamento estão abertas no Rio; iniciativa é da deputada Dani Balbi'
 pubDate: 2025-04-09 19:00:53
 slug: "inscricoes-para-o-juventude-no-parlamento-estao-abertas-no-rio-iniciativa-e-da-deputada-dani-balbi"
+tags:
+  - 'politica-rj'
 wp_id: 6792
 ---
 

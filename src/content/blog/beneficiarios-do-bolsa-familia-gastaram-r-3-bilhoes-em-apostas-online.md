@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Beneficiários do Bolsa Família gastaram R$ 3 bilhões em apostas online'
 pubDate: 2024-09-25 05:26:00
 slug: "beneficiarios-do-bolsa-familia-gastaram-r-3-bilhoes-em-apostas-online"
+tags:
+  - 'nacional'
 wp_id: 5468
 ---
 

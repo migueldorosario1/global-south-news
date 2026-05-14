@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'iFood registra aumento de 9,2% nos ganhos por hora de entregadores entre 2022 e 2023'
 pubDate: 2024-09-19 18:57:30
 slug: "ifood-registra-aumento-de-92-nos-ganhos-por-hora-de-entregadores-entre-2022-e-2023"
+tags:
+  - 'nacional'
 wp_id: 5331
 ---
 

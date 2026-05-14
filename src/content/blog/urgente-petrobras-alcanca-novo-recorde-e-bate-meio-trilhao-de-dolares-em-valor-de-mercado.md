@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Urgente! Petrobras alcança novo recorde e bate meio trilhão de dólares em valor de mercado'
 pubDate: 2024-02-17 11:55:24
 slug: "urgente-petrobras-alcanca-novo-recorde-e-bate-meio-trilhao-de-dolares-em-valor-de-mercado"
+tags:
+  - 'nacional'
 wp_id: 3284
 ---
 

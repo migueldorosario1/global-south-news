@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Tesouro nacional revisa metas de financiamento e aumenta participação de títulos atrelados à Selic'
 pubDate: 2024-09-04 19:07:05
 slug: "tesouro-nacional-revisa-metas-de-financiamento-e-aumenta-participacao-de-titulos-atrelados-a-selic"
+tags:
+  - 'nacional'
 wp_id: 5079
 ---
 

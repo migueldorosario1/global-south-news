@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'CBF bate martelo e Fernando Diniz será o técnico interino da Seleção'
 pubDate: 2023-07-04 20:35:02
 slug: "cbf-bate-martelo-e-fernando-diniz-sera-o-tecnico-interino-da-selecao"
+tags:
+  - 'nacional'
 wp_id: 633
 ---
 

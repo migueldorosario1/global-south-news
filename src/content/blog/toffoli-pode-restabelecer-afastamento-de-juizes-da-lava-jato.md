@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Toffoli pode restabelecer afastamento de juízes da Lava Jato'
 pubDate: 2024-04-19 09:16:12
 slug: "toffoli-pode-restabelecer-afastamento-de-juizes-da-lava-jato"
+tags:
+  - 'nacional'
 wp_id: 4247
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Golpistas que foram presos pela PF estão desesperados para fechar acordo de delação premiada'
 pubDate: 2024-02-25 09:11:39
 slug: "golpistas-que-foram-presos-pela-pf-estao-desesperados-para-fechar-acordo-de-delacao-premiada"
+tags:
+  - 'nacional'
 wp_id: 3448
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Pastor é denunciado por importunação sexual em Goiás'
 pubDate: 2024-04-16 09:26:30
 slug: "pastor-e-denunciado-por-importunacao-sexual-em-goias"
+tags:
+  - 'nacional'
 wp_id: 4202
 ---
 

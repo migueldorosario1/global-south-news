@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'STF debate critérios para diferenciar usuário de traficante de Maconha'
 pubDate: 2024-06-26 06:50:14
 slug: "stf-debate-criterios-para-diferenciar-usuario-de-traficante-de-maconha"
+tags:
+  - 'nacional'
 wp_id: 4698
 ---
 

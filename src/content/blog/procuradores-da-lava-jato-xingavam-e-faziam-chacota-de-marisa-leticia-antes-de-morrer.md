@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Procuradores da Lava Jato xingavam e faziam chacota de Marisa Letícia antes de morrer'
 pubDate: 2024-03-14 15:42:11
 slug: "procuradores-da-lava-jato-xingavam-e-faziam-chacota-de-marisa-leticia-antes-de-morrer"
+tags:
+  - 'nacional'
 wp_id: 3783
 ---
 

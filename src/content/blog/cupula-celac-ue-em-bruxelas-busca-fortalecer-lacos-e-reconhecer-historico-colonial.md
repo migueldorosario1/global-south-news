@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Cúpula CELAC-UE em Bruxelas busca fortalecer laços e reconhecer histórico colonial'
 pubDate: 2024-09-23 19:13:04
 slug: "cupula-celac-ue-em-bruxelas-busca-fortalecer-lacos-e-reconhecer-historico-colonial"
+tags:
+  - 'geopolitica'
 wp_id: 5369
 ---
 

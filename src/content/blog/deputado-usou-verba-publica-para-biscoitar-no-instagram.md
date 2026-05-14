@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Deputado usou verba pública para biscoitar no Instagram'
 pubDate: 2024-04-26 09:24:27
 slug: "deputado-usou-verba-publica-para-biscoitar-no-instagram"
+tags:
+  - 'politica-rj'
 wp_id: 4331
 ---
 

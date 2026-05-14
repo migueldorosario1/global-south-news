@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maricá amplia vagas em creches e avança para zerar fila de espera no município'
 pubDate: 2026-03-10 13:59:28
 slug: "marica-amplia-vagas-em-creches-e-avanca-para-zerar-fila-de-espera-no-municipio"
+tags:
+  - 'marica'
 wp_id: 7728
 ---
 

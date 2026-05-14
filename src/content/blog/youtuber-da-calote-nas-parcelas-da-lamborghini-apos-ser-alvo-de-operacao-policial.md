@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Youtuber dá calote nas parcelas da Lamborghini após ser alvo de operação policial'
 pubDate: 2024-02-16 10:14:42
 slug: "youtuber-da-calote-nas-parcelas-da-lamborghini-apos-ser-alvo-de-operacao-policial"
+tags:
+  - 'nacional'
 wp_id: 3259
 ---
 

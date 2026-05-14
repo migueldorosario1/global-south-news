@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maricá derruba casos de sarna humana'
 pubDate: 2025-11-18 13:31:41
 slug: "marica-derruba-casos-de-sarna-humana"
+tags:
+  - 'regiao-metropolitana'
 wp_id: 7374
 ---
 

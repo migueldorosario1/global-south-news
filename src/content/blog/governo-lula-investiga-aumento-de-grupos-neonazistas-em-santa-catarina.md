@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula investiga aumento de grupos neonazistas em Santa Catarina'
 pubDate: 2024-03-18 09:31:35
 slug: "governo-lula-investiga-aumento-de-grupos-neonazistas-em-santa-catarina"
+tags:
+  - 'nacional'
 wp_id: 3828
 ---
 

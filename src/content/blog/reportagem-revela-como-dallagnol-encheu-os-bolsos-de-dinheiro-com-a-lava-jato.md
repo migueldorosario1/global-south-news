@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Reportagem revela como Dallagnol encheu os bolsos de dinheiro com a Lava Jato'
 pubDate: 2024-03-03 08:37:04
 slug: "reportagem-revela-como-dallagnol-encheu-os-bolsos-de-dinheiro-com-a-lava-jato"
+tags:
+  - 'nacional'
 wp_id: 3614
 ---
 

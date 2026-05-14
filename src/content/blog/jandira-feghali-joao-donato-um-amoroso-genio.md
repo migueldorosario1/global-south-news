@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Jandira Feghali João Donato, um amoroso gênio!'
 pubDate: 2023-07-27 12:57:35
 slug: "jandira-feghali-joao-donato-um-amoroso-genio"
+tags:
+  - 'cultura-carnaval'
 wp_id: 912
 ---
 

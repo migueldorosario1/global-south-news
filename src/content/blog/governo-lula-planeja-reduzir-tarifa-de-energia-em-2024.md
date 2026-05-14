@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula planeja reduzir tarifa de energia em 2024'
 pubDate: 2024-03-28 09:41:45
 slug: "governo-lula-planeja-reduzir-tarifa-de-energia-em-2024"
+tags:
+  - 'nacional'
 wp_id: 3989
 ---
 

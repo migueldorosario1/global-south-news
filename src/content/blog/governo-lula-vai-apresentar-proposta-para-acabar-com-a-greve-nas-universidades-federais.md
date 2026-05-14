@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula vai apresentar proposta para acabar com a greve nas universidades federais'
 pubDate: 2024-04-19 09:35:14
 slug: "governo-lula-vai-apresentar-proposta-para-acabar-com-a-greve-nas-universidades-federais"
+tags:
+  - 'nacional'
 wp_id: 4258
 ---
 

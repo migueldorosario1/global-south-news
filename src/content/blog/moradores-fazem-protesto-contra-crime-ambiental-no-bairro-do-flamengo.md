@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Moradores fazem protesto contra crime ambiental no bairro do Flamengo na manhã deste sábado'
 pubDate: 2026-01-10 11:55:16
 slug: "moradores-fazem-protesto-contra-crime-ambiental-no-bairro-do-flamengo"
+tags:
+  - 'flamengo'
 wp_id: 7584
 ---
 

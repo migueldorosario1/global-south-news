@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Boletim Focus Mercado reduz (de novo) expectativa para inflação de 2024'
 pubDate: 2024-01-30 12:50:49
 slug: "boletim-focus-mercado-reduz-de-novo-expectativa-para-inflacao-de-2024"
+tags:
+  - 'nacional'
 wp_id: 2707
 ---
 

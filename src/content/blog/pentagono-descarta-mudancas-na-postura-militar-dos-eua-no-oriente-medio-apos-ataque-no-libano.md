@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Pentágono descarta mudanças na postura militar dos EUA no Oriente Médio após ataque no Líbano'
 pubDate: 2024-09-19 19:05:39
 slug: "pentagono-descarta-mudancas-na-postura-militar-dos-eua-no-oriente-medio-apos-ataque-no-libano"
+tags:
+  - 'geopolitica'
 wp_id: 5334
 ---
 

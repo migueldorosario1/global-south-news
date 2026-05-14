@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Pedido de impeachment contra secretário de segurança de São Paulo é protocolado na Alesp'
 pubDate: 2024-12-08 09:35:44
 slug: "pedido-de-impeachment-contra-secretario-de-seguranca-de-sao-paulo-e-protocolado-na-alesp"
+tags:
+  - 'nacional'
 wp_id: 6128
 ---
 

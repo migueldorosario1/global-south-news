@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ex-comandantes jogam Bolsonaro no colo de Xandão'
 pubDate: 2024-03-04 22:49:47
 slug: "ex-comandantes-jogam-bolsonaro-no-colo-de-xandao"
+tags:
+  - 'nacional'
 wp_id: 3645
 ---
 

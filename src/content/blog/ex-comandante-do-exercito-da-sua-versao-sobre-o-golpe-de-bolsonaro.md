@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ex-comandante do Exército dá sua versão sobre o golpe de Bolsonaro'
 pubDate: 2024-02-16 22:27:14
 slug: "ex-comandante-do-exercito-da-sua-versao-sobre-o-golpe-de-bolsonaro"
+tags:
+  - 'nacional'
 wp_id: 3277
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula confirma viagem à Bolívia apesar de tentativa de golpe no país'
 pubDate: 2024-06-27 06:33:04
 slug: "lula-confirma-viagem-a-bolivia-apesar-de-tentativa-de-golpe-no-pais"
+tags:
+  - 'geopolitica'
 wp_id: 4708
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Vereador critica conteúdo explícito em show de Anitta e questões de segurança no réveillon do Rio'
 pubDate: 2025-01-06 06:59:25
 slug: "vereador-critica-conteudo-explicito-em-show-de-anitta-e-questoes-de-seguranca-no-reveillon-do-rio"
+tags:
+  - 'rio-de-janeiro'
 wp_id: 6344
 ---
 

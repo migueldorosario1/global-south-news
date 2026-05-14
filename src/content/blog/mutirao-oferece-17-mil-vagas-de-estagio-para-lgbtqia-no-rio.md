@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Mutirão oferece 1,7 mil vagas de estágio para LGBTQIA+ no Rio'
 pubDate: 2023-09-11 14:55:53
 slug: "mutirao-oferece-17-mil-vagas-de-estagio-para-lgbtqia-no-rio"
+tags:
+  - 'rio-de-janeiro'
 wp_id: 1336
 ---
 

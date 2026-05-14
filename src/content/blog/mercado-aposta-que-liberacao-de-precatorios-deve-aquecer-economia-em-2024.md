@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Mercado aposta que liberação de precatórios deve aquecer economia em 2024'
 pubDate: 2024-01-31 05:24:00
 slug: "mercado-aposta-que-liberacao-de-precatorios-deve-aquecer-economia-em-2024"
+tags:
+  - 'nacional'
 wp_id: 2660
 ---
 

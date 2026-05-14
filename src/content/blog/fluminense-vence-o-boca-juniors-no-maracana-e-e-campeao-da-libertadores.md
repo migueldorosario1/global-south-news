@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Fluminense vence o Boca Juniors no Maracanã e é campeão da Libertadores'
 pubDate: 2023-11-05 18:30:04
 slug: "fluminense-vence-o-boca-juniors-no-maracana-e-e-campeao-da-libertadores"
+tags:
+  - 'maracana'
 wp_id: 1814
 ---
 

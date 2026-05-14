@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Voz dos trabalhadores do Rio ecoa em Genebra'
 pubDate: 2025-06-24 13:24:35
 slug: "voz-dos-trabalhadores-do-rio-ecoa-em-genebra"
+tags:
+  - 'nacional'
 wp_id: 6945
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Civis em Gaza continuam sendo brutalmente atacados por soldados israelenses'
 pubDate: 2024-01-30 05:49:00
 slug: "civis-em-gaza-continuam-sendo-brutalmente-atacados-por-soldados-israelenses"
+tags:
+  - 'geopolitica'
 wp_id: 2639
 ---
 

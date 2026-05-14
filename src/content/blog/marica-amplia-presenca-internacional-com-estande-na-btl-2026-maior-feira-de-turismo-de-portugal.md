@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maricá amplia presença internacional com estande na BTL 2026, maior feira de turismo de Portugal'
 pubDate: 2026-02-25 18:34:54
 slug: "marica-amplia-presenca-internacional-com-estande-na-btl-2026-maior-feira-de-turismo-de-portugal"
+tags:
+  - 'marica'
 wp_id: 7701
 ---
 

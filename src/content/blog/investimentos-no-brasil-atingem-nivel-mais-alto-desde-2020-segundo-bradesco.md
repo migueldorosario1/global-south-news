@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Investimentos no Brasil atingem nível mais alto desde 2020, segundo Bradesco'
 pubDate: 2024-09-02 18:55:59
 slug: "investimentos-no-brasil-atingem-nivel-mais-alto-desde-2020-segundo-bradesco"
+tags:
+  - 'nacional'
 wp_id: 5005
 ---
 

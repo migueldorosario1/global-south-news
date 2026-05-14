@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Torcedores realizam Bandeiraço e lotam a praia de Copacabana'
 pubDate: 2023-11-03 19:27:38
 slug: "torcedores-realizam-bandeiraco-e-lotam-a-praia-de-copacabana"
+tags:
+  - 'rio-capital-zona-sul-grande-tijuca'
 wp_id: 1787
 ---
 

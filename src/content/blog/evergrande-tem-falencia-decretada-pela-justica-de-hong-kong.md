@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Evergrande tem falência decretada pela Justiça de Hong Kong'
 pubDate: 2024-01-29 11:02:45
 slug: "evergrande-tem-falencia-decretada-pela-justica-de-hong-kong"
+tags:
+  - 'geopolitica'
 wp_id: 2623
 ---
 

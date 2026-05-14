@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Billboard seleciona 30 pessoas trans que se destacam na sociedade'
 pubDate: 2026-01-30 16:58:02
 slug: "billboard-seleciona-30-pessoas-trans-que-se-destacam-na-sociedade"
+tags:
+  - 'nacional'
 wp_id: 7627
 ---
 

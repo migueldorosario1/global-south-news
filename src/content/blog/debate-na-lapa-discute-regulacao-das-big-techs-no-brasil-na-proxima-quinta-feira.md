@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Debate na Lapa discute regulação das big techs no Brasil na próxima quinta-feira'
 pubDate: 2025-09-12 10:02:47
 slug: "debate-na-lapa-discute-regulacao-das-big-techs-no-brasil-na-proxima-quinta-feira"
+tags:
+  - 'lapa'
 wp_id: 7148
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Terceiro voo da FAB Parte para o Líbano para repatriação de brasileiros'
 pubDate: 2024-10-08 19:14:14
 slug: "terceiro-voo-da-fab-parte-para-o-libano-para-repatriacao-de-brasileiros"
+tags:
+  - 'geopolitica'
 wp_id: 5628
 ---
 

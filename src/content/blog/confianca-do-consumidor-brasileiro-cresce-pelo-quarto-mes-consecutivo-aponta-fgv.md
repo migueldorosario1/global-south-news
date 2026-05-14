@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Confiança do consumidor brasileiro cresce pelo quarto mês consecutivo, aponta FGV'
 pubDate: 2024-09-24 20:07:50
 slug: "confianca-do-consumidor-brasileiro-cresce-pelo-quarto-mes-consecutivo-aponta-fgv"
+tags:
+  - 'nacional'
 wp_id: 5447
 ---
 

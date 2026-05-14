@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Sede da Igreja Mundial será leiloada para quitar dívida de aluguel'
 pubDate: 2024-03-14 09:34:57
 slug: "sede-da-igreja-mundial-sera-leiloada-para-quitar-divida-de-aluguel"
+tags:
+  - 'nacional'
 wp_id: 3766
 ---
 

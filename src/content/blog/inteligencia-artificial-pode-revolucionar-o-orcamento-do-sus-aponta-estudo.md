@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Inteligência artificial pode revolucionar o orçamento do SUS, aponta estudo'
 pubDate: 2026-04-01 20:28:39
 slug: "inteligencia-artificial-pode-revolucionar-o-orcamento-do-sus-aponta-estudo"
+tags:
+  - 'nacional'
 wp_id: 7765
 ---
 

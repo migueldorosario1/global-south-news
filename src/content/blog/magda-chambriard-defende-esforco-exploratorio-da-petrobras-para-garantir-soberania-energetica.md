@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Magda Chambriard defende esforço exploratório da Petrobras para garantir soberania energética'
 pubDate: 2024-05-28 09:24:09
 slug: "magda-chambriard-defende-esforco-exploratorio-da-petrobras-para-garantir-soberania-energetica"
+tags:
+  - 'nacional'
 wp_id: 4534
 ---
 

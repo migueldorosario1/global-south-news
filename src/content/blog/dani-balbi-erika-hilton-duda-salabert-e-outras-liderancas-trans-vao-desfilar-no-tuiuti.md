@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi, Érika Hilton, Duda Salabert e outras lideranças trans vão desfilar no Tuiuti'
 pubDate: 2025-01-28 10:41:34
 slug: "dani-balbi-erika-hilton-duda-salabert-e-outras-liderancas-trans-vao-desfilar-no-tuiuti"
+tags:
+  - 'cultura-carnaval'
 wp_id: 6523
 ---
 

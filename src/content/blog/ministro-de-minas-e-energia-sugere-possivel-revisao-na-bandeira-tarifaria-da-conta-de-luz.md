@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ministro de Minas e Energia sugere possível revisão na bandeira tarifária da conta de luz'
 pubDate: 2024-09-04 18:51:14
 slug: "ministro-de-minas-e-energia-sugere-possivel-revisao-na-bandeira-tarifaria-da-conta-de-luz"
+tags:
+  - 'nacional'
 wp_id: 5076
 ---
 

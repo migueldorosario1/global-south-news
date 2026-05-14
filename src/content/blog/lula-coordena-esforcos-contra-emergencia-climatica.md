@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula coordena esforços contra emergência climática'
 pubDate: 2024-09-18 18:54:32
 slug: "lula-coordena-esforcos-contra-emergencia-climatica"
+tags:
+  - 'nacional'
 wp_id: 5307
 ---
 

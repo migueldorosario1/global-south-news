@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Caso Marielle chega ao STF por envolvimento de pessoa com foro privilegiado'
 pubDate: 2024-03-19 19:34:32
 slug: "caso-marielle-chega-ao-stf-por-envolvimento-de-pessoa-com-foro-privilegiado"
+tags:
+  - 'nacional'
 wp_id: 3875
 ---
 

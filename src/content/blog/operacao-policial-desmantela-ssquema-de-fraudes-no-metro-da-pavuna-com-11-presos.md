@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Operação policial desmantela ssquema de fraudes no metrô da pavuna com 11 presos'
 pubDate: 2024-01-10 20:30:00
 slug: "operacao-policial-desmantela-ssquema-de-fraudes-no-metro-da-pavuna-com-11-presos"
+tags:
+  - 'pavuna'
 wp_id: 2352
 ---
 

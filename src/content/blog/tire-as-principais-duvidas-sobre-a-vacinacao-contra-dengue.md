@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Tire as principais dúvidas sobre a vacinação contra dengue'
 pubDate: 2024-02-11 05:55:00
 slug: "tire-as-principais-duvidas-sobre-a-vacinacao-contra-dengue"
+tags:
+  - 'saude'
 wp_id: 3136
 ---
 

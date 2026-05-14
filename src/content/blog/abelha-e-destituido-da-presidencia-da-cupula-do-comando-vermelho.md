@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Abelha é destituido da presidência da cúpula do Comando Vermelho'
 pubDate: 2023-11-28 08:00:00
 slug: "abelha-e-destituido-da-presidencia-da-cupula-do-comando-vermelho"
+tags:
+  - 'seguranca-publica'
 wp_id: 2035
 ---
 

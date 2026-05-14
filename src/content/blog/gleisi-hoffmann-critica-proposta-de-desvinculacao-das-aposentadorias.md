@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann critica proposta de desvinculação das Aposentadorias'
 pubDate: 2024-08-19 21:14:05
 slug: "gleisi-hoffmann-critica-proposta-de-desvinculacao-das-aposentadorias"
+tags:
+  - 'nacional'
 wp_id: 4891
 ---
 

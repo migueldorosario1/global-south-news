@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'PT declara apoio à proposta de extinção da jornada 6x1 no Congresso Nacional'
 pubDate: 2024-11-12 19:35:01
 slug: "pt-declara-apoio-a-proposta-de-extincao-da-jornada-6x1-no-congresso-nacional"
+tags:
+  - 'nacional'
 wp_id: 5995
 ---
 

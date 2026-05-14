@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'O último pedido de Patrícia Abravanel antes da morte de Sílvio Santos'
 pubDate: 2024-08-20 08:56:19
 slug: "o-ultimo-pedido-de-patricia-abravanel-antes-da-morte-de-silvio-santos"
+tags:
+  - 'nacional'
 wp_id: 4898
 ---
 

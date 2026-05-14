@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ministério da Agricultura recolhe lotes de Café impróprio para consumo'
 pubDate: 2024-07-02 07:54:22
 slug: "ministerio-da-agricultura-recolhe-lotes-de-cafe-improprio-para-consumo"
+tags:
+  - 'nacional'
 wp_id: 4748
 ---
 

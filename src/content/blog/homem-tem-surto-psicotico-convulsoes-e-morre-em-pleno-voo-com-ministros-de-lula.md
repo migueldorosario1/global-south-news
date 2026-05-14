@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Homem tem surto psicótico, convulsões e morre em pleno voo com ministros de Lula'
 pubDate: 2024-02-16 18:41:46
 slug: "homem-tem-surto-psicotico-convulsoes-e-morre-em-pleno-voo-com-ministros-de-lula"
+tags:
+  - 'nacional'
 wp_id: 3274
 ---
 

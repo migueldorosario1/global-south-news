@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula anuncia Medida Provisória para estabelecer Estatuto Jurídico da emergência climática'
 pubDate: 2024-09-11 19:25:51
 slug: "lula-anuncia-medida-provisoria-para-estabelecer-estatuto-juridico-da-emergencia-climatica"
+tags:
+  - 'nacional'
 wp_id: 5183
 ---
 

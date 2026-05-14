@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Brasil avança na redução de dependência de fertilizantes com inauguração de Complexo em MG'
 pubDate: 2024-03-14 09:50:05
 slug: "brasil-avanca-na-reducao-de-dependencia-de-fertilizantes-com-inauguracao-de-complexo-em-mg"
+tags:
+  - 'nacional'
 wp_id: 3773
 ---
 

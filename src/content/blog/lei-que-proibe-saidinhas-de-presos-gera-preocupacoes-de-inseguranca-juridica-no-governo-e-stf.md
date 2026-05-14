@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lei que proíbe saidinhas de presos gera preocupações de insegurança jurídica no governo e STF'
 pubDate: 2024-05-29 09:29:39
 slug: "lei-que-proibe-saidinhas-de-presos-gera-preocupacoes-de-inseguranca-juridica-no-governo-e-stf"
+tags:
+  - 'nacional'
 wp_id: 4545
 ---
 

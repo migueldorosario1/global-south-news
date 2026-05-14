@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Thammy Miranda abandona programa do Ratinho após comentários transfóbicos do apresentador'
 pubDate: 2024-03-01 15:19:35
 slug: "thammy-miranda-abandona-programa-do-ratinho-apos-comentarios-transfobicos-do-apresentador"
+tags:
+  - 'nacional'
 wp_id: 3609
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Aldo Arantes lança o livro “Domínio das mentes” no Rio dia 06/11'
 pubDate: 2024-11-02 09:45:25
 slug: "aldo-arantes-lanca-o-livro-dominio-das-mentes-no-rio-dia-06-11"
+tags:
+  - 'cultura-carnaval'
 wp_id: 5931
 ---
 

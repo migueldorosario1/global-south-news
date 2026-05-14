@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura do Rio inaugura dois Ginásios Educacionais Tecnológicos na Zona Oeste'
 pubDate: 2024-02-07 07:39:03
 slug: "prefeitura-do-rio-inaugura-dois-ginasios-educacionais-tecnologicos-na-zona-oeste"
+tags:
+  - 'rio-capital-zona-oeste'
 wp_id: 3055
 ---
 

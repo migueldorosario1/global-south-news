@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Brasileiros vítimas de violência brutal em Portugal polícia identifica seis suspeitos'
 pubDate: 2024-01-10 19:30:00
 slug: "brasileiros-vitimas-de-violencia-brutal-em-portugal-policia-identifica-seis-suspeitos"
+tags:
+  - 'geopolitica'
 wp_id: 2346
 ---
 

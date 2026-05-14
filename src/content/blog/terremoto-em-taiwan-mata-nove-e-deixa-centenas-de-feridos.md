@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Terremoto em Taiwan mata nove e deixa centenas de feridos'
 pubDate: 2024-04-03 10:25:05
 slug: "terremoto-em-taiwan-mata-nove-e-deixa-centenas-de-feridos"
+tags:
+  - 'geopolitica'
 wp_id: 4042
 ---
 

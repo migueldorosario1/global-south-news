@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Presidente do Coren reúne-se com ministra de Ciência e Tecnologia'
 pubDate: 2024-12-14 16:32:40
 slug: "presidente-do-coren-reune-se-com-ministra-de-ciencia-e-tecnologia"
+tags:
+  - 'nacional'
 wp_id: 6208
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula indica o Diplomata André Corrêa do Lago para presidir a COP 30 em Belém'
 pubDate: 2025-01-21 13:54:48
 slug: "lula-indica-o-diplomata-andre-correa-do-lago-para-presidir-a-cop-30-em-belem"
+tags:
+  - 'nacional'
 wp_id: 6499
 ---
 

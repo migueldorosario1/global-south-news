@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'STF defende regulamentação de plataformas digitais para combater fake news e discursos de ódio'
 pubDate: 2024-10-19 13:28:19
 slug: "stf-defende-regulamentacao-de-plataformas-digitais-para-combater-fake-news-e-discursos-de-odio"
+tags:
+  - 'nacional'
 wp_id: 5752
 ---
 

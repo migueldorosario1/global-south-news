@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ministros visitam Gramado e Canela para traçar plano de recuperação do turismo gaúcho'
 pubDate: 2024-06-06 10:03:30
 slug: "ministros-visitam-gramado-e-canela-para-tracar-plano-de-recuperacao-do-turismo-gaucho"
+tags:
+  - 'nacional'
 wp_id: 4586
 ---
 

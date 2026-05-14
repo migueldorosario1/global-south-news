@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro quase confessa sua articulação na trama golpista'
 pubDate: 2024-02-28 15:38:46
 slug: "bolsonaro-quase-confessa-sua-articulacao-na-trama-golpista"
+tags:
+  - 'nacional'
 wp_id: 3555
 ---
 

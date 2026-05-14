@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Fatalidade na Turquia britânica de 26 anos falece após buscar Bumbum Brasileiro em cirurgia'
 pubDate: 2024-01-10 20:00:00
 slug: "fatalidade-na-turquia-britanica-de-26-anos-falece-apos-buscar-bumbum-brasileiro-em-cirurgia"
+tags:
+  - 'geopolitica'
 wp_id: 2349
 ---
 

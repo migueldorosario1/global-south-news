@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Policial da Core é morto em tocaia no Rio'
 pubDate: 2025-03-31 09:49:19
 slug: "policial-da-core-e-morto-em-tocaia-no-rio"
+tags:
+  - 'seguranca-publica'
 wp_id: 6706
 ---
 

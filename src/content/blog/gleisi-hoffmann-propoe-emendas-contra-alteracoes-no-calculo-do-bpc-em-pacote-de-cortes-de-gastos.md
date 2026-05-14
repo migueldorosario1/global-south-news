@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann propõe emendas contra alterações no cálculo do BPC em Pacote de cortes de gastos'
 pubDate: 2024-12-17 15:48:45
 slug: "gleisi-hoffmann-propoe-emendas-contra-alteracoes-no-calculo-do-bpc-em-pacote-de-cortes-de-gastos"
+tags:
+  - 'nacional'
 wp_id: 6243
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula sanciona lei para dinamizar setor naval e petrolífero com novos incentivos fiscais'
 pubDate: 2024-12-27 11:45:08
 slug: "lula-sanciona-lei-para-dinamizar-setor-naval-e-petrolifero-com-novos-incentivos-fiscais"
+tags:
+  - 'nacional'
 wp_id: 6300
 ---
 

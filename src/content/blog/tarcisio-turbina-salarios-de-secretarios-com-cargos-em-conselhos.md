@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Tarcísio turbina salários de secretários com cargos em conselhos'
 pubDate: 2024-05-09 09:25:15
 slug: "tarcisio-turbina-salarios-de-secretarios-com-cargos-em-conselhos"
+tags:
+  - 'nacional'
 wp_id: 4438
 ---
 

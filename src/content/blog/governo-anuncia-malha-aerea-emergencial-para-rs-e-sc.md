@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo anuncia malha aérea emergencial para RS e SC'
 pubDate: 2024-05-10 09:02:45
 slug: "governo-anuncia-malha-aerea-emergencial-para-rs-e-sc"
+tags:
+  - 'nacional'
 wp_id: 4459
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Dólar fecha próximo da estabilidade no Brasil, apesar de ganhar força no mercado global'
 pubDate: 2024-10-17 20:20:26
 slug: "dolar-fecha-proximo-da-estabilidade-no-brasil-apesar-de-ganhar-forca-no-mercado-global"
+tags:
+  - 'nacional'
 wp_id: 5734
 ---
 

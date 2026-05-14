@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Cúpula bolsonarista admite que ato em Copacabana foi um fracasso'
 pubDate: 2024-04-25 09:59:09
 slug: "cupula-bolsonarista-admite-que-ato-em-copacabana-foi-um-fracasso"
+tags:
+  - 'nacional'
 wp_id: 4298
 ---
 

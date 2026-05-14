@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'PF avança investigações sobre Senador Marcos do Val por acusações de corrupção de menores e intimidação de Delegado'
 pubDate: 2024-09-24 20:29:31
 slug: "pf-avanca-investigacoes-sobre-senador-marcos-do-val-por-acusacoes-de-corrupcao-de-menores-e-intimidacao-de-delegado"
+tags:
+  - 'nacional'
 wp_id: 5450
 ---
 

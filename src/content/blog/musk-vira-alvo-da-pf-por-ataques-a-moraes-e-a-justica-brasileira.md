@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Musk vira alvo da PF por ataques a Moraes e a justiça brasileira'
 pubDate: 2024-04-09 09:58:15
 slug: "musk-vira-alvo-da-pf-por-ataques-a-moraes-e-a-justica-brasileira"
+tags:
+  - 'nacional'
 wp_id: 4122
 ---
 

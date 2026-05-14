@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Fundação Maurício Grabois publica nota técnica em defesa do fim da escala 6×1'
 pubDate: 2026-03-06 17:55:24
 slug: "fundacao-mauricio-grabois-publica-nota-tecnica-em-defesa-do-fim-da-escala-6x1"
+tags:
+  - 'nacional'
 wp_id: 7716
 ---
 

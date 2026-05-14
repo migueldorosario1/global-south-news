@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Pimenta reage às mentiras grosseiras do chanceler de Israel'
 pubDate: 2024-02-21 08:26:27
 slug: "pimenta-reage-as-mentiras-grosseiras-do-chanceler-de-israel"
+tags:
+  - 'geopolitica'
 wp_id: 3365
 ---
 

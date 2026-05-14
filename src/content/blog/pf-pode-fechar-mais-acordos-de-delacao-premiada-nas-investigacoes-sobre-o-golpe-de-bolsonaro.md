@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'PF pode fechar mais acordos de delação premiada nas investigações sobre o golpe de Bolsonaro'
 pubDate: 2024-02-23 18:36:46
 slug: "pf-pode-fechar-mais-acordos-de-delacao-premiada-nas-investigacoes-sobre-o-golpe-de-bolsonaro"
+tags:
+  - 'nacional'
 wp_id: 3430
 ---
 

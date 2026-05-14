@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Anielle detalha as abordagens de Silvio Almeida em caso de assédio'
 pubDate: 2024-10-04 14:45:22
 slug: "anielle-detalha-as-abordagens-de-silvio-almeida-em-caso-de-assedio"
+tags:
+  - 'nacional'
 wp_id: 5596
 ---
 

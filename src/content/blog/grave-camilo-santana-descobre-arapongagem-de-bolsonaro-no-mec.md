@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Grave! Camilo Santana descobre arapongagem de Bolsonaro no MEC'
 pubDate: 2024-03-04 12:46:07
 slug: "grave-camilo-santana-descobre-arapongagem-de-bolsonaro-no-mec"
+tags:
+  - 'nacional'
 wp_id: 3638
 ---
 

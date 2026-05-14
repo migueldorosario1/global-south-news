@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Sindicato dos Comerciários segue na luta pela redução da jornada de trabalho'
 pubDate: 2024-02-01 12:07:06
 slug: "sindicato-dos-comerciarios-segue-na-luta-pela-reducao-da-jornada-de-trabalho"
+tags:
+  - 'politica-rj'
 wp_id: 2891
 ---
 

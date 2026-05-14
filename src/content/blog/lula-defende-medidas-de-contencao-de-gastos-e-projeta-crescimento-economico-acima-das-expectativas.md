@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula defende medidas de contenção de gastos e projeta crescimento econômico acima das expectativas'
 pubDate: 2024-12-05 05:21:15
 slug: "lula-defende-medidas-de-contencao-de-gastos-e-projeta-crescimento-economico-acima-das-expectativas"
+tags:
+  - 'nacional'
 wp_id: 6107
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro homenageia Israel pelo genocídio em Gaza'
 pubDate: 2024-02-25 16:33:35
 slug: "bolsonaro-homenageia-israel-pelo-genocidio-em-gaza"
+tags:
+  - 'geopolitica'
 wp_id: 3463
 ---
 

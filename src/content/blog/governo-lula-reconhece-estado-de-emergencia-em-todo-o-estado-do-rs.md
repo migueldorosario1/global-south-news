@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula reconhece estado de emergência em todo o estado do RS'
 pubDate: 2024-05-06 08:38:02
 slug: "governo-lula-reconhece-estado-de-emergencia-em-todo-o-estado-do-rs"
+tags:
+  - 'nacional'
 wp_id: 4412
 ---
 

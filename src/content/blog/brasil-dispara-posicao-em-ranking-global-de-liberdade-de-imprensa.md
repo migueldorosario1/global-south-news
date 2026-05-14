@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Brasil dispara posição em ranking global de liberdade de imprensa'
 pubDate: 2024-05-03 09:53:09
 slug: "brasil-dispara-posicao-em-ranking-global-de-liberdade-de-imprensa"
+tags:
+  - 'nacional'
 wp_id: 4397
 ---
 

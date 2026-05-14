@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Copom eleva Selic para 10,75% e recebe críticas de Lindbergh Farias'
 pubDate: 2024-09-19 18:48:32
 slug: "copom-eleva-selic-para-1075-e-recebe-criticas-de-lindbergh-farias"
+tags:
+  - 'nacional'
 wp_id: 5328
 ---
 

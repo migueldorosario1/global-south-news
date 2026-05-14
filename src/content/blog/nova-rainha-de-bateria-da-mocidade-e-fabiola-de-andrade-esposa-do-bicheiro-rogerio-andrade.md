@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Nova rainha de bateria da Mocidade é Fabíola de Andrade, esposa do bicheiro Rogério Andrade'
 pubDate: 2023-11-29 17:00:00
 slug: "nova-rainha-de-bateria-da-mocidade-e-fabiola-de-andrade-esposa-do-bicheiro-rogerio-andrade"
+tags:
+  - 'rio-capital-zona-oeste'
 wp_id: 2052
 ---
 

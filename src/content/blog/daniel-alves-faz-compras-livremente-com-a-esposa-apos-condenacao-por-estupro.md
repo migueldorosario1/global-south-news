@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Daniel Alves faz compras livremente com a esposa após condenação por estupro'
 pubDate: 2024-04-17 09:15:10
 slug: "daniel-alves-faz-compras-livremente-com-a-esposa-apos-condenacao-por-estupro"
+tags:
+  - 'nacional'
 wp_id: 4229
 ---
 

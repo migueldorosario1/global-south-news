@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ibovespa registra queda pelo quinto dia consecutivo'
 pubDate: 2024-09-24 05:51:38
 slug: "ibovespa-registra-queda-pelo-quinto-dia-consecutivo"
+tags:
+  - 'nacional'
 wp_id: 5400
 ---
 

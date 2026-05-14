@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Netflix desvenda ligações entre Pablo Escobar e Griselda Blanco'
 pubDate: 2024-01-29 19:12:21
 slug: "netflix-desvenda-ligacoes-entre-pablo-escobar-e-griselda-blanco"
+tags:
+  - 'nacional'
 wp_id: 2679
 ---
 

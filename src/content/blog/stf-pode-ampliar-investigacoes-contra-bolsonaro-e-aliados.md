@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'STF pode ampliar investigações contra Bolsonaro e aliados'
 pubDate: 2024-01-31 05:12:00
 slug: "stf-pode-ampliar-investigacoes-contra-bolsonaro-e-aliados"
+tags:
+  - 'nacional'
 wp_id: 2657
 ---
 

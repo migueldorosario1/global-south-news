@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Por mais direitos, reajuste digno e redução da jornada'
 pubDate: 2026-04-01 13:31:02
 slug: "por-mais-direitos-reajuste-digno-e-reducao-da-jornada"
+tags:
+  - 'nacional'
 wp_id: 7769
 ---
 

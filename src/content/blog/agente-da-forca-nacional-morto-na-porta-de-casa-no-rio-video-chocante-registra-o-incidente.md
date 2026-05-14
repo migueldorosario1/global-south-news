@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Agente da Força Nacional morto na porta de casa no Rio; vídeo chocante registra o incidente'
 pubDate: 2023-11-29 16:30:00
 slug: "agente-da-forca-nacional-morto-na-porta-de-casa-no-rio-video-chocante-registra-o-incidente"
+tags:
+  - 'seguranca-publica'
 wp_id: 2050
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Dilma vai pra cima do Estadão e desmente fake news sobre crédito para o RS'
 pubDate: 2024-05-21 09:07:57
 slug: "dilma-vai-pra-cima-do-estadao-e-desmente-fake-news-sobre-credito-para-o-rs"
+tags:
+  - 'nacional'
 wp_id: 4488
 ---
 

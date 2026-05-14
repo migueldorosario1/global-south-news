@@ -6,7 +6,7 @@ pubDate: 2024-11-20 10:12:11
 slug: "brasil-e-china-anunciam-parceria-estrategica-sem-adesao-a-iniciativa-cinturao-e-rota"
 wp_id: 6016
 tags:
-  - 'baixada'
+  - 'geopolitica'
 ---
 
 <!-- wp:paragraph -->

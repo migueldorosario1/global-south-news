@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Procurador-Geral da República alerta para expansão do crime organizado e defende cooperação internacional'
 pubDate: 2024-10-12 08:38:38
 slug: "procurador-geral-da-republica-alerta-para-expansao-do-crime-organizado-e-defende-cooperacao-internacional"
+tags:
+  - 'nacional'
 wp_id: 5691
 ---
 

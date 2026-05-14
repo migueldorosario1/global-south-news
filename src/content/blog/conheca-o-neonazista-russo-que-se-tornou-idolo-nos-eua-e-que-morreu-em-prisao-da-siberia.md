@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Conheça o neonazista russo que se tornou ídolo nos EUA e que morreu em prisão da Sibéria'
 pubDate: 2024-02-16 18:21:31
 slug: "conheca-o-neonazista-russo-que-se-tornou-idolo-nos-eua-e-que-morreu-em-prisao-da-siberia"
+tags:
+  - 'geopolitica'
 wp_id: 3265
 ---
 

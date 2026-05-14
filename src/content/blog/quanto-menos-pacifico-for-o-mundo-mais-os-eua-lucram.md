@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Quanto menos pacífico for o mundo, mais os EUA lucram'
 pubDate: 2024-02-04 05:57:00
 slug: "quanto-menos-pacifico-for-o-mundo-mais-os-eua-lucram"
+tags:
+  - 'geopolitica'
 wp_id: 2887
 ---
 

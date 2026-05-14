@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Mocidade Independente apresenta inovação com cajueiros-cnões no Carnaval'
 pubDate: 2024-01-23 12:00:00
 slug: "mocidade-independente-apresenta-inovacao-com-cajueiros-cnoes-no-carnaval"
+tags:
+  - 'cultura-carnaval'
 wp_id: 2525
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ministra defende retomada do complexo econômico-industrial da saúde'
 pubDate: 2023-07-07 14:38:36
 slug: "ministra-defende-retomada-do-complexo-economico-industrial-da-saude"
+tags:
+  - 'nacional'
 wp_id: 681
 ---
 

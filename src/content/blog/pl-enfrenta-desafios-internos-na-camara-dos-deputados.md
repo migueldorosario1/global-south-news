@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'PL enfrenta desafios internos na Câmara dos Deputados'
 pubDate: 2024-09-23 19:53:14
 slug: "pl-enfrenta-desafios-internos-na-camara-dos-deputados"
+tags:
+  - 'nacional'
 wp_id: 5378
 ---
 

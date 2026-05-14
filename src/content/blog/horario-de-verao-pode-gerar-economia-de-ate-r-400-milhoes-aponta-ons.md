@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Horário de verão pode gerar economia de até R$ 400 milhões, aponta ONS'
 pubDate: 2024-09-24 19:48:40
 slug: "horario-de-verao-pode-gerar-economia-de-ate-r-400-milhoes-aponta-ons"
+tags:
+  - 'nacional'
 wp_id: 5444
 ---
 

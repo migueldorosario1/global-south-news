@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Previsão alarmante 3 milhões de brasileiros precisarão deixar suas casas devido a riscos climáticos'
 pubDate: 2024-05-10 09:02:48
 slug: "previsao-alarmante-3-milhoes-de-brasileiros-precisarao-deixar-suas-casas-devido-a-riscos-climaticos"
+tags:
+  - 'nacional'
 wp_id: 4461
 ---
 

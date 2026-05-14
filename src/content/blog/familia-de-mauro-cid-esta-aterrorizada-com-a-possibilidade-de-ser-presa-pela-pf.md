@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Família de Mauro Cid está aterrorizada com a possibilidade de ser presa pela PF'
 pubDate: 2024-03-23 11:11:24
 slug: "familia-de-mauro-cid-esta-aterrorizada-com-a-possibilidade-de-ser-presa-pela-pf"
+tags:
+  - 'nacional'
 wp_id: 3920
 ---
 

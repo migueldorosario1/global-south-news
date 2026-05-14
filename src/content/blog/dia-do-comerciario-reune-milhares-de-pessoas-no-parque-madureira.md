@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Dia do Comerciário reúne milhares de pessoas no Parque Madureira'
 pubDate: 2023-10-18 14:07:47
 slug: "dia-do-comerciario-reune-milhares-de-pessoas-no-parque-madureira"
+tags:
+  - 'madureira'
 wp_id: 1618
 ---
 

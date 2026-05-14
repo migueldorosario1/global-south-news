@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lindbergh destaca nova agenda de Lula no exterior'
 pubDate: 2024-06-11 09:40:48
 slug: "lindbergh-destaca-nova-agenda-de-lula-no-exterior"
+tags:
+  - 'nacional'
 wp_id: 4616
 ---
 

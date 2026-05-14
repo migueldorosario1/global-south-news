@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lançamento do Acredita promete impulsionar crédito para empreendedores'
 pubDate: 2024-04-24 09:19:30
 slug: "lancamento-do-acredita-promete-impulsionar-credito-para-empreendedores"
+tags:
+  - 'nacional'
 wp_id: 4291
 ---
 

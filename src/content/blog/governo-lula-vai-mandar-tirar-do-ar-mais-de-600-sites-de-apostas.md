@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula vai mandar tirar do ar mais de 600 sites de apostas'
 pubDate: 2024-09-30 14:45:09
 slug: "governo-lula-vai-mandar-tirar-do-ar-mais-de-600-sites-de-apostas"
+tags:
+  - 'nacional'
 wp_id: 5530
 ---
 

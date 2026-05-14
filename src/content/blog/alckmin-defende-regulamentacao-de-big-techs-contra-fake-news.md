@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Alckmin defende regulamentação de Big Techs contra fake news'
 pubDate: 2025-01-13 11:22:23
 slug: "alckmin-defende-regulamentacao-de-big-techs-contra-fake-news"
+tags:
+  - 'nacional'
 wp_id: 6414
 ---
 

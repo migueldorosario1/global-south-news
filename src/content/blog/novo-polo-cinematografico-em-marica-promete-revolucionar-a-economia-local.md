@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Novo polo cinematográfico em Maricá promete revolucionar a economia local'
 pubDate: 2025-01-01 11:40:32
 slug: "novo-polo-cinematografico-em-marica-promete-revolucionar-a-economia-local"
+tags:
+  - 'marica'
 wp_id: 6306
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'PGR cogita reabrir inquérito da CPI da Covid contra Bolsonaro'
 pubDate: 2024-03-19 09:15:16
 slug: "pgr-cogita-reabrir-inquerito-da-cpi-da-covid-contra-bolsonaro"
+tags:
+  - 'nacional'
 wp_id: 3866
 ---
 

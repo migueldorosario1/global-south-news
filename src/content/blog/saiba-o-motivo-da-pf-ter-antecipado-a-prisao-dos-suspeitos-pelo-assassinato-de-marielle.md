@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Saiba o motivo da PF ter antecipado a prisão dos suspeitos pelo assassinato de Marielle'
 pubDate: 2024-03-24 16:24:05
 slug: "saiba-o-motivo-da-pf-ter-antecipado-a-prisao-dos-suspeitos-pelo-assassinato-de-marielle"
+tags:
+  - 'seguranca-publica'
 wp_id: 3952
 ---
 

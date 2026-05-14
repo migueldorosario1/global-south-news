@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Exposição no Rio celebra a vida de Marielle Franco no dia que completaria 44 anos'
 pubDate: 2023-07-28 01:38:10
 slug: "exposicao-no-rio-celebra-a-vida-de-marielle-franco-no-dia-que-completaria-44-anos"
+tags:
+  - 'rio-capital-zona-sul-grande-tijuca'
 wp_id: 926
 ---
 

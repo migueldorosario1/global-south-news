@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Saiba quem é a médica acusada de dar falso diagnóstico de câncer em dezenas de pessoas'
 pubDate: 2024-03-19 09:15:59
 slug: "saiba-quem-e-a-medica-acusada-de-dar-falso-diagnostico-de-cancer-em-dezenas-de-pessoas"
+tags:
+  - 'nacional'
 wp_id: 3869
 ---
 

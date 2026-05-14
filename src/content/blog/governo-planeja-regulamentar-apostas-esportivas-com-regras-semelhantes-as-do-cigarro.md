@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo planeja regulamentar apostas esportivas com regras semelhantes às do cigarro'
 pubDate: 2024-09-26 04:57:54
 slug: "governo-planeja-regulamentar-apostas-esportivas-com-regras-semelhantes-as-do-cigarro"
+tags:
+  - 'nacional'
 wp_id: 5475
 ---
 

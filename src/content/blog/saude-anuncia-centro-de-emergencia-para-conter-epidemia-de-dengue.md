@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Saúde anuncia centro de emergência para conter epidemia de dengue'
 pubDate: 2024-02-02 05:08:00
 slug: "saude-anuncia-centro-de-emergencia-para-conter-epidemia-de-dengue"
+tags:
+  - 'nacional'
 wp_id: 2847
 ---
 

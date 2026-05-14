@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Presidente do PSB critica falta de diálogo de Lula com base aliada'
 pubDate: 2024-04-29 09:55:25
 slug: "presidente-do-psb-critica-falta-de-dialogo-de-lula-com-base-aliada"
+tags:
+  - 'nacional'
 wp_id: 4348
 ---
 

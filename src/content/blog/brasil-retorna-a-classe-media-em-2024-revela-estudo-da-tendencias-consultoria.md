@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Brasil retorna à classe média em 2024, revela estudo da Tendências Consultoria'
 pubDate: 2025-01-06 06:34:10
 slug: "brasil-retorna-a-classe-media-em-2024-revela-estudo-da-tendencias-consultoria"
+tags:
+  - 'nacional'
 wp_id: 6338
 ---
 

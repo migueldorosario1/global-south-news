@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonarista se humilha na cadeia e diz que é perseguido pelo comunismo'
 pubDate: 2024-03-08 09:55:52
 slug: "bolsonarista-se-humilha-na-cadeia-e-diz-que-e-perseguido-pelo-comunismo"
+tags:
+  - 'politica-rj'
 wp_id: 3683
 ---
 

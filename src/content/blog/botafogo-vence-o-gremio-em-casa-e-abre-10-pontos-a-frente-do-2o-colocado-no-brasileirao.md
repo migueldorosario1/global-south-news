@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Botafogo vence o Grêmio em casa e abre 10 pontos à frente do 2º colocado no Brasileirão'
 pubDate: 2023-07-10 11:06:24
 slug: "botafogo-vence-o-gremio-em-casa-e-abre-10-pontos-a-frente-do-2o-colocado-no-brasileirao"
+tags:
+  - 'nacional'
 wp_id: 732
 ---
 

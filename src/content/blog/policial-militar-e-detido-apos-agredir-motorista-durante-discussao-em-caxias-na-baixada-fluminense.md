@@ -6,7 +6,7 @@ pubDate: 2023-10-30 23:26:17
 slug: "policial-militar-e-detido-apos-agredir-motorista-durante-discussao-em-caxias-na-baixada-fluminense"
 wp_id: 1727
 tags:
-  - 'baixada'
+  - 'duque-de-caxias'
 ---
 
 <!-- wp:paragraph -->

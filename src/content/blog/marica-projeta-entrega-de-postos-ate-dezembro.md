@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maricá projeta entrega de postos até dezembro'
 pubDate: 2026-04-07 11:28:50
 slug: "marica-projeta-entrega-de-postos-ate-dezembro"
+tags:
+  - 'marica'
 wp_id: 7772
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Federal anuncia R$ 98,7 Bilhões para recuperação do Rio Grande do Sul'
 pubDate: 2024-09-11 20:02:02
 slug: "governo-federal-anuncia-r-987-bilhoes-para-recuperacao-do-rio-grande-do-sul"
+tags:
+  - 'nacional'
 wp_id: 5195
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Audiência no Senado debate concessão de hidrovia no Rio Madeira'
 pubDate: 2024-09-10 18:21:30
 slug: "audiencia-no-senado-debate-concessao-de-hidrovia-no-rio-madeira"
+tags:
+  - 'nacional'
 wp_id: 5156
 ---
 

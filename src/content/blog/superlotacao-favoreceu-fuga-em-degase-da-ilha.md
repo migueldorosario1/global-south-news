@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Superlotação favoreceu fuga em Degase da Ilha'
 pubDate: 2025-12-08 13:08:24
 slug: "superlotacao-favoreceu-fuga-em-degase-da-ilha"
+tags:
+  - 'nacional'
 wp_id: 7559
 ---
 

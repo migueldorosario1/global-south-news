@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Vídeo Ônibus pega fogo e causa pânico em SP'
 pubDate: 2024-11-26 11:03:24
 slug: "video-onibus-pega-fogo-e-causa-panico-em-sp"
+tags:
+  - 'nacional'
 wp_id: 6038
 ---
 

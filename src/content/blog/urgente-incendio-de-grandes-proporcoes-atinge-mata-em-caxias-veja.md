@@ -6,7 +6,7 @@ pubDate: 2023-07-28 20:10:47
 slug: "urgente-incendio-de-grandes-proporcoes-atinge-mata-em-caxias-veja"
 wp_id: 951
 tags:
-  - 'baixada'
+  - 'duque-de-caxias'
 ---
 
 <!-- wp:paragraph -->

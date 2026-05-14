@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Palestinos em Gaza vivem sob miséria extrema enquanto Israel prossegue com o genocídio'
 pubDate: 2024-01-31 08:22:29
 slug: "palestinos-em-gaza-vivem-sob-miseria-extrema-enquanto-israel-prossegue-com-o-genocidio"
+tags:
+  - 'geopolitica'
 wp_id: 2771
 ---
 

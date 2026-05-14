@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'CGU começa a processar servidores que participaram da Abin Paralela na era Ramagem'
 pubDate: 2024-04-11 09:44:02
 slug: "cgu-comeca-a-processar-servidores-que-participaram-da-abin-paralela-na-era-ramagem"
+tags:
+  - 'nacional'
 wp_id: 4155
 ---
 

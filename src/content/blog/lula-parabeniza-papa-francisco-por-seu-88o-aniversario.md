@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula parabeniza Papa Francisco por Seu 88º aniversário'
 pubDate: 2024-12-17 15:59:12
 slug: "lula-parabeniza-papa-francisco-por-seu-88o-aniversario"
+tags:
+  - 'nacional'
 wp_id: 6246
 ---
 

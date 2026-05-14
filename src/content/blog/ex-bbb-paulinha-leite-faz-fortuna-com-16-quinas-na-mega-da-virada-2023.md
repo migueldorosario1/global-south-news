@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ex-BBB Paulinha Leite faz fortuna com 16 quinas na mega da virada 2023!'
 pubDate: 2024-01-02 07:00:00
 slug: "ex-bbb-paulinha-leite-faz-fortuna-com-16-quinas-na-mega-da-virada-2023"
+tags:
+  - 'nacional'
 wp_id: 2234
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Jogador de futebol agride namorada, PMs e funcionário de boate'
 pubDate: 2023-11-09 17:10:22
 slug: "jogador-de-futebol-agride-namorada-pms-e-funcionario-de-boate"
+tags:
+  - 'seguranca-publica'
 wp_id: 1883
 ---
 

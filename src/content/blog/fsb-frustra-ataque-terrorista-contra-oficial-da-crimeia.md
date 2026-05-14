@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'FSB frustra ataque terrorista contra oficial da Crimeia'
 pubDate: 2024-02-07 05:35:00
 slug: "fsb-frustra-ataque-terrorista-contra-oficial-da-crimeia"
+tags:
+  - 'geopolitica'
 wp_id: 3000
 ---
 

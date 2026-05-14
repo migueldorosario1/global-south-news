@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Eduardo Bolsonaro usou recursos públicos para financiar viagem particular aos EUA'
 pubDate: 2024-04-15 08:57:22
 slug: "bomba-eduardo-bolsonaro-usou-recursos-publicos-para-financiar-viagem-particular-aos-eua"
+tags:
+  - 'nacional'
 wp_id: 4181
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'ANP prevê investimentos de R$ 10 bilhões na exploração de petróleo e gás em 2024'
 pubDate: 2024-09-03 18:49:56
 slug: "anp-preve-investimentos-de-r-10-bilhoes-na-exploracao-de-petroleo-e-gas-em-2024"
+tags:
+  - 'nacional'
 wp_id: 5064
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa revela que Lira e Pacheco são os políticos mais rejeitados do Brasil'
 pubDate: 2024-05-09 09:34:55
 slug: "pesquisa-revela-que-lira-e-pacheco-sao-os-politicos-mais-rejeitados-do-brasil"
+tags:
+  - 'nacional'
 wp_id: 4449
 ---
 

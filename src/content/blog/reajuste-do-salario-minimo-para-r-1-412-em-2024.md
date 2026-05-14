@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Reajuste do Salário Mínimo para R$ 1.412 em 2024'
 pubDate: 2023-12-12 00:00:00
 slug: "reajuste-do-salario-minimo-para-r-1-412-em-2024"
+tags:
+  - 'nacional'
 wp_id: 2132
 ---
 

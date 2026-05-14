@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ministra de CTI, Luciana Santos reúne comunidade científica no Rio'
 pubDate: 2023-07-31 16:59:16
 slug: "ministra-de-cti-luciana-santos-reune-comunidade-cientifica-no-rio"
+tags:
+  - 'rio-de-janeiro'
 wp_id: 977
 ---
 

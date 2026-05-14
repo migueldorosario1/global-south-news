@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Rapper negra é impedida de se apresentar em festival após criticar Bolsonaro'
 pubDate: 2024-04-29 09:40:55
 slug: "rapper-negra-e-impedida-de-se-apresentar-em-festival-apos-criticar-bolsonaro"
+tags:
+  - 'nacional'
 wp_id: 4342
 ---
 

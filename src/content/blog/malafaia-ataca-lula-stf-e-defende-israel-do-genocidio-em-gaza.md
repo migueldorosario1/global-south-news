@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Malafaia ataca Lula, STF e defende Israel do genocídio em Gaza'
 pubDate: 2024-02-25 16:17:15
 slug: "malafaia-ataca-lula-stf-e-defende-israel-do-genocidio-em-gaza"
+tags:
+  - 'nacional'
 wp_id: 3460
 ---
 

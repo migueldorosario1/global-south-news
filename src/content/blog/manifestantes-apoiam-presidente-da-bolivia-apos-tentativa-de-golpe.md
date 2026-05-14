@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Manifestantes apoiam presidente da Bolívia após tentativa de golpe'
 pubDate: 2024-06-27 06:33:07
 slug: "manifestantes-apoiam-presidente-da-bolivia-apos-tentativa-de-golpe"
+tags:
+  - 'geopolitica'
 wp_id: 4711
 ---
 

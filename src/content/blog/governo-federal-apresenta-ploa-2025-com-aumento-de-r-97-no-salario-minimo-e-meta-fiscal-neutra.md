@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Federal apresenta PLOA 2025 com aumento de R$ 97 no salário mínimo e meta fiscal neutra'
 pubDate: 2024-09-03 18:59:28
 slug: "governo-federal-apresenta-ploa-2025-com-aumento-de-r-97-no-salario-minimo-e-meta-fiscal-neutra"
+tags:
+  - 'nacional'
 wp_id: 5067
 ---
 

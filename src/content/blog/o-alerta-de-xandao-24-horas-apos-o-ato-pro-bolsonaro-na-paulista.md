@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'O alerta de Xandão 24 horas após o ato pró-Bolsonaro na Paulista'
 pubDate: 2024-02-26 21:38:09
 slug: "o-alerta-de-xandao-24-horas-apos-o-ato-pro-bolsonaro-na-paulista"
+tags:
+  - 'nacional'
 wp_id: 3498
 ---
 

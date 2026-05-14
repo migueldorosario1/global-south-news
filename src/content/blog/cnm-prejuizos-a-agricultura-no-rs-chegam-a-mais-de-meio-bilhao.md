@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'CNM Prejuízos a Agricultura no RS chegam a mais de meio bilhão'
 pubDate: 2024-05-09 09:25:18
 slug: "cnm-prejuizos-a-agricultura-no-rs-chegam-a-mais-de-meio-bilhao"
+tags:
+  - 'nacional'
 wp_id: 4441
 ---
 

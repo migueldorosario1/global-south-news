@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Silveira diz que Guiana explora na garapa as riquezas do Brasil'
 pubDate: 2024-05-28 09:24:06
 slug: "silveira-diz-que-guiana-explora-na-garapa-as-riquezas-do-brasil"
+tags:
+  - 'nacional'
 wp_id: 4532
 ---
 

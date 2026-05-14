@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Gilmar avalia o discurso de Bolsonaro no ato da Paulista'
 pubDate: 2024-02-28 15:55:24
 slug: "gilmar-avalia-o-discurso-de-bolsonaro-no-ato-da-paulista"
+tags:
+  - 'nacional'
 wp_id: 3565
 ---
 

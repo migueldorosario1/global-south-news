@@ -6,7 +6,7 @@ pubDate: 2023-11-14 13:00:00
 slug: "operacao-nephelos-da-pf-desmantela-grupo-suspeito-de-trafico-de-drogas-pelo-porto-de-itaguai"
 wp_id: 1945
 tags:
-  - 'baixada'
+  - 'itaguai'
 ---
 
 <!-- wp:paragraph -->

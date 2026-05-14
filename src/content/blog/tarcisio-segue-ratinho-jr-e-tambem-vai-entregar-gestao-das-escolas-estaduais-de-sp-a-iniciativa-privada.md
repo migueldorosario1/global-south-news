@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Tarcísio segue Ratinho Jr. e também vai entregar gestão das escolas estaduais de SP a iniciativa privada'
 pubDate: 2024-06-13 09:07:33
 slug: "tarcisio-segue-ratinho-jr-e-tambem-vai-entregar-gestao-das-escolas-estaduais-de-sp-a-iniciativa-privada"
+tags:
+  - 'nacional'
 wp_id: 4651
 ---
 

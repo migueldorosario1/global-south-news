@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Polícia Federal nomeia 41 suspeitos em fraude bilionária da Americanas'
 pubDate: 2024-09-03 19:21:59
 slug: "policia-federal-nomeia-41-suspeitos-em-fraude-bilionaria-da-americanas"
+tags:
+  - 'nacional'
 wp_id: 5073
 ---
 

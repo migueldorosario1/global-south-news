@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Polícia prende influenciador acusado de cometer uma série de estupros em Fortaleza'
 pubDate: 2024-02-27 09:38:37
 slug: "policia-prende-influenciador-acusado-de-cometer-uma-serie-de-estupros-em-fortaleza"
+tags:
+  - 'nacional'
 wp_id: 3520
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Aeroporto Salgado Filho em Porto Alegre reabre após restauração pós-enchente'
 pubDate: 2024-10-19 14:07:59
 slug: "aeroporto-salgado-filho-em-porto-alegre-reabre-apos-restauracao-pos-enchente"
+tags:
+  - 'nacional'
 wp_id: 5762
 ---
 

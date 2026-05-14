@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Relator especial da ONU denuncia que Israel está provocando colapso e fome em Gaza'
 pubDate: 2024-03-08 10:12:54
 slug: "relator-especial-da-onu-denuncia-que-israel-esta-provocando-colapso-e-fome-em-gaza"
+tags:
+  - 'geopolitica'
 wp_id: 3692
 ---
 

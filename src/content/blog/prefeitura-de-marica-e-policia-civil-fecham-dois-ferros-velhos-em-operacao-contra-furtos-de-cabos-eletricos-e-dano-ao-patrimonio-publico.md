@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura de Maricá e Polícia Civil fecham dois ferros-velhos em operação contra furtos de cabos elétricos e dano ao patrimônio público'
 pubDate: 2026-01-21 11:36:09
 slug: "prefeitura-de-marica-e-policia-civil-fecham-dois-ferros-velhos-em-operacao-contra-furtos-de-cabos-eletricos-e-dano-ao-patrimonio-publico"
+tags:
+  - 'marica'
 wp_id: 7597
 ---
 

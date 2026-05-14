@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Oficial israelense nega envolvimento do país na morte do presidente do Irã'
 pubDate: 2024-05-20 09:08:47
 slug: "oficial-israelense-nega-envolvimento-do-pais-na-morte-do-presidente-do-ira"
+tags:
+  - 'geopolitica'
 wp_id: 4470
 ---
 

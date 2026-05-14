@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'BC desbloqueia contas do X após anúncio de pagamento de multas'
 pubDate: 2024-10-04 14:03:42
 slug: "bc-desbloqueia-contas-do-x-apos-anuncio-de-pagamento-de-multas"
+tags:
+  - 'nacional'
 wp_id: 5583
 ---
 

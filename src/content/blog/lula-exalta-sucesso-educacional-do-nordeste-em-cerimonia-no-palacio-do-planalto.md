@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula exalta sucesso educacional do Nordeste em cerimônia no Palácio do Planalto'
 pubDate: 2024-09-05 20:55:17
 slug: "lula-exalta-sucesso-educacional-do-nordeste-em-cerimonia-no-palacio-do-planalto"
+tags:
+  - 'nacional'
 wp_id: 5097
 ---
 

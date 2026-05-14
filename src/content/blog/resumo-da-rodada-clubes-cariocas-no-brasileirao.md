@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Resumo da Rodada Clubes cariocas no Brasileirão'
 pubDate: 2023-08-07 06:00:00
 slug: "resumo-da-rodada-clubes-cariocas-no-brasileirao"
+tags:
+  - 'nacional'
 wp_id: 1044
 ---
 

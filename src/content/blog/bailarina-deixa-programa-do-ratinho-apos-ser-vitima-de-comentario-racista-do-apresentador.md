@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bailarina deixa Programa do Ratinho após ser vítima de comentário racista do apresentador'
 pubDate: 2024-04-19 09:35:11
 slug: "bailarina-deixa-programa-do-ratinho-apos-ser-vitima-de-comentario-racista-do-apresentador"
+tags:
+  - 'nacional'
 wp_id: 4256
 ---
 

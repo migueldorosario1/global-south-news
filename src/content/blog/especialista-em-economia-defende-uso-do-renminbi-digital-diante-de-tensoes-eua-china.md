@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Especialista em economia defende uso do renminbi digital diante de tensões EUA-China'
 pubDate: 2024-12-27 09:30:23
 slug: "especialista-em-economia-defende-uso-do-renminbi-digital-diante-de-tensoes-eua-china"
+tags:
+  - 'geopolitica'
 wp_id: 6291
 ---
 

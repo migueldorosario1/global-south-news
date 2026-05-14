@@ -6,7 +6,7 @@ pubDate: 2023-11-09 12:05:48
 slug: "mprj-e-pf-desvendam-fraudes-no-transporte-escolar-em-campos-dos-goytacazes"
 wp_id: 1866
 tags:
-  - 'campos'
+  - 'campos-dos-goytacazes'
 ---
 
 <!-- wp:paragraph -->

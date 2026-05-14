@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula anuncia doação de 200 mil toneladas de carne para o RS'
 pubDate: 2024-05-28 09:32:49
 slug: "lula-anuncia-doacao-de-200-mil-toneladas-de-carne-para-o-rs"
+tags:
+  - 'nacional'
 wp_id: 4537
 ---
 

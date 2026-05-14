@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Sindicato dos Comerciários convoca ex-funcionários da Leader para assembleia'
 pubDate: 2024-02-21 15:02:32
 slug: "sindicato-dos-comerciarios-convoca-ex-funcionarios-da-leader-para-assembleia"
+tags:
+  - 'nacional'
 wp_id: 3369
 ---
 

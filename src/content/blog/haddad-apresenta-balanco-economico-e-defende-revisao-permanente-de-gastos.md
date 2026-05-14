@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Haddad apresenta balanço econômico e defende revisão permanente de gastos'
 pubDate: 2024-12-21 11:01:21
 slug: "haddad-apresenta-balanco-economico-e-defende-revisao-permanente-de-gastos"
+tags:
+  - 'nacional'
 wp_id: 6282
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maricá tem balanço positivo na FITUR 2026, na Espanha, com avanços estratégicos no turismo internacional'
 pubDate: 2026-01-26 13:53:01
 slug: "marica-tem-balanco-positivo-na-fitur-2026-na-espanha-com-avancos-estrategicos-no-turismo-internacional"
+tags:
+  - 'marica'
 wp_id: 7614
 ---
 

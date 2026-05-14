@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'STJ vai decidir o destino da delação de Ronnie Lessa no caso Marielle'
 pubDate: 2024-02-05 08:41:24
 slug: "stj-vai-decidir-o-destino-da-delacao-de-ronnie-lessa-no-caso-marielle"
+tags:
+  - 'nacional'
 wp_id: 2954
 ---
 

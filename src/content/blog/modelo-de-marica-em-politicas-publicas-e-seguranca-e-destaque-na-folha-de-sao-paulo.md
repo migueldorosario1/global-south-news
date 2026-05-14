@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Modelo de Maricá em políticas públicas e segurança é destaque na Folha de São Paulo'
 pubDate: 2025-12-12 15:26:51
 slug: "modelo-de-marica-em-politicas-publicas-e-seguranca-e-destaque-na-folha-de-sao-paulo"
+tags:
+  - 'marica'
 wp_id: 7569
 ---
 

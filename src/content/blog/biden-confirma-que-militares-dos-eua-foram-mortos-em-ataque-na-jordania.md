@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Biden confirma que militares dos EUA foram mortos em ataque na Jordânia'
 pubDate: 2024-01-30 05:14:00
 slug: "biden-confirma-que-militares-dos-eua-foram-mortos-em-ataque-na-jordania"
+tags:
+  - 'geopolitica'
 wp_id: 2645
 ---
 

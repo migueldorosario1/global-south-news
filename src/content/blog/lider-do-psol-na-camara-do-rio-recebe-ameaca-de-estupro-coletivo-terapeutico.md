@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Líder do Psol na Câmara do Rio recebe ameaça de ‘estupro coletivo terapêutico’'
 pubDate: 2023-08-21 20:33:16
 slug: "lider-do-psol-na-camara-do-rio-recebe-ameaca-de-estupro-coletivo-terapeutico"
+tags:
+  - 'seguranca-publica'
 wp_id: 1160
 ---
 

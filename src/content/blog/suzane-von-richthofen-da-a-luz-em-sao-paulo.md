@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Suzane von Richthofen dá à luz em São Paulo'
 pubDate: 2024-01-28 09:15:00
 slug: "suzane-von-richthofen-da-a-luz-em-sao-paulo"
+tags:
+  - 'nacional'
 wp_id: 2581
 ---
 

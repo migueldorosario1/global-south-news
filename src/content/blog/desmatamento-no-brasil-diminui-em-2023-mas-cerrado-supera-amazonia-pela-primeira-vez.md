@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Desmatamento no Brasil diminui em 2023, mas cerrado supera Amazônia pela primeira vez'
 pubDate: 2024-05-28 09:32:52
 slug: "desmatamento-no-brasil-diminui-em-2023-mas-cerrado-supera-amazonia-pela-primeira-vez"
+tags:
+  - 'nacional'
 wp_id: 4539
 ---
 

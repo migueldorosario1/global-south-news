@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governador bolsonarista tenta não assumir que pediu ajuda a deputados do PT para resolver crise'
 pubDate: 2024-05-02 09:40:07
 slug: "governador-bolsonarista-tenta-nao-assumir-que-pediu-ajuda-a-deputados-do-pt-para-resolver-crise"
+tags:
+  - 'politica-rj'
 wp_id: 4384
 ---
 

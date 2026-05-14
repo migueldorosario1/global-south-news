@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Presidente do Bradesco destaca crescimento econômico e emprego'
 pubDate: 2024-11-02 15:08:17
 slug: "presidente-do-bradesco-destaca-crescimento-economico-e-emprego"
+tags:
+  - 'nacional'
 wp_id: 5949
 ---
 

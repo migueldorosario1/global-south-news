@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann critica Netanyahu por explosões no Líbano'
 pubDate: 2024-09-18 18:25:20
 slug: "gleisi-hoffmann-critica-netanyahu-por-explosoes-no-libano"
+tags:
+  - 'geopolitica'
 wp_id: 5304
 ---
 

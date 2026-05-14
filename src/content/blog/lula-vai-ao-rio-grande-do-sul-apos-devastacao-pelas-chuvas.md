@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula vai ao Rio Grande do Sul após devastação pelas chuvas'
 pubDate: 2024-05-02 09:31:58
 slug: "lula-vai-ao-rio-grande-do-sul-apos-devastacao-pelas-chuvas"
+tags:
+  - 'nacional'
 wp_id: 4378
 ---
 

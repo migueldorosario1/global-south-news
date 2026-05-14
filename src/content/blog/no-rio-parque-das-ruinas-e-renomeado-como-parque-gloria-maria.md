@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'No Rio, Parque das Ruínas é renomeado como Parque Glória Maria'
 pubDate: 2023-07-20 23:01:49
 slug: "no-rio-parque-das-ruinas-e-renomeado-como-parque-gloria-maria"
+tags:
+  - 'santa-teresa'
 wp_id: 850
 ---
 

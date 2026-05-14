@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Deputado do PL é acusado de abuso por ex-esposa; justiça concede medidas protetivas'
 pubDate: 2024-10-10 20:57:51
 slug: "deputado-do-pl-e-acusado-de-abuso-por-ex-esposa-justica-concede-medidas-protetivas"
+tags:
+  - 'nacional'
 wp_id: 5669
 ---
 

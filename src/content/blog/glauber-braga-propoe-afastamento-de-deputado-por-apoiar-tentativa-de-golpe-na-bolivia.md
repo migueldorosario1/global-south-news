@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Glauber Braga propõe afastamento de deputado por apoiar tentativa de golpe na Bolívia'
 pubDate: 2024-06-27 06:25:56
 slug: "glauber-braga-propoe-afastamento-de-deputado-por-apoiar-tentativa-de-golpe-na-bolivia"
+tags:
+  - 'nacional'
 wp_id: 4703
 ---
 

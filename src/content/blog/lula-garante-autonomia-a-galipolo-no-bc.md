@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula garante autonomia a Galípolo no BC'
 pubDate: 2024-09-02 16:25:30
 slug: "lula-garante-autonomia-a-galipolo-no-bc"
+tags:
+  - 'nacional'
 wp_id: 4974
 ---
 

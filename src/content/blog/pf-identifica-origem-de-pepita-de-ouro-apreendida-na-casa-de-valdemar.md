@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'PF identifica origem de pepita de ouro apreendida na casa de Valdemar'
 pubDate: 2024-03-13 08:58:02
 slug: "pf-identifica-origem-de-pepita-de-ouro-apreendida-na-casa-de-valdemar"
+tags:
+  - 'nacional'
 wp_id: 3743
 ---
 

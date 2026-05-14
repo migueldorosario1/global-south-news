@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'PF revela se nova prisão de Cid impacta provas da delação'
 pubDate: 2024-03-23 11:31:32
 slug: "pf-revela-se-nova-prisao-de-cid-impacta-provas-da-delacao"
+tags:
+  - 'nacional'
 wp_id: 3926
 ---
 

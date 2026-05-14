@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Influenciador digital é preso por tentativa de feminicídio contra ex-namorada em SP'
 pubDate: 2024-03-14 09:50:08
 slug: "influenciador-digital-e-preso-por-tentativa-de-feminicidio-contra-ex-namorada-em-sp"
+tags:
+  - 'nacional'
 wp_id: 3780
 ---
 

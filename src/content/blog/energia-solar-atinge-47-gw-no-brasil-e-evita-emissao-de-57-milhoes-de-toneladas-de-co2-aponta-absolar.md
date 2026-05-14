@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Energia solar atinge 47 GW no Brasil e evita emissão de 57 milhões de toneladas de CO2, aponta Absolar'
 pubDate: 2024-09-19 19:12:46
 slug: "energia-solar-atinge-47-gw-no-brasil-e-evita-emissao-de-57-milhoes-de-toneladas-de-co2-aponta-absolar"
+tags:
+  - 'nacional'
 wp_id: 5337
 ---
 

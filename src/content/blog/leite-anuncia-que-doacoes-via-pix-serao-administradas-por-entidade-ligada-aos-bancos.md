@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Leite anuncia que doações via Pix serão administradas por entidade ligada aos bancos'
 pubDate: 2024-05-08 08:02:07
 slug: "leite-anuncia-que-doacoes-via-pix-serao-administradas-por-entidade-ligada-aos-bancos"
+tags:
+  - 'nacional'
 wp_id: 4425
 ---
 

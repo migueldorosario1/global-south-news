@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Popó massacra Bambam em nocaute relâmpago'
 pubDate: 2024-02-25 10:17:53
 slug: "popo-massacra-bambam-em-nocaute-relampago"
+tags:
+  - 'nacional'
 wp_id: 3454
 ---
 

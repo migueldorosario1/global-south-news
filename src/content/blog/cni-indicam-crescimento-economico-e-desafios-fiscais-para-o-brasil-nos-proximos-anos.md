@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'CNI indicam crescimento econômico e desafios fiscais para o Brasil nos próximos anos'
 pubDate: 2024-12-17 16:07:23
 slug: "cni-indicam-crescimento-economico-e-desafios-fiscais-para-o-brasil-nos-proximos-anos"
+tags:
+  - 'nacional'
 wp_id: 6249
 ---
 

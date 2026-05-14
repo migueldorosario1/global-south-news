@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Investimentos na indústria automobilística brasileira alcançam bilhões de reais até 2032'
 pubDate: 2024-04-09 09:58:17
 slug: "investimentos-na-industria-automobilistica-brasileira-alcancam-bilhoes-de-reais-ate-2032"
+tags:
+  - 'nacional'
 wp_id: 4124
 ---
 

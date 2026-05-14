@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Musk quer incluir a Casa Branca na sua guerra contra o Brasil'
 pubDate: 2024-04-11 09:44:09
 slug: "musk-quer-incluir-a-casa-branca-na-sua-guerra-contra-o-brasil"
+tags:
+  - 'geopolitica'
 wp_id: 4159
 ---
 

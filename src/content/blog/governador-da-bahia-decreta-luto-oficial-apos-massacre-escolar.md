@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governador da Bahia decreta luto oficial após massacre escolar'
 pubDate: 2024-10-19 13:15:46
 slug: "governador-da-bahia-decreta-luto-oficial-apos-massacre-escolar"
+tags:
+  - 'nacional'
 wp_id: 5749
 ---
 

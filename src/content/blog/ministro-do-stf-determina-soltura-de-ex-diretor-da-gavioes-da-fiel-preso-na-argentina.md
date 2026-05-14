@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ministro do STF determina soltura de ex-diretor da Gaviões da Fiel preso na Argentina'
 pubDate: 2024-09-20 11:06:11
 slug: "ministro-do-stf-determina-soltura-de-ex-diretor-da-gavioes-da-fiel-preso-na-argentina"
+tags:
+  - 'nacional'
 wp_id: 5359
 ---
 

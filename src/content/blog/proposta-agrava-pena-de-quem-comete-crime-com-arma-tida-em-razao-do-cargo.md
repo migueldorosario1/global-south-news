@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Proposta agrava pena de quem comete crime com arma tida em razão do cargo'
 pubDate: 2024-02-02 05:30:00
 slug: "proposta-agrava-pena-de-quem-comete-crime-com-arma-tida-em-razao-do-cargo"
+tags:
+  - 'nacional'
 wp_id: 2854
 ---
 

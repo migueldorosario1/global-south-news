@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Crescimento do PIB brasileiro supera expectativas no 2º tri de 2024'
 pubDate: 2024-09-03 13:23:31
 slug: "crescimento-do-pib-brasileiro-supera-expectativas-no-2o-tri-de-2024"
+tags:
+  - 'nacional'
 wp_id: 5029
 ---
 

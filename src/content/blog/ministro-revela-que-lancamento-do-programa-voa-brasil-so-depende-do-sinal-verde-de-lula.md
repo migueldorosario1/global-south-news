@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ministro revela que lançamento do programa Voa Brasil só depende do sinal verde de Lula'
 pubDate: 2024-03-19 09:05:29
 slug: "ministro-revela-que-lancamento-do-programa-voa-brasil-so-depende-do-sinal-verde-de-lula"
+tags:
+  - 'nacional'
 wp_id: 3855
 ---
 

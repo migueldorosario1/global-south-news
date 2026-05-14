@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Taxa de desemprego no Brasil fica no patamar da pré-Lava Jato'
 pubDate: 2024-01-31 12:42:58
 slug: "taxa-de-desemprego-no-brasil-fica-no-patamar-da-pre-lava-jato"
+tags:
+  - 'nacional'
 wp_id: 2785
 ---
 

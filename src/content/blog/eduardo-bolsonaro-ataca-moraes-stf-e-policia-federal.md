@@ -6,7 +6,7 @@ pubDate: 2024-07-15 10:01:46
 slug: "eduardo-bolsonaro-ataca-moraes-stf-e-policia-federal"
 wp_id: 4769
 tags:
-  - 'baixada'
+  - 'nacional'
 ---
 
 <!-- wp:paragraph -->

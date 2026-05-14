@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula apoia suspensão do X pelo STF e critica Elon Musk'
 pubDate: 2024-09-02 19:20:40
 slug: "lula-apoia-suspensao-do-x-pelo-stf-e-critica-elon-musk"
+tags:
+  - 'nacional'
 wp_id: 5014
 ---
 

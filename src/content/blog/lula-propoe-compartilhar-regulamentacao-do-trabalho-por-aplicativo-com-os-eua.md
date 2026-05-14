@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula propõe compartilhar regulamentação do trabalho por aplicativo com os EUA'
 pubDate: 2024-03-05 15:51:57
 slug: "lula-propoe-compartilhar-regulamentacao-do-trabalho-por-aplicativo-com-os-eua"
+tags:
+  - 'nacional'
 wp_id: 3657
 ---
 

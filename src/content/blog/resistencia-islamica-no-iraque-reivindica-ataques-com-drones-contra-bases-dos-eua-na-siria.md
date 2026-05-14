@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Resistência Islâmica no Iraque reivindica ataques com drones contra bases dos EUA na Síria'
 pubDate: 2024-01-30 05:12:00
 slug: "resistencia-islamica-no-iraque-reivindica-ataques-com-drones-contra-bases-dos-eua-na-siria"
+tags:
+  - 'geopolitica'
 wp_id: 2642
 ---
 

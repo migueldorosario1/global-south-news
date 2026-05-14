@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'STF e Todas Group lançam programa de Desenvolvimento de Lideranças Femininas'
 pubDate: 2024-09-16 19:52:18
 slug: "stf-e-todas-group-lancam-programa-de-desenvolvimento-de-liderancas-femininas"
+tags:
+  - 'nacional'
 wp_id: 5267
 ---
 

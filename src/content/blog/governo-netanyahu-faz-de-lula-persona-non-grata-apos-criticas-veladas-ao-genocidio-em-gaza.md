@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Netanyahu faz de Lula persona non grata após críticas veladas ao genocídio em Gaza'
 pubDate: 2024-02-19 09:20:06
 slug: "governo-netanyahu-faz-de-lula-persona-non-grata-apos-criticas-veladas-ao-genocidio-em-gaza"
+tags:
+  - 'geopolitica'
 wp_id: 3306
 ---
 

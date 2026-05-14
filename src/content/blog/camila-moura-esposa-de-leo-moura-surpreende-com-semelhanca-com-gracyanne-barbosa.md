@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Camila Moura, esposa de Léo Moura, surpreende com semelhança com Gracyanne Barbosa'
 pubDate: 2024-01-10 17:30:00
 slug: "camila-moura-esposa-de-leo-moura-surpreende-com-semelhanca-com-gracyanne-barbosa"
+tags:
+  - 'cultura-carnaval'
 wp_id: 2333
 ---
 

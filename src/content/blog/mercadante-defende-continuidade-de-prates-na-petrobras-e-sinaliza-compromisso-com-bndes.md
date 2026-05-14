@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Mercadante defende continuidade de Prates na Petrobras e sinaliza compromisso com BNDES'
 pubDate: 2024-04-05 10:47:23
 slug: "mercadante-defende-continuidade-de-prates-na-petrobras-e-sinaliza-compromisso-com-bndes"
+tags:
+  - 'nacional'
 wp_id: 4073
 ---
 

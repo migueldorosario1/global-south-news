@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ministro do STF manda recado a Bolsonaro antes da manifestação com extremistas'
 pubDate: 2024-02-23 09:21:51
 slug: "ministro-do-stf-manda-recado-a-bolsonaro-antes-da-manifestacao-com-extremistas"
+tags:
+  - 'nacional'
 wp_id: 3410
 ---
 

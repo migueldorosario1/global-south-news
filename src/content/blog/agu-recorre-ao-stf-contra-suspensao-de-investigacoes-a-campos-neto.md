@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'AGU recorre ao STF contra suspensão de investigações a Campos Neto'
 pubDate: 2024-09-10 10:46:50
 slug: "agu-recorre-ao-stf-contra-suspensao-de-investigacoes-a-campos-neto"
+tags:
+  - 'nacional'
 wp_id: 5142
 ---
 

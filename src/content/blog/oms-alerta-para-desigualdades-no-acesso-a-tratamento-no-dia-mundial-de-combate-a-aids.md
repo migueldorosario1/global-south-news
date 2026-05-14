@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'OMS alerta para desigualdades no acesso a tratamento no dia mundial de combate à Aids'
 pubDate: 2024-12-01 11:04:34
 slug: "oms-alerta-para-desigualdades-no-acesso-a-tratamento-no-dia-mundial-de-combate-a-aids"
+tags:
+  - 'geopolitica'
 wp_id: 6082
 ---
 

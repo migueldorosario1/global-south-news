@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Apagão em São Paulo mais de 100 mil imóveis afetados pela falta de energia'
 pubDate: 2024-10-19 15:45:08
 slug: "apagao-em-sao-paulo-mais-de-100-mil-imoveis-afetados-pela-falta-de-energia"
+tags:
+  - 'nacional'
 wp_id: 5794
 ---
 

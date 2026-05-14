@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Facções tomam o wi-fi, mercado e abastecem o crime com postos de gasolina no Rio'
 pubDate: 2025-04-25 11:05:13
 slug: "faccoes-tomam-o-wi-fi-mercado-e-abastecem-o-crime-com-postos-de-gasolina-no-rio"
+tags:
+  - 'seguranca-publica'
 wp_id: 6836
 ---
 

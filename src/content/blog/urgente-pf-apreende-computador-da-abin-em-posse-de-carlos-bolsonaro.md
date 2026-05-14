@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'URGENTE! PF apreende computador da Abin em posse de Carlos Bolsonaro'
 pubDate: 2024-01-29 10:05:54
 slug: "urgente-pf-apreende-computador-da-abin-em-posse-de-carlos-bolsonaro"
+tags:
+  - 'nacional'
 wp_id: 2613
 ---
 

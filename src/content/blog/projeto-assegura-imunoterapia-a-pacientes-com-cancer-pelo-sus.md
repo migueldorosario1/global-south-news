@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Projeto assegura imunoterapia a pacientes com câncer pelo SUS'
 pubDate: 2024-02-03 05:39:00
 slug: "projeto-assegura-imunoterapia-a-pacientes-com-cancer-pelo-sus"
+tags:
+  - 'nacional'
 wp_id: 2864
 ---
 

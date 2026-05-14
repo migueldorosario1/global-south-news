@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula e Tarcísio anunciam grandes obras de infraestrutura para o estado de SP'
 pubDate: 2024-01-31 08:12:38
 slug: "lula-e-tarcisio-anunciam-grandes-obras-de-infraestrutura-para-o-estado-de-sp"
+tags:
+  - 'nacional'
 wp_id: 2766
 ---
 

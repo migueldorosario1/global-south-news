@@ -6,7 +6,7 @@ pubDate: 2024-02-09 11:11:00
 slug: "bizarro-criminosos-usam-retroescavadeira-para-roubar-caixa-eletronico-na-baixada-fluminense"
 wp_id: 3098
 tags:
-  - 'baixada'
+  - 'nacional'
 ---
 
 <!-- wp:paragraph -->

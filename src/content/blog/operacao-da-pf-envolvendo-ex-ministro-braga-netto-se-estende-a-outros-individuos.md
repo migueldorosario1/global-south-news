@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Operação da PF envolvendo ex-ministro Braga Netto se estende a outros indivíduos'
 pubDate: 2024-12-14 11:42:20
 slug: "operacao-da-pf-envolvendo-ex-ministro-braga-netto-se-estende-a-outros-individuos"
+tags:
+  - 'nacional'
 wp_id: 6195
 ---
 

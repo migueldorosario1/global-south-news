@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann critica Fiesp por oposição a aumento de tributação sobre lucros e juros'
 pubDate: 2024-09-03 18:38:28
 slug: "gleisi-hoffmann-critica-fiesp-por-oposicao-a-aumento-de-tributacao-sobre-lucros-e-juros"
+tags:
+  - 'nacional'
 wp_id: 5061
 ---
 

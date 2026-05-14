@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'CEO do Vasco, Luiz Mello é acusado de ser sócio do Flamengo'
 pubDate: 2023-06-19 15:30:13
 slug: "ceo-do-vasco-luiz-mello-e-acusado-de-ser-socio-do-flamengo"
+tags:
+  - 'vasco-da-gama'
 wp_id: 356
 ---
 

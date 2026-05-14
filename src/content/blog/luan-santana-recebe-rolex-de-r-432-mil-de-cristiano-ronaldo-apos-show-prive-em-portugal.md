@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Luan Santana recebe Rolex de R$ 432 mil de Cristiano Ronaldo após show privé em Portugal'
 pubDate: 2024-01-02 07:30:00
 slug: "luan-santana-recebe-rolex-de-r-432-mil-de-cristiano-ronaldo-apos-show-prive-em-portugal"
+tags:
+  - 'nacional'
 wp_id: 2237
 ---
 

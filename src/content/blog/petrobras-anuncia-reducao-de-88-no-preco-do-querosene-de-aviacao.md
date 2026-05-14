@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Petrobras anuncia redução de 8,8% no preço do querosene de aviação'
 pubDate: 2024-09-02 18:05:16
 slug: "petrobras-anuncia-reducao-de-88-no-preco-do-querosene-de-aviacao"
+tags:
+  - 'nacional'
 wp_id: 4990
 ---
 

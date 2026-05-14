@@ -6,7 +6,7 @@ pubDate: 2024-04-09 18:15:59
 slug: "dilceia-quintela-fala-sobre-os-60-anos-do-golpe"
 wp_id: 4128
 tags:
-  - 'baixada'
+  - 'nacional'
 ---
 
 <!-- wp:paragraph -->

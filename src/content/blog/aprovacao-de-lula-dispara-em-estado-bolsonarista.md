@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Aprovação de Lula dispara em estado bolsonarista'
 pubDate: 2024-02-18 18:08:00
 slug: "aprovacao-de-lula-dispara-em-estado-bolsonarista"
+tags:
+  - 'nacional'
 wp_id: 3300
 ---
 

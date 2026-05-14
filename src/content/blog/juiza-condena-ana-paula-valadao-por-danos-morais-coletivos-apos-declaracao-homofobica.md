@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Juíza condena Ana Paula Valadão por danos morais coletivos após declaração homofóbica'
 pubDate: 2024-04-29 09:40:50
 slug: "juiza-condena-ana-paula-valadao-por-danos-morais-coletivos-apos-declaracao-homofobica"
+tags:
+  - 'nacional'
 wp_id: 4338
 ---
 

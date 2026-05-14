@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'STJ determina que Robinho cumpra pena por estupro em regime fechado'
 pubDate: 2024-03-21 09:28:19
 slug: "stj-determina-que-robinho-cumpra-pena-por-estupro-em-regime-fechado"
+tags:
+  - 'nacional'
 wp_id: 3907
 ---
 

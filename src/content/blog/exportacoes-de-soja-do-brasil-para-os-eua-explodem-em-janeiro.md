@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Exportaçoes de soja do Brasil para os EUA explodem em janeiro'
 pubDate: 2024-02-24 11:57:27
 slug: "exportacoes-de-soja-do-brasil-para-os-eua-explodem-em-janeiro"
+tags:
+  - 'nacional'
 wp_id: 3444
 ---
 

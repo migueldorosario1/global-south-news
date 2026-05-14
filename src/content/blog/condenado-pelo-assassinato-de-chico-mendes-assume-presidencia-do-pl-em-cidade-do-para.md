@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Condenado pelo assassinato de Chico Mendes assume presidência do PL em cidade do Pará'
 pubDate: 2024-02-28 09:50:16
 slug: "condenado-pelo-assassinato-de-chico-mendes-assume-presidencia-do-pl-em-cidade-do-para"
+tags:
+  - 'nacional'
 wp_id: 3543
 ---
 

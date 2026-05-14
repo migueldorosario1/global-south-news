@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Dino toma posse como ministro do STF em dia histórico e com cerimônia de alto nível'
 pubDate: 2024-02-22 10:08:03
 slug: "dino-toma-posse-como-ministro-do-stf-em-dia-historico-e-com-cerimonia-de-alto-nivel"
+tags:
+  - 'nacional'
 wp_id: 3398
 ---
 

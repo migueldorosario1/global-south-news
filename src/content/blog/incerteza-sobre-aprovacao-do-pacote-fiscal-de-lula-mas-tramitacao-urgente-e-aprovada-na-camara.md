@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Incerteza sobre aprovação do pacote fiscal de Lula, mas tramitação urgente é aprovada na câmara'
 pubDate: 2024-12-08 10:08:38
 slug: "incerteza-sobre-aprovacao-do-pacote-fiscal-de-lula-mas-tramitacao-urgente-e-aprovada-na-camara"
+tags:
+  - 'nacional'
 wp_id: 6132
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula sanciona lei de incentivo fiscal para modernização industrial'
 pubDate: 2024-05-29 09:29:43
 slug: "lula-sanciona-lei-de-incentivo-fiscal-para-modernizacao-industrial"
+tags:
+  - 'nacional'
 wp_id: 4547
 ---
 

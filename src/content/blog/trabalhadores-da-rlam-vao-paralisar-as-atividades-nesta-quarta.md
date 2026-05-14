@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Trabalhadores da RLAM vão paralisar as atividades nesta quarta'
 pubDate: 2024-03-05 21:05:22
 slug: "trabalhadores-da-rlam-vao-paralisar-as-atividades-nesta-quarta"
+tags:
+  - 'nacional'
 wp_id: 3660
 ---
 

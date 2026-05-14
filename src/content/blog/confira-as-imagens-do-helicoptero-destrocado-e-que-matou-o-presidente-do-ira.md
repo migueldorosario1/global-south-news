@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Confira as imagens do helicóptero destroçado e que matou o presidente do Irã'
 pubDate: 2024-05-20 09:19:06
 slug: "confira-as-imagens-do-helicoptero-destrocado-e-que-matou-o-presidente-do-ira"
+tags:
+  - 'geopolitica'
 wp_id: 4480
 ---
 

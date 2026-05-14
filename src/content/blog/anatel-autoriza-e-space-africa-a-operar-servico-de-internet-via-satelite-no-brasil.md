@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Anatel autoriza E-Space Africa a operar serviço de internet via satélite no Brasil'
 pubDate: 2024-09-24 20:37:08
 slug: "anatel-autoriza-e-space-africa-a-operar-servico-de-internet-via-satelite-no-brasil"
+tags:
+  - 'nacional'
 wp_id: 5453
 ---
 

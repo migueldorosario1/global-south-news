@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Indústria farmacêutica brasileira anuncia investimento biolionário até 2026'
 pubDate: 2024-03-18 16:19:00
 slug: "industria-farmaceutica-brasileira-anuncia-investimento-biolionario-ate-2026"
+tags:
+  - 'nacional'
 wp_id: 3835
 ---
 

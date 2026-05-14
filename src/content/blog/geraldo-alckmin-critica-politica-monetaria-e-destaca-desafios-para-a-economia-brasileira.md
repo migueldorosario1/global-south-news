@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Geraldo Alckmin critica política monetária e destaca desafios para a economia Brasileira'
 pubDate: 2024-09-24 05:45:13
 slug: "geraldo-alckmin-critica-politica-monetaria-e-destaca-desafios-para-a-economia-brasileira"
+tags:
+  - 'nacional'
 wp_id: 5397
 ---
 

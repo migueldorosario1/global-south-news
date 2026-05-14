@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ataque em campo de refugiados deixa dezenas de mortos em Gaza'
 pubDate: 2024-05-27 09:02:45
 slug: "ataque-em-campo-de-refugiados-deixa-dezenas-de-mortos-em-gaza"
+tags:
+  - 'geopolitica'
 wp_id: 4518
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Feira de São Cristóvão faz 78 anos no próximo sábado'
 pubDate: 2023-08-29 15:15:14
 slug: "feira-de-sao-cristovao-faz-78-anos-no-proximo-sabado"
+tags:
+  - 'sao-cristovao'
 wp_id: 1234
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Aula Inaugural da Escola de Enfermagem Anna Nery é feita por Jandira Feghali na UFRJ'
 pubDate: 2024-03-18 21:32:59
 slug: "aula-inaugural-da-escola-de-enfermagem-anna-nery-e-feita-por-jandira-feghali-na-ufrj"
+tags:
+  - 'educacao'
 wp_id: 3851
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maricá registra menor índice de roubos de veículos na Região Metropolitana'
 pubDate: 2026-04-09 15:50:26
 slug: "marica-registra-menor-indice-de-roubos-de-veiculos-na-regiao-metropolitana"
+tags:
+  - 'marica'
 wp_id: 7790
 ---
 

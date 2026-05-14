@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Turismo LGBT no Brasil é fortalecido com retomada da parceria da Embratur e IGLTA'
 pubDate: 2023-07-10 22:19:55
 slug: "turismo-lgbt-no-brasil-e-fortalecido-com-retomada-da-parceria-da-embratur-e-iglta"
+tags:
+  - 'nacional'
 wp_id: 766
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula cria gabinete para enfrentar crise de enchentes no Rio Grande do Sul'
 pubDate: 2024-05-03 09:44:34
 slug: "governo-lula-cria-gabinete-para-enfrentar-crise-de-enchentes-no-rio-grande-do-sul"
+tags:
+  - 'nacional'
 wp_id: 4393
 ---
 

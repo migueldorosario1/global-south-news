@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Meta suspende programa de checagem de fatos nos EUA e enfrenta questionamentos da AGU no Brasil'
 pubDate: 2025-01-14 11:47:30
 slug: "meta-suspende-programa-de-checagem-de-fatos-nos-eua-e-enfrenta-questionamentos-da-agu-no-brasil"
+tags:
+  - 'nacional'
 wp_id: 6440
 ---
 

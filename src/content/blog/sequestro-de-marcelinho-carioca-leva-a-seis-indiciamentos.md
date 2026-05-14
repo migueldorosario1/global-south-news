@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Sequestro de Marcelinho Carioca leva a seis indiciamentos'
 pubDate: 2023-12-20 07:00:00
 slug: "sequestro-de-marcelinho-carioca-leva-a-seis-indiciamentos"
+tags:
+  - 'seguranca-publica'
 wp_id: 2183
 ---
 

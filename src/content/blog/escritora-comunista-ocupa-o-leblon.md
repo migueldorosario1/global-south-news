@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Escritora comunista ocupa o Leblon'
 pubDate: 2025-06-17 21:58:07
 slug: "escritora-comunista-ocupa-o-leblon"
+tags:
+  - 'leblon'
 wp_id: 6930
 ---
 

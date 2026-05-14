@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Itaú Unibanco compra prédio na Faria Lima por R$ 1,5 bilhão'
 pubDate: 2024-01-21 08:00:00
 slug: "itau-unibanco-compra-predio-na-faria-lima-por-r-15-bilhao"
+tags:
+  - 'nacional'
 wp_id: 2486
 ---
 

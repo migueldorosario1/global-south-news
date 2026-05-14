@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Haddad anuncia bloqueio de mais de 2.000 sites de apostas não autorizados'
 pubDate: 2024-10-10 21:52:18
 slug: "haddad-anuncia-bloqueio-de-mais-de-2-000-sites-de-apostas-nao-autorizados"
+tags:
+  - 'nacional'
 wp_id: 5678
 ---
 

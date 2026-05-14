@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Vídeo Soldados israelenses disfarçados assassinam civis dentro de hospital na Cisjordânia'
 pubDate: 2024-01-30 12:55:08
 slug: "video-soldados-israelenses-disfarcados-assassinam-civis-dentro-de-hospital-na-cisjordania"
+tags:
+  - 'geopolitica'
 wp_id: 2709
 ---
 

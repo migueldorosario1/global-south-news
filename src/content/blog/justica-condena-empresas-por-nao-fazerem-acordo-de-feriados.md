@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Justiça condena empresas por não fazerem acordo de feriados'
 pubDate: 2026-02-05 22:09:46
 slug: "justica-condena-empresas-por-nao-fazerem-acordo-de-feriados"
+tags:
+  - 'nacional'
 wp_id: 7638
 ---
 

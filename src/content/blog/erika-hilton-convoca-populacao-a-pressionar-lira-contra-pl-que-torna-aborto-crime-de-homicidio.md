@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Erika Hilton convoca população a pressionar Lira contra PL que torna aborto crime de homicídio'
 pubDate: 2024-06-14 08:59:38
 slug: "erika-hilton-convoca-populacao-a-pressionar-lira-contra-pl-que-torna-aborto-crime-de-homicidio"
+tags:
+  - 'nacional'
 wp_id: 4672
 ---
 

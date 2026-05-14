@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'TV Brasil exibe documentário sobre Antonio Meneses, renomado violoncelista brasileiro'
 pubDate: 2024-08-18 08:36:48
 slug: "tv-brasil-exibe-documentario-sobre-antonio-meneses-renomado-violoncelista-brasileiro"
+tags:
+  - 'nacional'
 wp_id: 4856
 ---
 

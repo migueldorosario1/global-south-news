@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Enchentes levam moradores a deixarem Porto Alegre em massa'
 pubDate: 2024-05-08 08:09:10
 slug: "enchentes-levam-moradores-a-deixarem-porto-alegre-em-massa"
+tags:
+  - 'nacional'
 wp_id: 4434
 ---
 

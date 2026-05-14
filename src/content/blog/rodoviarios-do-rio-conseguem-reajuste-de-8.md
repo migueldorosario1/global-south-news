@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Rodoviários do Rio conseguem reajuste de 8%'
 pubDate: 2023-07-07 19:50:15
 slug: "rodoviarios-do-rio-conseguem-reajuste-de-8"
+tags:
+  - 'transporte-mobilidade'
 wp_id: 694
 ---
 

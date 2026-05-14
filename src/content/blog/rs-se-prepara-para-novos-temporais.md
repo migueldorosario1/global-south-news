@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'RS se prepara para novos temporais'
 pubDate: 2024-05-10 08:55:51
 slug: "rs-se-prepara-para-novos-temporais"
+tags:
+  - 'nacional'
 wp_id: 4453
 ---
 

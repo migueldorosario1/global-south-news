@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Filme com inspiração de moradores da Barra da Tijuca,  estreia na Amazon Prime'
 pubDate: 2023-11-01 14:32:00
 slug: "filme-com-inspiracao-de-moradores-da-barra-da-tijuca-estreia-na-amazon-prime"
+tags:
+  - 'barra-da-tijuca'
 wp_id: 1761
 ---
 

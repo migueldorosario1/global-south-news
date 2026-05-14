@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Temporais isolam cidade gaúcha'
 pubDate: 2024-05-02 09:40:10
 slug: "temporais-isolam-cidade-gaucha"
+tags:
+  - 'nacional'
 wp_id: 4387
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Deputada Sâmia Bomfim Lamenta Crime Bárbaro que Vitimou seu Irmão Médico'
 pubDate: 2023-10-05 18:02:00
 slug: "deputada-samia-bomfim-lamenta-crime-barbaro-que-vitimou-seu-irmao-medico"
+tags:
+  - 'nacional'
 wp_id: 1511
 ---
 

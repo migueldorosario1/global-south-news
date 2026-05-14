@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro defende terroristas e abre novo flanco de guerra contra o STF'
 pubDate: 2024-02-25 17:00:10
 slug: "bolsonaro-defende-terroristas-e-abre-novo-flanco-de-guerra-contra-o-stf"
+tags:
+  - 'nacional'
 wp_id: 3466
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maricá implementa aplicativo de emergência para escolas municipais'
 pubDate: 2024-02-02 20:16:46
 slug: "marica-implementa-aplicativo-de-emergencia-para-escolas-municipais"
+tags:
+  - 'marica'
 wp_id: 2930
 ---
 

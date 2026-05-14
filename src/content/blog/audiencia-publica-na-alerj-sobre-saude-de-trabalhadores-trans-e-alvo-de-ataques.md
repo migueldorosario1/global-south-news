@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Audiência Pública na Alerj sobre saúde de trabalhadores trans é alvo de ataques'
 pubDate: 2025-05-29 18:24:15
 slug: "audiencia-publica-na-alerj-sobre-saude-de-trabalhadores-trans-e-alvo-de-ataques"
+tags:
+  - 'politica-rj'
 wp_id: 6876
 ---
 

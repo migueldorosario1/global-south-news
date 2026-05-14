@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Cármen Lúcia envia recurso de Sergio Moro à PGR por calúnia contra Gilmar Mendes'
 pubDate: 2024-09-16 20:44:46
 slug: "carmen-lucia-envia-recurso-de-sergio-moro-a-pgr-por-calunia-contra-gilmar-mendes"
+tags:
+  - 'nacional'
 wp_id: 5281
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Mulheres garantem mais de 70% das medalhas brasileiras nas Olimpíadas em Paris'
 pubDate: 2024-08-07 12:28:00
 slug: "mulheres-garantem-mais-de-70-das-medalhas-brasileiras-nas-olimpiadas-em-paris"
+tags:
+  - 'nacional'
 wp_id: 4800
 ---
 

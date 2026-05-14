@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Mourão aconselha governador do RS a solicitar decreto de GLO para conter saques'
 pubDate: 2024-05-08 08:09:07
 slug: "mourao-aconselha-governador-do-rs-a-solicitar-decreto-de-glo-para-conter-saques"
+tags:
+  - 'nacional'
 wp_id: 4432
 ---
 

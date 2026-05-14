@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Urgente! PF cogita intimar general Heleno no caso da Abin Paralela'
 pubDate: 2024-01-30 12:46:35
 slug: "urgente-pf-cogita-intimar-general-heleno-no-caso-da-abin-paralela"
+tags:
+  - 'nacional'
 wp_id: 2700
 ---
 

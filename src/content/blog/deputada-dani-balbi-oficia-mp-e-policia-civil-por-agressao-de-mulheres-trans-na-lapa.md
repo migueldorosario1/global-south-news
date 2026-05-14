@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Deputada Dani Balbi oficia MP e Polícia Civil por agressão de mulheres trans na Lapa'
 pubDate: 2024-01-24 14:41:51
 slug: "deputada-dani-balbi-oficia-mp-e-policia-civil-por-agressao-de-mulheres-trans-na-lapa"
+tags:
+  - 'lapa'
 wp_id: 2541
 ---
 

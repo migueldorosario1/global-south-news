@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo brasileiro registra recorde de empregos formais, anuncia Ministro da Secom'
 pubDate: 2024-10-30 20:56:49
 slug: "governo-brasileiro-registra-recorde-de-empregos-formais-anuncia-ministro-da-secom"
+tags:
+  - 'nacional'
 wp_id: 5928
 ---
 

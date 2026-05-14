@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Justiça bloqueia valor milionário de Gusttavo Lima por lavagem de dinheiro'
 pubDate: 2024-10-19 13:43:39
 slug: "justica-bloqueia-r-20-milhoes-em-bens-de-empresa-de-gusttavo-lima"
+tags:
+  - 'nacional'
 wp_id: 5755
 ---
 

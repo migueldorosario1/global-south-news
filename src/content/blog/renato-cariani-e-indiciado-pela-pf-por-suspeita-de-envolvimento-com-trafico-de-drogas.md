@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Renato Cariani é indiciado pela PF por suspeita de envolvimento com tráfico de drogas'
 pubDate: 2024-01-30 12:43:07
 slug: "renato-cariani-e-indiciado-pela-pf-por-suspeita-de-envolvimento-com-trafico-de-drogas"
+tags:
+  - 'nacional'
 wp_id: 2701
 ---
 

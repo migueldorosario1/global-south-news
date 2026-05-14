@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Jogo sujo Estadão usa ex-procurador da Lava Jato para atacar Lula e a Petrobras'
 pubDate: 2024-03-13 14:40:48
 slug: "jogo-sujo-estadao-usa-ex-procurador-da-lava-jato-para-atacar-lula-e-a-petrobras"
+tags:
+  - 'nacional'
 wp_id: 3761
 ---
 

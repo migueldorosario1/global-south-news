@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Revelado Diário do Golpe que detalha os planos de Heleno e Bolsonaro'
 pubDate: 2024-03-03 08:47:30
 slug: "bomba-revelado-diario-do-golpe-que-detalha-os-planos-de-heleno-e-bolsonaro"
+tags:
+  - 'nacional'
 wp_id: 3618
 ---
 

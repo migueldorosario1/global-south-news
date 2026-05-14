@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'OMC revisa para cima previsões de comércio global e destaca riscos por tensões no Oriente Médio'
 pubDate: 2024-10-10 21:31:38
 slug: "omc-revisa-para-cima-previsoes-de-comercio-global-e-destaca-riscos-por-tensoes-no-oriente-medio"
+tags:
+  - 'geopolitica'
 wp_id: 5675
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Luísa Sonza Retorna às Raízes Canta Versão Original de Chico Após Fim do Namoro'
 pubDate: 2023-12-02 09:00:00
 slug: "luisa-sonza-retorna-as-raizes-canta-versao-original-de-chico-apos-fim-do-namoro"
+tags:
+  - 'cultura-carnaval'
 wp_id: 2070
 ---
 

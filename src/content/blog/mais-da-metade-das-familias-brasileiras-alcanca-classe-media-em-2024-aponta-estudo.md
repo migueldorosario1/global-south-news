@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Mais da metade das famílias brasileiras alcança classe média em 2024, aponta estudo'
 pubDate: 2025-01-06 06:45:35
 slug: "mais-da-metade-das-familias-brasileiras-alcanca-classe-media-em-2024-aponta-estudo"
+tags:
+  - 'nacional'
 wp_id: 6341
 ---
 

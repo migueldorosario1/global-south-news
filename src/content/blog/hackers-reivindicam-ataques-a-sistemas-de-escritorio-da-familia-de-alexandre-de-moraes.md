@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Hackers reivindicam ataques a sistemas de escritório da família de Alexandre de Moraes'
 pubDate: 2024-09-03 18:08:45
 slug: "hackers-reivindicam-ataques-a-sistemas-de-escritorio-da-familia-de-alexandre-de-moraes"
+tags:
+  - 'nacional'
 wp_id: 5055
 ---
 

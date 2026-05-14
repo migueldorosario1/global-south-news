@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Dólar recua pelo quarto dia consecutivo no Brasil e se aproxima de R$ 5,50'
 pubDate: 2024-09-16 19:43:38
 slug: "dolar-recua-pelo-quarto-dia-consecutivo-no-brasil-e-se-aproxima-de-r-550"
+tags:
+  - 'nacional'
 wp_id: 5264
 ---
 

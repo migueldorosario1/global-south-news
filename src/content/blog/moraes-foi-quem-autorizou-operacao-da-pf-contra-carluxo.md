@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Moraes foi quem autorizou operação da PF contra Carluxo'
 pubDate: 2024-01-29 09:44:47
 slug: "moraes-foi-quem-autorizou-operacao-da-pf-contra-carluxo"
+tags:
+  - 'politica-rj'
 wp_id: 2597
 ---
 

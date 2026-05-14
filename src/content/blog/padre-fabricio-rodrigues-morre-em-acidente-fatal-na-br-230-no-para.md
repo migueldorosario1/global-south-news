@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Padre Fabrício Rodrigues morre em acidente fatal na BR-230 no Pará'
 pubDate: 2024-09-13 12:57:42
 slug: "padre-fabricio-rodrigues-morre-em-acidente-fatal-na-br-230-no-para"
+tags:
+  - 'nacional'
 wp_id: 5220
 ---
 

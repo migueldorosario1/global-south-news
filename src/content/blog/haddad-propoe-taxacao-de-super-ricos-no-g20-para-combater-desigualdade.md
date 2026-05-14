@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Haddad propõe taxação de super-ricos no G20 para combater desigualdade'
 pubDate: 2024-10-24 20:59:25
 slug: "haddad-propoe-taxacao-de-super-ricos-no-g20-para-combater-desigualdade"
+tags:
+  - 'nacional'
 wp_id: 5862
 ---
 

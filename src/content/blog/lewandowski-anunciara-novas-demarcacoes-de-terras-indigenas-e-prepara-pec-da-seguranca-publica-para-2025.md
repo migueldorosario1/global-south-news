@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lewandowski anunciará novas demarcações de terras indígenas e prepara PEC da segurança pública para 2025'
 pubDate: 2024-10-20 09:22:53
 slug: "lewandowski-anunciara-novas-demarcacoes-de-terras-indigenas-e-prepara-pec-da-seguranca-publica-para-2025"
+tags:
+  - 'nacional'
 wp_id: 5820
 ---
 

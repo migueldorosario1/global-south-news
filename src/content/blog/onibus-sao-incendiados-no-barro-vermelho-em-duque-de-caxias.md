@@ -6,7 +6,7 @@ pubDate: 2024-01-30 09:01:30
 slug: "onibus-sao-incendiados-no-barro-vermelho-em-duque-de-caxias"
 wp_id: 2690
 tags:
-  - 'baixada'
+  - 'duque-de-caxias'
 ---
 
 <!-- wp:paragraph -->

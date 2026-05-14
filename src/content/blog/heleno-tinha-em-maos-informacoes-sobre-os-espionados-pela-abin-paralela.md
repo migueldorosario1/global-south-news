@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Heleno tinha em mãos informações sobre os espionados pela Abin paralela'
 pubDate: 2024-02-01 09:11:29
 slug: "heleno-tinha-em-maos-informacoes-sobre-os-espionados-pela-abin-paralela"
+tags:
+  - 'nacional'
 wp_id: 2819
 ---
 

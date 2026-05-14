@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Dallagnol queria usar ONG para evitar fiscalização do TCU sobre multas da Petrobras'
 pubDate: 2024-05-29 09:41:46
 slug: "dallagnol-queria-usar-ong-para-evitar-fiscalizacao-do-tcu-sobre-multas-da-petrobras"
+tags:
+  - 'nacional'
 wp_id: 4554
 ---
 

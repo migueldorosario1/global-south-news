@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa revela que mais de 80% das empresas estrangeiras estão satisfeitas com ambiente de negócios da China'
 pubDate: 2024-02-01 05:10:00
 slug: "pesquisa-revela-que-mais-de-80-das-empresas-estrangeiras-estao-satisfeitas-com-ambiente-de-negocios-da-china"
+tags:
+  - 'geopolitica'
 wp_id: 2752
 ---
 

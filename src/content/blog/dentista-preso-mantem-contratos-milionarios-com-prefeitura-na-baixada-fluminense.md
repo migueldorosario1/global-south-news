@@ -6,7 +6,7 @@ pubDate: 2024-10-03 16:33:21
 slug: "dentista-preso-mantem-contratos-milionarios-com-prefeitura-na-baixada-fluminense"
 wp_id: 5548
 tags:
-  - 'baixada'
+  - 'politica-rj'
 ---
 
 <!-- wp:paragraph -->

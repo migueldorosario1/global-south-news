@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Dólar encerra com leve alta no Brasil após flutuações durante o dia'
 pubDate: 2024-09-24 05:57:14
 slug: "dolar-encerra-com-leve-alta-no-brasil-apos-flutuacoes-durante-o-dia"
+tags:
+  - 'nacional'
 wp_id: 5403
 ---
 

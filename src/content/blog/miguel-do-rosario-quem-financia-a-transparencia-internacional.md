@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Miguel do Rosário  Quem financia a Transparência Internacional?'
 pubDate: 2024-02-05 16:20:27
 slug: "miguel-do-rosario-quem-financia-a-transparencia-internacional"
+tags:
+  - 'nacional'
 wp_id: 3004
 ---
 

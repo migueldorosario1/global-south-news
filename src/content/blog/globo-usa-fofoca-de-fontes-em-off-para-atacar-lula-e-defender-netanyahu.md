@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Globo usa fofoca de fontes em off para atacar Lula e defender Netanyahu'
 pubDate: 2024-02-19 21:16:04
 slug: "globo-usa-fofoca-de-fontes-em-off-para-atacar-lula-e-defender-netanyahu"
+tags:
+  - 'nacional'
 wp_id: 3323
 ---
 

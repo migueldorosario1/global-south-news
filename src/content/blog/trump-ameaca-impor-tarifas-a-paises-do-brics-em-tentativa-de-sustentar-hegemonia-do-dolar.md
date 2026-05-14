@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Trump ameaça impor tarifas a países do BRICS em tentativa de sustentar hegemonia do dólar'
 pubDate: 2024-12-01 11:55:01
 slug: "trump-ameaca-impor-tarifas-a-paises-do-brics-em-tentativa-de-sustentar-hegemonia-do-dolar"
+tags:
+  - 'geopolitica'
 wp_id: 6091
 ---
 

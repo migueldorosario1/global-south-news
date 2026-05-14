@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maior concurso público do Brasil ocorre neste domingo com mais de 2,1 milhões de inscritos'
 pubDate: 2024-08-17 14:38:35
 slug: "maior-concurso-publico-do-brasil-ocorre-neste-domingo-com-mais-de-21-milhoes-de-inscritos"
+tags:
+  - 'nacional'
 wp_id: 4847
 ---
 

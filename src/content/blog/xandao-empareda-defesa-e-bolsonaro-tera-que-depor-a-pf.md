@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Xandão empareda defesa e Bolsonaro terá que depor a PF'
 pubDate: 2024-02-19 23:19:13
 slug: "xandao-empareda-defesa-e-bolsonaro-tera-que-depor-a-pf"
+tags:
+  - 'nacional'
 wp_id: 3331
 ---
 

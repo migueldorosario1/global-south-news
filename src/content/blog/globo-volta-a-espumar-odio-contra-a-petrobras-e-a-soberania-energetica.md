@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Globo volta a espumar ódio contra a Petrobras e a soberania energética'
 pubDate: 2024-02-21 08:06:48
 slug: "globo-volta-a-espumar-odio-contra-a-petrobras-e-a-soberania-energetica"
+tags:
+  - 'nacional'
 wp_id: 3354
 ---
 

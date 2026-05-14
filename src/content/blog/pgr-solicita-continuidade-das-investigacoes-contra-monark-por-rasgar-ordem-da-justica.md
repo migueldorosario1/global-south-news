@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'PGR solicita continuidade das investigações contra Monark por rasgar ordem da Justiça'
 pubDate: 2024-04-26 09:14:46
 slug: "pgr-solicita-continuidade-das-investigacoes-contra-monark-por-rasgar-ordem-da-justica"
+tags:
+  - 'nacional'
 wp_id: 4323
 ---
 

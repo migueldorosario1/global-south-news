@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: '16a. rodada do Brasileirão Botafogo lidera e Vasco está na última colocação'
 pubDate: 2023-07-24 09:52:27
 slug: "16a-rodada-do-brasileirao-botafogo-lidera-e-vasco-esta-na-ultima-colocacao"
+tags:
+  - 'nacional'
 wp_id: 884
 ---
 

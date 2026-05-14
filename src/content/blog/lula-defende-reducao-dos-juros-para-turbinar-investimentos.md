@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula defende redução dos juros para turbinar investimentos'
 pubDate: 2024-08-14 16:19:32
 slug: "lula-defende-reducao-dos-juros-para-turbinar-investimentos"
+tags:
+  - 'nacional'
 wp_id: 4826
 ---
 

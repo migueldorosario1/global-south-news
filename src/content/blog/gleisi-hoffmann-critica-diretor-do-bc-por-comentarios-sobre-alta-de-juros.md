@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann critica diretor do BC por comentários sobre alta de juros'
 pubDate: 2024-10-24 20:50:05
 slug: "gleisi-hoffmann-critica-diretor-do-bc-por-comentarios-sobre-alta-de-juros"
+tags:
+  - 'nacional'
 wp_id: 5859
 ---
 

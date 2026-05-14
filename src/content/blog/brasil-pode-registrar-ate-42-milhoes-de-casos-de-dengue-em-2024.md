@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Brasil pode registrar até 4,2 milhões de casos de dengue em 2024'
 pubDate: 2024-02-01 05:06:00
 slug: "brasil-pode-registrar-ate-42-milhoes-de-casos-de-dengue-em-2024"
+tags:
+  - 'nacional'
 wp_id: 2748
 ---
 

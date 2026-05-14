@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa mostra que cariocas não se sentem representados por Paes'
 pubDate: 2023-08-01 10:35:24
 slug: "pesquisa-mostra-que-cariocas-nao-se-sentem-representados-pela-prefeitura-e-por-paes"
+tags:
+  - 'politica-rj'
 wp_id: 988
 ---
 

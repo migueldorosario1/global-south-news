@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maricá é premiada na maior feira imobiliária do mundo com complexo turístico sustentável'
 pubDate: 2026-03-13 10:55:11
 slug: "marica-e-premiada-na-maior-feira-imobiliaria-do-mundo-com-complexo-turistico-sustentavel"
+tags:
+  - 'regiao-metropolitana'
 wp_id: 7741
 ---
 

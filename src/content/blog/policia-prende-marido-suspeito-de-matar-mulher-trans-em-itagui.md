@@ -6,7 +6,7 @@ pubDate: 2024-01-31 13:10:49
 slug: "policia-prende-marido-suspeito-de-matar-mulher-trans-em-itagui"
 wp_id: 2803
 tags:
-  - 'baixada'
+  - 'itaguai'
 ---
 
 <!-- wp:paragraph -->

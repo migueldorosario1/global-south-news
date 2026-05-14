@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Vasco tem 13 ex-jogadores na Copa do Mundo de clubes da Fifa'
 pubDate: 2025-06-25 14:51:20
 slug: "vasco-tem-13-ex-jogadores-na-copa-do-mundo-de-clubes-da-fifa"
+tags:
+  - 'vasco-da-gama'
 wp_id: 6955
 ---
 

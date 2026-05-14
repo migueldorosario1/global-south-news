@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Defesa de Rivaldo Barbosa pede julgamento no plenário do STF'
 pubDate: 2024-06-13 08:59:30
 slug: "defesa-de-rivaldo-barbosa-pede-julgamento-no-plenario-do-stf"
+tags:
+  - 'nacional'
 wp_id: 4646
 ---
 

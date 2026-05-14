@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'A sapatada antológica de Omar Aziz em Pacheco'
 pubDate: 2024-02-21 08:12:28
 slug: "a-sapatada-antologica-de-omar-aziz-em-pacheco"
+tags:
+  - 'nacional'
 wp_id: 3355
 ---
 

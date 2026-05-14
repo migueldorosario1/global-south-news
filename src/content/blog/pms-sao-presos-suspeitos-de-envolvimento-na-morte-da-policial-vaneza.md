@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'PMs são presos suspeitos de envolvimento na morte da policial Vaneza'
 pubDate: 2024-02-09 11:11:04
 slug: "pms-sao-presos-suspeitos-de-envolvimento-na-morte-da-policial-vaneza"
+tags:
+  - 'nacional'
 wp_id: 3103
 ---
 

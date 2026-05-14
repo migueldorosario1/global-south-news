@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Mudança no Imposto de Renda beneficia mais de 90% dos trabalhadores do comércio'
 pubDate: 2026-02-23 13:18:00
 slug: "mudanca-no-imposto-de-renda-impactou-trabalhadores-do-comercio"
+tags:
+  - 'nacional'
 wp_id: 7725
 ---
 

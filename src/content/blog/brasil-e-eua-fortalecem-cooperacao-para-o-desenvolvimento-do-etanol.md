@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Brasil e EUA fortalecem cooperação para o desenvolvimento do etanol'
 pubDate: 2024-09-16 20:56:44
 slug: "brasil-e-eua-fortalecem-cooperacao-para-o-desenvolvimento-do-etanol"
+tags:
+  - 'geopolitica'
 wp_id: 5284
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula reafirma compromisso com educação e anuncia expansão do programa pé-de-meia'
 pubDate: 2024-10-17 19:29:03
 slug: "lula-reafirma-compromisso-com-educacao-e-anuncia-expansao-do-programa-pe-de-meia"
+tags:
+  - 'nacional'
 wp_id: 5725
 ---
 

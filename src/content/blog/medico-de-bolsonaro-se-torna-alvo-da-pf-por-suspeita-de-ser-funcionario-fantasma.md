@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Médico de Bolsonaro se torna alvo da PF por suspeita de ser funcionário fantasma'
 pubDate: 2024-04-17 09:01:11
 slug: "medico-de-bolsonaro-se-torna-alvo-da-pf-por-suspeita-de-ser-funcionario-fantasma"
+tags:
+  - 'politica-rj'
 wp_id: 4220
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Sebrae RS oferece auxílio a empreendimentos afetados por catástrofe climática'
 pubDate: 2024-06-03 08:47:45
 slug: "sebrae-rs-oferece-auxilio-a-empreendimentos-afetados-por-catastrofe-climatica"
+tags:
+  - 'nacional'
 wp_id: 4579
 ---
 

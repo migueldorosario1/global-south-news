@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Mãe registra queixa após filha de 15 anos ser vítima de importunação sexual em frente à escola'
 pubDate: 2023-11-09 17:22:33
 slug: "mae-registra-queixa-apos-filha-de-15-anos-ser-vitima-de-importunacao-sexual-em-frente-a-escola"
+tags:
+  - 'seguranca-publica'
 wp_id: 1889
 ---
 

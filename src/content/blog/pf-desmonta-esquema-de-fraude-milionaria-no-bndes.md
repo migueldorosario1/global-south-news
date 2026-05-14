@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'PF desmonta esquema de fraude milionária no BNDES'
 pubDate: 2024-10-30 10:04:23
 slug: "pf-desmonta-esquema-de-fraude-milionaria-no-bndes"
+tags:
+  - 'nacional'
 wp_id: 5908
 ---
 

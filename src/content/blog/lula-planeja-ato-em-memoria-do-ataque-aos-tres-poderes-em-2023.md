@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula planeja ato em memória do ataque aos três poderes em 2023'
 pubDate: 2024-12-21 10:38:14
 slug: "lula-planeja-ato-em-memoria-do-ataque-aos-tres-poderes-em-2023"
+tags:
+  - 'nacional'
 wp_id: 6276
 ---
 

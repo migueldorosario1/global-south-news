@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Livro narra amizade de jovens que enfrentaram de peito aberto a ditadura'
 pubDate: 2025-04-17 14:53:14
 slug: "livro-narra-a-amizade-de-jovens-que-enfrentaram-de-peito-aberto-a-ditadura"
+tags:
+  - 'cultura-carnaval'
 wp_id: 6815
 ---
 

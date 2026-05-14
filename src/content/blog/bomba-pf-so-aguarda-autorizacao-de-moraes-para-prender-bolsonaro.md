@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! PF só aguarda autorização de Moraes para prender Bolsonaro'
 pubDate: 2024-03-12 21:50:27
 slug: "bomba-pf-so-aguarda-autorizacao-de-moraes-para-prender-bolsonaro"
+tags:
+  - 'nacional'
 wp_id: 3737
 ---
 

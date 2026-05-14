@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Inauguração do ramal Paula Mattos do Bonde Santa Teresa acontece nesta sexta'
 pubDate: 2025-01-10 09:53:50
 slug: "inauguracao-do-ramal-paula-mattos-do-bonde-santa-teresa-acontece-nesta-sexta"
+tags:
+  - 'santa-teresa'
 wp_id: 6397
 ---
 

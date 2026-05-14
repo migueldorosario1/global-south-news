@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo lança programa para incentivar o fortalecimento da indústria nacional'
 pubDate: 2024-09-16 10:55:52
 slug: "governo-lanca-programa-para-incentivar-o-fortalecimento-da-industria-nacional"
+tags:
+  - 'nacional'
 wp_id: 5253
 ---
 

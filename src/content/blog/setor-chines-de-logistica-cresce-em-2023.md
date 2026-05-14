@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Setor chinês de logística cresce em 2023'
 pubDate: 2024-02-04 05:48:00
 slug: "setor-chines-de-logistica-cresce-em-2023"
+tags:
+  - 'geopolitica'
 wp_id: 2874
 ---
 

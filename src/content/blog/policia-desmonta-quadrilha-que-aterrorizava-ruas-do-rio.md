@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Polícia desmonta quadrilha que aterrorizava ruas do Rio'
 pubDate: 2025-11-19 12:00:49
 slug: "policia-desmonta-quadrilha-que-aterrorizava-ruas-do-rio"
+tags:
+  - 'seguranca-publica'
 wp_id: 7395
 ---
 

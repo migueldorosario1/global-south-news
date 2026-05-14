@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'STF inicia investigação sobre envolvimento da Transparência Internacional na Lava Jato'
 pubDate: 2024-02-05 16:29:36
 slug: "stf-inicia-investigacao-sobre-envolvimento-da-transparencia-internacional-na-lava-jato"
+tags:
+  - 'nacional'
 wp_id: 3017
 ---
 

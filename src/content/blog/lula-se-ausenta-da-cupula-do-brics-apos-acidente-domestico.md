@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula se ausenta da Cúpula do BRICS após acidente doméstico'
 pubDate: 2024-10-21 15:33:24
 slug: "lula-se-ausenta-da-cupula-do-brics-apos-acidente-domestico"
+tags:
+  - 'nacional'
 wp_id: 5838
 ---
 

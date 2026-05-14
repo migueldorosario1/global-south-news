@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Profissionais de Enfermagem de Rio das Ostras têm decreto que ampliava jornada anulado pela Justiça'
 pubDate: 2025-06-12 12:57:02
 slug: "profissionais-de-enfermagem-de-rio-das-ostras-tem-decreto-que-ampliava-jornada-anulado-pela-justica"
+tags:
+  - 'rio-das-ostras'
 wp_id: 6916
 ---
 

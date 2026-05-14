@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Expectativa de crescimento do PIB brasileiro surpreende analistas apesar de enchentes'
 pubDate: 2024-09-02 19:04:29
 slug: "expectativa-de-crescimento-do-pib-brasileiro-surpreende-analistas-apesar-de-enchentes"
+tags:
+  - 'nacional'
 wp_id: 5008
 ---
 

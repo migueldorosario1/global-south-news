@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Onça Parda é flagrada em momento único enquanto se hidrata em área de preservação'
 pubDate: 2023-11-09 16:44:29
 slug: "onca-parda-e-flagrada-em-momento-unico-enquanto-se-hidrata-em-area-de-preservacao"
+tags:
+  - 'nacional'
 wp_id: 1880
 ---
 

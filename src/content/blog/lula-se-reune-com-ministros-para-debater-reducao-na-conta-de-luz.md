@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula se reúne com ministros para debater redução na conta de luz'
 pubDate: 2024-04-02 08:51:00
 slug: "lula-se-reune-com-ministros-para-debater-reducao-na-conta-de-luz"
+tags:
+  - 'nacional'
 wp_id: 4025
 ---
 

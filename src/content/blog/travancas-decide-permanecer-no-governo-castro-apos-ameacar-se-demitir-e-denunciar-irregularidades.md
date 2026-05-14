@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Travancas decide permanecer no governo Castro após ameaçar se demitir e denunciar irregularidades'
 pubDate: 2024-02-07 14:06:55
 slug: "travancas-decide-permanecer-no-governo-castro-apos-ameacar-se-demitir-e-denunciar-irregularidades"
+tags:
+  - 'politica-rj'
 wp_id: 3069
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ibama solicita mais informações à Petrobras sobre exploração de petróleo na Margem Equatorial'
 pubDate: 2024-10-30 20:40:32
 slug: "ibama-solicita-mais-informacoes-a-petrobras-sobre-exploracao-de-petroleo-na-margem-equatorial"
+tags:
+  - 'nacional'
 wp_id: 5925
 ---
 

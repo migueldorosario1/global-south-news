@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'ONG Viva Rio já recebeu mais de R$ 6,6 bilhões em contratos com a Prefeitura do Rio'
 pubDate: 2023-07-22 21:42:41
 slug: "ong-viva-rio-ja-recebeu-mais-de-r-66-bilhoes-em-contratos-com-a-prefeitura-do-rio"
+tags:
+  - 'rio-de-janeiro'
 wp_id: 878
 ---
 

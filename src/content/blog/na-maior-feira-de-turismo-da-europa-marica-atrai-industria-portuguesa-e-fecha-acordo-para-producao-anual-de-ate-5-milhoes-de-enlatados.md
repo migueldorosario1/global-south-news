@@ -6,7 +6,7 @@ pubDate: 2026-02-27 19:11:55
 slug: "na-maior-feira-de-turismo-da-europa-marica-atrai-industria-portuguesa-e-fecha-acordo-para-producao-anual-de-ate-5-milhoes-de-enlatados"
 wp_id: 7708
 tags:
-  - 'baixada'
+  - 'marica'
 ---
 
 <!-- wp:paragraph -->

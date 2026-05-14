@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'O chefe que manda desarmar o crime para não morrer'
 pubDate: 2025-10-31 10:57:43
 slug: "o-chefe-que-manda-desarmar-o-crime-para-nao-morrer"
+tags:
+  - 'seguranca-publica'
 wp_id: 7322
 ---
 

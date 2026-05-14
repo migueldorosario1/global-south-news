@@ -6,7 +6,7 @@ pubDate: 2025-11-20 12:37:51
 slug: "execucao-em-bar-lotado-reacende-alerta-em-nova-iguacu"
 wp_id: 7409
 tags:
-  - 'baixada'
+  - 'regiao-metropolitana'
 ---
 
 <!-- wp:heading {"level":3} -->

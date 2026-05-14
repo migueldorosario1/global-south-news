@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Planetário do Rio terá agenda especial no dia 12/10'
 pubDate: 2023-10-11 18:40:49
 slug: "planetario-do-rio-tera-agenda-especial-no-dia-12-10"
+tags:
+  - 'rio-de-janeiro'
 wp_id: 1577
 ---
 

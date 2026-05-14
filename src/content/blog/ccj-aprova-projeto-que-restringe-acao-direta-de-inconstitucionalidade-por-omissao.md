@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'CCJ aprova projeto que restringe ação direta de inconstitucionalidade por omissão'
 pubDate: 2024-09-05 21:05:06
 slug: "ccj-aprova-projeto-que-restringe-acao-direta-de-inconstitucionalidade-por-omissao"
+tags:
+  - 'nacional'
 wp_id: 5100
 ---
 

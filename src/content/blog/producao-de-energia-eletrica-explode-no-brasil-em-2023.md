@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Produção de energia elétrica explode no Brasil em 2023'
 pubDate: 2024-02-06 05:17:00
 slug: "producao-de-energia-eletrica-explode-no-brasil-em-2023"
+tags:
+  - 'nacional'
 wp_id: 2981
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Pobreza explode na Argentina e atinge nível recorde no governo Milei'
 pubDate: 2024-02-18 17:19:17
 slug: "pobreza-explode-na-argentina-e-atinge-nivel-recorde-no-governo-milei"
+tags:
+  - 'geopolitica'
 wp_id: 3298
 ---
 

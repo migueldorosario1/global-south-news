@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Policial Civil que ameaçou jornalista da Globo é afastado do cargo'
 pubDate: 2025-01-03 10:54:51
 slug: "policial-civil-que-ameacou-jornalista-da-globo-e-afastado-do-cargo"
+tags:
+  - 'nacional'
 wp_id: 6334
 ---
 

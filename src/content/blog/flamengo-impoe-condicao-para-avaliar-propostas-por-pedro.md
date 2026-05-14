@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Flamengo impõe condição para avaliar propostas por Pedro'
 pubDate: 2023-08-02 12:36:53
 slug: "flamengo-impoe-condicao-para-avaliar-propostas-por-pedro"
+tags:
+  - 'flamengo'
 wp_id: 1009
 ---
 

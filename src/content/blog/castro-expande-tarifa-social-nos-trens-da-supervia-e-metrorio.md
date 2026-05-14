@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Castro expande tarifa social nos trens da SuperVia e MetrôRio'
 pubDate: 2024-02-01 09:35:37
 slug: "castro-expande-tarifa-social-nos-trens-da-supervia-e-metrorio"
+tags:
+  - 'transporte-mobilidade'
 wp_id: 2837
 ---
 

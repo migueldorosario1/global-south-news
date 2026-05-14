@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'União Brasil quer pasta completa e Freixo pode deixar Embratur'
 pubDate: 2023-06-15 09:08:22
 slug: "uniao-brasil-quer-pasta-completa-e-freixo-pode-deixar-embratur"
+tags:
+  - 'nacional'
 wp_id: 163
 ---
 

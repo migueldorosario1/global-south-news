@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Saiba quais remédios são contraindicados em caso de suspeita de dengue'
 pubDate: 2024-02-11 05:59:00
 slug: "saiba-quais-remedios-sao-contraindicados-em-caso-de-suspeita-de-dengue"
+tags:
+  - 'saude'
 wp_id: 3141
 ---
 

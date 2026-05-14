@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula planeja redução brusca na conta de luz a partir de 2025'
 pubDate: 2024-04-16 09:12:19
 slug: "governo-lula-planeja-reducao-brusca-na-conta-de-luz-a-partir-de-2025"
+tags:
+  - 'nacional'
 wp_id: 4198
 ---
 

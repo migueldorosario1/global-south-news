@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Mercado aposta que BC vai antecipar queda na Selic'
 pubDate: 2024-01-30 05:28:00
 slug: "mercado-aposta-que-bc-vai-antecipar-queda-na-selic"
+tags:
+  - 'nacional'
 wp_id: 2648
 ---
 

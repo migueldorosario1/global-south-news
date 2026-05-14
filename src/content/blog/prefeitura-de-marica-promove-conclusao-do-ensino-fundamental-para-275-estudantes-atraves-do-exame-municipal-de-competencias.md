@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura de Maricá promove conclusão do ensino fundamental para 275 estudantes através do Exame Municipal de Competências'
 pubDate: 2025-12-04 14:03:46
 slug: "prefeitura-de-marica-promove-conclusao-do-ensino-fundamental-para-275-estudantes-atraves-do-exame-municipal-de-competencias"
+tags:
+  - 'marica'
 wp_id: 7531
 ---
 

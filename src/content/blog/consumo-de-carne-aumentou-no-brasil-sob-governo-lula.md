@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Consumo de carne aumentou no Brasil sob governo Lula'
 pubDate: 2024-05-27 09:57:36
 slug: "consumo-de-carne-aumentou-no-brasil-sob-governo-lula"
+tags:
+  - 'nacional'
 wp_id: 4527
 ---
 

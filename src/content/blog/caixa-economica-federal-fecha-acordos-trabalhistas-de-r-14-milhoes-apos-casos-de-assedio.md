@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Caixa Econômica Federal fecha acordos trabalhistas de R$ 14 milhões após casos de assédio'
 pubDate: 2024-09-16 20:00:31
 slug: "caixa-economica-federal-fecha-acordos-trabalhistas-de-r-14-milhoes-apos-casos-de-assedio"
+tags:
+  - 'nacional'
 wp_id: 5270
 ---
 

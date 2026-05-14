@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo anuncia licitação para desenvolver zap brasileiro'
 pubDate: 2024-08-19 20:19:40
 slug: "governo-anuncia-licitacao-para-desenvolver-plataforma-de-mensagens-nacional"
+tags:
+  - 'nacional'
 wp_id: 4882
 ---
 

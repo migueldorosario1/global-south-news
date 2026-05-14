@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Líderes do Congresso comprometem-se a aprovar Projetos cruciais para economia, afirma Haddad'
 pubDate: 2024-08-26 20:16:08
 slug: "lideres-do-congresso-comprometem-se-a-aprovar-projetos-cruciais-para-economia-afirma-haddad"
+tags:
+  - 'nacional'
 wp_id: 4953
 ---
 

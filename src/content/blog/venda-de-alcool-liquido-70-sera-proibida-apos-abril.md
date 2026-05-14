@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Venda de álcool líquido 70% será proibida após abril'
 pubDate: 2024-04-05 10:47:26
 slug: "venda-de-alcool-liquido-70-sera-proibida-apos-abril"
+tags:
+  - 'nacional'
 wp_id: 4074
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula condena uso pessoal de emendas e defende maior papel das mulheres'
 pubDate: 2024-09-05 20:40:43
 slug: "lula-condena-uso-pessoal-de-emendas-e-defende-maior-papel-das-mulheres"
+tags:
+  - 'nacional'
 wp_id: 5094
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Projeto propõe que entregadores não tenham vinculo empregatício com apps'
 pubDate: 2024-02-05 05:25:00
 slug: "projeto-propoe-que-entregadores-nao-tenham-vinculo-empregaticio-com-apps"
+tags:
+  - 'nacional'
 wp_id: 2988
 ---
 

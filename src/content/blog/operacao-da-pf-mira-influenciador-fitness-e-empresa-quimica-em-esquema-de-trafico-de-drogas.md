@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Operação da PF Mira Influenciador Fitness e Empresa Química em Esquema de Tráfico de Drogas'
 pubDate: 2023-12-12 12:16:00
 slug: "operacao-da-pf-mira-influenciador-fitness-e-empresa-quimica-em-esquema-de-trafico-de-drogas"
+tags:
+  - 'seguranca-publica'
 wp_id: 2135
 ---
 

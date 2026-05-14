@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Haddad critica BC por falta de diálogo com a Fazenda'
 pubDate: 2024-05-31 08:50:58
 slug: "haddad-critica-bc-por-falta-de-dialogo-com-a-fazenda"
+tags:
+  - 'nacional'
 wp_id: 4560
 ---
 

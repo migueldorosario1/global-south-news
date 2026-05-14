@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Jaques Wagner critica Lula por comparar genocídio em Gaza ao holocausto de Hitler'
 pubDate: 2024-02-21 08:26:23
 slug: "jaques-wagner-critica-lula-por-comparar-genocidio-em-gaza-ao-holocausto-de-hitler"
+tags:
+  - 'geopolitica'
 wp_id: 3362
 ---
 

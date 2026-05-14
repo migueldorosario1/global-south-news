@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Reforço de peso Lula defende redução de jornada para comerciários'
 pubDate: 2024-03-05 21:26:01
 slug: "reforco-de-peso-lula-defende-reducao-de-jornada-para-comerciarios"
+tags:
+  - 'nacional'
 wp_id: 3663
 ---
 

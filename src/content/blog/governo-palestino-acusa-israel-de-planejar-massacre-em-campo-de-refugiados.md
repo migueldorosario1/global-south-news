@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo palestino acusa Israel de planejar massacre em campo de refugiados'
 pubDate: 2024-05-27 09:02:48
 slug: "governo-palestino-acusa-israel-de-planejar-massacre-em-campo-de-refugiados"
+tags:
+  - 'geopolitica'
 wp_id: 4522
 ---
 

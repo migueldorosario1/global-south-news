@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Gusttavo Lima incluído na lista de procurados após decisão judicial em Pernambuco'
 pubDate: 2024-09-24 05:31:22
 slug: "gusttavo-lima-incluido-na-lista-de-procurados-apos-decisao-judicial-em-pernambuco"
+tags:
+  - 'nacional'
 wp_id: 5394
 ---
 

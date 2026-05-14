@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Investimentos chineses no Brasil crescem 33% em 2023, totalizando US$ 1,73 bilhão'
 pubDate: 2024-09-03 19:15:09
 slug: "investimentos-chineses-no-brasil-crescem-33-em-2023-totalizando-us-173-bilhao"
+tags:
+  - 'geopolitica'
 wp_id: 5070
 ---
 

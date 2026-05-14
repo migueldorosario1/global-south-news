@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bruno Lage é o novo técnico do Botafogo'
 pubDate: 2023-07-08 09:42:29
 slug: "bruno-lage-e-o-novo-tecnico-do-botafogo"
+tags:
+  - 'botafogo'
 wp_id: 711
 ---
 

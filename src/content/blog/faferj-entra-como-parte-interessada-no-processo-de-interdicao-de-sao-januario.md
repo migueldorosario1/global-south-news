@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Faferj entra como parte interessada no processo de interdição de São Januário'
 pubDate: 2023-08-24 22:46:06
 slug: "faferj-entra-como-parte-interessada-no-processo-de-interdicao-de-sao-januario"
+tags:
+  - 'vasco-da-gama'
 wp_id: 1197
 ---
 

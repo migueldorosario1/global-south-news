@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'New York Times analisa empresa 777 Partners; Vasco é citado no artigo'
 pubDate: 2023-10-10 22:24:45
 slug: "new-york-times-analisa-empresa-777-partners-vasco-e-citado-no-artigo"
+tags:
+  - 'vasco-da-gama'
 wp_id: 1569
 ---
 

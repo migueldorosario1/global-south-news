@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Operação Carnaval da PRF começou na madrugada desta sexta-feira'
 pubDate: 2024-02-10 05:43:00
 slug: "operacao-carnaval-da-prf-comecou-na-madrugada-desta-sexta-feira"
+tags:
+  - 'nacional'
 wp_id: 3120
 ---
 

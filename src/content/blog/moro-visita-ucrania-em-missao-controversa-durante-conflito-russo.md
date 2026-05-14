@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Moro visita Ucrânia em missão controversa durante conflito Russo'
 pubDate: 2024-11-29 17:08:34
 slug: "moro-visita-ucrania-em-missao-controversa-durante-conflito-russo"
+tags:
+  - 'geopolitica'
 wp_id: 6066
 ---
 

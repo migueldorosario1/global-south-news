@@ -6,7 +6,7 @@ pubDate: 2024-02-04 05:51:00
 slug: "embaixador-chines-nos-eua-pede-fim-de-obstaculos-a-intercambios-educacionais"
 wp_id: 2878
 tags:
-  - 'baixada'
+  - 'geopolitica'
 ---
 
 <!-- wp:paragraph -->

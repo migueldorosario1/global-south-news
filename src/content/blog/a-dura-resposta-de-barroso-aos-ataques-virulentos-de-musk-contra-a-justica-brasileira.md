@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'A dura resposta de Barroso aos ataques virulentos de Musk contra a justiça brasileira'
 pubDate: 2024-04-08 16:45:49
 slug: "a-dura-resposta-de-barroso-aos-ataques-virulentos-de-musk-contra-a-justica-brasileira"
+tags:
+  - 'nacional'
 wp_id: 4095
 ---
 

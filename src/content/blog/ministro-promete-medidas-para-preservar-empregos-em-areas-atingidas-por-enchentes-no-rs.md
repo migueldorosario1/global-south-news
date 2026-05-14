@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ministro promete medidas para preservar empregos em áreas atingidas por enchentes no RS'
 pubDate: 2024-06-03 08:36:23
 slug: "ministro-promete-medidas-para-preservar-empregos-em-areas-atingidas-por-enchentes-no-rs"
+tags:
+  - 'nacional'
 wp_id: 4575
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo libera valor bilionário para dívidas de trabalhadores rurais do RS'
 pubDate: 2024-08-22 10:57:34
 slug: "governo-libera-valor-bilionario-para-dividas-de-trabalhadores-rurais-do-rs"
+tags:
+  - 'nacional'
 wp_id: 4931
 ---
 

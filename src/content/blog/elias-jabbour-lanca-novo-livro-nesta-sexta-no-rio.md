@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Elias Jabbour lança novo livro nesta sexta no Rio'
 pubDate: 2026-03-11 10:03:50
 slug: "elias-jabbour-lanca-novo-livro-nesta-sexta-no-rio"
+tags:
+  - 'rio-de-janeiro'
 wp_id: 7735
 ---
 

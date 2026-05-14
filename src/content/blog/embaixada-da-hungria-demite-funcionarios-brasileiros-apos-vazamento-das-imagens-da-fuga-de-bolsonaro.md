@@ -6,7 +6,7 @@ pubDate: 2024-04-03 10:39:51
 slug: "embaixada-da-hungria-demite-funcionarios-brasileiros-apos-vazamento-das-imagens-da-fuga-de-bolsonaro"
 wp_id: 4050
 tags:
-  - 'baixada'
+  - 'nacional'
 ---
 
 <!-- wp:paragraph -->

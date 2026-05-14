@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Gigante dos mares Icon of the Seas chega a miami para viagem inaugural'
 pubDate: 2024-01-10 17:00:22
 slug: "gigante-dos-mares-icon-of-the-seas-chega-a-miami-para-viagem-inaugural"
+tags:
+  - 'geopolitica'
 wp_id: 2328
 ---
 

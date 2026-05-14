@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Líder da esquerda americana, Bernie Sanders terá encontro com Jandira Feghali nos EUA'
 pubDate: 2024-04-29 10:41:44
 slug: "lider-da-esquerda-americana-bernie-sanders-tera-encontro-com-jandira-feghali-nos-eua"
+tags:
+  - 'nacional'
 wp_id: 4358
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Gestor da Faria Lima elogia liderança de Lula e Haddad'
 pubDate: 2024-01-31 12:43:01
 slug: "gestor-da-faria-lima-elogia-lideranca-de-lula-e-haddad"
+tags:
+  - 'nacional'
 wp_id: 2789
 ---
 

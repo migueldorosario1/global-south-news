@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Maricá aposta em Grassi para projetar cidade ao mundo'
 pubDate: 2025-09-18 16:56:42
 slug: "marica-aposta-em-grassi-para-projetar-cidade-ao-mundo"
+tags:
+  - 'marica'
 wp_id: 7158
 ---
 

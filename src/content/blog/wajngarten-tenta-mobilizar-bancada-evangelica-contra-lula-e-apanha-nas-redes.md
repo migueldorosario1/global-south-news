@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Wajngarten tenta mobilizar bancada evangélica contra Lula e apanha nas redes'
 pubDate: 2024-02-18 17:07:46
 slug: "wajngarten-tenta-mobilizar-bancada-evangelica-contra-lula-e-apanha-nas-redes"
+tags:
+  - 'nacional'
 wp_id: 3295
 ---
 

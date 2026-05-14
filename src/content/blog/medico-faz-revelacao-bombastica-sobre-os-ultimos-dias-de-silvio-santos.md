@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Médico faz revelação bombástica sobre os últimos dias de Silvio Santos'
 pubDate: 2024-08-19 17:39:46
 slug: "medico-faz-revelacao-bombastica-sobre-os-ultimos-dias-de-silvio-santos"
+tags:
+  - 'nacional'
 wp_id: 4877
 ---
 

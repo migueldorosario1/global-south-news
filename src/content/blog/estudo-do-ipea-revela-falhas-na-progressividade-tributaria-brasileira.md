@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Estudo do Ipea revela falhas na progressividade tributária brasileira'
 pubDate: 2024-11-02 14:51:28
 slug: "estudo-do-ipea-revela-falhas-na-progressividade-tributaria-brasileira"
+tags:
+  - 'nacional'
 wp_id: 5946
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo brasileiro vai regular mercado de criptomoedas'
 pubDate: 2024-08-19 09:07:34
 slug: "governo-brasileiro-vai-regular-mercado-de-criptomoedas"
+tags:
+  - 'nacional'
 wp_id: 4862
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'China intensifica esforços para expandir indústria aeroespacial'
 pubDate: 2024-02-06 05:20:00
 slug: "china-intensifica-esforcos-para-expandir-industria-aeroespacial"
+tags:
+  - 'geopolitica'
 wp_id: 2984
 ---
 

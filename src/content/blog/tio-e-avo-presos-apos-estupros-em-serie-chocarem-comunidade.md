@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Tio e Avô Presos Após Estupros em Série Chocarem Comunidade'
 pubDate: 2023-12-06 15:51:19
 slug: "tio-e-avo-presos-apos-estupros-em-serie-chocarem-comunidade"
+tags:
+  - 'seguranca-publica'
 wp_id: 2086
 ---
 

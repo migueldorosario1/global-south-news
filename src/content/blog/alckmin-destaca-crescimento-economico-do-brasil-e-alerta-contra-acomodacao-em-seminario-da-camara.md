@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Alckmin destaca crescimento econômico do Brasil e alerta contra acomodação em seminário da câmara'
 pubDate: 2024-12-05 05:03:16
 slug: "alckmin-destaca-crescimento-economico-do-brasil-e-alerta-contra-acomodacao-em-seminario-da-camara"
+tags:
+  - 'nacional'
 wp_id: 6104
 ---
 

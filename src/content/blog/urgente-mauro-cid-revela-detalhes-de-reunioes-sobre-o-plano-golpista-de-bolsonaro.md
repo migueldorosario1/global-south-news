@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Urgente! Mauro Cid revela detalhes de reuniões sobre o plano golpista de Bolsonaro'
 pubDate: 2024-03-13 08:58:05
 slug: "urgente-mauro-cid-revela-detalhes-de-reunioes-sobre-o-plano-golpista-de-bolsonaro"
+tags:
+  - 'nacional'
 wp_id: 3744
 ---
 

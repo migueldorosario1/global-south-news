@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Wesley Batista aponta desburocratização como desafio para crescimento econômico do Brasil'
 pubDate: 2024-10-12 08:10:10
 slug: "wesley-batista-aponta-desburocratizacao-como-desafio-para-crescimento-economico-do-brasil"
+tags:
+  - 'nacional'
 wp_id: 5688
 ---
 

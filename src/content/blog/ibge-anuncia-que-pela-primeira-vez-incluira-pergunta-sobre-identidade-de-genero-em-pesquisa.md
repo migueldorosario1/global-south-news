@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'IBGE anuncia que, pela primeira vez, incluirá pergunta sobre identidade de gênero em pesquisa'
 pubDate: 2023-10-10 22:33:36
 slug: "ibge-anuncia-que-pela-primeira-vez-incluira-pergunta-sobre-identidade-de-genero-em-pesquisa"
+tags:
+  - 'nacional'
 wp_id: 1572
 ---
 

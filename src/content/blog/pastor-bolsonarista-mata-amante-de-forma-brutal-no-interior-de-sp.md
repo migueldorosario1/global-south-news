@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonarista mata amante de forma brutal no interior de SP'
 pubDate: 2024-03-19 09:05:33
 slug: "pastor-bolsonarista-mata-amante-de-forma-brutal-no-interior-de-sp"
+tags:
+  - 'nacional'
 wp_id: 3861
 ---
 

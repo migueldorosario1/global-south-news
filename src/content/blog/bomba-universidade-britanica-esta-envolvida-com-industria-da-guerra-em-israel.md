@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Universidade britânica está envolvida com indústria da guerra em Israel'
 pubDate: 2024-02-21 23:24:19
 slug: "bomba-universidade-britanica-esta-envolvida-com-industria-da-guerra-em-israel"
+tags:
+  - 'geopolitica'
 wp_id: 3383
 ---
 

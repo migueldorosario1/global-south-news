@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'STF autoriza reativação do X após cumprimento de determinações legais'
 pubDate: 2024-10-08 18:59:10
 slug: "stf-autoriza-reativacao-do-x-apos-cumprimento-de-determinacoes-legais"
+tags:
+  - 'nacional'
 wp_id: 5625
 ---
 

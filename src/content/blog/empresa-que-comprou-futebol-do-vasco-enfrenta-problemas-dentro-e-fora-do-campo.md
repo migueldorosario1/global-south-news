@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Empresa que comprou futebol do Vasco enfrenta problemas dentro e fora do campo'
 pubDate: 2023-07-04 19:43:11
 slug: "empresa-que-comprou-futebol-do-vasco-enfrenta-problemas-dentro-e-fora-do-campo"
+tags:
+  - 'vasco-da-gama'
 wp_id: 626
 ---
 

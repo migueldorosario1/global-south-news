@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Eletronuclear retoma construção de Angra 3'
 pubDate: 2023-07-21 23:50:18
 slug: "eletronuclear-retoma-construcao-de-angra-3"
+tags:
+  - 'angra-dos-reis'
 wp_id: 859
 ---
 

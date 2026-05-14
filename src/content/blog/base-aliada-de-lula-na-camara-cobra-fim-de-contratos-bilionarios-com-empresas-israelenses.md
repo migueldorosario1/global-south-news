@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Base aliada de Lula na Câmara cobra fim de contratos bilionários com empresas israelenses'
 pubDate: 2024-04-24 09:19:34
 slug: "base-aliada-de-lula-na-camara-cobra-fim-de-contratos-bilionarios-com-empresas-israelenses"
+tags:
+  - 'nacional'
 wp_id: 4295
 ---
 

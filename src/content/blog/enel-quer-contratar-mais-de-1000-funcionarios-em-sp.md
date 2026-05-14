@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Enel quer contratar mais de 1000 funcionários em SP'
 pubDate: 2024-06-12 09:39:56
 slug: "enel-quer-contratar-mais-de-1000-funcionarios-em-sp"
+tags:
+  - 'nacional'
 wp_id: 4639
 ---
 

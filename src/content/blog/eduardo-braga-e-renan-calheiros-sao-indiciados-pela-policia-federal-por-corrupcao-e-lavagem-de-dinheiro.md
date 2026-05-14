@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Braga e Renan Calheiros são indiciados pela Polícia Federal por corrupção e lavagem de dinheiro'
 pubDate: 2024-09-20 11:27:09
 slug: "eduardo-braga-e-renan-calheiros-sao-indiciados-pela-policia-federal-por-corrupcao-e-lavagem-de-dinheiro"
+tags:
+  - 'nacional'
 wp_id: 5362
 ---
 

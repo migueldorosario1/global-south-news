@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Moraes nega pedido de devolução do passaporte de Bolsonaro'
 pubDate: 2024-04-02 08:58:09
 slug: "moraes-nega-pedido-de-devolucao-do-passaporte-de-bolsonaro"
+tags:
+  - 'nacional'
 wp_id: 4031
 ---
 

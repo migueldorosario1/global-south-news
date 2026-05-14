@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Conselho Federal de Enfermagem define normas para parto domiciliar'
 pubDate: 2024-02-06 05:06:00
 slug: "conselho-federal-de-enfermagem-define-normas-para-parto-domiciliar"
+tags:
+  - 'nacional'
 wp_id: 2974
 ---
 

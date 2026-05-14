@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'PIB do Brasil fechou 2023 com crescimento acima do esperado'
 pubDate: 2024-03-01 15:08:05
 slug: "pib-do-brasil-fechou-2023-com-maior-indice-da-serie-historica"
+tags:
+  - 'nacional'
 wp_id: 3603
 ---
 

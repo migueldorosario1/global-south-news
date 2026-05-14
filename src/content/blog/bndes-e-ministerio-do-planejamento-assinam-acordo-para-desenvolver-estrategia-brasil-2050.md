@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'BNDES e Ministério do Planejamento assinam acordo para desenvolver estratégia Brasil 2050'
 pubDate: 2024-09-11 19:06:17
 slug: "bndes-e-ministerio-do-planejamento-assinam-acordo-para-desenvolver-estrategia-brasil-2050"
+tags:
+  - 'nacional'
 wp_id: 5180
 ---
 

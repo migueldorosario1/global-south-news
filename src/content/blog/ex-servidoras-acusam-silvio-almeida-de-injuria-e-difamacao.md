@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ex-servidoras acusam Silvio Almeida de injúria e difamação'
 pubDate: 2024-09-26 15:57:05
 slug: "ex-servidoras-acusam-silvio-almeida-de-injuria-e-difamacao"
+tags:
+  - 'nacional'
 wp_id: 5502
 ---
 

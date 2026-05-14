@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Tic Tac! PF está próxima dos militares golpistas'
 pubDate: 2024-02-20 16:10:10
 slug: "tic-tac-pf-esta-proxima-dos-militares-golpistas"
+tags:
+  - 'nacional'
 wp_id: 3346
 ---
 

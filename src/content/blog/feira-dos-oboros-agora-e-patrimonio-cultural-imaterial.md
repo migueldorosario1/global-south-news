@@ -6,7 +6,7 @@ pubDate: 2023-10-05 12:44:11
 slug: "feira-dos-oboros-agora-e-patrimonio-cultural-imaterial"
 wp_id: 1494
 tags:
-  - 'baixada'
+  - 'nacional'
 ---
 
 <!-- wp:paragraph -->

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Novo salário mínimo entra em vigor'
 pubDate: 2025-01-02 15:59:37
 slug: "novo-salario-minimo-entra-em-vigor"
+tags:
+  - 'nacional'
 wp_id: 6318
 ---
 

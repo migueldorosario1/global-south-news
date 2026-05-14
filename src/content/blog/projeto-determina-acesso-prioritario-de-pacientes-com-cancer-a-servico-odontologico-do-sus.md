@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Projeto determina acesso prioritário de pacientes com câncer a serviço odontológico do SUS'
 pubDate: 2024-02-07 05:28:00
 slug: "projeto-determina-acesso-prioritario-de-pacientes-com-cancer-a-servico-odontologico-do-sus"
+tags:
+  - 'nacional'
 wp_id: 2992
 ---
 

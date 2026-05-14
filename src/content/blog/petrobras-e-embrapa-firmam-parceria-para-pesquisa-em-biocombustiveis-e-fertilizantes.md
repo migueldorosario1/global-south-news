@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Petrobras e Embrapa firmam parceria para pesquisa em Biocombustíveis e Fertilizantes'
 pubDate: 2024-09-11 19:41:48
 slug: "petrobras-e-embrapa-firmam-parceria-para-pesquisa-em-biocombustiveis-e-fertilizantes"
+tags:
+  - 'nacional'
 wp_id: 5189
 ---
 

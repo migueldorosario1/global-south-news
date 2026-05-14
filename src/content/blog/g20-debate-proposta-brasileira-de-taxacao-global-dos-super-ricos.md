@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'G20 debate proposta brasileira de taxação global dos super-ricos'
 pubDate: 2024-04-26 09:14:44
 slug: "g20-debate-proposta-brasileira-de-taxacao-global-dos-super-ricos"
+tags:
+  - 'geopolitica'
 wp_id: 4320
 ---
 

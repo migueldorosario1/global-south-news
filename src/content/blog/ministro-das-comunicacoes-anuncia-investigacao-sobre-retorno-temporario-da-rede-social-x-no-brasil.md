@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ministro das comunicações anuncia investigação sobre retorno temporário da rede social X no Brasil'
 pubDate: 2024-09-24 19:13:16
 slug: "ministro-das-comunicacoes-anuncia-investigacao-sobre-retorno-temporario-da-rede-social-x-no-brasil"
+tags:
+  - 'nacional'
 wp_id: 5434
 ---
 

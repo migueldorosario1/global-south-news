@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Vegetti faz 44 gols pelo Vasco e se torna o maior artilheiro estrangeiro do clube no século XXI'
 pubDate: 2025-04-09 19:12:04
 slug: "vegetti-fz-44-gols-pelo-vasco-e-se-torna-o-maior-artilheiro-estrangeiro-do-clube-no-seculo-xxi"
+tags:
+  - 'vasco-da-gama'
 wp_id: 6795
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Fed mantém atuais taxas de juros e sinaliza cautela com inflação'
 pubDate: 2024-01-31 18:06:09
 slug: "fed-mantem-atuais-taxas-de-juros-e-sinaliza-cautela-com-inflacao"
+tags:
+  - 'geopolitica'
 wp_id: 2812
 ---
 

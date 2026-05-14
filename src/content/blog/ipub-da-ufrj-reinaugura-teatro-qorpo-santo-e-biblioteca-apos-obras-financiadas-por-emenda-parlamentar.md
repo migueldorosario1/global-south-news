@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'IPUB da UFRJ reinaugura Teatro Qorpo Santo e biblioteca após obras financiadas por emenda parlamentar'
 pubDate: 2026-04-09 13:13:32
 slug: "ipub-da-ufrj-reinaugura-teatro-qorpo-santo-e-biblioteca-apos-obras-financiadas-por-emenda-parlamentar"
+tags:
+  - 'botafogo'
 wp_id: 7786
 ---
 

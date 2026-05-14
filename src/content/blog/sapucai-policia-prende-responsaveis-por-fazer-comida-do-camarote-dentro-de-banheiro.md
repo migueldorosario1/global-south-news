@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Sapucaí Polícia prende responsáveis por fazer comida do camarote dentro de banheiro'
 pubDate: 2024-02-12 11:03:59
 slug: "sapucai-policia-prende-responsaveis-por-fazer-comida-do-camarote-dentro-de-banheiro"
+tags:
+  - 'cultura-carnaval'
 wp_id: 3163
 ---
 

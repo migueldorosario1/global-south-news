@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Emoções nos gramados cariocas Vasco vence com gol nos acréscimos, Botafogo empata e Flamengo e Fluminense ficam no 1 a 1'
 pubDate: 2023-11-13 11:20:21
 slug: "emocoes-nos-gramados-cariocas-vasco-vence-com-gol-nos-acrescimos-botafogo-empata-e-flamengo-e-fluminense-ficam-no-1-a-1"
+tags:
+  - 'rio-de-janeiro'
 wp_id: 1906
 ---
 

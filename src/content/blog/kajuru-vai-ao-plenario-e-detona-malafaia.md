@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Kajuru vai ao Plenário e detona Malafaia'
 pubDate: 2024-03-18 09:18:59
 slug: "kajuru-vai-ao-plenario-e-detona-malafaia"
+tags:
+  - 'nacional'
 wp_id: 3818
 ---
 

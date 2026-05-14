@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Paes quer passar Terreirão do Samba para gestão privada'
 pubDate: 2023-08-19 15:08:49
 slug: "eduardo-paes-quer-passar-terreirao-do-samba-para-gestao-privada"
+tags:
+  - 'centro'
 wp_id: 1149
 ---
 

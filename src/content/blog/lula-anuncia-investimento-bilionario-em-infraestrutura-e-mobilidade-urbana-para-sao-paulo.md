@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula anuncia investimento bilionário em infraestrutura e mobilidade urbana para São Paulo'
 pubDate: 2024-11-29 17:27:48
 slug: "lula-anuncia-investimento-bilionario-em-infraestrutura-e-mobilidade-urbana-para-sao-paulo"
+tags:
+  - 'nacional'
 wp_id: 6072
 ---
 

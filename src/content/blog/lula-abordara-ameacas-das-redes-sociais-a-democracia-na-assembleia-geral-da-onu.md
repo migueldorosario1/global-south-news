@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula abordará ameaças das redes sociais á democracia na Assembleia Geral da ONU'
 pubDate: 2024-09-16 21:20:02
 slug: "lula-abordara-ameacas-das-redes-sociais-a-democracia-na-assembleia-geral-da-onu"
+tags:
+  - 'geopolitica'
 wp_id: 5292
 ---
 

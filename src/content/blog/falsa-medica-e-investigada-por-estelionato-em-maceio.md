@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Falsa médica é investigada por estelionato em Maceió'
 pubDate: 2024-04-30 09:37:32
 slug: "falsa-medica-e-investigada-por-estelionato-em-maceio"
+tags:
+  - 'nacional'
 wp_id: 4372
 ---
 

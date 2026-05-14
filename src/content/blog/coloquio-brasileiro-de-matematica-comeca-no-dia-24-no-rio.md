@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Colóquio Brasileiro de Matemática começa no dia 24, no Rio'
 pubDate: 2023-07-22 00:05:17
 slug: "coloquio-brasileiro-de-matematica-comeca-no-dia-24-no-rio"
+tags:
+  - 'rio-de-janeiro'
 wp_id: 866
 ---
 

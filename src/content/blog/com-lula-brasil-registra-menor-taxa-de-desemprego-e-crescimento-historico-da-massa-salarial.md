@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Com Lula, Brasil registra menor taxa de desemprego e crescimento histórico da massa salarial'
 pubDate: 2024-03-18 16:18:47
 slug: "com-lula-brasil-registra-menor-taxa-de-desemprego-e-crescimento-historico-da-massa-salarial"
+tags:
+  - 'nacional'
 wp_id: 3832
 ---
 

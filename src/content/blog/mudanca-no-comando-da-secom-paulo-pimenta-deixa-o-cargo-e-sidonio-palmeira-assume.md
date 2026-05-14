@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Mudança no comando da Secom Paulo Pimenta deixa o cargo e Sidônio Palmeira assume'
 pubDate: 2025-01-07 16:41:15
 slug: "mudanca-no-comando-da-secom-paulo-pimenta-deixa-o-cargo-e-sidonio-palmeira-assume"
+tags:
+  - 'nacional'
 wp_id: 6350
 ---
 

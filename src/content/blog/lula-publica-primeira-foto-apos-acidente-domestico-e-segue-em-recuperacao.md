@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula publica primeira foto após acidente doméstico e segue em recuperação'
 pubDate: 2024-10-21 13:36:45
 slug: "lula-publica-primeira-foto-apos-acidente-domestico-e-segue-em-recuperacao"
+tags:
+  - 'nacional'
 wp_id: 5824
 ---
 

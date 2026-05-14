@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Micro-ônibus atropela fiéis em Pernambuco e mata 4 pessoas em procissão'
 pubDate: 2024-04-01 09:16:40
 slug: "micro-onibus-atropela-fieis-em-pernambuco-e-mata-4-pessoas-em-procissao"
+tags:
+  - 'nacional'
 wp_id: 4017
 ---
 

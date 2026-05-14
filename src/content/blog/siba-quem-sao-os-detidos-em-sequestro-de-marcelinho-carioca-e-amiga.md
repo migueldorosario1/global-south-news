@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Siba quem são os detidos em sequestro de Marcelinho Carioca e amiga'
 pubDate: 2023-12-26 12:00:00
 slug: "siba-quem-sao-os-detidos-em-sequestro-de-marcelinho-carioca-e-amiga"
+tags:
+  - 'seguranca-publica'
 wp_id: 2209
 ---
 

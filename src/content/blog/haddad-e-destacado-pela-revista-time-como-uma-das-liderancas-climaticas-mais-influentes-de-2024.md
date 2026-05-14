@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Haddad é destacado pela revista Time como uma das lideranças climáticas mais influentes de 2024'
 pubDate: 2024-11-12 19:18:50
 slug: "haddad-e-destacado-pela-revista-time-como-uma-das-liderancas-climaticas-mais-influentes-de-2024"
+tags:
+  - 'nacional'
 wp_id: 5992
 ---
 

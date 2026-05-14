@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Carlos Fávaro anuncia medidas para impulsionar o agro brasileiro'
 pubDate: 2024-01-30 05:30:00
 slug: "carlos-favaro-anuncia-medidas-para-impulsionar-o-agro-brasileiro"
+tags:
+  - 'nacional'
 wp_id: 2651
 ---
 

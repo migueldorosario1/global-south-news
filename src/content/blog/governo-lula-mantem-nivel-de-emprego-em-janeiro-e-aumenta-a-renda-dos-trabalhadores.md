@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula mantém nível de emprego em janeiro e aumenta a renda dos trabalhadores'
 pubDate: 2024-02-29 12:07:40
 slug: "governo-lula-mantem-nivel-de-emprego-em-janeiro-e-aumenta-a-renda-dos-trabalhadores"
+tags:
+  - 'nacional'
 wp_id: 3584
 ---
 

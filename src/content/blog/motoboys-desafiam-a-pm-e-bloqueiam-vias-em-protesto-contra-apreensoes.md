@@ -6,7 +6,7 @@ pubDate: 2025-04-25 10:27:49
 slug: "motoboys-desafiam-a-pm-e-bloqueiam-vias-em-protesto-contra-apreensoes"
 wp_id: 6831
 tags:
-  - 'baixada'
+  - 'seguranca-publica'
 ---
 
 <!-- wp:heading {"level":3} -->

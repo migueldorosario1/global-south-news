@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Projeto exige fornecimento de água potável nas instituições de ensino'
 pubDate: 2024-02-02 05:33:00
 slug: "projeto-exige-fornecimento-de-agua-potavel-nas-instituicoes-de-ensino"
+tags:
+  - 'nacional'
 wp_id: 2857
 ---
 

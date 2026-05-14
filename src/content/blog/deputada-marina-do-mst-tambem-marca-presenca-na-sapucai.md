@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Deputada Marina do MST também marca presença na Sapucaí'
 pubDate: 2024-02-13 17:30:33
 slug: "deputada-marina-do-mst-tambem-marca-presenca-na-sapucai"
+tags:
+  - 'cultura-carnaval'
 wp_id: 3183
 ---
 

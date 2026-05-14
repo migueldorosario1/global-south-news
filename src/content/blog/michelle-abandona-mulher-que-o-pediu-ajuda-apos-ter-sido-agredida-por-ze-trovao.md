@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Michelle abandona mulher que o pediu ajuda após ter sido agredida por Zé Trovão'
 pubDate: 2024-03-13 09:05:23
 slug: "michelle-abandona-mulher-que-o-pediu-ajuda-apos-ter-sido-agredida-por-ze-trovao"
+tags:
+  - 'nacional'
 wp_id: 3752
 ---
 

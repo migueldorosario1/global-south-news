@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula critica falta de ação política contra a fome na premiação Goalkeepers'
 pubDate: 2024-09-24 05:14:11
 slug: "lula-critica-falta-de-acao-politica-contra-a-fome-na-premiacao-goalkeepers"
+tags:
+  - 'nacional'
 wp_id: 5387
 ---
 

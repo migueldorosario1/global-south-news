@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ibovespa recua após corte de juros pelo Federal Reserve'
 pubDate: 2024-09-18 19:36:03
 slug: "ibovespa-recua-apos-corte-de-juros-pelo-federal-reserve"
+tags:
+  - 'nacional'
 wp_id: 5316
 ---
 

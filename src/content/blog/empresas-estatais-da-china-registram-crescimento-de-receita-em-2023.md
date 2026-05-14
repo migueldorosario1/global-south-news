@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Empresas estatais da China registram crescimento de receita em 2023'
 pubDate: 2024-02-01 05:13:00
 slug: "empresas-estatais-da-china-registram-crescimento-de-receita-em-2023"
+tags:
+  - 'geopolitica'
 wp_id: 2756
 ---
 

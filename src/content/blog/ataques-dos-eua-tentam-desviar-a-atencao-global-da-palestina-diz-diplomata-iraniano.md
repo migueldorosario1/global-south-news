@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Ataques dos EUA tentam desviar a atenção global da Palestina, diz diplomata iraniano'
 pubDate: 2024-02-07 05:32:00
 slug: "ataques-dos-eua-tentam-desviar-a-atencao-global-da-palestina-diz-diplomata-iraniano"
+tags:
+  - 'geopolitica'
 wp_id: 2996
 ---
 

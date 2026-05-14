@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Itaipu Pode Patrocinar Equipe Brasileira de Canoagem, Anuncia Janja'
 pubDate: 2024-08-26 19:33:45
 slug: "itaipu-pode-patrocinar-equipe-brasileira-de-canoagem-anuncia-primeira-dama"
+tags:
+  - 'nacional'
 wp_id: 4946
 ---
 

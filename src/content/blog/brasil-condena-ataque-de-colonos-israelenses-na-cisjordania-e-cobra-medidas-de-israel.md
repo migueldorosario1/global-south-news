@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Brasil condena ataque de colonos Israelenses na Cisjordânia e cobra medidas de Israel'
 pubDate: 2024-08-17 14:16:10
 slug: "brasil-condena-ataque-de-colonos-israelenses-na-cisjordania-e-cobra-medidas-de-israel"
+tags:
+  - 'geopolitica'
 wp_id: 4841
 ---
 

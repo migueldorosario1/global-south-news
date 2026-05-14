@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Musk ordena e X concede selo dourado ao perfil de Allan dos Santos'
 pubDate: 2024-04-10 09:54:15
 slug: "musk-ordena-e-x-concede-selo-dourado-ao-perfil-de-allan-dos-santos"
+tags:
+  - 'nacional'
 wp_id: 4134
 ---
 

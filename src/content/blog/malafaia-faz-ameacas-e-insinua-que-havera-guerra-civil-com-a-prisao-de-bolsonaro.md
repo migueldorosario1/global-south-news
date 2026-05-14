@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Malafaia faz ameaças e insinua que haverá guerra civil com a prisão de Bolsonaro'
 pubDate: 2024-02-26 10:05:04
 slug: "malafaia-faz-ameacas-e-insinua-que-havera-guerra-civil-com-a-prisao-de-bolsonaro"
+tags:
+  - 'nacional'
 wp_id: 3486
 ---
 

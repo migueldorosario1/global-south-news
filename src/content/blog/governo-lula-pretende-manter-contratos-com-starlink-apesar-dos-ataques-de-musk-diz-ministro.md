@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula pretende manter contratos com Starlink apesar dos ataques de Musk, diz ministro'
 pubDate: 2024-04-09 09:40:13
 slug: "governo-lula-pretende-manter-contratos-com-starlink-apesar-dos-ataques-de-musk-diz-ministro"
+tags:
+  - 'nacional'
 wp_id: 4111
 ---
 

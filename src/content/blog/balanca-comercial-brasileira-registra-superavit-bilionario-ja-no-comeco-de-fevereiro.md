@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Balança comercial brasileira registra superávit bilionário já no começo de fevereiro'
 pubDate: 2024-02-16 18:35:41
 slug: "balanca-comercial-brasileira-registra-superavit-bilionario-ja-no-comeco-de-fevereiro"
+tags:
+  - 'nacional'
 wp_id: 3271
 ---
 

@@ -6,7 +6,7 @@ pubDate: 2024-01-31 12:53:06
 slug: "abin-paralela-de-bolsonaro-tambem-espionou-autoridades-estrangeiras"
 wp_id: 2792
 tags:
-  - 'baixada'
+  - 'nacional'
 ---
 
 <!-- wp:paragraph -->

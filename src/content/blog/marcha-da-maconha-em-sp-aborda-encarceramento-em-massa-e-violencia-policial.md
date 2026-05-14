@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Marcha da Maconha em SP aborda encarceramento em massa e violência policial'
 pubDate: 2024-06-17 09:03:28
 slug: "marcha-da-maconha-em-sp-aborda-encarceramento-em-massa-e-violencia-policial"
+tags:
+  - 'nacional'
 wp_id: 4677
 ---
 

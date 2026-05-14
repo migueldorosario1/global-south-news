@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo propõe aumento real do salário mínimo para 2025 no novo Orçamento'
 pubDate: 2024-09-02 22:10:57
 slug: "governo-propoe-aumento-real-do-salario-minimo-para-2025-no-novo-orcamento"
+tags:
+  - 'nacional'
 wp_id: 5023
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'X pede ao STF para retomar atividades no Brasil após cumprir exigências'
 pubDate: 2024-09-26 15:56:59
 slug: "x-pede-ao-stf-para-retomar-atividades-no-brasil-apos-cumprir-exigencias"
+tags:
+  - 'nacional'
 wp_id: 5499
 ---
 

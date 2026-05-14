@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Merval usa a Globo para espalhar nova fake news contra Dilma'
 pubDate: 2024-02-15 18:55:39
 slug: "merval-usa-a-globo-para-espalhar-nova-fake-news-contra-dilma"
+tags:
+  - 'nacional'
 wp_id: 3243
 ---
 

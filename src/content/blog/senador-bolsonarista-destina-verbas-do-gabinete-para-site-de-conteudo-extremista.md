@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Senador bolsonarista destina verbas do gabinete para site de conteúdo extremista'
 pubDate: 2024-02-29 12:16:06
 slug: "senador-bolsonarista-destina-verbas-do-gabinete-para-site-de-conteudo-extremista"
+tags:
+  - 'nacional'
 wp_id: 3592
 ---
 

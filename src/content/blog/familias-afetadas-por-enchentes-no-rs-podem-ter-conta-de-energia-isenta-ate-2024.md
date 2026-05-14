@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Famílias afetadas por enchentes no RS podem ter conta de energia isenta até 2024'
 pubDate: 2024-05-31 08:57:20
 slug: "familias-afetadas-por-enchentes-no-rs-podem-ter-conta-de-energia-isenta-ate-2024"
+tags:
+  - 'nacional'
 wp_id: 4565
 ---
 

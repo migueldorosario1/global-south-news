@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula recebe primeiro-ministro do Japão nesta sexta'
 pubDate: 2024-05-03 09:53:11
 slug: "lula-recebe-primeiro-ministro-do-japao-nesta-sexta"
+tags:
+  - 'geopolitica'
 wp_id: 4400
 ---
 

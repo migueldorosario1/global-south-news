@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Procuradoria Federal declara programa Escola Cívico-Militar de SP inconstitucional'
 pubDate: 2024-06-11 09:53:23
 slug: "procuradoria-federal-declara-programa-escola-civico-militar-de-sp-inconstitucional"
+tags:
+  - 'nacional'
 wp_id: 4622
 ---
 

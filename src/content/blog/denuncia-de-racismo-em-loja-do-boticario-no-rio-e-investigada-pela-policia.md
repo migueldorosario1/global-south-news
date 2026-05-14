@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Denúncia de racismo em loja do boticário no Rio é investigada pela polícia'
 pubDate: 2023-12-14 08:00:00
 slug: "denuncia-de-racismo-em-loja-do-boticario-no-rio-e-investigada-pela-policia"
+tags:
+  - 'rio-de-janeiro'
 wp_id: 2147
 ---
 

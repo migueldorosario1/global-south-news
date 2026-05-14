@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Estudantes da FAETEC mostram a força da enfermagem'
 pubDate: 2025-05-27 15:45:32
 slug: "estudantes-da-faetec-mostram-a-forca-da-enfermagem"
+tags:
+  - 'educacao'
 wp_id: 6872
 ---
 

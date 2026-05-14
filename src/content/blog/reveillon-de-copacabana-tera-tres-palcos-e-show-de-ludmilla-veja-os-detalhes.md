@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Réveillon de Copacabana terá três palcos e show de Ludmilla; veja os detalhes'
 pubDate: 2023-11-09 13:00:00
 slug: "reveillon-de-copacabana-tera-tres-palcos-e-show-de-ludmilla-veja-os-detalhes"
+tags:
+  - 'copacabana'
 wp_id: 1877
 ---
 

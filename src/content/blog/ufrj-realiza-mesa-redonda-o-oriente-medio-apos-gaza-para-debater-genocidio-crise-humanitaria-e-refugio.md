@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'UFRJ realiza mesa redonda “O Oriente Médio após Gaza” para debater genocídio, crise humanitária e refúgio'
 pubDate: 2025-10-21 15:26:59
 slug: "ufrj-realiza-mesa-redonda-o-oriente-medio-apos-gaza-para-debater-genocidio-crise-humanitaria-e-refugio"
+tags:
+  - 'nacional'
 wp_id: 7231
 ---
 

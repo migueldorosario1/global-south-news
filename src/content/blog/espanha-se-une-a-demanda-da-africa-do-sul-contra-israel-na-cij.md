@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Espanha se une à demanda da África do Sul contra Israel na CIJ'
 pubDate: 2024-06-06 10:03:27
 slug: "espanha-se-une-a-demanda-da-africa-do-sul-contra-israel-na-cij"
+tags:
+  - 'geopolitica'
 wp_id: 4587
 ---
 

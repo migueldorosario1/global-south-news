@@ -6,7 +6,7 @@ pubDate: 2024-01-29 15:28:24
 slug: "petrobras-garante-reservas-petroliferas-por-quantos-anos-devem-durar"
 wp_id: 2668
 tags:
-  - 'buzios'
+  - 'nacional'
 ---
 
 <!-- wp:paragraph -->

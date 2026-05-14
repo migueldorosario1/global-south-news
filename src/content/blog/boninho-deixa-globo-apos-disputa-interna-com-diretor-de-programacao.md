@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Boninho deixa Globo após disputa interna com diretor de programação'
 pubDate: 2024-09-16 10:39:51
 slug: "boninho-deixa-globo-apos-disputa-interna-com-diretor-de-programacao"
+tags:
+  - 'nacional'
 wp_id: 5247
 ---
 

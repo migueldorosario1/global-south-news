@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Presidente Lula critica Zema e reafirma compromisso com governadores'
 pubDate: 2024-09-05 20:31:18
 slug: "presidente-lula-critica-governador-zema-e-reafirma-compromisso-com-governadores"
+tags:
+  - 'nacional'
 wp_id: 5091
 ---
 

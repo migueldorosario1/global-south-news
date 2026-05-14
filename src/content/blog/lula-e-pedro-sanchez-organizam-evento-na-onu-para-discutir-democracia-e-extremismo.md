@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula e Pedro Sánchez organizam evento na ONU para discutir democracia e extremismo'
 pubDate: 2024-09-18 19:06:30
 slug: "lula-e-pedro-sanchez-organizam-evento-na-onu-para-discutir-democracia-e-extremismo"
+tags:
+  - 'geopolitica'
 wp_id: 5310
 ---
 

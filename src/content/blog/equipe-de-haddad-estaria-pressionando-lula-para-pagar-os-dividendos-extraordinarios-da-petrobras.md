@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Equipe de Haddad estaria pressionando Lula para pagar os dividendos extraordinários da Petrobras'
 pubDate: 2024-03-21 09:28:21
 slug: "equipe-de-haddad-estaria-pressionando-lula-para-pagar-os-dividendos-extraordinarios-da-petrobras"
+tags:
+  - 'nacional'
 wp_id: 3909
 ---
 

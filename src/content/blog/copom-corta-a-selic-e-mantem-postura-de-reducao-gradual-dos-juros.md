@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Copom corta a Selic e mantém postura de redução gradual dos juros'
 pubDate: 2024-01-31 19:47:42
 slug: "copom-corta-a-selic-e-mantem-postura-de-reducao-gradual-dos-juros"
+tags:
+  - 'nacional'
 wp_id: 2816
 ---
 

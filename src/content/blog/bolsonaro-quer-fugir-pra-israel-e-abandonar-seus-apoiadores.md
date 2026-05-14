@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro quer fugir pra Israel e abandonar seus apoiadores'
 pubDate: 2024-02-20 23:33:38
 slug: "bolsonaro-quer-fugir-pra-israel-e-abandonar-seus-apoiadores"
+tags:
+  - 'nacional'
 wp_id: 3351
 ---
 

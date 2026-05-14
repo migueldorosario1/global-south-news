@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula suspende temporariamente pagamento da dívida do RS'
 pubDate: 2024-05-08 08:02:10
 slug: "governo-lula-suspende-temporariamente-pagamento-da-divida-do-rs"
+tags:
+  - 'nacional'
 wp_id: 4429
 ---
 

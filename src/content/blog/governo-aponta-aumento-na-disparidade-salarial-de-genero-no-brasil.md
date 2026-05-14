@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo aponta aumento na disparidade salarial de gênero no Brasil'
 pubDate: 2024-09-18 19:17:39
 slug: "governo-aponta-aumento-na-disparidade-salarial-de-genero-no-brasil"
+tags:
+  - 'nacional'
 wp_id: 5313
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Herança milionária de Andreas Von Richthofen se torna dívida de meio milhão'
 pubDate: 2024-01-11 13:30:00
 slug: "heranca-milionaria-de-andreas-von-richthofen-se-torna-divida-de-meio-milhao"
+tags:
+  - 'nacional'
 wp_id: 2359
 ---
 

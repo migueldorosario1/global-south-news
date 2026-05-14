@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Itamaraty aguarda reunião com Israel para definir o futuro das relações diplomáticas'
 pubDate: 2024-02-19 09:39:13
 slug: "itamaraty-aguarda-reuniao-com-israel-para-definir-o-futuro-das-relacoes-diplomaticas"
+tags:
+  - 'geopolitica'
 wp_id: 3315
 ---
 

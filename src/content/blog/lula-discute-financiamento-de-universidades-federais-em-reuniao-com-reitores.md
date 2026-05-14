@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula discute financiamento de Universidades Federais em reunião com reitores'
 pubDate: 2024-06-10 09:22:11
 slug: "lula-discute-financiamento-de-universidades-federais-em-reuniao-com-reitores"
+tags:
+  - 'nacional'
 wp_id: 4601
 ---
 

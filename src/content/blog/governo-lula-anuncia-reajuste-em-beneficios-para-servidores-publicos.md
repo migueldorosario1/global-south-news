@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula anuncia reajuste em benefícios para servidores públicos'
 pubDate: 2024-04-25 10:09:04
 slug: "governo-lula-anuncia-reajuste-em-beneficios-para-servidores-publicos"
+tags:
+  - 'nacional'
 wp_id: 4306
 ---
 

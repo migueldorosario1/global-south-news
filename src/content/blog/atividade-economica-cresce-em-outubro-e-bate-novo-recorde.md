@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Atividade econômica cresce em outubro e bate novo recorde'
 pubDate: 2024-12-13 12:31:53
 slug: "atividade-economica-cresce-em-outubro-e-bate-novo-recorde"
+tags:
+  - 'nacional'
 wp_id: 6141
 ---
 

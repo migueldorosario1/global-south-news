@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann apoia discurso de Lula na Cúpula do futuro em Nova York'
 pubDate: 2024-09-24 05:20:52
 slug: "gleisi-hoffmann-apoia-discurso-de-lula-na-cupula-do-futuro-em-nova-york"
+tags:
+  - 'nacional'
 wp_id: 5391
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Bolsonaro resolve atacar a PF em meio as investigações contra o pai'
 pubDate: 2024-03-20 09:56:03
 slug: "eduardo-bolsonaro-resolve-atacar-a-pf-em-meio-as-investigacoes-contra-o-pai"
+tags:
+  - 'nacional'
 wp_id: 3893
 ---
 

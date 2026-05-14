@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lançamento do livro Cultura é Poder de Jandira Feghali reúne grandes nomes da política e da cultura'
 pubDate: 2025-06-04 14:41:23
 slug: "lancamento-do-livro-cultura-e-poder-de-jandira-feghali-reune-grandes-nomes-da-politica-e-da-cultura"
+tags:
+  - 'politica-rj'
 wp_id: 6894
 ---
 

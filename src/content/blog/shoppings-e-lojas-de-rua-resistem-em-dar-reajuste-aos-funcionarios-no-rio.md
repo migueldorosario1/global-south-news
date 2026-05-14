@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Shoppings e lojas de rua resistem em dar reajuste aos funcionários no Rio'
 pubDate: 2023-08-02 12:29:59
 slug: "shoppings-e-lojas-de-rua-resistem-em-dar-reajuste-aos-funcionarios-no-rio"
+tags:
+  - 'rio-de-janeiro'
 wp_id: 1006
 ---
 

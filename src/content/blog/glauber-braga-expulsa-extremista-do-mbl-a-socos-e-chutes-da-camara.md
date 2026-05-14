@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Glauber Braga expulsa extremista do MBL a socos e chutes da Câmara'
 pubDate: 2024-04-18 09:23:22
 slug: "glauber-braga-expulsa-extremista-do-mbl-a-socos-e-chutes-da-camara"
+tags:
+  - 'nacional'
 wp_id: 4236
 ---
 

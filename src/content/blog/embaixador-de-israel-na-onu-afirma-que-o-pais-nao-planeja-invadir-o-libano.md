@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Embaixador de Israel na ONU afirma que o País não planeja invadir o Líbano'
 pubDate: 2024-09-24 18:39:05
 slug: "embaixador-de-israel-na-onu-afirma-que-o-pais-nao-planeja-invadir-o-libano"
+tags:
+  - 'geopolitica'
 wp_id: 5428
 ---
 

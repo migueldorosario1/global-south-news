@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval 2024 Venda de Ingressos para as Arquibancadas da Sapucaí Começa em 23 de Novembro'
 pubDate: 2023-10-31 00:00:00
 slug: "carnaval-2024-venda-de-ingressos-para-as-arquibancadas-da-sapucai-comeca-em-23-de-novembro"
+tags:
+  - 'cultura-carnaval'
 wp_id: 1747
 ---
 

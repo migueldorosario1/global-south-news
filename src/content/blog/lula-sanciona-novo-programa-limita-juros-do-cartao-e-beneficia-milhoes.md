@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Lula sanciona novo programa limita juros do cartão e beneficia milhões'
 pubDate: 2024-01-02 09:00:00
 slug: "lula-sanciona-novo-programa-limita-juros-do-cartao-e-beneficia-milhoes"
+tags:
+  - 'nacional'
 wp_id: 2243
 ---
 

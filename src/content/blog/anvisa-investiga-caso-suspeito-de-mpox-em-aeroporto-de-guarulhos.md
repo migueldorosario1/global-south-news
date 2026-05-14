@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Anvisa Investiga Caso Suspeito de Mpox em Aeroporto de Guarulhos'
 pubDate: 2024-08-26 19:56:36
 slug: "anvisa-investiga-caso-suspeito-de-mpox-em-aeroporto-de-guarulhos"
+tags:
+  - 'nacional'
 wp_id: 4950
 ---
 

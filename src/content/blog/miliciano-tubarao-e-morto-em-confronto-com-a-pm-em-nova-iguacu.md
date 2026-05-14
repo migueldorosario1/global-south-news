@@ -6,7 +6,7 @@ pubDate: 2024-02-06 16:38:06
 slug: "miliciano-tubarao-e-morto-em-confronto-com-a-pm-em-nova-iguacu"
 wp_id: 3045
 tags:
-  - 'baixada'
+  - 'nova-iguacu'
 ---
 
 <!-- wp:paragraph -->

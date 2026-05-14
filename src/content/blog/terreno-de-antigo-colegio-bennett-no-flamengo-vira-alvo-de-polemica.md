@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Terreno de antigo colégio Bennett no Flamengo vira alvo de polêmica'
 pubDate: 2025-07-03 16:16:54
 slug: "terreno-de-antigo-colegio-bennett-no-flamengo-vira-alvo-de-polemica"
+tags:
+  - 'flamengo'
 wp_id: 6982
 ---
 

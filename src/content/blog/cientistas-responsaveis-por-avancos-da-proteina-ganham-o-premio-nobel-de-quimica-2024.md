@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Cientistas responsáveis por avanços da proteína ganham o Prêmio Nobel de Química 2024'
 pubDate: 2024-10-09 10:46:06
 slug: "cientistas-responsaveis-por-avancos-da-proteina-ganham-o-premio-nobel-de-quimica-2024"
+tags:
+  - 'nacional'
 wp_id: 5649
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Malafaia admite em live que objetivo do ato na Paulista era destruir o STF'
 pubDate: 2024-03-18 09:18:55
 slug: "malafaia-admite-em-live-que-objetivo-do-ato-na-paulista-era-destruir-o-stf"
+tags:
+  - 'nacional'
 wp_id: 3819
 ---
 

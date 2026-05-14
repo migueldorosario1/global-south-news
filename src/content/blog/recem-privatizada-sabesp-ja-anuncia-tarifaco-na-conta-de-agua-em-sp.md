@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Recém privatizada, Sabesp já anuncia tarifaço na conta de água em SP'
 pubDate: 2024-04-09 09:40:18
 slug: "recem-privatizada-sabesp-ja-anuncia-tarifaco-na-conta-de-agua-em-sp"
+tags:
+  - 'nacional'
 wp_id: 4116
 ---
 

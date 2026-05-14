@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Bebianno alertou sobre suposta relação de Carluxo com a Abin Paralela'
 pubDate: 2024-01-29 11:06:47
 slug: "bebianno-alertou-sobre-suposta-relacao-de-carluxo-com-a-abin-paralela"
+tags:
+  - 'nacional'
 wp_id: 2626
 ---
 

@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'STF retoma discussão sobre suspensão do X no Brasil após ação do Partido Novo'
 pubDate: 2024-09-03 13:23:34
 slug: "stf-retoma-discussao-sobre-suspensao-do-x-no-brasil-apos-acao-do-partido-novo"
+tags:
+  - 'nacional'
 wp_id: 5032
 ---
 

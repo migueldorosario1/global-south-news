@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Esposa de Daniel Alves ataca feministas após a condenação do marido por estupro na Espanha'
 pubDate: 2024-02-24 11:51:23
 slug: "esposa-de-daniel-alves-ataca-feministas-apos-a-condenacao-do-marido-por-estupro-na-espanha"
+tags:
+  - 'nacional'
 wp_id: 3442
 ---
 

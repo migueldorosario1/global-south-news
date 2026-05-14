@@ -4,6 +4,8 @@ description: "Matéria arquivada do Rio Carta"
 title: 'Planejamento apresenta Projeto da LDO para 2025'
 pubDate: 2024-04-15 09:14:45
 slug: "planejamento-apresenta-projeto-da-ldo-para-2025"
+tags:
+  - 'politica-rj'
 wp_id: 4185
 ---
 
