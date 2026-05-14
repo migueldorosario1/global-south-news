@@ -2,7 +2,7 @@
 title: "Caso Thamires: Comissão da Alerj cobra rigor"
 description: "A busca por justiça para Thamires Rodrigues de Souza Peixoto, de 28 anos, ganhou um reforço institucional decisivo nesta terça-feira (12). A Comissão de Defesa dos Direitos Humanos"
 pubDate: "2026-05-13T04:05:02Z"
-draft: false
+draft: true
 tags: ["rio-de-janeiro", "alerj", "comissao-de-direitos-humanos", "caso-thamires", "policia-civil", "zona-oeste", "politica-rj", "capital", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605130105-caso-thamires-comissao-da-alerj-cobra-rigor.webp"
 ---

@@ -2,7 +2,7 @@
 title: "Fábrica de suplementos falsificados usava amido de milho para enganar consumidores no Rio"
 description: "Rio Fábrica de suplementos falsificados usava amido de milho para enganar consumidores no Rio Polícia Civil encontrou higiene precária e amido de milho em cápsulas sem AnvisaUma fá"
 pubDate: "2026-05-13T04:05:09Z"
-draft: false
+draft: true
 tags: ["rio-de-janeiro", "lins-de-vasconcellos", "zona-norte", "suplementos-falsificados", "policia-civil", "fraude", "saude-publica", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "leme", "seguranca-publica", "saude"]
 heroImage: "/hero/smoke-smoke-202605130105-fabrica-de-suplementos-falsificados-usava-amido-de-milho-para-enganar-consumidores-no-rio.jpg"
 ---

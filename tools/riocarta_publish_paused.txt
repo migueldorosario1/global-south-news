@@ -1,0 +1,1 @@
+2026-05-14 00:48 BRT - Pausa autorizada por Miguel. Motivo: usar Rio Carta como laboratorio de auditoria/correcao; impedir novas publicacoes automaticas enquanto Codex registra erros no Cerebro e separa o que saiu do que esta na fila. Coleta e painel manual permanecem ativos.

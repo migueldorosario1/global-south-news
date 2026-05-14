@@ -11,17 +11,24 @@ const reportPath = path.join(repo, 'logs', 'rio_carta_relatorio_bloqueios.md');
 const brainPath = path.join(repo, '..', 'CEREBRO_INDEX_RIOCARTA.md');
 const blogDir = path.join(repo, 'src', 'content', 'blog');
 const publicDir = path.join(repo, 'public');
+const pausePath = path.join(repo, 'tools', 'riocarta_publish_paused.txt');
 
 const args = new Set(process.argv.slice(2));
 const envPath = path.join(repo, '..', 'root', 'chaves_riocarta.env');
 const forcedBatchSize = process.env.RIOCARTA_BATCH_SIZE ? Number(process.env.RIOCARTA_BATCH_SIZE) : null;
 const forcedMaxAuditAttempts = process.env.RIOCARTA_MAX_AUDIT_ATTEMPTS ? Number(process.env.RIOCARTA_MAX_AUDIT_ATTEMPTS) : null;
-const commitAndPush = args.has('--commit');
 const auditCurrentOnly = args.has('--audit-current');
+const commitAndPush = args.has('--commit') && !auditCurrentOnly;
 const queue = JSON.parse(fs.readFileSync(queuePath, 'utf8'));
 let state = fs.existsSync(statePath)
   ? JSON.parse(fs.readFileSync(statePath, 'utf8'))
   : { nextBatchSize: 2, round: 1 };  // Miguel 13/05 17:18 BRT: cadência rebaixada 10→2/h
+
+if (fs.existsSync(pausePath) && !auditCurrentOnly) {
+  const reason = fs.readFileSync(pausePath, 'utf8').replace(/\s+/g, ' ').trim().slice(0, 240);
+  console.log(`Publicacao automatica Rio Carta pausada: ${reason}`);
+  process.exit(0);
+}
 
 if (fs.existsSync(envPath)) {
   for (const line of fs.readFileSync(envPath, 'utf8').split(/\r?\n/)) {
@@ -507,7 +514,10 @@ if (auditCurrentOnly) {
   }
 }
 
-const publishSet = auditCurrentOnly ? visible : [...new Set([...visible, ...nextBatch])];
+const changedArticleSet = auditCurrentOnly
+  ? [...new Set([...visible, ...hidden])]
+  : [...new Set([...visible, ...nextBatch])];
+const publishSet = auditCurrentOnly ? visible : nextBatch;
 
 execFileSync('npm', ['run', 'build'], { cwd: repo, stdio: 'inherit' });
 
@@ -524,7 +534,7 @@ if (!auditCurrentOnly) {
 writeHourlyReport({ published: publishSet });
 
 if (commitAndPush) {
-  const heroImages = publishSet
+  const heroImages = changedArticleSet
     .map((file) => {
       const text = fs.readFileSync(path.join(blogDir, file), 'utf8');
       const { frontmatter } = splitFrontmatter(text);
@@ -549,7 +559,7 @@ if (commitAndPush) {
     'src/pages/index.astro',
     'src/pages/rss.xml.js',
     'src/pages/tags/[tag].astro',
-    ...publishSet.map((file) => `src/content/blog/${file}`),
+    ...changedArticleSet.map((file) => `src/content/blog/${file}`),
     ...heroImages,
   ];
   git(['add', ...changedFiles]);

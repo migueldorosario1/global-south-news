@@ -2,7 +2,7 @@
 title: "PT do Rio racha após intervenção da direção nacional na chapa de Benedita ao Senado"
 description: "A decisão da direção nacional do PT de assumir o controle sobre a escolha dos suplentes da pré-candidatura de Benedita da Silva ao Senado rachou o partido no Rio de Janeiro. A medi"
 pubDate: "2026-05-13T04:05:33Z"
-draft: false
+draft: true
 tags: ["rio-de-janeiro", "pt", "politica", "benedita-da-silva", "senado", "politica-rj", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605130105-pt-do-rio-racha-apos-intervencao-da-direcao-nacional-na-chapa-de-benedita-ao-senado.jpg"
 ---

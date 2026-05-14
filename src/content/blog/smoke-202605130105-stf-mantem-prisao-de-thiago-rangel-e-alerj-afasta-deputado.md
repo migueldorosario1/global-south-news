@@ -2,7 +2,7 @@
 title: "STF mantém prisão de Thiago Rangel e Alerj afasta deputado"
 description: "A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) informou que já iniciou o cumprimento das determinações do Supremo Tribunal Federal (STF) relacionadas ao deputado esta"
 pubDate: "2026-05-13T04:05:32Z"
-draft: false
+draft: true
 tags: ["rio-de-janeiro", "alerj", "thiago-rangel", "operacao-unha-e-carne", "politica-rj", "regiao-dos-lagos", "regiao-metropolitana", "seguranca-publica", "educacao"]
 heroImage: "/hero/smoke-smoke-202605130105-stf-mantem-prisao-de-thiago-rangel-e-alerj-afasta-deputado.webp"
 ---

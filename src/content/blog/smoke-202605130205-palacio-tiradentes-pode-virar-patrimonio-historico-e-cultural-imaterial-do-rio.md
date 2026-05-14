@@ -2,7 +2,7 @@
 title: "Palácio Tiradentes pode virar patrimônio histórico e cultural imaterial do Rio"
 description: "O Palácio Tiradentes, sede histórica da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj), poderá ser reconhecido como Patrimônio Histórico e Cultural de Natureza Imateria"
 pubDate: "2026-05-13T05:05:05Z"
-draft: false
+draft: true
 tags: ["rio-de-janeiro", "centro", "palacio-tiradentes", "alerj", "patrimonio-historico", "politica-rj", "capital", "regiao-metropolitana", "centro-do-rio", "joa", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605130205-palacio-tiradentes-pode-virar-patrimonio-historico-e-cultural-imaterial-do-rio.jpg"
 ---
