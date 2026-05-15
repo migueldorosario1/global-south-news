@@ -633,6 +633,7 @@ if (commitAndPush) {
     'src/pages/index.astro',
     'src/pages/rss.xml.js',
     'src/pages/tags/[tag].astro',
+    'public/hero',
     ...changedArticleSet.map((file) => `src/content/blog/${file}`),
     ...heroImages,
   ];
