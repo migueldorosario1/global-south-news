@@ -2,7 +2,7 @@
 title: "CASO PALOMA/ Denúncia sobre ossada leva Polícia Civil a realizar operação em busca de estudante desaparecida em Rio das Ostras"
 description: "Uma denúncia sobre a possível localização de uma ossada humana mobilizou a Polícia Civil na manhã desta terça-feira (12), em Rio das Ostras. A ação foi coordenada pela 128ª Delegac"
 pubDate: "2026-05-13T03:31:03Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "desaparecimento", "policia-civil", "estudante", "regiao-metropolitana", "mage", "seguranca-publica", "saude", "educacao", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605130030-caso-paloma-denuncia-sobre-ossada-leva-policia-civil-a-realizar-operacao-em-busca-de-estudante-d.webp"
 ---
