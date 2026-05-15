@@ -2,7 +2,7 @@
 title: "Justiça suspende trecho de decreto de Cláudio Castro que ampliava segurança para familiares de ex-governadores"
 description: "Justiça do Rio de Janeiro suspendeu trechos do decreto do ex-governador Cláudio Castro que ampliavam os benefícios de segurança institucional concedidos a ex-governadores do Estado"
 pubDate: "2026-05-13T04:05:06Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "claudio-castro", "justica", "seguranca-publica", "politica-rj", "regiao-dos-lagos", "regiao-metropolitana", "joa", "saude"]
 heroImage: "/hero/smoke-smoke-202605130105-justica-suspende-trecho-de-decreto-de-claudio-castro-que-ampliava-seguranca-para-familiares-de-e.webp"
 ---

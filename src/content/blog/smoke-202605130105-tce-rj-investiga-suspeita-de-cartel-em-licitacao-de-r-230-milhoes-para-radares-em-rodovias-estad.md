@@ -2,7 +2,7 @@
 title: "TCE-RJ investiga suspeita de cartel em licitação de R$ 230 milhões para radares em rodovias estaduais"
 description: "TCE-RJ investiga suspeita de cartel em licitação de R$ 230 milhões para radares em rodovias estaduais O Tribunal de Contas do Estado do Rio de Janeiro (TCE-RJ) abriu investigação p"
 pubDate: "2026-05-13T04:05:07Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "tce-rj", "der-rj", "licitacao", "radares", "rodovias-estaduais", "cartel", "alerj", "politica-rj", "marica", "regiao-metropolitana", "serrana", "norte-fluminense", "sul-fluminense"]
 heroImage: "/hero/smoke-smoke-202605130105-tce-rj-investiga-suspeita-de-cartel-em-licitacao-de-r-230-milhoes-para-radares-em-rodovias-estad.jpg"
 ---
