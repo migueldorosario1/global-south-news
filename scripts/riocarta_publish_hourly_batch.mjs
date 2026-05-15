@@ -278,8 +278,59 @@ function shortParagraphs(body) {
     .join('\n\n');
 }
 
-function cleanBody(body) {
-  const cleaned = body
+function normalizeComparable(text) {
+  return String(text || '')
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[#*_`>\[\]()]/g, ' ')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim();
+}
+
+function sameHeadline(left, right) {
+  const a = normalizeComparable(left);
+  const b = normalizeComparable(right);
+  if (!a || !b) return false;
+  return a === b || (a.length > 35 && b.length > 35 && (a.startsWith(b) || b.startsWith(a)));
+}
+
+function stripLeadingRepeatedTitle(body, title) {
+  const lines = String(body || '').replace(/^\s+/, '').split(/\r?\n/);
+  while (lines.length && !lines[0].trim()) lines.shift();
+  const first = (lines[0] || '').replace(/^#{1,6}\s+/, '').trim();
+  if (sameHeadline(first, title)) {
+    lines.shift();
+    while (lines.length && !lines[0].trim()) lines.shift();
+    return lines.join('\n').trim();
+  }
+  return String(body || '').trim();
+}
+
+function stripTitlePrefix(text, title) {
+  const value = String(text || '').trim();
+  if (!value || !normalizeComparable(title)) return value;
+  const words = value.split(/\s+/);
+  for (let count = Math.min(words.length, 32); count >= 4; count -= 1) {
+    const prefix = words.slice(0, count).join(' ').replace(/[.:;,-]+$/g, '');
+    if (sameHeadline(prefix, title)) {
+      return words.slice(count).join(' ').replace(/^[-:;,.\s]+/, '').trim() || value;
+    }
+  }
+  return value;
+}
+
+function setQuotedField(frontmatter, field, value) {
+  const escaped = String(value || '').replace(/\\/g, '\\\\').replace(/"/g, '\\"');
+  const line = `${field}: "${escaped}"`;
+  if (frontmatter.match(new RegExp(`^${field}:\\s*.+$`, 'm'))) {
+    return frontmatter.replace(new RegExp(`^${field}:\\s*.+$`, 'm'), line);
+  }
+  return `${frontmatter}\n${line}`;
+}
+
+function cleanBody(body, title = '') {
+  const cleaned = stripLeadingRepeatedTitle(body, title)
     .replace(/^> Rascunho técnico de smoke\. Revisar edição, categoria e imagem antes de publicar\.\n\n/m, '')
     .replace(/^Compartilhe:\s*$/gim, '')
     .trim();
@@ -415,7 +466,7 @@ async function applyBrainFixes(file, context = {}) {
   const heroPath = path.join(publicDir, heroImage.replace(/^\//, ''));
   const applied = [];
 
-  const cleanedBody = cleanBody(body)
+  const cleanedBody = cleanBody(body, getField(frontmatter, 'title'))
     .replace(/\ncontinua após as imagens\n/gi, '\n')
     .replace(/\nVeja o vídeo abaixo[^\n]*\n/gi, '\n');
   if (cleanedBody !== body) {
@@ -583,7 +634,8 @@ async function auditAndFix(file, publish) {
     warnings.push(warning);
   }
 
-  let nextBody = cleanBody(body);
+  let nextBody = cleanBody(body, title);
+  const nextDescription = stripTitlePrefix(description, title);
   const source = extractSource(nextBody);
   const language = languageCheck({ title, description, body: nextBody });
   if (!language.ok) warnings.push(language.reason);
@@ -605,6 +657,7 @@ async function auditAndFix(file, publish) {
   }
 
   let nextFrontmatter = setDraft(frontmatter, !publish);
+  if (nextDescription && nextDescription !== description) nextFrontmatter = setQuotedField(nextFrontmatter, 'description', nextDescription);
   const nextText = `---\n${nextFrontmatter}\n---\n${nextBody}`;
   if (nextText !== text) fs.writeFileSync(fullPath, nextText);
 

@@ -1,13 +1,11 @@
 ---
 title: "Eleições na UFF: Roberto Salles e Luciana Freitas chegam ao segundo turno com ampla vantagem"
-description: "Eleições na UFF: Roberto Salles e Luciana Freitas chegam ao segundo turno com ampla vantagem Chapa 2 lidera a disputa com 47,08% dos votos da comunidade universitária A expressiva "
+description: "Chapa 2 lidera a disputa com 47,08% dos votos da comunidade universitária"
 pubDate: "2026-05-15T21:07:27Z"
 draft: false
 tags: ["rio-de-janeiro", "uff", "universidade-federal-fluminense", "niteroi", "regiao-metropolitana", "educacao", "sao-goncalo-itaborai", "sao-goncalo", "comunidade", "itaborai"]
 heroImage: "/hero/smoke-smoke-202605151805-eleicoes-na-uff-roberto-salles-e-luciana-freitas-chegam-ao-segundo-turno-com-ampla-vantagem.jpg"
 ---
-Eleições na UFF: Roberto Salles e Luciana Freitas chegam ao segundo turno com ampla vantagem
-
 Chapa 2 lidera a disputa com 47,08% dos votos da comunidade universitária
 
 A expressiva votação conquistada pela Chapa 2 – UFF VIVA no primeiro turno das eleições para a Reitoria da Universidade Federal Fluminense (UFF) consolidou a candidatura dos professores Roberto Salles e Luciana Freitas como a principal força política do processo eleitoral na universidade. Com 47,08% dos votos válidos e ampla vantagem em relação às demais candidaturas, a chapa chega fortalecida ao segundo turno, que será realizado nos dias 26 e 27 de maio.
