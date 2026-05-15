@@ -1,7 +1,7 @@
 ---
 title: "Deputada propõe 13ª bolsa para pesquisadores da Faperj e amplia agenda de direitos para pós-graduandos no Rio"
 description: "A deputada estadual Dani Balbi (PCdoB) apresentou na Alerj um projeto de lei que cria o direito à 13ª bolsa anual para pesquisadores da Faperj, ampliando a agenda de valorização e proteção social dos bolsistas de iniciação científica e pós-graduação no Rio de Janeiro"
-pubDate: "2026-05-15T15:18:28Z"
+pubDate: "2026-05-15T15:21:58Z"
 category: ["Pol\u00edtica"]
 tags: ["ci\u00eancia", "faperj", "dani-balbi", "alerj"]
 heroImage: "/hero/deputada-prop-e-13-bolsa-para-pesquisadores-da-faperj-e-amplia-agenda-de-direitos-para-p-s-graduandos-no-rio.webp"
