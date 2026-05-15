@@ -349,11 +349,18 @@ async function applyBrainFixes(file, context = {}) {
 
 async function askModelAuditor(auditor, article) {
   if (!auditor.key) return { auditor: auditor.name, ok: null, reason: 'chave ausente' };
+  const now = new Date();
+  const brNow = new Intl.DateTimeFormat('pt-BR', {
+    timeZone: 'America/Sao_Paulo',
+    dateStyle: 'full',
+    timeStyle: 'short',
+  }).format(now);
   const prompt = [
     'Audite esta materia antes de publicacao no Rio Carta.',
     'Responda somente JSON: {"ok":true|false,"reason":"curto","fix":"curto"}.',
     'Critérios: fato plausivel, titulo honesto, categoria territorial coerente, imagem destacada aceitavel, sem aviso interno de rascunho.',
-    'Data atual para auditoria: 2026-05-13 BRT. Datas de 2025 ja sao passado.',
+    `Data/hora atual para auditoria: ${brNow} (America/Sao_Paulo). UTC: ${now.toISOString()}.`,
+    'Use essa data dinamica para julgar passado, presente e futuro; nao invente data fixa.',
     `TITULO: ${article.title}`,
     `TAGS: ${article.tags}`,
     `IMAGEM: ${article.heroImage} ${article.imageSize}`,
@@ -386,7 +393,12 @@ async function askModelAuditor(auditor, article) {
         reason: raw.replace(/\s+/g, ' ').slice(0, 180),
       };
     }
-    return { auditor: auditor.name, ok: Boolean(json.ok), reason: json.reason || '', fix: json.fix || '' };
+    const reason = String(json.reason || '').trim();
+    const fix = String(json.fix || '').trim();
+    if (json.ok === false && !reason && !fix) {
+      return { auditor: auditor.name, ok: null, reason: 'veto vazio ignorado como falha tecnica' };
+    }
+    return { auditor: auditor.name, ok: Boolean(json.ok), reason, fix };
   } catch (error) {
     return { auditor: auditor.name, ok: null, reason: String(error.message || error).slice(0, 160) };
   }
