@@ -2,7 +2,7 @@
 title: "Rio das Ostras pode ter obras de urbanização no Âncora ainda esse ano"
 description: "A Prefeitura de Rio das Ostras, anunciou, nessa terça-feira, 11, uma previsão sobre importantes obras de infraestrutura no bairro Âncora, que devem começar no próximo mês de julho,"
 pubDate: "2026-05-13T06:05:12Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "ancora", "urbanizacao", "obras", "infraestrutura", "regiao-dos-lagos", "macae-norte-fluminense", "norte-fluminense", "problemas-estruturais", "transporte-mobilidade", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605130305-rio-das-ostras-pode-ter-obras-de-urbanizacao-no-ancora-ainda-esse-ano.jpg"
 ---

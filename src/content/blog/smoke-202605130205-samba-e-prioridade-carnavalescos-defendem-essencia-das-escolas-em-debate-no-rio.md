@@ -2,7 +2,7 @@
 title: "‘Samba é prioridade’: carnavalescos defendem essência das escolas em debate no Rio"
 description: "Identidade, memória, reparação. São traços que ligam “Ponciá Evaristo – Flor do Mulungu”, do Império Serrano, “Balangandãs, Berenguendens”, da União de Maricá, e “Macumbembê, Sambo"
 pubDate: "2026-05-13T05:05:26Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "carnaval", "samba-enredo", "escolas-de-samba", "cultura", "cultura-e-carnaval-rj", "cultura-carnaval", "regiao-metropolitana", "leme", "vila-isabel", "marica", "educacao"]
 heroImage: "/hero/smoke-smoke-202605130205-samba-e-prioridade-carnavalescos-defendem-essencia-das-escolas-em-debate-no-rio.jpg"
 ---

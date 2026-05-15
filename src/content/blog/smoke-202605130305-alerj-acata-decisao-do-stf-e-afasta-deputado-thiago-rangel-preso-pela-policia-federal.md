@@ -2,7 +2,7 @@
 title: "Alerj acata decisão do STF e afasta deputado Thiago Rangel, preso pela Polícia Federal"
 description: "O presidente da Assembleia Legislativa do Rio de Janeiro (Alerj), deputado estadual Douglas Ruas, anunciou nesta terça-feira (12), durante reunião do colégio de líderes, que a Mesa"
 pubDate: "2026-05-13T06:05:06Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "thiago-rangel", "stf", "regiao-metropolitana", "colegio", "seguranca-publica", "saude"]
 heroImage: "/hero/smoke-smoke-202605130305-alerj-acata-decisao-do-stf-e-afasta-deputado-thiago-rangel-preso-pela-policia-federal.jpg"
 ---

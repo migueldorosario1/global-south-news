@@ -2,7 +2,7 @@
 title: "Alerj aprova protocolo contra racismo e intolerância religiosa nas escolas do Rio"
 description: "A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) aprovou, nesta terça-feira (12/05), em segunda discussão, o Projeto de Lei nº 1.529/2023, que cria um protocolo de atua"
 pubDate: "2026-05-13T06:05:05Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "alerj", "racismo", "intolerancia-religiosa", "escolas", "carlos-minc", "politica-rj", "capital", "regiao-metropolitana", "educacao"]
 heroImage: "/hero/smoke-smoke-202605130305-alerj-aprova-protocolo-contra-racismo-e-intolerancia-religiosa-nas-escolas-do-rio.jpg"
 ---

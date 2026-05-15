@@ -2,7 +2,7 @@
 title: "Operação policial caça armas de CACs com registros cassados e ligação com o crime"
 description: "Rio Operação policial caça armas de CACs com registros cassados e ligação com o crime Ação da Desarme combate posse irregular e desvio de armamentos de ex-CACs a facçõesA Polícia C"
 pubDate: "2026-05-13T06:05:06Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "duque-de-caxias", "nova-iguacu", "baixada-fluminense", "seguranca-publica", "operacao-policial", "armas", "crime-organizado", "seguranca-publica-rj", "capital-estado", "regiao-metropolitana", "baixada", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605130305-operacao-policial-caca-armas-de-cacs-com-registros-cassados-e-ligacao-com-o-crime.jpg"
 ---

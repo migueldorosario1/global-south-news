@@ -2,7 +2,7 @@
 title: "Justiça do Rio arquiva ação da Lava Jato contra Albertassi e Paulo Melo"
 description: "Estado do Rio – O Órgão Especial do Tribunal de Justiça do Rio de Janeiro (TJRJ) decidiu arquivar a ação penal da Operação Lava Jato que havia resultado na condenação dos ex-deputa"
 pubDate: "2026-05-13T04:05:08Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "alerj", "lava-jato", "justica", "politica-rj", "sul-fluminense", "regiao-metropolitana", "comunidade", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605130105-justica-do-rio-arquiva-acao-da-lava-jato-contra-albertassi-e-paulo-melo.jpeg"
 ---

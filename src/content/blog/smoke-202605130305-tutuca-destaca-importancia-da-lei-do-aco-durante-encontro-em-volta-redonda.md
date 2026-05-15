@@ -2,7 +2,7 @@
 title: "Tutuca destaca importância da Lei do Aço durante encontro em Volta Redonda"
 description: "VOLTA REDONDA Gustavo Tutuca, deputado estadual, participou nesta segunda-feira, 12, do evento “Café & Negócios do Aço”, promovido pela Associação dos Processadores de Aço do Rio d"
 pubDate: "2026-05-13T06:05:11Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "industria-do-aco", "gustavo-tutuca", "politica-rj", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605130305-tutuca-destaca-importancia-da-lei-do-aco-durante-encontro-em-volta-redonda.jpeg"
 ---

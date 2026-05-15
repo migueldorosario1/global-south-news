@@ -2,7 +2,7 @@
 title: "Potência ecológica: pesquisa monitora “condomínio” de abelhas no JB"
 description: "Potência ecológica: pesquisa monitora “condomínio” de abelhas no JB A espécie mais abundante identificada foi a Tetragonisca angustula, uma das queridinhas da polinização Quem visi"
 pubDate: "2026-05-13T05:05:30Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "jardim-botanico", "abelhas", "pesquisa", "ecologia", "rio-capital-zona-sul-e-grande-tijuca", "capital", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605130205-potencia-ecologica-pesquisa-monitora-condominio-de-abelhas-no-jb.png"
 ---

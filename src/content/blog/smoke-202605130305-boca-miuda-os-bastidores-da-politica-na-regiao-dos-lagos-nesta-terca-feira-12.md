@@ -2,7 +2,7 @@
 title: "BOCA MIÚDA: OS BASTIDORES DA POLÍTICA NA REGIÃO DOS LAGOS NESTA TERÇA-FEIRA (12)"
 description: "SERGINHO AMPLIA INTEGRAÇÃO COM OS BOMBEIROS A coluna Boca Miúda desta terça-feira (12) começa por Cabo Frio, onde teve troca de comando do 18º Grupamento de Bombeiros Militar. Na o"
 pubDate: "2026-05-13T06:05:16Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "cabo-frio", "iguaba-grande", "politica-local", "seguranca-publica", "bombeiros", "prefeito-serginho", "vantoil-martins", "pilares", "iguaba", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "/hero/smoke-smoke-202605130305-boca-miuda-os-bastidores-da-politica-na-regiao-dos-lagos-nesta-terca-feira-12.webp"
 ---
