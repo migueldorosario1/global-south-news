@@ -482,7 +482,16 @@ const visible = [];
 const hidden = [];
 for (const file of queue) {
   const fullPath = path.join(blogDir, file);
-  if (!fs.existsSync(fullPath)) throw new Error(`arquivo da fila ausente: ${file}`);
+  if (!fs.existsSync(fullPath)) {
+    fs.appendFileSync(logPath, `${JSON.stringify({
+      time: new Date().toISOString(),
+      file,
+      published: false,
+      blocked: true,
+      reason: 'arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto',
+    })}\n`);
+    continue;
+  }
   const text = fs.readFileSync(fullPath, 'utf8');
   if (text.match(/^draft:\s*false\s*$/m)) visible.push(file);
   else hidden.push(file);
