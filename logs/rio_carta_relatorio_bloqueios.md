@@ -1,12 +1,10 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-15T21:11:31.216Z
-Publicadas/auditadas com sucesso no historico: 786
-Materias com bloqueio acumulado: 244
+Atualizado em: 2026-05-15T21:31:07.645Z
+Publicadas/auditadas com sucesso no historico: 789
+Materias com bloqueio acumulado: 253
 
 ## Solucoes do cerebro aplicadas
-- imagens devem ficar dentro do silo Rio Carta antes do deploy
-- publicação correta é Markdown/Astro/Vercel, não WordPress
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
 
 ## Bloqueios acumulados
@@ -254,15 +252,17 @@ Materias com bloqueio acumulado: 244
 - smoke-202605152007-enel-rio-registra-mais-de-100-colisoes-em-postes-da-rede-eletrica-no-primeiro-trimestre-de-2026.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - smoke-202605152007-concursos-de-casimiro-de-abreu-passam-a-ter-vagas-reservadas-a-pretos-pardos-indigenas-e-quilomb.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - smoke-202605152007-mc-poze-do-rodo-deixa-presidio-em-bangu-apos-decisao-da-justica-federal.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605151805-so-para-dizer-mantem-cassada-pf-aponta-influencia-de-operador-da-refit-no-governo-castro.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605151805-this-is-where-my-life-began-residents-of-santa-teresa-occupation-claim-right-to-stay-in-talks-wi.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605151805-andre-ceciliano-intensifica-agenda-no-sul-fluminense-e-reforca-ponte-com-brasilia-para-novos-inv.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605151805-suspeito-de-assediar-e-ameacar-estudantes-e-preso-pela-pm-em-praca-de-cabo-frio.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605151805-marica-212-anos-shows-comecam-nesta-sexta-feira-15-confira-toda-a-programacao.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605151805-projeto-de-lei-quer-proibir-venda-de-sangue-animal-no-rio-de-janeiro.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605151805-feirinha-de-itaipava-recebe-estudantes-da-rede-municipal-para-acao-de-lancamento-de-foguetes.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605151805-por-que-o-ex-governador-claudio-castro-virou-alvo-da-policia-federal.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605151805-cooptacao-integral-do-estado-pf-diz-que-castro-mobilizou-orgaos-do-rj-em-favor-da-refit.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 
 ## Publicadas nesta rodada
-- smoke-202605151937-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md
-- smoke-202605151928-claudio-castro-e-alvo-de-operacao-da-policia-federal.md
-- smoke-202605151928-theres-blood-in-the-palmeiras-favela-the-cry-for-help-police-chose-not-to-hear-in-sao-goncalos-s.md
-- smoke-202605151805-motorista-de-caminhao-que-atingiu-carros-e-igreja-morre-e-sobe-para-4-o-numero-de-mortos-em-acid.md
-- smoke-202605151805-eleicoes-na-uff-roberto-salles-e-luciana-freitas-chegam-ao-segundo-turno-com-ampla-vantagem.md
-- smoke-202605151805-while-water-is-scarce-profits-abound-on-world-water-day-outraged-movements-demand-right-to-water.md
-- smoke-202605151928-pf-liga-daniel-vorcaro-ao-bicho-e-a-turma-da-coacao.md
-- smoke-202605151805-policia-federal-diz-que-governo-claudio-castro-atuou-para-beneficiar-grupo-refit.md
-- smoke-202605151805-a-infraero-quer-construir-edificio-garagem-no-aeroporto-santos-dumont.md
-- smoke-202605151805-pm-e-morto-a-tiros-ao-tentar-impedir-assalto-no-rio.md
+- smoke-202605152123-itaborai-193-anos-ludmilla-dennis-natanzinho-lima-e-aline-barros-sao-as-atracoes-do-aniversario.md
+- smoke-202605152123-em-partida-contra-sao-paulo-fluminense-pode-ter-german-cano-de-volta-aos-gramados.md
+- smoke-202605152123-data-centers-ai-and-the-social-costs-for-rio-de-janeiro-what-does-it-mean-in-practice-to-become.md
