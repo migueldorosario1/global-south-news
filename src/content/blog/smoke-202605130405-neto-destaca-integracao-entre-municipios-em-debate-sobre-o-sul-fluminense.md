@@ -2,7 +2,7 @@
 title: "Neto destaca integração entre municípios em debate sobre o Sul Fluminense"
 description: "Volta Redonda — O prefeito de Volta Redonda, Antonio Francisco Neto, participou nesta terça-feira (12) de uma mesa-redonda promovida pela FGV Conhecimento, na Casa Rosa, no Rio de "
 pubDate: "2026-05-13T07:05:05Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "desenvolvimento-regional", "politica-rj", "regiao-metropolitana", "ribeira", "comunidade", "complexo", "pirai", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605130405-neto-destaca-integracao-entre-municipios-em-debate-sobre-o-sul-fluminense.jpeg"
 ---

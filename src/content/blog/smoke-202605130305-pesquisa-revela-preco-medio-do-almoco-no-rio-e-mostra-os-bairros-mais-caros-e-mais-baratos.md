@@ -2,7 +2,7 @@
 title: "Pesquisa revela preço médio do almoço no Rio e mostra os bairros mais caros e mais baratos"
 description: "O valor gasto pelo trabalhador com alimentação fora de casa na hora do almoço varia de forma significativa entre diferentes regiões da cidade do Rio de Janeiro. Um levantamento da "
 pubDate: "2026-05-13T06:05:26Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "humaita", "leblon", "gavea", "complexo-do-alemao", "cidade-de-deus", "complexo-da-mare", "alimentacao", "economia-local", "pesquisa", "rio-capital-zona-sul-e-grande-tijuca", "capital", "regiao-metropolitana", "zona-sul"]
 heroImage: "/hero/smoke-smoke-202605130305-pesquisa-revela-preco-medio-do-almoco-no-rio-e-mostra-os-bairros-mais-caros-e-mais-baratos.png"
 ---

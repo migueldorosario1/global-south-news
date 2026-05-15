@@ -2,7 +2,7 @@
 title: "Projeto sobre banheiros para pessoas trans gera tumulto e sai de pauta na Alerj"
 description: "A discussão sobre o projeto que prevê a criação de banheiros e vestiários destinados a pessoas trans, não-binárias e que não realizaram cirurgia de afirmação de gênero provocou for"
 pubDate: "2026-05-13T06:05:28Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "direitos-lgbtqiapn", "projeto-de-lei", "regiao-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605130305-projeto-sobre-banheiros-para-pessoas-trans-gera-tumulto-e-sai-de-pauta-na-alerj.png"
 ---

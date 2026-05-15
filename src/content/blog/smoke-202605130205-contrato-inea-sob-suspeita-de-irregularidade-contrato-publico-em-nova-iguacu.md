@@ -2,7 +2,7 @@
 title: "Contrato Inea sob suspeita de irregularidade contrato Público em Nova Iguaçu"
 description: "Em Nova Iguaçu, um contrato de cento e oito milhões de reais firmado pelo Instituto Estadual do Ambiente entrou na análise de auditoria do governo do Rio de Janeiro após apontament"
 pubDate: "2026-05-13T05:05:08Z"
-draft: false
+draft: true
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "ine", "contrato-publico", "auditoria", "rio-ipiranga", "sistema-guandu", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605130205-contrato-inea-sob-suspeita-de-irregularidade-contrato-publico-em-nova-iguacu.png"
 ---

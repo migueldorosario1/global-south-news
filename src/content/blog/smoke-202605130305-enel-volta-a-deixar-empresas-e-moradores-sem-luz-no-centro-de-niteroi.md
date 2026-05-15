@@ -2,7 +2,7 @@
 title: "Enel volta a deixar empresas e moradores sem luz no Centro de Niterói"
 description: "Moradores e comerciantes da Região Central de Niterói voltaram a sofrer com a interrupção no fornecimento de energia elétrica nesta terça-feira (12). A irregularidade no serviço to"
 pubDate: "2026-05-13T06:05:18Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "niteroi", "centro-de-niteroi", "enel", "falta-de-luz", "apagao", "servico-essencial", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "mare", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605130305-enel-volta-a-deixar-empresas-e-moradores-sem-luz-no-centro-de-niteroi.webp"
 ---

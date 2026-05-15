@@ -2,7 +2,7 @@
 title: "Irmã do traficante Abelha tenta fuga de moto antes de ser presa por gerenciar o tráfico na Lapa"
 description: "Rio Irmã do traficante Abelha tenta fuga de moto antes de ser presa por gerenciar o tráfico na Lapa Lalá, irmã do traficante Abelha, atuava como gerente de carga na Lapa e Centro d"
 pubDate: "2026-05-13T06:05:28Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "lapa", "centro", "trafico", "seguranca-publica", "forca-municipal", "guarda-municipal", "comando-vermelho", "seguranca-publica-rj", "capital-estado", "regiao-metropolitana", "centro-do-rio", "anil", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605130305-irma-do-traficante-abelha-tenta-fuga-de-moto-antes-de-ser-presa-por-gerenciar-o-trafico-na-lapa.jpg"
 ---

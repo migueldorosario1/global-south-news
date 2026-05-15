@@ -2,7 +2,7 @@
 title: "Vídeo: ponto de venda de drogas é instalado na estação da SuperVia em Senador Camará"
 description: "Uma boca de fumo foi instalada dentro da estação de trem da Supervia em Senador Camará, na Zona Oeste do Rio. De acordo com relatos de testemunhas, suspeitos estariam comercializan"
 pubDate: "2026-05-13T07:05:05Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "senador-camara", "zona-oeste", "supervia", "trafico-de-drogas", "seguranca-publica", "rio-capital-zona-oeste", "politica-rj", "regiao-metropolitana", "bangu", "comunidade", "complexo", "mage", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605130405-video-ponto-de-venda-de-drogas-e-instalado-na-estacao-da-supervia-em-senador-camara.jpg"
 ---
