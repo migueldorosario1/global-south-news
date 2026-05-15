@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-15T19:43:33.500Z
-Publicadas/auditadas com sucesso no historico: 773
+Atualizado em: 2026-05-15T20:14:45.860Z
+Publicadas/auditadas com sucesso no historico: 776
 Materias com bloqueio acumulado: 232
 
 ## Solucoes do cerebro aplicadas
@@ -240,3 +240,8 @@ Materias com bloqueio acumulado: 232
 - smoke-202605151930-mc-poze-do-rodo-deixa-presidio-em-bangu-apos-decisao-da-justica-federal.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - smoke-202605151930-rio-civil-society-forms-front-to-defend-trees-from-city-hall.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - smoke-202605151937-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: [{"auditor":"deepseek","ok":null,"reason":"veto vazio ignorado como falha tecnica"},{"auditor":"kimi","ok":true,"reason":"curto","fix":"curto"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"fato implausivel: evento descrito (ação coletiva em 11/04/2026) ocorre no futuro relativo à data de auditoria (15/05/2026), mas o texto apresenta-o como já oc","fix":""},{"auditor":"codex-texto-categoria","ok":
+
+## Publicadas nesta rodada
+- smoke-202605152007-rodrigo-neves-mobiliza-vereadores-e-fortalece-palanque-de-eduardo-paes-em-niteroi.md
+- smoke-202605152007-pf-aponta-que-vorcaro-mantinha-no-rio-de-janeiro-grupo-ligado-a-jogo-do-bicho-e-milicia-para-faz.md
+- smoke-202605152007-rio-das-ostras-recebe-atracoes-ineditas-durante-festival-gratuito-de-jazz-e-blues.md
