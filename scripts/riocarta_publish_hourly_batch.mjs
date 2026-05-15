@@ -95,6 +95,15 @@ function primaryCategoryFromTags(tags) {
 
 function orderHiddenByDiversity(files) {
   const buckets = new Map();
+  const freshness = (file) => {
+    const match = file.match(/(?:^|-)20\d{10}/);
+    if (match) return Number(match[0].replace(/^-/, ''));
+    try {
+      return fs.statSync(path.join(blogDir, file)).mtimeMs;
+    } catch {
+      return 0;
+    }
+  };
   for (const file of files) {
     try {
       const text = fs.readFileSync(path.join(blogDir, file), 'utf8');
@@ -106,6 +115,9 @@ function orderHiddenByDiversity(files) {
       if (!buckets.has('erro-leitura')) buckets.set('erro-leitura', []);
       buckets.get('erro-leitura').push(file);
     }
+  }
+  for (const items of buckets.values()) {
+    items.sort((a, b) => freshness(b) - freshness(a));
   }
 
   const ordered = [];
@@ -544,7 +556,7 @@ if (auditCurrentOnly) {
   }
 } else {
   let attemptedHidden = 0;
-  for (const file of hidden) {
+  for (const file of orderHiddenByDiversity(hidden)) {
     if (nextBatch.length >= batchSize) {
       results.push(await auditAndFix(file, false));
       continue;
