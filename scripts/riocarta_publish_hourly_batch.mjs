@@ -240,6 +240,60 @@ function cleanBody(body) {
   return `${shortParagraphs(normalizeSourceCredits(cleaned)).trimEnd()}\n`;
 }
 
+function extractSource(body) {
+  const match = normalizeSourceCredits(body).match(/\*Fonte:\s*\[([^\]]+)\]\(([^)]+)\)\.\*/i);
+  if (!match) return { name: '', url: '' };
+  return { name: match[1].trim(), url: match[2].trim() };
+}
+
+function parseAuditorJson(raw) {
+  const cleaned = String(raw || '')
+    .replace(/^```(?:json)?/i, '')
+    .replace(/```$/i, '')
+    .trim();
+  const candidates = [
+    cleaned,
+    cleaned.match(/\{[\s\S]*\}/)?.[0],
+  ].filter(Boolean);
+  for (const candidate of candidates) {
+    try {
+      const parsed = JSON.parse(candidate);
+      if (typeof parsed === 'string') return parseAuditorJson(parsed);
+      if (parsed && typeof parsed === 'object') return parsed;
+    } catch {}
+  }
+  return null;
+}
+
+function normalizeVote(auditor, json, raw) {
+  const lowerRaw = String(raw || '').toLowerCase();
+  const reason = String(json?.reason || '').replace(/\s+/g, ' ').trim();
+  const fix = String(json?.fix || '').replace(/\s+/g, ' ').trim();
+  const lowQuality =
+    (!reason && !fix) ||
+    ['curto', 'ok', 'aprovado', 'aprovada'].includes(reason.toLowerCase()) ||
+    (reason.toLowerCase() === 'curto' && fix.toLowerCase() === 'curto');
+
+  if (json?.ok === false && lowQuality) {
+    return { auditor: auditor.name, ok: null, reason: 'veto vazio/curto ignorado como falha tecnica' };
+  }
+  if (json?.ok === true && lowQuality) {
+    return { auditor: auditor.name, ok: null, reason: 'aprovacao vazia/curta ignorada como voto fraco' };
+  }
+  if (json?.ok === false && /\b(timestamp|nome do arquivo|filename|heroimage|imagem.*2026|202605)\b/i.test(reason)) {
+    return { auditor: auditor.name, ok: null, reason: `veto por metadado tecnico ignorado: ${reason.slice(0, 180)}` };
+  }
+  if (!json && lowerRaw) {
+    return {
+      auditor: auditor.name,
+      ok: lowerRaw.includes('"ok":true') || lowerRaw.includes('ok: true') || lowerRaw.includes('aprov'),
+      reason: String(raw).replace(/\s+/g, ' ').slice(0, 180),
+    };
+  }
+  if (!json) return { auditor: auditor.name, ok: null, reason: 'resposta sem JSON util' };
+  return { auditor: auditor.name, ok: Boolean(json.ok), reason, fix };
+}
+
 function brainNotes() {
   const notes = [];
   const brain = fs.existsSync(brainPath) ? fs.readFileSync(brainPath, 'utf8') : '';
@@ -357,12 +411,16 @@ async function askModelAuditor(auditor, article) {
   }).format(now);
   const prompt = [
     'Audite esta materia antes de publicacao no Rio Carta.',
-    'Responda somente JSON: {"ok":true|false,"reason":"curto","fix":"curto"}.',
-    'Critérios: fato plausivel, titulo honesto, categoria territorial coerente, imagem destacada aceitavel, sem aviso interno de rascunho.',
+    'Responda somente JSON: {"ok":true|false,"reason":"motivo objetivo","fix":"correcao objetiva ou vazio"}.',
+    'A auditoria serve para ajudar a publicar melhor, nao para bloquear por medo generico.',
+    'Criterios de bloqueio: contradicao interna grave, acusacao grave sem apoio no texto/fonte, data impossivel claramente demonstrada, titulo desonesto, aviso interno de rascunho.',
+    'Nao bloqueie apenas porque voce nao lembra do fato. Nao use timestamp de nome de arquivo ou imagem como prova factual. Se houver fonte citada e voce nao tiver certeza do erro, aprove com observacao.',
+    'Nao responda com "curto"; explique em uma frase concreta.',
     `Data/hora atual para auditoria: ${brNow} (America/Sao_Paulo). UTC: ${now.toISOString()}.`,
     'Use essa data dinamica para julgar passado, presente e futuro; nao invente data fixa.',
     `TITULO: ${article.title}`,
     `TAGS: ${article.tags}`,
+    `FONTE CITADA: ${article.sourceName || 'sem fonte'} ${article.sourceUrl || ''}`,
     `IMAGEM: ${article.heroImage} ${article.imageSize}`,
     `TEXTO:\n${article.body.slice(0, 4500)}`,
   ].join('\n\n');
@@ -383,22 +441,7 @@ async function askModelAuditor(auditor, article) {
     if (!response.ok) return { auditor: auditor.name, ok: null, reason: `HTTP ${response.status}` };
     const data = await response.json();
     const raw = data?.choices?.[0]?.message?.content || '';
-    let json;
-    try {
-      json = JSON.parse(raw.match(/\{[\s\S]*\}/)?.[0] || raw);
-    } catch {
-      const lower = raw.toLowerCase();
-      json = {
-        ok: lower.includes('"ok":true') || lower.includes('ok: true') || lower.includes('aprov'),
-        reason: raw.replace(/\s+/g, ' ').slice(0, 180),
-      };
-    }
-    const reason = String(json.reason || '').trim();
-    const fix = String(json.fix || '').trim();
-    if (json.ok === false && !reason && !fix) {
-      return { auditor: auditor.name, ok: null, reason: 'veto vazio ignorado como falha tecnica' };
-    }
-    return { auditor: auditor.name, ok: Boolean(json.ok), reason, fix };
+    return normalizeVote(auditor, parseAuditorJson(raw), raw);
   } catch (error) {
     return { auditor: auditor.name, ok: null, reason: String(error.message || error).slice(0, 160) };
   }
@@ -437,10 +480,35 @@ async function expandedConsensus(article, warnings) {
     },
   ];
   const modelVotes = await Promise.all(auditors.map((auditor) => askModelAuditor(auditor, article)));
-  const votes = [...modelVotes, ...localVotes(article, warnings)];
-  const clearVotes = votes.filter((vote) => vote.ok !== null);
-  const approvals = clearVotes.filter((vote) => vote.ok).length;
-  return { passed: approvals > 3, votes, approvals };
+  const local = localVotes(article, warnings);
+  const votes = [...modelVotes, ...local];
+  const validExternal = modelVotes.filter((vote) => vote.ok !== null);
+  const externalApprovals = validExternal.filter((vote) => vote.ok);
+  const externalRejections = validExternal.filter((vote) => vote.ok === false);
+  const localFailures = local.filter((vote) => vote.ok === false);
+  const approvals = votes.filter((vote) => vote.ok).length;
+
+  let passed = true;
+  let decisionReason = 'auditoria ajudou sem veto consistente';
+  if (localFailures.length) {
+    passed = false;
+    decisionReason = `falha local critica: ${localFailures.map((vote) => vote.reason).join('; ')}`;
+  } else if (externalRejections.length >= 2) {
+    passed = false;
+    decisionReason = `veto externo consistente: ${externalRejections.map((vote) => `${vote.auditor}: ${vote.reason}`).join(' | ')}`;
+  } else if (externalRejections.length === 1 && externalApprovals.length === 0 && !article.sourceUrl) {
+    passed = false;
+    decisionReason = `veto externo isolado sem fonte citada: ${externalRejections[0].auditor}: ${externalRejections[0].reason}`;
+  }
+
+  return {
+    passed,
+    votes,
+    approvals,
+    externalApprovals: externalApprovals.length,
+    externalRejections: externalRejections.length,
+    decisionReason,
+  };
 }
 
 async function auditAndFix(file, publish) {
@@ -470,18 +538,21 @@ async function auditAndFix(file, publish) {
   }
 
   let nextBody = cleanBody(body);
+  const source = extractSource(nextBody);
   const articleForAudit = {
         title,
         heroImage,
         tags,
         body: nextBody,
         imageSize: `${meta.width}x${meta.height}`,
+        sourceName: source.name,
+        sourceUrl: source.url,
   };
   const consensus = publish
     ? await expandedConsensus(articleForAudit, warnings)
     : { passed: true, votes: [] };
   if (publish && !consensus.passed) {
-    throw new Error(`auditoria ampliada sem mais de 3 votos ${file}: ${JSON.stringify(consensus.votes)}`);
+    throw new Error(`auditoria reteve ${file}: ${consensus.decisionReason}; votos=${JSON.stringify(consensus.votes)}`);
   }
 
   let nextFrontmatter = setDraft(frontmatter, !publish);
@@ -498,6 +569,9 @@ async function auditAndFix(file, publish) {
     warnings,
     expandedAudit: consensus.votes,
     approvals: consensus.approvals,
+    externalApprovals: consensus.externalApprovals,
+    externalRejections: consensus.externalRejections,
+    auditDecision: consensus.decisionReason,
   };
   fs.appendFileSync(logPath, `${JSON.stringify(audit)}\n`);
   return { file, warnings };
