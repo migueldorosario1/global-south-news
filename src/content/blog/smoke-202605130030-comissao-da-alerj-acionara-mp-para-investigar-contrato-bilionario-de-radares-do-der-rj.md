@@ -2,7 +2,7 @@
 title: "Comissão da Alerj acionará MP para investigar contrato bilionário de radares do DER-RJ"
 description: "O contrato firmado pelo Departamento de Estradas de Rodagem do Rio de Janeiro (DER-RJ) prevendo a instalação de 390 radares eletrônicos nas rodovias estaduais poderá passar a ser i"
 pubDate: "2026-05-13T03:30:59Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "alerj", "der-rj", "radares", "contrato-bilionario", "investigacao", "ministerio-publico", "regiao-metropolitana", "regiao-dos-lagos", "regiao-serrana", "norte-fluminense", "costa-verde", "politica-rj", "serrana"]
 heroImage: "/hero/smoke-smoke-202605130030-comissao-da-alerj-acionara-mp-para-investigar-contrato-bilionario-de-radares-do-der-rj.png"
 ---
