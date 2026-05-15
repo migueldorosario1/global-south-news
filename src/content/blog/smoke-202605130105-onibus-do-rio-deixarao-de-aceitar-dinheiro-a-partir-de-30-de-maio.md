@@ -2,7 +2,7 @@
 title: "Ônibus do Rio deixarão de aceitar dinheiro a partir de 30 de maio"
 description: "O pagamento em dinheiro nos ônibus municipais do Rio será encerrado a partir de 30 de maio. A mudança foi anunciada nesta terça-feira (12) pela Secretaria Municipal de Transportes "
 pubDate: "2026-05-13T04:05:08Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "transporte-publico", "onibus", "smtr", "jae", "riocard", "bilhete-unico", "transporte-e-mobilidade-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "baixada", "transporte-mobilidade", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605130105-onibus-do-rio-deixarao-de-aceitar-dinheiro-a-partir-de-30-de-maio.png"
 ---
