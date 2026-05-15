@@ -28,6 +28,6 @@ Segundo a produção, a expectativa é que o público dessa 22ª edição gire e
 
 Esta edição acontece com apresentação do Serviço Social do Comércio do Estado do Rio (Sesc RJ), com patrocínio master da Petrobras, patrocínio da Seagems, Oceânica, Vallourec e Rio+Saneamento, apoio cultural do Governo do Estado do Rio de Janeiro, apoio da Like Produtora, Sindicato Patronal do Comércio Varejista (Sindicomércio), e Rádio MEC, do Ministério da Educação, e produção da Azul Produções e realização da Fundação Rio das Ostras de Cultura (Froc), Prefeitura de Rio das Ostras e Governo Federal do Brasil. Para conferir a programação completa, basta acessar o site https://www.
 
-riodasostrasjazzeblues. com/ ou o perfil do evento no Instagram, pelo @rostrasjazzblues.
+riodasostrasjazzeblues.com/ ou o perfil do evento no Instagram, pelo @rostrasjazzblues.
 
 *Fonte: [Clique Diário](https://cliquediario.com.br/cultura/rio-das-ostras-jazz-blues-festival-divulga-programacao-completa-com-novidades).*
