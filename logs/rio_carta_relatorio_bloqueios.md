@@ -1,8 +1,8 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-15T22:32:20.043Z
-Publicadas/auditadas com sucesso no historico: 792
-Materias com bloqueio acumulado: 253
+Atualizado em: 2026-05-15T23:33:47.766Z
+Publicadas/auditadas com sucesso no historico: 795
+Materias com bloqueio acumulado: 277
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -261,8 +261,32 @@ Materias com bloqueio acumulado: 253
 - smoke-202605151805-feirinha-de-itaipava-recebe-estudantes-da-rede-municipal-para-acao-de-lancamento-de-foguetes.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - smoke-202605151805-por-que-o-ex-governador-claudio-castro-virou-alvo-da-policia-federal.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - smoke-202605151805-cooptacao-integral-do-estado-pf-diz-que-castro-mobilizou-orgaos-do-rj-em-favor-da-refit.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152123-pf-descreve-rio-capturado-pela-refit-durante-a-pessima-gestao-de-claudio-castro.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152123-rio-cria-direito-a-ancestralidade-para-populacao-negra.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152123-policia-apreende-carga-milionaria-de-cocaina-que-seria-entregue-ao-complexo-da-penha.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152123-menina-de-12-anos-denuncia-estupro-coletivo-e-espancamento-na-zona-oeste.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152123-douglas-ruas-anuncia-comissao-de-corte-de-gastos-e-ajuste-fiscal-do-estado.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152123-aplicativo-turistico-passeio-vale-do-cafe-e-lancado-em-barra-do-pirai-e-amplia-experiencia-digit.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152123-projeto-de-alan-mansur-propoe-sigilo-funcional-para-servidoras-sob-medida-protetiva.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152123-cantor-poze-do-rodo-e-solto-apos-decisao-judicial.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152123-der-vai-instalar-dois-semaforos-na-rj-140-apos-pedidos-de-moradores-e-comerciantes-em-sao-pedro.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152123-discursos-masculinistas-sequestram-a-ansiedade-dos-meninos-diz-documentarista.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152123-moraes-autorizou-arrombamento-de-cofres-na-casa-de-claudio-castro.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152123-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152223-claudio-castro-reage-e-tenta-conter-cerco-da-pf.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152223-contrato-aponta-eduardo-bolsonaro-como-produtor-executivo-de-dark-horse-diz-intercept.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152223-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152223-primeira-vez-em-23-anos-niteroi-alcanca-recorde-em-reducao-de-roubos-de-rua.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152223-predio-so-para-airbnb-sem-moradia-flamengo-tera-predio-exclusivo-para-aluguel-de-temporada.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152223-falso-taxista-que-aplicava-golpe-em-idosos-e-preso-no-centro-do-rio.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152223-tenho-orgulho-dessa-trajetoria-porque-ela-sempre-foi-coletiva.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152223-prf-apreende-fuzil-pistolas-e-drogas-enviadas-do-rio-para-o-espirito-santo.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152223-while-water-is-scarce-profits-abound-on-world-water-day-outraged-movements-demand-right-to-water.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152223-unidade-de-saude-em-cabo-frio-e-furtada-e-criminosos-deixam-bilhetes-de-deboche.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152223-confira-a-previsao-do-tempo-para-o-fim-de-semana-inmet-alerta-para-a-possibilidade-de-temporais.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152223-prefeitura-de-niteroi-usa-tomografia-pra-acompanhar-saude-de-arvores.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 
 ## Publicadas nesta rodada
-- smoke-202605152223-governo-anuncia-r-2-2-bi-para-tratamentos-contra-o-cancer-pelo-sus.md
-- smoke-202605152223-equipe-do-botafogo-e-recebida-com-protestos-no-aeroporto-do-galeao.md
-- smoke-202605152223-aciap-bm-reforca-apoio-a-seguranca-publica-com-doacao-para-obras-da-3a-cia-independente-da-pm-em.md
+- smoke-202605152323-moraes-autorizou-arrombamento-de-cofres-na-casa-de-claudio-castro.md
+- smoke-202605152323-menina-de-12-anos-denuncia-estupro-coletivo-e-espancamento-na-zona-oeste.md
+- smoke-202605152323-predio-so-para-airbnb-sem-moradia-flamengo-tera-predio-exclusivo-para-aluguel-de-temporada.md
