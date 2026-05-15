@@ -1,8 +1,8 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-15T18:27:58.321Z
+Atualizado em: 2026-05-15T19:34:16.244Z
 Publicadas/auditadas com sucesso no historico: 773
-Materias com bloqueio acumulado: 213
+Materias com bloqueio acumulado: 216
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -221,8 +221,6 @@ Materias com bloqueio acumulado: 213
 - smoke-202605130405-quadra-da-mangueira-sedia-no-sabado-o-evento-batuq-em-verde-e-rosa.md: [{"auditor":"deepseek","ok":false,"reason":"{\"ok\":false,\"reason\":\"A data '16 de maio' de 2026 cai em um sábado, mas o texto menciona 'sequência de comemorações do aniversário de 98 anos' da Mangueira, fundada em 1928; em 202","fix":""},{"auditor":"kimi","ok":true,"reason":"curto","fix":"curto"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"data invalida\",\"fix\":\"evento marcado para 16/05/2
 - smoke-202605130405-prefeitura-de-santo-antonio-de-padua-reabre-inscricoes-para-concurso-com-mais-de-400-vagas.md: [{"auditor":"deepseek","ok":false,"reason":"Tags incluem 'regiao-metropolitana' e 'mage', que são territorialmente incoerentes com Santo Antônio de Pádua, localizado no noroeste fluminense, distante da Região Metropolitana do Rio. Além disso, o texto contém erro de formatação em salário ('R$ 1.634,21' escrito como 'R$ 1.634,21 e R$ 5. 318,89') e 'incrições' em vez de 'inscrições'.","fix":"Remover tags 'regiao-metropo
 - smoke-202605130405-futebol-petropolitano-de-luto-morre-claudeci-ferreira-o-pele.md: [{"auditor":"deepseek","ok":false,"reason":"Titulo usa 'Pelé' como apelido, o que e factualmente enganoso e desrespeitoso com o legado de Edson Arantes do Nascimento. A materia e um obituario local, mas o titulo sensacionalista fere a precisao jornalistica.","fix":"Trocar titulo para algo como 'Morre Claudeci Ferreira, revelador de talentos do futebol petropolitano'."},{"auditor":"kimi","ok":true,"reason":"curto","fi
-
-## Publicadas nesta rodada
-- smoke-202605132305-homem-e-preso-com-grande-quantidade-de-drogas-em-condominio-de-volta-redonda.md
-- smoke-202605132305-empresa-de-miliciano-pagou-queiroz-quando-era-chefe-do-gabinete-de-flavio-bolsonaro.md
-- smoke-202605132305-musico-brasileiro-se-torna-o-1o-nascido-no-pais-na-calcada-da-fama-nao-e-so-minha-e-nossa.md
+- smoke-202605151928-claudio-castro-e-alvo-de-operacao-da-policia-federal.md: [{"auditor":"deepseek","ok":false,"reason":"","fix":""},{"auditor":"kimi","ok":true,"reason":"curto","fix":"curto"},{"auditor":"qwen","ok":false,"reason":"data futura","fix":"ajustar data da operação para 2026-05-15 ou corrigir para data passada compatível com 2026-05-13"},{"auditor":"codex-texto-categoria","ok":true,"reason":"texto e categorias aceitaveis"},{"auditor":"codex-imagem-fonte","ok":true,"reason":"imagem 
+- smoke-202605151928-theres-blood-in-the-palmeiras-favela-the-cry-for-help-police-chose-not-to-hear-in-sao-goncalos-s.md: [{"auditor":"deepseek","ok":false,"reason":"","fix":""},{"auditor":"kimi","ok":true,"reason":"curto","fix":"curto"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"fato implausivel: PRF nao atua em operacoes de favela no RJ; data do crime (marco/2025) ja e passado para auditoria em 2026-05-13; titulo sensacionalista e de","fix":""},{"auditor":"codex-texto-categoria","ok":true,"reason":"texto e categ
+- smoke-202605151928-pf-liga-daniel-vorcaro-ao-bicho-e-a-turma-da-coacao.md: [{"auditor":"deepseek","ok":false,"reason":"","fix":""},{"auditor":"kimi","ok":true,"reason":"curto","fix":"curto"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"fato implausível: operação 'Compliance Zero' não existe publicamente; prisão de Henrique Vorcaro em 2026-05-13 viola critério de datas passadas (2025 já é pas","fix":""},{"auditor":"codex-texto-categoria","ok":true,"reason":"texto e categ
