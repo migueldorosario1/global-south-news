@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-15T18:10:15.534Z
-Publicadas/auditadas com sucesso no historico: 770
+Atualizado em: 2026-05-15T18:18:56.107Z
+Publicadas/auditadas com sucesso no historico: 771
 Materias com bloqueio acumulado: 213
 
 ## Solucoes do cerebro aplicadas
@@ -221,3 +221,6 @@ Materias com bloqueio acumulado: 213
 - smoke-202605130405-quadra-da-mangueira-sedia-no-sabado-o-evento-batuq-em-verde-e-rosa.md: [{"auditor":"deepseek","ok":false,"reason":"{\"ok\":false,\"reason\":\"A data '16 de maio' de 2026 cai em um sábado, mas o texto menciona 'sequência de comemorações do aniversário de 98 anos' da Mangueira, fundada em 1928; em 202","fix":""},{"auditor":"kimi","ok":true,"reason":"curto","fix":"curto"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"data invalida\",\"fix\":\"evento marcado para 16/05/2
 - smoke-202605130405-prefeitura-de-santo-antonio-de-padua-reabre-inscricoes-para-concurso-com-mais-de-400-vagas.md: [{"auditor":"deepseek","ok":false,"reason":"Tags incluem 'regiao-metropolitana' e 'mage', que são territorialmente incoerentes com Santo Antônio de Pádua, localizado no noroeste fluminense, distante da Região Metropolitana do Rio. Além disso, o texto contém erro de formatação em salário ('R$ 1.634,21' escrito como 'R$ 1.634,21 e R$ 5. 318,89') e 'incrições' em vez de 'inscrições'.","fix":"Remover tags 'regiao-metropo
 - smoke-202605130405-futebol-petropolitano-de-luto-morre-claudeci-ferreira-o-pele.md: [{"auditor":"deepseek","ok":false,"reason":"Titulo usa 'Pelé' como apelido, o que e factualmente enganoso e desrespeitoso com o legado de Edson Arantes do Nascimento. A materia e um obituario local, mas o titulo sensacionalista fere a precisao jornalistica.","fix":"Trocar titulo para algo como 'Morre Claudeci Ferreira, revelador de talentos do futebol petropolitano'."},{"auditor":"kimi","ok":true,"reason":"curto","fi
+
+## Publicadas nesta rodada
+- smoke-202605131305-iterj-entrega-moradia-de-532-familias-apos-20-anos-em-casimiro-de-abreu.md

@@ -2,7 +2,7 @@
 title: "Iterj entrega moradia de 532 famílias após 20 anos em Casimiro de Abreu"
 description: "O Instituto de Terras e Cartografia do Estado do Rio de Janeiro realizou a entrega de 532 Termos Administrativos de Reconhecimento de Posse e Moradia para famílias da comunidade Sã"
 pubDate: "2026-05-13T16:05:12Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "casimiro-de-abreu", "barra-de-sao-joao", "regiao-das-baixadas-litoraneas", "regularizacao-fundiaria", "iterj", "moradia", "regiao-dos-lagos", "niteroi-metropolitana", "regiao-metropolitana", "joa", "comunidade", "baixada", "niteroi"]
 heroImage: "/hero/smoke-smoke-202605131305-iterj-entrega-moradia-de-532-familias-apos-20-anos-em-casimiro-de-abreu.jpg"
 ---
