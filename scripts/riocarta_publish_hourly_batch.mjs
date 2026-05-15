@@ -20,6 +20,7 @@ const forcedMaxAuditAttempts = process.env.RIOCARTA_MAX_AUDIT_ATTEMPTS ? Number(
 const forcedMaxBatchSize = process.env.RIOCARTA_MAX_BATCH_SIZE ? Number(process.env.RIOCARTA_MAX_BATCH_SIZE) : null;
 const defaultBatchSize = 10;
 const auditCurrentOnly = args.has('--audit-current');
+const reAuditVisible = auditCurrentOnly || args.has('--reaudit-visible') || process.env.RIOCARTA_REAUDIT_VISIBLE === '1';
 const commitAndPush = args.has('--commit') && !auditCurrentOnly;
 const skipGitPush = args.has('--no-push');
 const deployVercel = args.has('--vercel-deploy');
@@ -508,29 +509,33 @@ if (!auditCurrentOnly && hidden.length === 0) {
 }
 
 const results = [];
-for (const file of visible) {
-  try {
-    results.push(await auditAndFix(file, true));
-  } catch (error) {
-    // Fix Claude 2026-05-13 16:50 BRT (autorização Miguel "recomendo a, vamos corrigir logo"):
-    // Matéria já-publicada perdeu consenso na re-auditoria. Antes: throw fatal parava
-    // TODO o batch. Agora: rebaixa pra draft (esconde do público), loga e CONTINUA.
-    const reason = String(error.message || error);
-    fs.appendFileSync(logPath, `${JSON.stringify({
-      time: new Date().toISOString(),
-      file,
-      published: false,
-      rebaixada_por_reaudit: true,
-      reason: `re-auditoria de visible perdeu consenso: ${reason.slice(0, 320)}`,
-    })}\n`);
+if (reAuditVisible) {
+  for (const file of visible) {
     try {
-      // publish=false faz setDraft(true) → matéria some do público até revisão humana.
-      results.push(await auditAndFix(file, false));
-      console.log(`Rebaixada por re-auditoria: ${file} — ${reason.slice(0, 220)}`);
-    } catch (innerError) {
-      console.log(`Erro ao rebaixar ${file}: ${String(innerError.message || innerError).slice(0, 220)}`);
+      results.push(await auditAndFix(file, true));
+    } catch (error) {
+      // Fix Claude 2026-05-13 16:50 BRT (autorização Miguel "recomendo a, vamos corrigir logo"):
+      // Matéria já-publicada perdeu consenso na re-auditoria. Antes: throw fatal parava
+      // TODO o batch. Agora: rebaixa pra draft (esconde do público), loga e CONTINUA.
+      const reason = String(error.message || error);
+      fs.appendFileSync(logPath, `${JSON.stringify({
+        time: new Date().toISOString(),
+        file,
+        published: false,
+        rebaixada_por_reaudit: true,
+        reason: `re-auditoria de visible perdeu consenso: ${reason.slice(0, 320)}`,
+      })}\n`);
+      try {
+        // publish=false faz setDraft(true) -> materia some do publico ate revisao humana.
+        results.push(await auditAndFix(file, false));
+        console.log(`Rebaixada por re-auditoria: ${file} — ${reason.slice(0, 220)}`);
+      } catch (innerError) {
+        console.log(`Erro ao rebaixar ${file}: ${String(innerError.message || innerError).slice(0, 220)}`);
+      }
     }
   }
+} else if (visible.length) {
+  console.log(`Re-auditoria de materias ja publicadas pulada neste ciclo (${visible.length} visiveis). Use --reaudit-visible para vigia dedicado.`);
 }
 
 if (auditCurrentOnly) {
@@ -590,7 +595,7 @@ if (auditCurrentOnly) {
 
 const changedArticleSet = auditCurrentOnly
   ? [...new Set([...visible, ...hidden])]
-  : [...new Set([...visible, ...nextBatch])];
+  : [...new Set([...(reAuditVisible ? visible : []), ...nextBatch])];
 const publishSet = auditCurrentOnly ? visible : nextBatch;
 
 execFileSync('npm', ['run', 'build'], { cwd: repo, stdio: 'inherit' });
