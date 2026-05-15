@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-15T18:18:56.107Z
-Publicadas/auditadas com sucesso no historico: 771
+Atualizado em: 2026-05-15T18:27:58.321Z
+Publicadas/auditadas com sucesso no historico: 773
 Materias com bloqueio acumulado: 213
 
 ## Solucoes do cerebro aplicadas
@@ -223,4 +223,6 @@ Materias com bloqueio acumulado: 213
 - smoke-202605130405-futebol-petropolitano-de-luto-morre-claudeci-ferreira-o-pele.md: [{"auditor":"deepseek","ok":false,"reason":"Titulo usa 'Pelé' como apelido, o que e factualmente enganoso e desrespeitoso com o legado de Edson Arantes do Nascimento. A materia e um obituario local, mas o titulo sensacionalista fere a precisao jornalistica.","fix":"Trocar titulo para algo como 'Morre Claudeci Ferreira, revelador de talentos do futebol petropolitano'."},{"auditor":"kimi","ok":true,"reason":"curto","fi
 
 ## Publicadas nesta rodada
-- smoke-202605131305-iterj-entrega-moradia-de-532-familias-apos-20-anos-em-casimiro-de-abreu.md
+- smoke-202605132305-homem-e-preso-com-grande-quantidade-de-drogas-em-condominio-de-volta-redonda.md
+- smoke-202605132305-empresa-de-miliciano-pagou-queiroz-quando-era-chefe-do-gabinete-de-flavio-bolsonaro.md
+- smoke-202605132305-musico-brasileiro-se-torna-o-1o-nascido-no-pais-na-calcada-da-fama-nao-e-so-minha-e-nossa.md
