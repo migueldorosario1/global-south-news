@@ -4,9 +4,27 @@ import HeaderLink from './HeaderLink.astro';
 import logoImg from '../assets/logo-transparent.png';
 import { Image } from 'astro:assets';
 import { rioZones, rjRegions } from '../data/rjTaxonomy';
+import vereadoresRj from '../data/vereadores_rj.json';
 
 const pathname = Astro.url.pathname;
 const isHome = pathname === '/' || pathname === '/index.html';
+
+type Vereador = {
+	nome: string;
+	slug: string;
+	partido?: string;
+	numero?: string;
+};
+
+type CidadeVereadores = {
+	cidade: string;
+	cidadeSlug: string;
+	vereadores: Vereador[];
+};
+
+const cidadesComVereadores = (vereadoresRj.cidades ?? []) as CidadeVereadores[];
+const vereadoresPorCidade = new Map(cidadesComVereadores.map((cidade) => [cidade.cidadeSlug, cidade.vereadores]));
+const limiteVereadoresMenu = 18;
 ---
 
 <header class={`premium-header ${isHome ? 'header-home' : 'header-article'}`}>
@@ -183,11 +201,32 @@ const isHome = pathname === '/' || pathname === '/index.html';
 							</div>
 							<div class="dropdown-submenu">
 								<span class="submenu-title">Câmaras de Vereadores <span>▶</span></span>
-								<div class="submenu-content submenu-content-wide">
+								<div class="submenu-content submenu-content-wide submenu-content-councils">
 									{rjRegions.map((region) => (
 										<div class="submenu-section">
 											<span class="submenu-section-title">{region.label}</span>
-											{region.items.map((item) => <a href={`/tags/camara-${item.slug}`}>{item.label}</a>)}
+											{region.items.map((item) => {
+												const vereadores = vereadoresPorCidade.get(item.slug) ?? [];
+												return (
+													<div class="council-city">
+														<a href={`/tags/camara-${item.slug}`} class="council-city-link">{item.label}</a>
+														{vereadores.length > 0 && (
+															<div class="council-members">
+																{vereadores.slice(0, limiteVereadoresMenu).map((vereador) => (
+																	<a href={`/tags/${vereador.slug}`} title={`${vereador.nome}${vereador.partido ? ` (${vereador.partido})` : ''}`}>
+																		{vereador.nome}
+																	</a>
+																))}
+																{vereadores.length > limiteVereadoresMenu && (
+																	<a href={`/tags/camara-${item.slug}`} class="council-more">
+																		+{vereadores.length - limiteVereadoresMenu} vereadores
+																	</a>
+																)}
+															</div>
+														)}
+													</div>
+												);
+											})}
 										</div>
 									))}
 								</div>
@@ -475,6 +514,41 @@ const isHome = pathname === '/' || pathname === '/index.html';
 		font-weight: 800;
 		color: #111 !important;
 		background: #f7f9fc;
+	}
+
+	.submenu-content-councils {
+		min-width: min(860px, 76vw);
+		grid-template-columns: repeat(2, minmax(260px, 1fr));
+	}
+
+	.council-city {
+		padding: 0.25rem 0;
+	}
+
+	.council-city-link {
+		font-weight: 800 !important;
+		color: #222 !important;
+	}
+
+	.council-members {
+		display: grid;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: 0.1rem 0.25rem;
+		padding: 0 0.35rem 0.45rem;
+	}
+
+	.council-members a {
+		font-size: 0.78rem;
+		line-height: 1.2;
+		padding: 0.35rem 0.45rem;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.council-members .council-more {
+		font-weight: 800;
+		color: #0052D4;
 	}
 
 	@media (min-width: 769px) {
