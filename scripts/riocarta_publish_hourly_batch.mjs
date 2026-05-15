@@ -21,6 +21,8 @@ const forcedMaxBatchSize = process.env.RIOCARTA_MAX_BATCH_SIZE ? Number(process.
 const defaultBatchSize = 10;
 const auditCurrentOnly = args.has('--audit-current');
 const commitAndPush = args.has('--commit') && !auditCurrentOnly;
+const skipGitPush = args.has('--no-push');
+const deployVercel = args.has('--vercel-deploy');
 const queue = JSON.parse(fs.readFileSync(queuePath, 'utf8'));
 let state = fs.existsSync(statePath)
   ? JSON.parse(fs.readFileSync(statePath, 'utf8'))
@@ -630,7 +632,9 @@ if (commitAndPush) {
   if (staged) {
     const publishedTitles = publishSet.map((file) => path.basename(file, '.md')).join(', ');
     git(['commit', '-m', `Publish Rio Carta hourly batch (${publishSet.length})`, '-m', publishedTitles]);
-    git(['push', 'origin', 'main']);
+    if (!skipGitPush) {
+      git(['push', 'origin', 'main']);
+    }
     if (publishSet.length) {
       execFileSync(
         process.env.RIOCARTA_PYTHON || 'python3',
@@ -639,6 +643,10 @@ if (commitAndPush) {
       );
     }
   }
+}
+
+if (deployVercel && !auditCurrentOnly) {
+  execFileSync('npx', ['vercel', 'deploy', '--prod', '--yes'], { cwd: repo, stdio: 'inherit' });
 }
 
 console.log(`${auditCurrentOnly ? 'Auditado neste ciclo' : 'Publicado neste ciclo'}: ${publishSet.join(', ')}`);
