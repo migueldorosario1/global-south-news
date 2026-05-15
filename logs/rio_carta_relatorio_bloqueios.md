@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-15T21:31:07.645Z
-Publicadas/auditadas com sucesso no historico: 789
+Atualizado em: 2026-05-15T22:32:20.043Z
+Publicadas/auditadas com sucesso no historico: 792
 Materias com bloqueio acumulado: 253
 
 ## Solucoes do cerebro aplicadas
@@ -263,6 +263,6 @@ Materias com bloqueio acumulado: 253
 - smoke-202605151805-cooptacao-integral-do-estado-pf-diz-que-castro-mobilizou-orgaos-do-rj-em-favor-da-refit.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 
 ## Publicadas nesta rodada
-- smoke-202605152123-itaborai-193-anos-ludmilla-dennis-natanzinho-lima-e-aline-barros-sao-as-atracoes-do-aniversario.md
-- smoke-202605152123-em-partida-contra-sao-paulo-fluminense-pode-ter-german-cano-de-volta-aos-gramados.md
-- smoke-202605152123-data-centers-ai-and-the-social-costs-for-rio-de-janeiro-what-does-it-mean-in-practice-to-become.md
+- smoke-202605152223-governo-anuncia-r-2-2-bi-para-tratamentos-contra-o-cancer-pelo-sus.md
+- smoke-202605152223-equipe-do-botafogo-e-recebida-com-protestos-no-aeroporto-do-galeao.md
+- smoke-202605152223-aciap-bm-reforca-apoio-a-seguranca-publica-com-doacao-para-obras-da-3a-cia-independente-da-pm-em.md
