@@ -2,7 +2,7 @@
 title: "'Enquanto a água falta, os lucros sobram': movimentos exigem reestatização frente à Águas do Rio"
 description: "Protesto no Dia Mundial da Água denuncia abusos da concessionária privada, aumentos abusivos e 100 mil ações na Justiça. Movimentos pedem fim do contrato e volta à Cedae pública."
 pubDate: "2026-05-15T21:08:42Z"
-draft: false
+draft: true
 tags: ["rio-de-janeiro", "centro", "aguas-do-rio", "privatizacao", "agua", "saneamento", "rio-capital-centro", "favelas-comunidades", "regiao-metropolitana", "joa", "favela", "comunidade", "nova-iguacu", "problemas-estruturais"]
 heroImage: "/hero/smoke-smoke-202605151805-while-water-is-scarce-profits-abound-on-world-water-day-outraged-movements-demand-right-to-water-qwen.jpg"
 ---

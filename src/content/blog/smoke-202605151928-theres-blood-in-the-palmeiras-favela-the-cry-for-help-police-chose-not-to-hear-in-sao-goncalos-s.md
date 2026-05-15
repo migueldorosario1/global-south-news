@@ -2,7 +2,7 @@
 title: "Há sangue na favela das Palmeiras: o pedido de socorro que a polícia se recusou a ouvir em São Gonçalo"
 description: "Andressa Nogueira do Nascimento, mãe de cinco filhos, foi executada pela PRF em operação no Complexo do Salgueiro. Agentes ignoraram pedidos da família por horas."
 pubDate: "2026-05-15T19:29:08Z"
-draft: false
+draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "complexo-do-salgueiro", "palmeiras", "regiao-metropolitana", "seguranca-publica", "favelas-comunidades", "favela", "comunidade", "complexo", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605151928-theres-blood-in-the-palmeiras-favela-the-cry-for-help-police-chose-not-to-hear-in-sao-goncalos-s-qwen.jpg"
 ---

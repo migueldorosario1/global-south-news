@@ -2,7 +2,7 @@
 title: "Data Centers, AI and the Social Costs for Rio de Janeiro: What Does It Mean in Practice to Become a Big Tech Hub? [EDITORIAL]"
 description: "This editorial is part of our series reflecting on the impacts of mega-events on Rio de Janeiro 10 years after the 2016 Olympic Games. Rio de Janeiro City Hall has been promoting t"
 pubDate: "2026-05-15T21:23:57Z"
-draft: false
+draft: true
 tags: ["rio-de-janeiro", "zona-oeste", "rio-capital-zona-oeste", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605152123-data-centers-ai-and-the-social-costs-for-rio-de-janeiro-what-does-it-mean-in-practice-to-become-qwen.jpg"
 ---

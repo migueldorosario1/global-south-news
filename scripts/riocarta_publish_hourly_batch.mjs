@@ -93,6 +93,52 @@ function primaryCategoryFromTags(tags) {
   return priority.find((tag) => tags.includes(tag)) || tags[0] || 'sem-categoria';
 }
 
+const PORTUGUESE_MARKERS = new Set([
+  'a', 'o', 'as', 'os', 'um', 'uma', 'de', 'da', 'do', 'das', 'dos', 'e', 'em', 'no', 'na', 'nos', 'nas',
+  'que', 'para', 'com', 'por', 'sobre', 'como', 'mais', 'foi', 'sao', 'são', 'esta', 'está', 'este',
+  'nesta', 'neste', 'ao', 'aos', 'pela', 'pelo', 'pelas', 'pelos', 'entre', 'contra', 'apos', 'após',
+  'ate', 'até', 'rio', 'janeiro', 'prefeitura', 'governo', 'policia', 'polícia', 'alerj', 'camara',
+  'câmara', 'cidade', 'estado', 'moradores', 'municipio', 'município', 'fluminense', 'seguranca',
+  'segurança', 'saude', 'saúde', 'educacao', 'educação', 'transporte', 'justica', 'justiça'
+]);
+
+const ENGLISH_MARKERS = new Set([
+  'the', 'and', 'of', 'to', 'in', 'for', 'with', 'without', 'from', 'this', 'that', 'what', 'why', 'who',
+  'have', 'has', 'been', 'are', 'is', 'was', 'were', 'claim', 'claims', 'residents', 'social', 'costs',
+  'data', 'centers', 'big', 'tech', 'hub', 'water', 'day', 'movements', 'right', 'began', 'occupation',
+  'talks', 'waste', 'pickers', 'sustainability', 'retraining', 'after', 'before', 'police', 'city',
+  'hall', 'favela', 'favelas', 'rio', 'janeiro', 'olympic', 'women', 'memory'
+]);
+
+function countMarkers(text, markers) {
+  const tokens = String(text || '').toLowerCase().match(/[a-zA-ZÀ-ÿ]+/g) || [];
+  return tokens.filter((token) => markers.has(token)).length;
+}
+
+function portugueseAccentBonus(text) {
+  const matches = String(text || '').match(/[áàâãéêíóôõúüç]/gi);
+  return matches ? Math.min(matches.length, 12) : 0;
+}
+
+function languageCheck(article) {
+  const title = article.title || '';
+  const sample = `${article.title || ''}\n${article.description || ''}\n${String(article.body || '').slice(0, 2600)}`;
+  const english = countMarkers(sample, ENGLISH_MARKERS);
+  const portuguese = countMarkers(sample, PORTUGUESE_MARKERS) + portugueseAccentBonus(sample);
+  const titleEnglish = countMarkers(title, ENGLISH_MARKERS);
+  const titlePortuguese = countMarkers(title, PORTUGUESE_MARKERS) + portugueseAccentBonus(title);
+  const titleLooksEnglish = titleEnglish >= 3 && titleEnglish > titlePortuguese + 1;
+  const bodyLooksEnglish = english >= 14 && english > portuguese * 1.25;
+
+  if (titleLooksEnglish && bodyLooksEnglish) {
+    return {
+      ok: false,
+      reason: `materia em ingles/nao traduzida: marcadores_en=${english}, marcadores_pt=${portuguese}`,
+    };
+  }
+  return { ok: true };
+}
+
 function orderHiddenByDiversity(files) {
   const buckets = new Map();
   const freshness = (file) => {
@@ -539,8 +585,11 @@ async function auditAndFix(file, publish) {
 
   let nextBody = cleanBody(body);
   const source = extractSource(nextBody);
+  const language = languageCheck({ title, description, body: nextBody });
+  if (!language.ok) warnings.push(language.reason);
   const articleForAudit = {
         title,
+        description,
         heroImage,
         tags,
         body: nextBody,
