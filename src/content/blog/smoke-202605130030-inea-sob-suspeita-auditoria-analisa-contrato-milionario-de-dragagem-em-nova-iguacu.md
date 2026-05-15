@@ -2,7 +2,7 @@
 title: "Inea sob suspeita: Auditoria analisa contrato milionário de dragagem em Nova Iguaçu"
 description: "Um dos focos da auditoria geral instaurada pelo Governo do Rio de Janeiro é um contrato de R$ 108 milhões firmado pelo Instituto Estadual do Meio Ambiente (Inea). O projeto, voltad"
 pubDate: "2026-05-13T03:30:58Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "ine", "auditoria", "contrato", "dragagem", "meio-ambiente", "capital", "regiao-metropolitana", "lagoa", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605130030-inea-sob-suspeita-auditoria-analisa-contrato-milionario-de-dragagem-em-nova-iguacu.png"
 ---

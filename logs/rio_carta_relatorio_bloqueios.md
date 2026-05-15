@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-14T02:09:47.657Z
-Publicadas/auditadas com sucesso no historico: 394
+Atualizado em: 2026-05-15T03:05:19.431Z
+Publicadas/auditadas com sucesso no historico: 416
 Materias com bloqueio acumulado: 24
 
 ## Solucoes do cerebro aplicadas
@@ -11,10 +11,10 @@ Materias com bloqueio acumulado: 24
 
 ## Bloqueios acumulados
 - crime-organizado-amplia-atuacao-de-internet-clandestina-na-regiao-dos-lagos.md: imagem destacada pequena: /hero/crime-organizado-amplia-atuacao-de-internet-clandestina-na-regiao-dos-lagos.webp 560x315
-- operacao-da-pf-contra-esquema-de-r-200-milhoes-mira-deputado-e-tem-alvo-em-niteroi.md: [{"auditor":"deepseek","ok":false,"reason":"A data da operação (terça-feira, 12) não corresponde a maio de 2026; em 2026, 12 de maio é terça-feira, mas o texto não especifica o mês, e a referência a '2025 já é passado' sugere que a matéria pode estar desatualizada ou com data implícita incorreta. Além disso, a fonte citada (Enfoco) não é verificável no contexto atual, e a tag 'castracao-animais' parece inconsistente 
-- intervencao-nas-unidades-de-saude-de-nova-iguacu-sob-gestao-de-oss-ideas.md: [{"auditor":"deepseek","ok":false,"reason":"TAG incoerente: 'niteroi-metropolitana', 'niteroi', 'transporte-mobilidade' não pertencem à matéria sobre Nova Iguaçu e saúde.","fix":"Remover tags 'niteroi-metropolitana', 'niteroi', 'transporte-mobilidade'."},{"auditor":"kimi","ok":true,"reason":"curto","fix":"curto"},{"auditor":"qwen","ok":false,"reason":"data inválida: 08/05 é 2025, já no passado para auditoria em 2026-
-- quem-e-o-deputado-alvo-da-pf-em-operacao-contra-fraude-em-castracao-animal.md: [{"auditor":"deepseek","ok":false,"reason":"{\"ok\":false,\"reason\":\"A data da operação é 'terça (12)', mas o texto não especifica o mês. Considerando a data de auditoria como 13/05/2026, 'terça (12)' poderia ser 12/05/2026, o ","fix":""},{"auditor":"kimi","ok":true,"reason":"curto","fix":"curto"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"fato implausível: operação 'Castratio' não existe pub
-- rj-registra-2o-maior-numero-de-mortes-por-ondas-de-calor-no-pais-populacao-periferica-e-a-mais-a.md: [{"auditor":"deepseek","ok":false,"reason":"Data da reunião (12/07) sem ano; se for 2026, 12/07/2026 é futura em relação à data de auditoria (13/05/2026). Se for 2025, já passado, mas ambíguo. Além disso, o texto cita '14 de março de 2026' como passado, o que é plausível, mas a reunião em 12/07 sem ano gera inconsistência temporal.","fix":"Especificar ano da reunião: '12 de julho de 2026' ou ajustar para data passada
+- operacao-da-pf-contra-esquema-de-r-200-milhoes-mira-deputado-e-tem-alvo-em-niteroi.md: [{"auditor":"deepseek","ok":false,"reason":"A data da operação (terça-feira, 12) não corresponde a nenhuma terça-feira em maio de 2026; 12/05/2026 é terça, mas o texto não especifica mês, e a referência a '2025 já é passado' sugere que a data deveria ser 2026, porém o texto não atualiza o ano. Além disso, a fonte Enfoco é citada, mas a matéria parece ser republicação sem verificação independente, e a tag 'castracao-a
+- intervencao-nas-unidades-de-saude-de-nova-iguacu-sob-gestao-de-oss-ideas.md: [{"auditor":"deepseek","ok":false,"reason":"A data 08/05/2026 cai em uma sexta-feira, mas o texto menciona 'sexta, 08/05' sem especificar o ano; como a data atual é 13/05/2026, o evento é plausível, porém a categoria territorial 'niteroi-metropolitana' e as tags 'niteroi' e 'transporte-mobilidade' são incoerentes com o tema de saúde em Nova Iguaçu, que pertence à Baixada Fluminense, não a Niterói.","fix":"Remover tag
+- quem-e-o-deputado-alvo-da-pf-em-operacao-contra-fraude-em-castracao-animal.md: [{"auditor":"deepseek","ok":false,"reason":"A data da operação é 'terça (12)', mas a data atual da auditoria é 2026-05-13, uma quarta-feira. O texto não especifica o mês, mas a referência a '2025 já é passado' sugere que a matéria pode estar desatualizada ou com datação confusa. Além disso, a tag 'seguranca-publica' não é coerente com o tema principal (fraude em licitação na castração animal).","fix":"Especificar o m
+- rj-registra-2o-maior-numero-de-mortes-por-ondas-de-calor-no-pais-populacao-periferica-e-a-mais-a.md: [{"auditor":"deepseek","ok":false,"reason":"Data da reunião (12/07) sem ano; se for 2025, é passado e aceitável, mas o texto menciona 'chuvas em 14 de março de 2026' e 'alertas para segundo semestre de 2026', criando inconsistência temporal com a data de auditoria (13/05/2026). Além disso, o título cita '2º maior número de mortes por ondas de calor' baseado em dados do IPCC de 2000-2018, o que é plausível, mas a font
 - smoke-202605130030-inea-sob-suspeita-auditoria-analisa-contrato-milionario-de-dragagem-em-nova-iguacu.md: [{"auditor":"deepseek","ok":false,"reason":"A imagem destacada contém 'smoke-smoke' no nome do arquivo, o que sugere fumaça ou poluição visual, inadequada para uma matéria jornalística séria sobre auditoria e contrato público. Além disso, a tag 'capital' é incoerente com a categoria territorial, pois Nova Iguaçu não é a capital do estado.","fix":"Substituir a imagem por uma foto neutra do Inea ou de obras de dragagem
 - smoke-202605130030-mprj-denuncia-mais-11-policiais-que-recebiam-propina-de-comerciantes-por-servico-de-seguranca-du.md: [{"auditor":"deepseek","ok":false,"reason":"A fonte 'Agência Internacional' com link para 'osaogoncalo.com.br' é inconsistente e sugere possível erro ou conteúdo não verificado. Além disso, a tag 'transporte-mobilidade' e 'saude' são incoerentes com o tema de corrupção policial.","fix":"Corrigir a fonte para o veículo original (O São Gonçalo) e remover tags irrelevantes."},{"auditor":"kimi","ok":true,"reason":"curto"
 - smoke-202605130030-pf-aponta-aumento-de-665-no-patrimonio-de-marcelo-queiroz.md: [{"auditor":"deepseek","ok":false,"reason":"A fonte citada (Agência Internacional) não é reconhecida como veículo jornalístico confiável; a URL aponta para agendadopoder.com.br, site de conteúdo não verificado. Além disso, a data da operação ('terça-feira, 12') não corresponde a 2026-05-13 (quarta-feira), indicando possível erro factual ou uso de material desatualizado.","fix":"Substituir fonte por agência de imprens
@@ -33,35 +33,8 @@ Materias com bloqueio acumulado: 24
 - smoke-202605130105-deputado-federal-marcelo-queiroz-e-alvo-de-acao-da-pf.md: [{"auditor":"deepseek","ok":false,"reason":"A imagem destacada não é aceitável: o nome do arquivo 'smoke-smoke-202605130105-deputado-federal-marcelo-queiroz-e-alvo-de-acao-da-pf.jpg' sugere uma imagem genérica de fumaça ou algo similar, não uma foto real do deputado ou da operação, o que é inadequado para uma matéria jornalística séria. Além disso, a data da matéria (12 de maio de 2026) é futura em relação à data de 
 - smoke-202605130105-soberania-na-sapucai-beija-flor-lidera-ranking-historico-da-liesa-19852026.md: [{"auditor":"deepseek","ok":false,"reason":"A imagem destacada contém 'smoke-smoke' no nome do arquivo, que parece ser um placeholder ou aviso interno de rascunho, violando o critério de 'sem aviso interno de rascunho'.","fix":"Substituir o nome do arquivo de imagem por um sem 'smoke-smoke' ou outro indicador de rascunho."},{"auditor":"kimi","ok":true,"reason":"curto","fix":"curto"},{"auditor":"qwen","ok":false,"reas
 - smoke-202605130105-apos-meses-de-reabilitacao-tres-animais-silvestres-sao-devolvidos-a-natureza-na-reserva-de-juati.md: [{"auditor":"deepseek","ok":false,"reason":"Tags incluem 'serrana', 'regiao-serrana' e 'petropolis' que são incoerentes com a categoria territorial de Paraty (Costa Verde).","fix":"Remover tags 'serrana', 'regiao-serrana' e 'petropolis'."},{"auditor":"kimi","ok":true,"reason":"curto","fix":"curto"},{"auditor":"qwen","ok":false,"reason":"data futura inválida","fix":"substituir datas de 2025 por datas plausíveis em 202
-- governo-federal-assina-autorizacao-para-retomada-das-obras-da-br-101.md: [{"auditor":"deepseek","ok":false,"reason":"A data da reunião (11) não especifica mês; se for 11 de maio de 2026, é futura em relação à data de auditoria (13 de maio de 2026), o que é implausível para um evento já ocorrido. Além disso, a fonte 'Clique Diário' não é verificável como veículo confiável, e a imagem destacada não pode ser avaliada sem acesso.","fix":"Especificar a data completa da reunião (ex.: 11 de maio
+- governo-federal-assina-autorizacao-para-retomada-das-obras-da-br-101.md: [{"auditor":"deepseek","ok":false,"reason":"A data da reunião (11) não especifica mês; se for 11 de maio de 2026, é futura em relação à data de auditoria (13 de maio de 2026), o que é implausível para um evento já ocorrido. Além disso, a fonte 'Clique Diário' não é verificável como veículo confiável e o título menciona 'Governo Federal' sem especificar presidente ou ministro, o que é vago. A imagem não pode ser confi
 
 ## Publicadas nesta rodada
-- internet-sob-controle-criminoso-exploracao-ilegal-de-conexao-ja-afeta-37-cidades-fluminenses-em.md
-- chacinas-da-nova-brasilia-manifesto-denuncia-que-brasil-ignora-sentenca-internacional-por-violac.md
-- iphan-tomba-provisoriamente-antigo-doi-codi-do-rio-como-patrimonio-historico.md
-- pf-cumpre-mandados-em-itaocara-e-cidades-do-rj-e-sp-em-acao-que-investiga-contratos-de-r-200-mil.md
-- tjrj-arquiva-processo-da-lava-jato-que-condenou-ex-deputado-paulo-melo-no-rio.md
-- crime-organizado-amplia-atuacao-de-internet-clandestina-na-regiao-dos-lagos.md
-- br-101-rj-recebera-r-6-bilhoes-em-obras-entre-niteroi-e-a-fronteira-com-o-espirito-santo.md
-- nova-br-101-com-investimento-de-r-10-bilhoes-saiba-o-que-mudara-entre-niteroi-e-itaborai.md
-- atraso-de-salarios-gera-revolta-em-hospitais-estaduais-temos-contas-pra-pagar.md
-- interior-entra-no-centro-da-disputa-pelo-governo-do-rio.md
-- pf-faz-operacao-contra-fraudes-milionarias-na-secretaria-de-agricultura-do-rj-macae-e-alvo-de-bu.md
 - smoke-202605130030-inea-sob-suspeita-auditoria-analisa-contrato-milionario-de-dragagem-em-nova-iguacu.md
-- smoke-202605130030-comissao-da-alerj-acionara-mp-para-investigar-contrato-bilionario-de-radares-do-der-rj.md
-- smoke-202605130030-pf-aponta-aumento-de-665-no-patrimonio-de-marcelo-queiroz.md
-- smoke-202605130030-caso-paloma-denuncia-sobre-ossada-leva-policia-civil-a-realizar-operacao-em-busca-de-estudante-d.md
-- smoke-202605130030-plano-niteroi-que-queremos-2050-traca-transicao-economica-da-cidade.md
-- smoke-202605130030-policia-prende-acusado-de-estupro-coletivo-em-uma-menina-de-13-anos-em-sao-joao-de-meriti-na-bai.md
-- smoke-202605130105-caso-thamires-comissao-da-alerj-cobra-rigor.md
-- smoke-202605130105-justica-suspende-trecho-de-decreto-de-claudio-castro-que-ampliava-seguranca-para-familiares-de-e.md
-- smoke-202605130105-tce-rj-investiga-suspeita-de-cartel-em-licitacao-de-r-230-milhoes-para-radares-em-rodovias-estad.md
-- smoke-202605130105-alerj-exonera-todos-os-assessores-de-thiago-rangel.md
-- smoke-202605130105-onibus-do-rio-deixarao-de-aceitar-dinheiro-a-partir-de-30-de-maio.md
-- smoke-202605130105-fabrica-de-suplementos-falsificados-usava-amido-de-milho-para-enganar-consumidores-no-rio.md
-- smoke-202605130105-ministro-dos-transportes-confirma-obras-de-duplicacao-da-br-101-entre-rio-das-ostras-e-macae.md
-- smoke-202605130105-stf-mantem-prisao-de-thiago-rangel-e-alerj-afasta-deputado.md
-- smoke-202605130105-marica-segue-com-recadastramento-da-renda-basica-de-cidadania-para-mais-de-70-mil-beneficiarios.md
-- smoke-202605130105-pt-do-rio-racha-apos-intervencao-da-direcao-nacional-na-chapa-de-benedita-ao-senado.md
-- smoke-202605130205-palacio-tiradentes-pode-virar-patrimonio-historico-e-cultural-imaterial-do-rio.md
 - smoke-202605130030-mprj-denuncia-mais-11-policiais-que-recebiam-propina-de-comerciantes-por-servico-de-seguranca-du.md
