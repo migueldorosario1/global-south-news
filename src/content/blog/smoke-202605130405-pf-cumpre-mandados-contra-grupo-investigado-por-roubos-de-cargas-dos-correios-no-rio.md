@@ -2,7 +2,7 @@
 title: "PF cumpre mandados contra grupo investigado por roubos de cargas dos Correios no Rio"
 description: "A Polícia Federal (PF) realizou, nesta terça-feira (12), uma operação para investigar integrantes de uma organização criminosa suspeitos de envolvimento em roubos de cargas dos Cor"
 pubDate: "2026-05-13T07:05:06Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "rocha-miranda", "zona-norte", "roubo-de-cargas", "correios", "policia-federal", "seguranca-publica", "rio-capital-zona-norte", "niteroi-metropolitana", "regiao-metropolitana", "rocha", "comunidade", "niteroi", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605130405-pf-cumpre-mandados-contra-grupo-investigado-por-roubos-de-cargas-dos-correios-no-rio.png"
 ---

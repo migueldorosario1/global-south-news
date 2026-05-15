@@ -2,7 +2,7 @@
 title: "Quaquá diz em Nova York que busca investidores para transformar economia de Maricá"
 description: "Quaquá diz em Nova York que busca investidores para transformar economia de Maricá O prefeito de Maricá, Washington Quaquá, publicou um vídeo em suas redes sociais na noite desta s"
 pubDate: "2026-05-13T07:05:05Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "marica", "washington-quaqua", "nova-york", "investimentos", "economia-local", "orla-itaipuacu", "orla-ponta-negra", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605130405-quaqua-diz-em-nova-york-que-busca-investidores-para-transformar-economia-de-marica.jpg"
 ---

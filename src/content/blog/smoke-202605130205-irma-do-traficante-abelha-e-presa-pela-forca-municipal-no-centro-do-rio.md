@@ -2,7 +2,7 @@
 title: "Irmã do traficante Abelha é presa pela Força Municipal no Centro do Rio"
 description: "A Força Municipal, divisão de elite da Guarda Municipal do Rio, prendeu na noite desta segunda-feira (11) Larissa Quintanilha, conhecida como Lalá, no Centro da cidade. Segundo a c"
 pubDate: "2026-05-13T05:05:32Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "centro", "forca-municipal", "guarda-municipal", "trafico", "abelha", "lapa", "comando-vermelho", "seguranca-publica", "seguranca-publica-rj", "politica-rj", "centro-do-rio", "botafogo", "tijuca"]
 heroImage: "/hero/smoke-smoke-202605130205-irma-do-traficante-abelha-e-presa-pela-forca-municipal-no-centro-do-rio.jpg"
 ---

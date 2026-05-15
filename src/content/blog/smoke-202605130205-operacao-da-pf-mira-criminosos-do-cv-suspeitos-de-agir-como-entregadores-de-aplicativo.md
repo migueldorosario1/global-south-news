@@ -2,7 +2,7 @@
 title: "Operação da PF mira criminosos do CV suspeitos de agir como entregadores de aplicativo"
 description: "A Polícia Federal investiga se criminosos ligados ao Comando Vermelho estariam utilizando disfarces de entregadores de aplicativo para monitorar rotas e identificar vítimas antes d"
 pubDate: "2026-05-13T05:05:08Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "zona-norte", "rocha-miranda", "comando-vermelho", "policia-federal", "roubo-de-carga", "seguranca-publica", "seguranca-publica-rj", "politica-rj", "regiao-metropolitana", "caju", "rocha", "comunidade", "mage"]
 heroImage: "/hero/smoke-smoke-202605130205-operacao-da-pf-mira-criminosos-do-cv-suspeitos-de-agir-como-entregadores-de-aplicativo.jpg"
 ---

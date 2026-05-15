@@ -2,7 +2,7 @@
 title: "Em ação integrada, Operação Pharmakon interdita peixaria no Centro de Niterói"
 description: "Em ação integrada, Operação Pharmakon interdita peixaria no Centro de Niterói Força-tarefa teve Guarda Municipal, Vigilância Sanitária da cidade e Polícia Civil para combater irreg"
 pubDate: "2026-05-13T07:05:06Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "niteroi", "centro-niteroi", "operacao-pharmakon", "fiscalizacao-sanitaria", "saude-publica", "niteroi-sao-goncalo-metropolitana", "sao-goncalo-itaborai", "regiao-metropolitana", "joa", "sao-goncalo", "itaborai", "problemas-estruturais", "seguranca-publica"]
 heroImage: "/hero/smoke-smoke-202605130405-em-acao-integrada-operacao-pharmakon-interdita-peixaria-no-centro-de-niteroi.jpg"
 ---

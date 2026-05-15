@@ -2,7 +2,7 @@
 title: "Integração do Bilhete Único e fim do dinheiro nos ônibus começam em 30 de maio"
 description: "Rio Integração do Bilhete Único e fim do dinheiro nos ônibus começam em 30 de maio Passageiros devem usar Jaé preto ou QR Code para BUC; dinheiro não será mais aceitoA partir de 30"
 pubDate: "2026-05-13T07:05:06Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "transporte-publico", "bilhete-unico-carioca", "jae", "onibus-municipais", "smtr", "transporte-e-mobilidade-rj", "capital-estado", "baixada", "transporte-mobilidade", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605130405-integracao-do-bilhete-unico-e-fim-do-dinheiro-nos-onibus-comecam-em-30-de-maio.jpeg"
 ---

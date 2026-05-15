@@ -2,7 +2,7 @@
 title: "Força Municipal amplia patrulhamento para Bangu"
 description: "A Divisão de Elite da GM-Rio – Força Municipal vai ampliar o policiamento preventivo e ostensivo para Bangu, na Zona Oeste do Rio, a partir do domingo (24). Desta vez, a atuação se"
 pubDate: "2026-05-13T07:05:22Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "forca-municipal", "guarda-municipal", "seguranca-publica", "patrulhamento", "compstat", "eduardo-cavaliere", "rio-capital-zona-oeste", "politica-rj", "botafogo", "flamengo", "leme"]
 heroImage: "/hero/smoke-smoke-202605130405-forca-municipal-amplia-patrulhamento-para-bangu.jpg"
 ---
