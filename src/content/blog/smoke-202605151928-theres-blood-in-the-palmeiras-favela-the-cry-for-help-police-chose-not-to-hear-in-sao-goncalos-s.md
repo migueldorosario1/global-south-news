@@ -2,7 +2,7 @@
 title: "There’s Blood in the Palmeiras Favela: The Cry for Help Police Chose Not to Hear in São Gonçalo’s Salgueiro Favela Complex"
 description: "The Palmeiras community, in Complexo do Salgueiro, a cluster of favelas in the Greater Rio municipality of São Gonçalo, became the scene of a crime that exposes the brutal face of "
 pubDate: "2026-05-15T19:29:08Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "complexo-do-salgueiro", "palmeiras", "regiao-metropolitana", "seguranca-publica", "favelas-comunidades", "favela", "comunidade", "complexo", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605151928-theres-blood-in-the-palmeiras-favela-the-cry-for-help-police-chose-not-to-hear-in-sao-goncalos-s-qwen.jpg"
 ---

@@ -2,7 +2,7 @@
 title: "PF liga Daniel Vorcaro ao bicho e à “Turma” da coação"
 description: "A Polícia Federal removeu a última camada de verniz que ainda restava sobre a imagem de Daniel Vorcaro. Documentos da Sexta Fase da Operação Compliance Zero revelam uma simbiose so"
 pubDate: "2026-05-15T19:29:57Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "jogo-do-bicho", "contravencao", "policia-federal", "banco-master", "seguranca-publica", "capital", "regiao-metropolitana", "leme", "mage", "problemas-estruturais", "saude"]
 heroImage: "/hero/smoke-smoke-202605151928-pf-liga-daniel-vorcaro-ao-bicho-e-a-turma-da-coacao-qwen.jpg"
 ---

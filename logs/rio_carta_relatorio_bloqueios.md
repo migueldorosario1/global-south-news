@@ -1,10 +1,12 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-15T20:14:45.860Z
-Publicadas/auditadas com sucesso no historico: 776
-Materias com bloqueio acumulado: 232
+Atualizado em: 2026-05-15T21:11:31.216Z
+Publicadas/auditadas com sucesso no historico: 786
+Materias com bloqueio acumulado: 244
 
 ## Solucoes do cerebro aplicadas
+- imagens devem ficar dentro do silo Rio Carta antes do deploy
+- publicação correta é Markdown/Astro/Vercel, não WordPress
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
 
 ## Bloqueios acumulados
@@ -240,8 +242,27 @@ Materias com bloqueio acumulado: 232
 - smoke-202605151930-mc-poze-do-rodo-deixa-presidio-em-bangu-apos-decisao-da-justica-federal.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - smoke-202605151930-rio-civil-society-forms-front-to-defend-trees-from-city-hall.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - smoke-202605151937-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: [{"auditor":"deepseek","ok":null,"reason":"veto vazio ignorado como falha tecnica"},{"auditor":"kimi","ok":true,"reason":"curto","fix":"curto"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"fato implausivel: evento descrito (ação coletiva em 11/04/2026) ocorre no futuro relativo à data de auditoria (15/05/2026), mas o texto apresenta-o como já oc","fix":""},{"auditor":"codex-texto-categoria","ok":
+- smoke-202605152007-mprj-afasta-medico-e-servidora-acusados-de-venda-ilegal-de-mounjaro-em-upa-da-baixada.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152007-rio-civil-society-forms-front-to-defend-trees-from-city-hall.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152007-rio-bane-dinheiro-nos-onibus-e-isola-motorista.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152007-homem-preso-injustamente-no-rio-processa-o-estado-perde-e-e-condenado-a-pagar-quase-meio-milhao.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152007-policia-federal-aponta-vinculos-de-vorcaro-com-milicia-e-jogo-do-bicho-no-rio.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152007-grave-acidente-caminhao-atinge-carros-igreja-e-deixa-3-mortos-e-4-feridos-em-nova-friburgo.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152007-pm-e-denunciado-por-constrangimento-ilegal-apos-invadir-posto-de-saude-para-confrontar-vigilante.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152007-tce-rj-suspende-julgamento-das-contas-de-fabiano-horta-em-marica-entenda-o-que-pode-mudar.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152007-alerj-aprova-politica-estadual-para-prevencao-da-mortalidade-materna-e-infantil.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152007-enel-rio-registra-mais-de-100-colisoes-em-postes-da-rede-eletrica-no-primeiro-trimestre-de-2026.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152007-concursos-de-casimiro-de-abreu-passam-a-ter-vagas-reservadas-a-pretos-pardos-indigenas-e-quilomb.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152007-mc-poze-do-rodo-deixa-presidio-em-bangu-apos-decisao-da-justica-federal.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 
 ## Publicadas nesta rodada
-- smoke-202605152007-rodrigo-neves-mobiliza-vereadores-e-fortalece-palanque-de-eduardo-paes-em-niteroi.md
-- smoke-202605152007-pf-aponta-que-vorcaro-mantinha-no-rio-de-janeiro-grupo-ligado-a-jogo-do-bicho-e-milicia-para-faz.md
-- smoke-202605152007-rio-das-ostras-recebe-atracoes-ineditas-durante-festival-gratuito-de-jazz-e-blues.md
+- smoke-202605151937-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md
+- smoke-202605151928-claudio-castro-e-alvo-de-operacao-da-policia-federal.md
+- smoke-202605151928-theres-blood-in-the-palmeiras-favela-the-cry-for-help-police-chose-not-to-hear-in-sao-goncalos-s.md
+- smoke-202605151805-motorista-de-caminhao-que-atingiu-carros-e-igreja-morre-e-sobe-para-4-o-numero-de-mortos-em-acid.md
+- smoke-202605151805-eleicoes-na-uff-roberto-salles-e-luciana-freitas-chegam-ao-segundo-turno-com-ampla-vantagem.md
+- smoke-202605151805-while-water-is-scarce-profits-abound-on-world-water-day-outraged-movements-demand-right-to-water.md
+- smoke-202605151928-pf-liga-daniel-vorcaro-ao-bicho-e-a-turma-da-coacao.md
+- smoke-202605151805-policia-federal-diz-que-governo-claudio-castro-atuou-para-beneficiar-grupo-refit.md
+- smoke-202605151805-a-infraero-quer-construir-edificio-garagem-no-aeroporto-santos-dumont.md
+- smoke-202605151805-pm-e-morto-a-tiros-ao-tentar-impedir-assalto-no-rio.md

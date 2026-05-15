@@ -2,7 +2,7 @@
 title: "10 Years After Rio’s Most Notorious Pre-Olympic Forced Eviction, Women-Led Collective Action Preserves the Memory of Vila Autódromo"
 description: "This article is part of our series reflecting on the impacts of mega-events on Rio de Janeiro 10 years after the 2016 Olympic Games. Ten years after the end of the traumatic Olympi"
 pubDate: "2026-05-15T19:38:20Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "vila-autodromo", "zona-oeste", "olimpiadas", "remocoes-forcadas", "memoria", "acao-coletiva", "museu-das-remocoes", "rio-capital-zona-oeste", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605151937-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese-qwen.jpg"
 ---

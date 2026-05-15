@@ -2,7 +2,7 @@
 title: "Cláudio Castro é alvo de operação da Polícia Federal"
 description: "O ex-governador do Rio de Janeiro, Cláudio Castro, é alvo nesta sexta-feira (15) da Operação Sem Refino, deflagrada pela Polícia Federal no estado do Rio. A investigação apura negó"
 pubDate: "2026-05-15T19:28:26Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "barra-da-tijuca", "zona-oeste", "claudio-castro", "politica-rj", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "tijuca", "manguinhos", "favela", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605151928-claudio-castro-e-alvo-de-operacao-da-policia-federal.jpg"
 ---
