@@ -11,184 +11,210 @@ const isHome = pathname === '/' || pathname === '/index.html';
 
 <header class={`premium-header ${isHome ? 'header-home' : 'header-article'}`}>
 	<nav class="navbar">
-		<div class="brand">
+		<div class="header-left">
 			<a href="/" class="logo-link">
 				<Image src={logoImg} alt={SITE_TITLE} width={525} height={225} class="logo-img" />
 			</a>
-			<div class="slogan">
-				<span class="slogan-main">Portal de Notícias do Rio de Janeiro</span>
+		</div>
+		<div class="header-right">
+			<div class="row-slogan">
+				<span class="slogan-main">Portal de notícias do Rio de Janeiro</span>
 				<span class="slogan-sub">por Miguel do Rosário</span>
 			</div>
-		</div>
-		<div class="nav-links">
-			<div class="nav-item dropdown">
-				<button class="dropbtn">Início <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
-				<div class="dropdown-content">
-					<a href="/" class="submenu-title" style="text-decoration: none; display: block; font-weight: bold;">Capa do Site</a>
-					<a href="/quem-somos" class="submenu-title" style="text-decoration: none; display: block;">Quem Somos</a>
-					<a href="/editorial" class="submenu-title" style="text-decoration: none; display: block;">Editorial</a>
-					<div class="dropdown-submenu">
-						<span class="submenu-title">Histórico <span>▶</span></span>
-						<div class="submenu-content">
-							<a href="/historico/2026">2026</a>
-							<a href="/historico/2025">2025</a>
-							<a href="/historico/2024">2024</a>
-							<a href="/historico/2023">2023</a>
-						</div>
-					</div>
-				</div>
-			</div>
-			
-			<div class="nav-item dropdown">
-				<button class="dropbtn">Rio <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
-				<div class="dropdown-content">
-					<div class="dropdown-submenu">
-						<span class="submenu-title">Rio Capital: zonas e bairros <span>▶</span></span>
-						<div class="submenu-content submenu-content-wide">
-							{rioZones.map((zone) => (
-								<div class="submenu-section">
-									<a href={`/tags/${zone.slug}`} class="submenu-section-title">{zone.label}</a>
-									{zone.items.map((item) => <a href={`/tags/${item.slug}`}>{item.label}</a>)}
+			<div class="row-menu">
+				<div class="nav-links">
+					<div class="nav-item dropdown">
+						<button class="dropbtn">Início <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
+						<div class="dropdown-content">
+							<a href="/" class="submenu-title" style="text-decoration: none; display: block; font-weight: bold;">Capa do Site</a>
+							<a href="/quem-somos" class="submenu-title" style="text-decoration: none; display: block;">Quem Somos</a>
+							<a href="/editorial" class="submenu-title" style="text-decoration: none; display: block;">Editorial</a>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Histórico <span>▶</span></span>
+								<div class="submenu-content">
+									<a href="/historico/2026">2026</a>
+									<a href="/historico/2025">2025</a>
+									<a href="/historico/2024">2024</a>
+									<a href="/historico/2023">2023</a>
 								</div>
-							))}
+							</div>
 						</div>
 					</div>
-					<div class="dropdown-submenu">
-						<span class="submenu-title">Cidades por região <span>▶</span></span>
-						<div class="submenu-content submenu-content-wide">
-							{rjRegions.map((region) => (
-								<div class="submenu-section">
-									<a href={`/tags/${region.slug}`} class="submenu-section-title">{region.label}</a>
-									{region.items.map((item) => <a href={`/tags/${item.slug}`}>{item.label}</a>)}
+
+					<div class="nav-item dropdown">
+						<button class="dropbtn">Rio <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
+						<div class="dropdown-content">
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Rio Capital: zonas e bairros <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									{rioZones.map((zone) => (
+										<div class="submenu-section">
+											<a href={`/tags/${zone.slug}`} class="submenu-section-title">{zone.label}</a>
+											{zone.items.map((item) => <a href={`/tags/${item.slug}`}>{item.label}</a>)}
+										</div>
+									))}
 								</div>
-							))}
+							</div>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Cidades por região <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									{rjRegions.map((region) => (
+										<div class="submenu-section">
+											<a href={`/tags/${region.slug}`} class="submenu-section-title">{region.label}</a>
+											{region.items.map((item) => <a href={`/tags/${item.slug}`}>{item.label}</a>)}
+										</div>
+									))}
+								</div>
+							</div>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Temas RJ <span>▶</span></span>
+								<div class="submenu-content">
+									<a href="/tags/politica-rj">Política RJ</a>
+									<a href="/tags/seguranca-publica">Segurança Pública</a>
+									<a href="/tags/transporte-mobilidade">Transporte e Mobilidade</a>
+									<a href="/tags/saude">Saúde</a>
+									<a href="/tags/educacao">Educação</a>
+									<a href="/tags/cultura-carnaval">Cultura e Carnaval</a>
+								</div>
+							</div>
+							<a href="/tags/rio-de-janeiro" class="submenu-title" style="text-decoration: none; border-top: 1px solid #eee; margin-top: 0.5rem; border-radius: 0 0 8px 8px; display: flex;">Mapa Rio <span class="badge">taxonomia ativa</span></a>
 						</div>
 					</div>
-					<div class="dropdown-submenu">
-						<span class="submenu-title">Temas RJ <span>▶</span></span>
-						<div class="submenu-content">
-							<a href="/tags/politica-rj">Política RJ</a>
-							<a href="/tags/seguranca-publica">Segurança Pública</a>
-							<a href="/tags/transporte-mobilidade">Transporte e Mobilidade</a>
-							<a href="/tags/saude">Saúde</a>
-							<a href="/tags/educacao">Educação</a>
-							<a href="/tags/cultura-carnaval">Cultura e Carnaval</a>
+
+					<div class="nav-item dropdown">
+						<button class="dropbtn">Outros <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
+						<div class="dropdown-content">
+							<a href="/tags/nacional" class="submenu-title" style="text-decoration: none; display: block;">Nacional</a>
+							<a href="/tags/geopolitica" class="submenu-title" style="text-decoration: none; display: block;">Geopolítica</a>
+							<a href="/tags/eleicoes-2026" class="submenu-title" style="text-decoration: none; display: block;">Eleições 2026</a>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Alerj <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									<a href="/tags/alan-lopes">Alan Lopes</a>
+									<a href="/tags/alexandre-knoploch">Alexandre Knoploch</a>
+									<a href="/tags/anderson-moraes">Anderson Moraes</a>
+									<a href="/tags/andre-correa">André Corrêa</a>
+									<a href="/tags/andrezinho-ceciliano">Andrezinho Ceciliano</a>
+									<a href="/tags/arthur-monteiro">Arthur Monteiro</a>
+									<a href="/tags/atila-nunes">Átila Nunes</a>
+									<a href="/tags/atila-nunes-filho">Átila Nunes Filho</a>
+									<a href="/tags/brazao">Brazão</a>
+									<a href="/tags/bruno-boaretto">Bruno Boaretto</a>
+									<a href="/tags/bruno-dauaire">Bruno Dauaire</a>
+									<a href="/tags/carla-machado">Carla Machado</a>
+									<a href="/tags/carlinhos-bnh">Carlinhos BNH</a>
+									<a href="/tags/carlos-macedo">Carlos Macedo</a>
+									<a href="/tags/carlos-minc">Carlos Minc</a>
+									<a href="/tags/celia-jordao">Célia Jordão</a>
+									<a href="/tags/chico-machado">Chico Machado</a>
+									<a href="/tags/chiquinho-da-mangueira">Chiquinho da Mangueira</a>
+									<a href="/tags/claudio-caiado">Claudio Caiado</a>
+									<a href="/tags/dani-balbi">Dani Balbi</a>
+									<a href="/tags/dani-monteiro">Dani Monteiro</a>
+									<a href="/tags/daniel-martins">Daniel Martins</a>
+									<a href="/tags/danniel-librelon">Danniel Librelon</a>
+									<a href="/tags/delaroli">Delaroli</a>
+									<a href="/tags/delegado-carlos-augusto">Delegado Carlos Augusto</a>
+									<a href="/tags/dionisio-lins">Dionisio Lins</a>
+									<a href="/tags/douglas-ruas">Douglas Ruas</a>
+									<a href="/tags/doutor-deodalto">Doutor Deodalto</a>
+									<a href="/tags/doutor-serginho">Doutor Serginho</a>
+									<a href="/tags/eduardo-cavaliere">Eduardo Cavaliere</a>
+									<a href="/tags/elika-takimoto">Elika Takimoto</a>
+									<a href="/tags/elton-cristo">Elton Cristo</a>
+									<a href="/tags/fabio-silva">Fábio Silva</a>
+									<a href="/tags/felipinho-ravis">Felipinho Ravis</a>
+									<a href="/tags/filipe-soares">Filipe Soares</a>
+									<a href="/tags/filippe-poubel">Filippe Poubel</a>
+									<a href="/tags/flavio-serafini">Flavio Serafini</a>
+									<a href="/tags/franciane-motta">Franciane Motta</a>
+									<a href="/tags/fred-pacheco-banda-dom">Fred Pacheco Banda Dom</a>
+									<a href="/tags/giovani-ratinho">Giovani Ratinho</a>
+									<a href="/tags/giselle-monteiro">Giselle Monteiro</a>
+									<a href="/tags/guilherme-schleder">Guilherme Schleder</a>
+									<a href="/tags/gustavo-tutuca">Gustavo Tutuca</a>
+									<a href="/tags/india-armelau">Índia Armelau</a>
+									<a href="/tags/jair-bittencourt">Jair Bittencourt</a>
+									<a href="/tags/jari-oliveira">Jari Oliveira</a>
+									<a href="/tags/jorge-felippe-neto">Jorge Felippe Neto</a>
+									<a href="/tags/julio-rocha">Julio Rocha</a>
+									<a href="/tags/leo-vieira">Léo Vieira</a>
+									<a href="/tags/lilian-behring">Lilian Behring</a>
+									<a href="/tags/lucinha">Lucinha</a>
+									<a href="/tags/luiz-claudio-ribeiro">Luiz Claudio Ribeiro</a>
+									<a href="/tags/luiz-paulo">Luiz Paulo</a>
+									<a href="/tags/marcelo-dino">Marcelo Dino</a>
+									<a href="/tags/marcio-canella">Márcio Canella</a>
+									<a href="/tags/marcio-gualberto">Márcio Gualberto</a>
+									<a href="/tags/marcos-muller">Marcos Muller</a>
+									<a href="/tags/marina-do-mst">Marina do MST</a>
+									<a href="/tags/martha-rocha">Martha Rocha</a>
+									<a href="/tags/munir-neto">Munir Neto</a>
+									<a href="/tags/otoni-de-paula-pai">Otoni de Paula Pai</a>
+									<a href="/tags/pedro-ricardo">Pedro Ricardo</a>
+									<a href="/tags/professor-josemar">Professor Josemar</a>
+									<a href="/tags/rafael-nobre">Rafael Nobre</a>
+									<a href="/tags/rafael-picciani">Rafael Picciani</a>
+									<a href="/tags/renan-jordy">Renan Jordy</a>
+									<a href="/tags/renata-souza">Renata Souza</a>
+									<a href="/tags/renato-machado">Renato Machado</a>
+									<a href="/tags/renato-miranda">Renato Miranda</a>
+									<a href="/tags/ricardo-da-karol">Ricardo da Karol</a>
+									<a href="/tags/rodrigo-amorim">Rodrigo Amorim</a>
+									<a href="/tags/rodrigo-bacellar">Rodrigo Bacellar</a>
+									<a href="/tags/rosenverg-reis">Rosenverg Reis</a>
+									<a href="/tags/samuel-malafaia">Samuel Malafaia</a>
+									<a href="/tags/sarah-poncio">Sarah Poncio</a>
+									<a href="/tags/sergio-fernandes">Sérgio Fernandes</a>
+									<a href="/tags/tande-vieira">Tande Vieira</a>
+									<a href="/tags/th-joias">TH Joias</a>
+									<a href="/tags/thiago-gagliasso">Thiago Gagliasso</a>
+									<a href="/tags/thiago-rangel">Thiago Rangel</a>
+									<a href="/tags/tia-ju">Tia Ju</a>
+									<a href="/tags/val-ceasa">Val Ceasa</a>
+									<a href="/tags/valdecy-da-saude">Valdecy da Saúde</a>
+									<a href="/tags/veronica-lima">Verônica Lima</a>
+									<a href="/tags/vinicius-cozzolino">Vinicius Cozzolino</a>
+									<a href="/tags/vitor-junior">Vitor Júnior</a>
+									<a href="/tags/wellington-jose">Wellington José</a>
+									<a href="/tags/yuri-moura">Yuri Moura</a>
+									<a href="/tags/zeidan">Zeidan</a>
+								</div>
+							</div>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Câmaras de Vereadores <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									{rjRegions.map((region) => (
+										<div class="submenu-section">
+											<span class="submenu-section-title">{region.label}</span>
+											{region.items.map((item) => <a href={`/tags/camara-${item.slug}`}>{item.label}</a>)}
+										</div>
+									))}
+								</div>
+							</div>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Prefeituras <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									{rjRegions.map((region) => (
+										<div class="submenu-section">
+											<span class="submenu-section-title">{region.label}</span>
+											{region.items.map((item) => <a href={`/tags/prefeitura-${item.slug}`}>{item.label}</a>)}
+										</div>
+									))}
+								</div>
+							</div>
+							<a href="/tags/governo-do-estado" class="submenu-title" style="text-decoration: none; display: block;">Governo do Estado</a>
 						</div>
 					</div>
-					<a href="/tags/rio-de-janeiro" class="submenu-title" style="text-decoration: none; border-top: 1px solid #eee; margin-top: 0.5rem; border-radius: 0 0 8px 8px; display: flex;">Mapa Rio <span class="badge">taxonomia ativa</span></a>
 				</div>
 			</div>
-			
-			<div class="nav-item dropdown">
-				<button class="dropbtn">Outros <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
-				<div class="dropdown-content">
-					<a href="/tags/nacional" class="submenu-title" style="text-decoration: none; display: block;">Nacional</a>
-					<a href="/tags/geopolitica" class="submenu-title" style="text-decoration: none; display: block;">Geopolítica</a>
-					<a href="/tags/eleicoes-2026" class="submenu-title" style="text-decoration: none; display: block;">Eleições 2026</a>
-					<div class="dropdown-submenu">
-						<span class="submenu-title">Alerj <span>▶</span></span>
-						<div class="submenu-content submenu-content-wide">
-							<a href="/tags/alan-lopes">Alan Lopes</a>
-							<a href="/tags/alexandre-knoploch">Alexandre Knoploch</a>
-							<a href="/tags/anderson-moraes">Anderson Moraes</a>
-							<a href="/tags/andre-correa">André Corrêa</a>
-							<a href="/tags/andrezinho-ceciliano">Andrezinho Ceciliano</a>
-							<a href="/tags/arthur-monteiro">Arthur Monteiro</a>
-							<a href="/tags/atila-nunes">Átila Nunes</a>
-							<a href="/tags/atila-nunes-filho">Átila Nunes Filho</a>
-							<a href="/tags/brazao">Brazão</a>
-							<a href="/tags/bruno-boaretto">Bruno Boaretto</a>
-							<a href="/tags/bruno-dauaire">Bruno Dauaire</a>
-							<a href="/tags/carla-machado">Carla Machado</a>
-							<a href="/tags/carlinhos-bnh">Carlinhos BNH</a>
-							<a href="/tags/carlos-macedo">Carlos Macedo</a>
-							<a href="/tags/carlos-minc">Carlos Minc</a>
-							<a href="/tags/celia-jordao">Célia Jordão</a>
-							<a href="/tags/chico-machado">Chico Machado</a>
-							<a href="/tags/chiquinho-da-mangueira">Chiquinho da Mangueira</a>
-							<a href="/tags/claudio-caiado">Claudio Caiado</a>
-							<a href="/tags/dani-balbi">Dani Balbi</a>
-							<a href="/tags/dani-monteiro">Dani Monteiro</a>
-							<a href="/tags/daniel-martins">Daniel Martins</a>
-							<a href="/tags/danniel-librelon">Danniel Librelon</a>
-							<a href="/tags/delaroli">Delaroli</a>
-							<a href="/tags/delegado-carlos-augusto">Delegado Carlos Augusto</a>
-							<a href="/tags/dionisio-lins">Dionisio Lins</a>
-							<a href="/tags/douglas-ruas">Douglas Ruas</a>
-							<a href="/tags/doutor-deodalto">Doutor Deodalto</a>
-							<a href="/tags/doutor-serginho">Doutor Serginho</a>
-							<a href="/tags/eduardo-cavaliere">Eduardo Cavaliere</a>
-							<a href="/tags/elika-takimoto">Elika Takimoto</a>
-							<a href="/tags/elton-cristo">Elton Cristo</a>
-							<a href="/tags/fabio-silva">Fábio Silva</a>
-							<a href="/tags/felipinho-ravis">Felipinho Ravis</a>
-							<a href="/tags/filipe-soares">Filipe Soares</a>
-							<a href="/tags/filippe-poubel">Filippe Poubel</a>
-							<a href="/tags/flavio-serafini">Flavio Serafini</a>
-							<a href="/tags/franciane-motta">Franciane Motta</a>
-							<a href="/tags/fred-pacheco-banda-dom">Fred Pacheco Banda Dom</a>
-							<a href="/tags/giovani-ratinho">Giovani Ratinho</a>
-							<a href="/tags/giselle-monteiro">Giselle Monteiro</a>
-							<a href="/tags/guilherme-schleder">Guilherme Schleder</a>
-							<a href="/tags/gustavo-tutuca">Gustavo Tutuca</a>
-							<a href="/tags/india-armelau">Índia Armelau</a>
-							<a href="/tags/jair-bittencourt">Jair Bittencourt</a>
-							<a href="/tags/jari-oliveira">Jari Oliveira</a>
-							<a href="/tags/jorge-felippe-neto">Jorge Felippe Neto</a>
-							<a href="/tags/julio-rocha">Julio Rocha</a>
-							<a href="/tags/leo-vieira">Léo Vieira</a>
-							<a href="/tags/lilian-behring">Lilian Behring</a>
-							<a href="/tags/lucinha">Lucinha</a>
-							<a href="/tags/luiz-claudio-ribeiro">Luiz Claudio Ribeiro</a>
-							<a href="/tags/luiz-paulo">Luiz Paulo</a>
-							<a href="/tags/marcelo-dino">Marcelo Dino</a>
-							<a href="/tags/marcio-canella">Márcio Canella</a>
-							<a href="/tags/marcio-gualberto">Márcio Gualberto</a>
-							<a href="/tags/marcos-muller">Marcos Muller</a>
-							<a href="/tags/marina-do-mst">Marina do MST</a>
-							<a href="/tags/martha-rocha">Martha Rocha</a>
-							<a href="/tags/munir-neto">Munir Neto</a>
-							<a href="/tags/otoni-de-paula-pai">Otoni de Paula Pai</a>
-							<a href="/tags/pedro-ricardo">Pedro Ricardo</a>
-							<a href="/tags/professor-josemar">Professor Josemar</a>
-							<a href="/tags/rafael-nobre">Rafael Nobre</a>
-							<a href="/tags/rafael-picciani">Rafael Picciani</a>
-							<a href="/tags/renan-jordy">Renan Jordy</a>
-							<a href="/tags/renata-souza">Renata Souza</a>
-							<a href="/tags/renato-machado">Renato Machado</a>
-							<a href="/tags/renato-miranda">Renato Miranda</a>
-							<a href="/tags/ricardo-da-karol">Ricardo da Karol</a>
-							<a href="/tags/rodrigo-amorim">Rodrigo Amorim</a>
-							<a href="/tags/rodrigo-bacellar">Rodrigo Bacellar</a>
-							<a href="/tags/rosenverg-reis">Rosenverg Reis</a>
-							<a href="/tags/samuel-malafaia">Samuel Malafaia</a>
-							<a href="/tags/sarah-poncio">Sarah Poncio</a>
-							<a href="/tags/sergio-fernandes">Sérgio Fernandes</a>
-							<a href="/tags/tande-vieira">Tande Vieira</a>
-							<a href="/tags/th-joias">TH Joias</a>
-							<a href="/tags/thiago-gagliasso">Thiago Gagliasso</a>
-							<a href="/tags/thiago-rangel">Thiago Rangel</a>
-							<a href="/tags/tia-ju">Tia Ju</a>
-							<a href="/tags/val-ceasa">Val Ceasa</a>
-							<a href="/tags/valdecy-da-saude">Valdecy da Saúde</a>
-							<a href="/tags/veronica-lima">Verônica Lima</a>
-							<a href="/tags/vinicius-cozzolino">Vinicius Cozzolino</a>
-							<a href="/tags/vitor-junior">Vitor Júnior</a>
-							<a href="/tags/wellington-jose">Wellington José</a>
-							<a href="/tags/yuri-moura">Yuri Moura</a>
-							<a href="/tags/zeidan">Zeidan</a>
-						</div>
-					</div>
-					<a href="/tags/camaras-de-vereadores" class="submenu-title" style="text-decoration: none; display: block;">Câmaras de Vereadores</a>
-					<a href="/tags/prefeitura" class="submenu-title" style="text-decoration: none; display: block;">Prefeitura</a>
-					<a href="/tags/governo-do-estado" class="submenu-title" style="text-decoration: none; display: block;">Governo do Estado</a>
+			<div class="row-social">
+				<div class="social-links-header">
+					<a href="https://x.com/riocartanoticia" target="_blank" title="X"><svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+					<a href="https://www.instagram.com/riocartaoficial/" target="_blank" title="Instagram"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg></a>
+					<a href="https://www.facebook.com/riocartanoticia/?locale=pt_BR" target="_blank" title="Facebook"><svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="0"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg></a>
 				</div>
 			</div>
-		</div>
-		<div class="social-links-header">
-			<a href="https://x.com/riocartanoticia" target="_blank" title="X"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
-			<a href="https://www.instagram.com/riocartaoficial/" target="_blank" title="Instagram"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg></a>
-			<a href="https://www.facebook.com/riocartanoticia/?locale=pt_BR" target="_blank" title="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="0"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg></a>
 		</div>
 	</nav>
 </header>
@@ -203,66 +229,84 @@ const isHome = pathname === '/' || pathname === '/index.html';
 		background: rgba(255, 255, 255, 0.95);
 		backdrop-filter: blur(16px);
 		border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-		padding: 0.5rem 2rem;
+		padding: 0.75rem 2rem;
 		box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
 	}
-	
+
 	.navbar {
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-		max-width: 1200px;
+		display: grid;
+		grid-template-columns: auto 1fr;
+		align-items: stretch;
+		gap: 1.5rem;
+		max-width: 1400px;
 		margin: 0 auto;
-		padding: 0.5rem 0;
 	}
 
-	.brand {
+	.header-left {
 		display: flex;
-		align-items: center;
-		gap: 1.5rem;
+		align-items: stretch;
 	}
 
 	.logo-link {
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		width: 480px;
-		height: 188px;
+		height: 100%;
+		min-height: 160px;
 		overflow: hidden;
 		position: relative;
-		margin-right: 15px;
 		flex-shrink: 0;
 	}
 
 	.logo-img {
 		height: 100%;
-		width: 100%;
+		width: auto;
+		max-width: 520px;
 		object-fit: contain;
 	}
 
-	.slogan {
+	.header-right {
 		display: flex;
 		flex-direction: column;
-		border-left: 3px solid #eee;
+		justify-content: space-between;
+		gap: 0.4rem;
 		padding-left: 1.5rem;
+		border-left: 3px solid #eee;
+		min-height: 160px;
+	}
+
+	.row-slogan {
+		display: flex;
+		flex-direction: column;
 		gap: 0.1rem;
 	}
 
 	.slogan-main {
 		font-family: 'Montserrat', sans-serif;
-		font-size: 1.3rem;
+		font-size: 1.45rem;
 		font-weight: 800;
 		color: #111;
 		letter-spacing: -0.5px;
 		text-transform: uppercase;
+		line-height: 1.15;
 	}
 
 	.slogan-sub {
 		font-family: 'Lora', serif;
-		font-size: 1.05rem;
+		font-size: 1.15rem;
 		font-style: italic;
 		color: #d32f2f;
 		font-weight: 500;
+	}
+
+	.row-menu {
+		display: flex;
+		align-items: center;
+	}
+
+	.row-social {
+		display: flex;
+		align-items: center;
 	}
 
 	.badge {
@@ -286,16 +330,16 @@ const isHome = pathname === '/' || pathname === '/index.html';
 		text-decoration: none;
 		color: #333;
 		font-weight: 600;
-		font-size: 1.1rem;
+		font-size: 1.25rem;
 		transition: color 0.2s;
 		padding: 0.5rem 0;
 		border-bottom: 2px solid transparent;
 	}
-	
+
 	.nav-links :global(a:hover) {
 		color: #0052D4;
 	}
-	
+
 	.nav-links :global(a.active) {
 		color: #0052D4;
 		border-bottom: 2px solid #0052D4;
@@ -303,11 +347,8 @@ const isHome = pathname === '/' || pathname === '/index.html';
 
 	.social-links-header {
 		display: flex;
-		gap: 1rem;
+		gap: 1.25rem;
 		align-items: center;
-		margin-left: 1rem;
-		padding-left: 1rem;
-		border-left: 1px solid #eee;
 	}
 
 	.social-links-header a {
@@ -330,7 +371,7 @@ const isHome = pathname === '/' || pathname === '/index.html';
 		font-family: 'Outfit', sans-serif;
 		background: none;
 		border: none;
-		font-size: 1.1rem;
+		font-size: 1.25rem;
 		font-weight: 600;
 		color: #333;
 		cursor: pointer;
@@ -474,53 +515,69 @@ const isHome = pathname === '/' || pathname === '/index.html';
 			padding: 0.2rem 0.5rem;
 		}
 		.navbar {
-			flex-direction: column;
+			grid-template-columns: 1fr;
 			gap: 0.5rem;
 		}
-		.header-article .navbar {
-			flex-direction: row;
-			flex-wrap: wrap;
-			justify-content: space-between;
-			align-items: center;
-		}
-		.brand {
-			flex-direction: column;
-			text-align: center;
-			gap: 0.2rem;
-		}
-		.header-article .brand {
-			flex-direction: row;
+		.header-left {
+			justify-content: center;
 		}
 		.logo-link {
-			margin-right: 0;
-			width: 200px;
+			min-height: 80px;
+			width: 240px;
 			height: auto;
-			max-height: 80px;
 		}
-		.header-article .logo-link {
-			width: 120px;
-			max-height: 40px;
+		.logo-img {
+			max-width: 240px;
 		}
-		.slogan {
-			display: none; /* Hide title and name on mobile */
+		.header-right {
+			border-left: none;
+			border-top: 1px solid #eee;
+			padding-left: 0;
+			padding-top: 0.5rem;
+			min-height: auto;
+			align-items: center;
+		}
+		.row-slogan {
+			align-items: center;
+			text-align: center;
+		}
+		.slogan-main {
+			font-size: 1.05rem;
+		}
+		.slogan-sub {
+			font-size: 0.95rem;
+		}
+		.row-menu {
+			width: 100%;
+			justify-content: center;
 		}
 		.nav-links {
 			flex-wrap: wrap;
 			justify-content: center;
 			gap: 0.5rem;
 		}
-		.header-article .nav-links {
-			gap: 0.3rem;
+		.dropbtn {
+			font-size: 1rem;
+			padding: 0.3rem 0;
+		}
+		.row-social {
+			display: none;
+		}
+		.header-article .row-slogan {
+			display: none;
+		}
+		.header-article .row-social {
+			display: none;
+		}
+		.header-article .logo-link {
+			min-height: 50px;
+			width: 140px;
+		}
+		.header-article .logo-img {
+			max-width: 140px;
 		}
 		.header-article .dropbtn {
 			font-size: 0.9rem;
-			padding: 0.2rem 0;
-		}
-		.social-links-header {
-			display: none; /* Removed from mobile header as requested */
-		}
-		.header-article .social-links-header {
-			display: none; /* Ensure it's hidden on articles too */
 		}
 		.nav-item {
 			position: static;
