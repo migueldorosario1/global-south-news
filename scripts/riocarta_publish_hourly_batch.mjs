@@ -408,7 +408,7 @@ async function expandedConsensus(article, warnings) {
     {
       name: 'deepseek',
       baseUrl: 'https://api.deepseek.com',
-      model: process.env.DEEPSEEK_AUDIT_MODEL || 'deepseek-chat',
+      model: process.env.DEEPSEEK_AUDIT_MODEL || 'deepseek-v4-pro',
       key: process.env.DEEPSEEK_API_KEY,
     },
     {
