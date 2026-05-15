@@ -98,11 +98,7 @@ function orderHiddenByDiversity(files) {
   const freshness = (file) => {
     const match = file.match(/(?:^|-)20\d{10}/);
     if (match) return Number(match[0].replace(/^-/, ''));
-    try {
-      return fs.statSync(path.join(blogDir, file)).mtimeMs;
-    } catch {
-      return 0;
-    }
+    return 0;
   };
   for (const file of files) {
     try {
