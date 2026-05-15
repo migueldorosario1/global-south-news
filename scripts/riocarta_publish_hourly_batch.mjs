@@ -116,11 +116,15 @@ function orderHiddenByDiversity(files) {
     items.sort((a, b) => freshness(b) - freshness(a));
   }
 
+  let bucketList = [...buckets.values()].sort((a, b) => freshness(b[0] || '') - freshness(a[0] || ''));
   const ordered = [];
-  while ([...buckets.values()].some((items) => items.length)) {
-    for (const items of buckets.values()) {
+  while (bucketList.some((items) => items.length)) {
+    for (const items of bucketList) {
       if (items.length) ordered.push(items.shift());
     }
+    bucketList = bucketList
+      .filter((items) => items.length)
+      .sort((a, b) => freshness(b[0] || '') - freshness(a[0] || ''));
   }
   return ordered;
 }
