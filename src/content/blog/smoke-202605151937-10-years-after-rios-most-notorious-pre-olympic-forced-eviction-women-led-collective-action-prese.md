@@ -2,7 +2,7 @@
 title: "10 anos depois da remoção pré-Olímpica, mulheres da Vila Autódromo preservam a memória da resistência"
 description: "Mutirão de mulheres limpa Museu das Remoções em Vila Autódromo. Comunidade tinha 600-700 famílias antes das Olimpíadas de 2016 e hoje conta apenas com 20 famílias remanescentes."
 pubDate: "2026-05-15T19:38:20Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "vila-autodromo", "zona-oeste", "olimpiadas", "remocoes-forcadas", "memoria", "acao-coletiva", "museu-das-remocoes", "rio-capital-zona-oeste", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605151937-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese-qwen.jpg"
 ---
