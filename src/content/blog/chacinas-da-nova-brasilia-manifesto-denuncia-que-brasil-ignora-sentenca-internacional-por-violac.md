@@ -2,7 +2,7 @@
 title: "Chacinas da Nova Brasília: manifesto denuncia que Brasil ignora sentença internacional por violações de direitos humanos"
 description: "O Instituto de Estudos da Religião (ISER) e o Centro pela Justiça e o Direito Internacional (CEJIL) lançaram, na última sexta-feira (8), o “Sumário Executivo Caso Favela Nova Brasí"
 pubDate: "2026-05-13T02:09:23Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "complexo-do-alemao", "nova-brasilia", "chacina", "direitos-humanos", "corte-idh", "rio-favelas-e-comunidades", "favelas-comunidades", "norte-noroeste-fluminense", "natividade", "favela", "comunidade", "complexo", "alemao"]
 heroImage: "/hero/chacinas-da-nova-brasilia-manifesto-denuncia-que-brasil-ignora-sentenca-internacional-por-violac.jpg"
 ---

@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-15T07:09:13.642Z
-Publicadas/auditadas com sucesso no historico: 509
+Atualizado em: 2026-05-15T08:08:07.766Z
+Publicadas/auditadas com sucesso no historico: 531
 Materias com bloqueio acumulado: 25
 
 ## Solucoes do cerebro aplicadas
@@ -37,5 +37,5 @@ Materias com bloqueio acumulado: 25
 - smoke-202605130030-plano-niteroi-que-queremos-2050-traca-transicao-economica-da-cidade.md: [{"auditor":"deepseek","ok":true,"reason":"","fix":""},{"auditor":"kimi","ok":null,"reason":"HTTP 429"},{"auditor":"qwen","ok":false,"reason":"data futura inválida","fix":"alterar data de referência para 2026-05-13 não é problema, mas a matéria cita 'conclusão prevista para 2027' e 'aprovada no Novo PAC Seleções após reunião com Fernando Haddad', que deixou o Ministério da Fazenda em 2023; Haddad não foi ministro da 
 
 ## Publicadas nesta rodada
-- smoke-202605130105-alerj-exonera-todos-os-assessores-de-thiago-rangel.md
-- smoke-202605130105-onibus-do-rio-deixarao-de-aceitar-dinheiro-a-partir-de-30-de-maio.md
+- internet-sob-controle-criminoso-exploracao-ilegal-de-conexao-ja-afeta-37-cidades-fluminenses-em.md
+- chacinas-da-nova-brasilia-manifesto-denuncia-que-brasil-ignora-sentenca-internacional-por-violac.md

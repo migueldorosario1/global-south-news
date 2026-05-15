@@ -2,7 +2,7 @@
 title: "Internet sob controle criminoso: exploração ilegal de conexão já afeta 37 cidades fluminenses em meio a conflito entre traficantes e milicianos"
 description: "A comercialização ilegal de sinal de internet se consolida como uma das principais fontes de receita do crime organizado no estado do Rio. Levantamento conduzido pela imprensa cari"
 pubDate: "2026-05-13T02:09:21Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "cachoeiras-de-macacu", "japeri", "paracambi", "marica", "regiao-metropolitana", "crime-organizado", "internet-ilegal", "seguranca-publica", "seguranca-publica-rj", "estado", "queimados", "leme", "favela"]
 heroImage: "/hero/internet-sob-controle-criminoso-exploracao-ilegal-de-conexao-ja-afeta-37-cidades-fluminenses-em.jpg"
 ---
