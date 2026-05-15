@@ -1,7 +1,7 @@
 import os
 import re
 import json
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from flask import Flask, render_template_string, request, redirect, url_for, flash, session
 from werkzeug.utils import secure_filename
 
@@ -86,6 +86,10 @@ HTML_TEMPLATE = """
         .postbox-header { padding: 10px 15px; border-bottom: 1px solid #c3c4c7; font-weight: 600; font-size: 14px; }
         .inside { padding: 15px; }
         input[type="text"], textarea { width: 100%; padding: 5px 8px; border: 1px solid #8c8f94; border-radius: 4px; box-sizing: border-box; font-size: 14px; }
+        input[type="number"] { width: 100%; padding: 5px 8px; border: 1px solid #8c8f94; border-radius: 4px; box-sizing: border-box; font-size: 14px; }
+        .checkbox-label { display: flex; gap: 8px; align-items: center; font-weight: 400; margin: 8px 0; }
+        .checkbox-label input { margin: 0; }
+        .field-note { color: #646970; font-size: 12px; margin: 6px 0 0; line-height: 1.4; }
         #title { padding: 10px; font-size: 20px; font-weight: 600; border: 1px solid #c3c4c7; margin-bottom: 15px; box-shadow: inset 0 1px 2px rgba(0,0,0,.07); }
         textarea { height: 400px; resize: vertical; margin-top: 15px; }
         .button-primary { background: #2271b1; border-color: #2271b1; color: #fff; text-decoration: none; text-shadow: none; display: inline-block; font-size: 13px; line-height: 2.15384615; min-height: 30px; margin: 0; padding: 0 10px; cursor: pointer; border-width: 1px; border-style: solid; border-radius: 3px; white-space: nowrap; font-weight: 600; width: 100%; }
@@ -143,6 +147,17 @@ HTML_TEMPLATE = """
                     <div class="postbox">
                         <div class="postbox-header">Publicar</div>
                         <div class="inside">
+                            <label class="checkbox-label">
+                                <input type="checkbox" name="sticky" value="1">
+                                <span>Destacar na capa</span>
+                            </label>
+                            <label>Duração do destaque (em horas)</label>
+                            <input type="number" name="stickyHours" min="1" step="1" placeholder="Ex: 6">
+                            <label class="checkbox-label">
+                                <input type="checkbox" name="stickyIndefinite" value="1">
+                                <span>Tempo indefinido</span>
+                            </label>
+                            <p class="field-note">Se marcar tempo indefinido, o destaque fica fixo até remoção manual.</p>
                             <button type="submit" class="button-primary">Publicar</button>
                         </div>
                     </div>
@@ -210,6 +225,9 @@ def index():
         author = request.form["author"]
         content = request.form["content"]
         file = request.files.get("heroImage")
+        sticky = request.form.get("sticky") == "1"
+        sticky_indefinite = request.form.get("stickyIndefinite") == "1"
+        sticky_hours_raw = request.form.get("stickyHours", "").strip()
 
         tags = [t.strip().lower().replace(" ", "-") for t in tags_raw.split(",") if t.strip()]
         
@@ -222,7 +240,15 @@ def index():
             hero_image_url = ""
 
         slug = sanitize_slug(title)
-        pub_date = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+        pub_date_dt = datetime.now(timezone.utc)
+        pub_date = pub_date_dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+        sticky_until = ""
+        if sticky and not sticky_indefinite and sticky_hours_raw:
+            try:
+                sticky_hours = max(1, min(int(sticky_hours_raw), 720))
+                sticky_until = (pub_date_dt + timedelta(hours=sticky_hours)).strftime("%Y-%m-%dT%H:%M:%SZ")
+            except ValueError:
+                sticky_until = ""
         md_filename = f"{slug}.md"
         md_filepath = os.path.join(BLOG_DIR, md_filename)
         
@@ -233,6 +259,10 @@ def index():
         md_content += f"\ntags: {json.dumps(tags)}"
         md_content += f"\nheroImage: \"{hero_image_url}\""
         md_content += f"\nauthor: \"{author}\""
+        if sticky:
+            md_content += "\nsticky: true"
+            if sticky_until:
+                md_content += f"\nstickyUntil: \"{sticky_until}\""
         md_content += f"\n---\n\n{content}\n"
         
         with open(md_filepath, "w", encoding="utf-8") as f:

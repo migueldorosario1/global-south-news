@@ -22,6 +22,7 @@ fi
 
 {
   printf '\n[%s] Rio Carta hourly publish start\n' "$(date -Is)"
+  "$RIOCARTA_PYTHON" scripts/riocarta_zelador_destaques.py
   "$RIOCARTA_PYTHON" "../root/riocarta_smoke_markdown.py" 15 --queue
   "$RIOCARTA_NPM" run riocarta:publish-hourly
   printf '[%s] Rio Carta hourly publish done\n' "$(date -Is)"
