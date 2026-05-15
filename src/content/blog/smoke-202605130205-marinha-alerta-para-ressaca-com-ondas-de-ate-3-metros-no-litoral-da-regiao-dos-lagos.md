@@ -2,7 +2,7 @@
 title: "Marinha alerta para ressaca com ondas de até 3 metros no litoral da Região dos Lagos"
 description: "A Marinha do Brasil emitiu um alerta de ressaca para o litoral do estado do Rio de Janeiro, incluindo cidades da Região dos Lagos, devido à passagem de uma frente fria que pode pro"
 pubDate: "2026-05-13T05:05:22Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "ressaca", "marinha", "araruama", "arraial-do-cabo", "armacao-dos-buzios", "cabo-frio", "iguaba-grande", "sao-pedro-da-aldeia", "campos-dos-goytacazes", "norte-fluminense", "alerta-meteorologico", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605130205-marinha-alerta-para-ressaca-com-ondas-de-ate-3-metros-no-litoral-da-regiao-dos-lagos.webp"
 ---

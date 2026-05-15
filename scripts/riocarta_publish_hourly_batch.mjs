@@ -17,12 +17,14 @@ const args = new Set(process.argv.slice(2));
 const envPath = path.join(repo, '..', 'root', 'chaves_riocarta.env');
 const forcedBatchSize = process.env.RIOCARTA_BATCH_SIZE ? Number(process.env.RIOCARTA_BATCH_SIZE) : null;
 const forcedMaxAuditAttempts = process.env.RIOCARTA_MAX_AUDIT_ATTEMPTS ? Number(process.env.RIOCARTA_MAX_AUDIT_ATTEMPTS) : null;
+const forcedMaxBatchSize = process.env.RIOCARTA_MAX_BATCH_SIZE ? Number(process.env.RIOCARTA_MAX_BATCH_SIZE) : null;
+const defaultBatchSize = 10;
 const auditCurrentOnly = args.has('--audit-current');
 const commitAndPush = args.has('--commit') && !auditCurrentOnly;
 const queue = JSON.parse(fs.readFileSync(queuePath, 'utf8'));
 let state = fs.existsSync(statePath)
   ? JSON.parse(fs.readFileSync(statePath, 'utf8'))
-  : { nextBatchSize: 2, round: 1 };  // Miguel 13/05 17:18 BRT: cadência rebaixada 10→2/h
+  : { nextBatchSize: defaultBatchSize, round: 1 };
 
 if (fs.existsSync(pausePath) && !auditCurrentOnly) {
   const reason = fs.readFileSync(pausePath, 'utf8').replace(/\s+/g, ' ').trim().slice(0, 240);
@@ -50,6 +52,66 @@ function splitFrontmatter(text) {
 function getField(frontmatter, field) {
   const match = frontmatter.match(new RegExp(`^${field}:\\s*(.+)$`, 'm'));
   return match ? match[1].trim().replace(/^"|"$/g, '') : '';
+}
+
+function parseTags(frontmatter) {
+  const raw = getField(frontmatter, 'tags');
+  if (!raw) return [];
+  try {
+    const parsed = JSON.parse(raw);
+    if (Array.isArray(parsed)) return parsed.map((tag) => String(tag));
+  } catch {}
+  return raw
+    .replace(/^\[|\]$/g, '')
+    .split(',')
+    .map((tag) => tag.trim().replace(/^"|"$/g, ''))
+    .filter(Boolean);
+}
+
+function primaryCategoryFromTags(tags) {
+  const priority = [
+    'politica-rj',
+    'seguranca-publica',
+    'transporte-mobilidade',
+    'transporte-e-mobilidade-rj',
+    'saude',
+    'educacao',
+    'cultura-carnaval',
+    'baixada-fluminense',
+    'regiao-dos-lagos',
+    'norte-noroeste-fluminense',
+    'sul-fluminense',
+    'regiao-serrana',
+    'rio-favelas-e-comunidades',
+    'nacional',
+    'internacional',
+    'geopolitica',
+  ];
+  return priority.find((tag) => tags.includes(tag)) || tags[0] || 'sem-categoria';
+}
+
+function orderHiddenByDiversity(files) {
+  const buckets = new Map();
+  for (const file of files) {
+    try {
+      const text = fs.readFileSync(path.join(blogDir, file), 'utf8');
+      const { frontmatter } = splitFrontmatter(text);
+      const category = primaryCategoryFromTags(parseTags(frontmatter));
+      if (!buckets.has(category)) buckets.set(category, []);
+      buckets.get(category).push(file);
+    } catch {
+      if (!buckets.has('erro-leitura')) buckets.set('erro-leitura', []);
+      buckets.get('erro-leitura').push(file);
+    }
+  }
+
+  const ordered = [];
+  while ([...buckets.values()].some((items) => items.length)) {
+    for (const items of buckets.values()) {
+      if (items.length) ordered.push(items.shift());
+    }
+  }
+  return ordered;
 }
 
 function setDraft(frontmatter, draft) {
@@ -424,8 +486,9 @@ for (const file of queue) {
   else hidden.push(file);
 }
 
-const requestedBatchSize = forcedBatchSize || state.nextBatchSize || 2;
-const batchSize = auditCurrentOnly ? 0 : Math.min(requestedBatchSize, 2);
+const requestedBatchSize = forcedBatchSize || state.nextBatchSize || defaultBatchSize;
+const maxBatchSize = forcedMaxBatchSize || defaultBatchSize;
+const batchSize = auditCurrentOnly ? 0 : Math.min(requestedBatchSize, maxBatchSize);
 const maxAuditAttempts = Math.max(batchSize, forcedMaxAuditAttempts || batchSize * 3);
 let nextBatch = [];
 if (!auditCurrentOnly && hidden.length === 0) {
@@ -460,7 +523,7 @@ for (const file of visible) {
 }
 
 if (auditCurrentOnly) {
-  for (const file of hidden) {
+  for (const file of orderHiddenByDiversity(hidden)) {
     results.push(await auditAndFix(file, false));
   }
 } else {
@@ -524,7 +587,7 @@ execFileSync('npm', ['run', 'build'], { cwd: repo, stdio: 'inherit' });
 if (!auditCurrentOnly) {
   state = {
     round: (state.round || 1) + 1,
-    nextBatchSize: 2,
+    nextBatchSize: defaultBatchSize,
     lastBatchSize: nextBatch.length,
     lastRun: new Date().toISOString(),
   };

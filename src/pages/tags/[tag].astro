@@ -7,6 +7,7 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION } from '../../consts';
 import { allRjTagSlugs, rioZones, rjRegions, topicTags } from '../../data/rjTaxonomy';
+import { sortPostsWithSticky } from '../../utils/stickyPosts';
 
 export async function getStaticPaths() {
 	const staticNavTags = [
@@ -32,8 +33,7 @@ export async function getStaticPaths() {
 const { tag } = Astro.params;
 const { posts } = Astro.props;
 
-// Sort by date
-const sortedPosts = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const sortedPosts = sortPostsWithSticky(posts);
 
 // Fancy mapping
 const taxonomyMeta = new Map([

@@ -2,7 +2,7 @@
 title: "Maricá equipa guardas municipais com coletes balísticos: “conquista histórica”, diz secretário"
 description: "Maricá equipa guardas municipais com coletes balísticos: “conquista histórica”, diz secretário Cada agente da Guarda Municipal de Maricá passará a ter um colete balístico acautelad"
 pubDate: "2026-05-13T05:05:22Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "marica", "guarda-municipal", "coletes-balisticos", "seguranca-publica", "washington-quaqua", "baixada-fluminense", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605130205-marica-equipa-guardas-municipais-com-coletes-balisticos-conquista-historica-diz-secretario.jpg"
 ---
