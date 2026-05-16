@@ -241,8 +241,8 @@ if (tag.startsWith('camara-')) {
 			}
 			.roster-list {
 				display: grid;
-				grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-				gap: 0.5rem;
+				grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+				gap: 0.75rem;
 				list-style: none;
 				margin: 0;
 				padding: 0;
@@ -250,35 +250,39 @@ if (tag.startsWith('camara-')) {
 			.roster-item {
 				display: flex;
 				align-items: center;
-				gap: 0.5rem;
-				padding: 0.6rem 0.9rem;
+				justify-content: space-between;
+				gap: 0.75rem;
+				padding: 0.9rem 1.1rem;
 				background: white;
-				border-radius: 8px;
+				border-radius: 10px;
 				border: 1px solid #e6eaf0;
-				width: auto;
-				font-size: 0.95rem;
+				transition: border-color 0.2s, box-shadow 0.2s;
+			}
+			.roster-item:hover {
+				border-color: #0052D4;
+				box-shadow: 0 4px 12px rgba(0, 82, 212, 0.08);
 			}
 			.roster-name {
-				font-weight: 600;
+				font-weight: 700;
 				color: #111;
+				font-size: 1.15rem;
+				line-height: 1.25;
 				flex: 1;
 			}
 			.roster-party {
-				font-size: 0.75rem;
+				font-size: 0.85rem;
 				font-weight: 700;
 				background: #e6eaf0;
 				color: #2c3e50;
-				padding: 0.15rem 0.5rem;
-				border-radius: 4px;
-			}
-			.roster-number {
-				font-size: 0.75rem;
-				color: #888;
-				font-variant-numeric: tabular-nums;
+				padding: 0.3rem 0.7rem;
+				border-radius: 6px;
+				white-space: nowrap;
+				letter-spacing: 0.5px;
 			}
 			@media (max-width: 720px) {
 				.council-roster { padding: 1rem; }
 				.roster-list { grid-template-columns: 1fr; }
+				.roster-name { font-size: 1.05rem; }
 			}
 		</style>
 	</head>
@@ -302,7 +306,6 @@ if (tag.startsWith('camara-')) {
 							<li class="roster-item">
 								<span class="roster-name">{v.nome}</span>
 								{v.partido && <span class="roster-party">{v.partido}</span>}
-								{v.numero && <span class="roster-number">{v.numero}</span>}
 							</li>
 						))}
 					</ul>
