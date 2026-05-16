@@ -8,6 +8,13 @@ import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION } from '../../consts';
 import { allRjTagSlugs, rioZones, rjRegions, topicTags } from '../../data/rjTaxonomy';
 import { sortPostsWithSticky } from '../../utils/stickyPosts';
+import vereadoresRj from '../../data/vereadores_rj.json';
+
+type Vereador = { nome: string; slug: string; partido?: string; numero?: string; votosNominaisValidos?: number };
+type CidadeVer = { cidade: string; cidadeSlug: string; total: number; vereadores: Vereador[] };
+
+const cidadesComVereadores = (vereadoresRj.cidades ?? []) as CidadeVer[];
+const cidadeVereadoresMap = new Map(cidadesComVereadores.map((c) => [c.cidadeSlug, c]));
 
 export async function getStaticPaths() {
 	// Slugs gerados pelo menu vereadores (Sprint 2): camara-{cidade} e prefeitura-{cidade}
@@ -99,6 +106,12 @@ function buildCouncilMeta(tag: string) {
 }
 
 const meta = taxonomyMeta.get(tag) || regionMap[tag] || buildCouncilMeta(tag) || { title: 'Região do Estado', subtitle: tag.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '), icon: '📍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' };
+
+// Listar vereadores quando a tag for camara-{cidadeSlug}
+let cidadeCouncil: CidadeVer | undefined;
+if (tag.startsWith('camara-')) {
+	cidadeCouncil = cidadeVereadoresMap.get(tag.replace(/^camara-/, ''));
+}
 ---
 
 <!doctype html>
@@ -205,6 +218,68 @@ const meta = taxonomyMeta.get(tag) || regionMap[tag] || buildCouncilMeta(tag) ||
 					font-size: 2.5rem;
 				}
 			}
+
+			/* Roster de vereadores (camara-{cidade}) */
+			.tag-counter {
+				margin: 1rem 0 0 0;
+				font-size: 1.1rem;
+				font-weight: 600;
+				opacity: 0.85;
+			}
+			.council-roster {
+				margin-bottom: 3rem;
+				background: #f7f9fc;
+				border-radius: 16px;
+				padding: 2rem;
+			}
+			.roster-title {
+				margin: 0 0 1.5rem 0;
+				font-size: 1.4rem;
+				font-weight: 700;
+				color: #141e30;
+				text-align: center;
+			}
+			.roster-list {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+				gap: 0.5rem;
+				list-style: none;
+				margin: 0;
+				padding: 0;
+			}
+			.roster-item {
+				display: flex;
+				align-items: center;
+				gap: 0.5rem;
+				padding: 0.6rem 0.9rem;
+				background: white;
+				border-radius: 8px;
+				border: 1px solid #e6eaf0;
+				width: auto;
+				font-size: 0.95rem;
+			}
+			.roster-name {
+				font-weight: 600;
+				color: #111;
+				flex: 1;
+			}
+			.roster-party {
+				font-size: 0.75rem;
+				font-weight: 700;
+				background: #e6eaf0;
+				color: #2c3e50;
+				padding: 0.15rem 0.5rem;
+				border-radius: 4px;
+			}
+			.roster-number {
+				font-size: 0.75rem;
+				color: #888;
+				font-variant-numeric: tabular-nums;
+			}
+			@media (max-width: 720px) {
+				.council-roster { padding: 1rem; }
+				.roster-list { grid-template-columns: 1fr; }
+			}
 		</style>
 	</head>
 	<body>
@@ -214,8 +289,26 @@ const meta = taxonomyMeta.get(tag) || regionMap[tag] || buildCouncilMeta(tag) ||
 				<div class="tag-icon">{meta.icon}</div>
 				<h3 class="tag-title">{meta.title}</h3>
 				<h1 class="tag-subtitle">{meta.subtitle}</h1>
+				{cidadeCouncil && (
+					<p class="tag-counter">{cidadeCouncil.total} vereadores eleitos em 2024</p>
+				)}
 			</div>
-			
+
+			{cidadeCouncil && (
+				<section class="council-roster">
+					<h2 class="roster-title">Vereadores eleitos — {cidadeCouncil.cidade}</h2>
+					<ul class="roster-list">
+						{cidadeCouncil.vereadores.map((v) => (
+							<li class="roster-item">
+								<span class="roster-name">{v.nome}</span>
+								{v.partido && <span class="roster-party">{v.partido}</span>}
+								{v.numero && <span class="roster-number">{v.numero}</span>}
+							</li>
+						))}
+					</ul>
+				</section>
+			)}
+
 			<section>
 				{sortedPosts.length ? (
 					<ul>
