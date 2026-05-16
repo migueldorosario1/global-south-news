@@ -1,8 +1,8 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-15T23:33:47.766Z
-Publicadas/auditadas com sucesso no historico: 795
-Materias com bloqueio acumulado: 277
+Atualizado em: 2026-05-16T00:31:36.151Z
+Publicadas/auditadas com sucesso no historico: 798
+Materias com bloqueio acumulado: 290
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -285,8 +285,21 @@ Materias com bloqueio acumulado: 277
 - smoke-202605152223-unidade-de-saude-em-cabo-frio-e-furtada-e-criminosos-deixam-bilhetes-de-deboche.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - smoke-202605152223-confira-a-previsao-do-tempo-para-o-fim-de-semana-inmet-alerta-para-a-possibilidade-de-temporais.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - smoke-202605152223-prefeitura-de-niteroi-usa-tomografia-pra-acompanhar-saude-de-arvores.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152323-rio-cria-direito-a-ancestralidade-para-populacao-negra.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152323-policia-apreende-carga-milionaria-de-cocaina-que-seria-entregue-ao-complexo-da-penha.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152323-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152323-falso-taxista-que-aplicava-golpe-em-idosos-e-preso-no-centro-do-rio.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152323-tande-anuncia-novos-onibus-com-ar-condicionado-para-o-transporte-publico-de-resende.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152323-confira-a-previsao-do-tempo-para-o-fim-de-semana-inmet-alerta-para-a-possibilidade-de-temporais.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152323-claudio-castro-reage-e-tenta-conter-cerco-da-pf.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152323-contrato-aponta-eduardo-bolsonaro-como-produtor-executivo-de-dark-horse-diz-intercept.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152323-primeira-vez-em-23-anos-niteroi-alcanca-recorde-em-reducao-de-roubos-de-rua.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152323-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152323-esposa-de-piloto-baleado-em-operacao-no-rio-atualiza-estado-de-saude-momento-dificil.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605152323-resende-amplia-vacinacao-contra-brucelose-e-fortalece-protecao-do-rebanho-leiteiro.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605160023-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: auditoria reteve smoke-202605160023-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma análise crítica sobre a situação dos catadores de lixo em Jardim Gramacho, com citações de reside
 
 ## Publicadas nesta rodada
-- smoke-202605152323-moraes-autorizou-arrombamento-de-cofres-na-casa-de-claudio-castro.md
-- smoke-202605152323-menina-de-12-anos-denuncia-estupro-coletivo-e-espancamento-na-zona-oeste.md
-- smoke-202605152323-predio-so-para-airbnb-sem-moradia-flamengo-tera-predio-exclusivo-para-aluguel-de-temporada.md
+- smoke-202605160023-rio-cria-direito-a-ancestralidade-para-populacao-negra.md
+- smoke-202605160023-corpo-de-jovem-que-desapareceu-no-mar-e-localizado-apos-nove-dias-de-buscas-em-macae.md
+- smoke-202605160023-macae-e-campos-recebem-vagas-em-cursos-tecnicos-gratuitos-da-firjan-senai.md
