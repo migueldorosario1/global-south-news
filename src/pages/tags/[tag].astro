@@ -10,6 +10,12 @@ import { allRjTagSlugs, rioZones, rjRegions, topicTags } from '../../data/rjTaxo
 import { sortPostsWithSticky } from '../../utils/stickyPosts';
 
 export async function getStaticPaths() {
+	// Slugs gerados pelo menu vereadores (Sprint 2): camara-{cidade} e prefeitura-{cidade}
+	// para as 92 cidades do estado, garantindo que /tags/camara-* e /tags/prefeitura-*
+	// existam mesmo antes de ter matéria com a tag (evita 404 no "ver mais").
+	const cityCouncilSlugs = rjRegions.flatMap((region) =>
+		region.items.flatMap((city) => [`camara-${city.slug}`, `prefeitura-${city.slug}`]),
+	);
 	const staticNavTags = [
 		'baixada',
 		'buzios',
@@ -17,6 +23,7 @@ export async function getStaticPaths() {
 		'nacional',
 		'geopolitica',
 		...allRjTagSlugs,
+		...cityCouncilSlugs,
 	];
 	const allPosts = (await getCollection('blog')).filter((post) => !post.data.draft);
 	const uniqueTags = [...new Set([...allPosts.map((post) => post.data.tags || []).flat(), ...staticNavTags])];
@@ -70,7 +77,28 @@ const regionMap = {
 	'eleicoes-2026': { title: 'Política', subtitle: 'Eleições 2026', icon: '🗳️', color: 'linear-gradient(135deg, #141e30, #d32f2f)' },
 };
 
-const meta = taxonomyMeta.get(tag) || regionMap[tag] || { title: 'Região do Estado', subtitle: tag.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '), icon: '📍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' };
+// Cidades por slug (pra resolver camara-{slug} / prefeitura-{slug})
+const citySlugToLabel = new Map(rjRegions.flatMap((region) => region.items.map((city) => [city.slug, city.label])));
+
+function buildCouncilMeta(tag: string) {
+	if (tag.startsWith('camara-')) {
+		const citySlug = tag.replace(/^camara-/, '');
+		const cityLabel = citySlugToLabel.get(citySlug);
+		if (cityLabel) {
+			return { title: 'Câmara de Vereadores', subtitle: cityLabel, icon: '🏛️', color: 'linear-gradient(135deg, #141e30, #2c3e50)' };
+		}
+	}
+	if (tag.startsWith('prefeitura-')) {
+		const citySlug = tag.replace(/^prefeitura-/, '');
+		const cityLabel = citySlugToLabel.get(citySlug);
+		if (cityLabel) {
+			return { title: 'Prefeitura', subtitle: cityLabel, icon: '🏢', color: 'linear-gradient(135deg, #2c3e50, #3498db)' };
+		}
+	}
+	return null;
+}
+
+const meta = taxonomyMeta.get(tag) || regionMap[tag] || buildCouncilMeta(tag) || { title: 'Região do Estado', subtitle: tag.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '), icon: '📍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' };
 ---
 
 <!doctype html>
