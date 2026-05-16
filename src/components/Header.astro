@@ -243,6 +243,61 @@ const limiteVereadoresMenu = 18;
 								</div>
 							</div>
 							<a href="/tags/governo-do-estado" class="submenu-title" style="text-decoration: none; display: block;">Governo do Estado</a>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Cultura <span>▶</span></span>
+								<div class="submenu-content">
+									<a href="/tags/cultura-shows">Shows</a>
+									<a href="/tags/cultura-teatro">Teatro</a>
+									<a href="/tags/cultura-cinema">Cinema</a>
+									<a href="/tags/cultura-exposicoes">Exposições</a>
+								</div>
+							</div>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Turismo <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									{rjRegions.map((region) => (
+										<div class="submenu-section">
+											<a href={`/tags/turismo-${region.slug}`} class="submenu-section-title">{region.label}</a>
+											{region.items.map((item) => <a href={`/tags/turismo-${item.slug}`}>{item.label}</a>)}
+										</div>
+									))}
+								</div>
+							</div>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Bares <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									{rjRegions.map((region) => (
+										<div class="submenu-section">
+											<span class="submenu-section-title">{region.label}</span>
+											{region.items.map((item) => <a href={`/tags/bares-${item.slug}`}>{item.label}</a>)}
+										</div>
+									))}
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="nav-item dropdown">
+						<button class="dropbtn">Opinião <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
+						<div class="dropdown-content">
+							<a href="/tags/opiniao-diaria" class="submenu-title" style="text-decoration: none; display: block; font-weight: bold;">Opinião diária do portal</a>
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Colunistas <span>▶</span></span>
+								<div class="submenu-content">
+									<a href="/tags/colunista-heitor-vasques">Heitor Vasques</a>
+									<a href="/tags/colunista-marilia-caleffi">Marília Caleffi</a>
+									<a href="/tags/colunista-padre-nicodemo-esperanca">Padre Nicodemo Esperança</a>
+									<a href="/tags/colunista-renato-bisneto">Renato Bisneto</a>
+									<a href="/tags/colunista-joana-castro-ribeiro">Joana Castro Ribeiro</a>
+									<a href="/tags/colunista-marco-aurelio-mansur">Marco Aurélio Mansur</a>
+									<a href="/tags/colunista-gisele-tamayo">Gisele Tamayo</a>
+									<a href="/tags/colunista-ronaldo-quirino">Ronaldo Quirino</a>
+									<a href="/tags/colunista-sandra-lessa-bittencourt">Sandra Lessa Bittencourt</a>
+									<a href="/tags/colunista-diogo-caminha">Diogo Caminha</a>
+									<a href="/tags/colunista-beatriz-setubal-andrade">Beatriz Setúbal Andrade</a>
+									<a href="/tags/colunista-edmilson-cabral">Edmilson Cabral</a>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
