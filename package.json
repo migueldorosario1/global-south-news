@@ -1,5 +1,5 @@
 {
-  "name": "rio_carta",
+  "name": "globalsouthnews",
   "type": "module",
   "version": "0.0.1",
   "engines": {
@@ -8,8 +8,8 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "riocarta:publish-hourly": "node scripts/riocarta_publish_hourly_batch.mjs --commit",
-    "riocarta:audit-current": "node scripts/riocarta_publish_hourly_batch.mjs --audit-current",
+    "gsn:publish-hourly": "node scripts/gsn_publish_hourly_batch.mjs --commit",
+    "gsn:audit-current": "node scripts/gsn_publish_hourly_batch.mjs --audit-current",
     "preview": "astro preview",
     "astro": "astro"
   },
