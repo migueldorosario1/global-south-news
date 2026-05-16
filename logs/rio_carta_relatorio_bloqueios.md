@@ -1,8 +1,8 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-16T00:31:36.151Z
-Publicadas/auditadas com sucesso no historico: 798
-Materias com bloqueio acumulado: 290
+Atualizado em: 2026-05-16T01:31:13.897Z
+Publicadas/auditadas com sucesso no historico: 801
+Materias com bloqueio acumulado: 302
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -297,9 +297,21 @@ Materias com bloqueio acumulado: 290
 - smoke-202605152323-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - smoke-202605152323-esposa-de-piloto-baleado-em-operacao-no-rio-atualiza-estado-de-saude-momento-dificil.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - smoke-202605152323-resende-amplia-vacinacao-contra-brucelose-e-fortalece-protecao-do-rebanho-leiteiro.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
-- smoke-202605160023-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: auditoria reteve smoke-202605160023-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma análise crítica sobre a situação dos catadores de lixo em Jardim Gramacho, com citações de reside
+- smoke-202605160023-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605160023-pf-destaca-que-castro-permitiu-cenario-propicio-para-atividades-espurias-da-refit.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605160023-policia-apreende-carga-milionaria-de-cocaina-que-seria-entregue-ao-complexo-da-penha.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605160023-tenho-orgulho-dessa-trajetoria-porque-ela-sempre-foi-coletiva.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605160023-voo-pela-brasilidade-camisa-verde-e-branco-anuncia-ajuruetes-para-o-carnaval-2027.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605160023-primeira-vez-em-23-anos-niteroi-alcanca-recorde-em-reducao-de-roubos-de-rua.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605160023-deputado-federal-ricardo-abrao-propoe-o-fim-das-filas-da-bariatrica-com-oferta-de-canetas-emagre.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605160023-operacao-da-pf-apreende-mais-de-r-500-mil-em-dinheiro-vivo-na-casa-de-policial-civil.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605160023-uso-exclusivo-do-cartao-jae-nos-onibus-do-rio-sera-investigado-pelo-ministerio-publico.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605160023-boca-miuda-os-bastidores-da-politica-na-regiao-dos-lagos-nesta-sexta-feira-15.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605160023-servidor-da-rede-municipal-e-afastado-apos-denuncia-de-abuso-em-escola-de-marica.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605160023-tande-anuncia-novos-onibus-com-ar-condicionado-para-o-transporte-publico-de-resende.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
+- smoke-202605160123-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: auditoria reteve smoke-202605160123-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma análise crítica sobre a situação dos catadores de lixo e a contradição entre a retórica de susten
 
 ## Publicadas nesta rodada
-- smoke-202605160023-rio-cria-direito-a-ancestralidade-para-populacao-negra.md
-- smoke-202605160023-corpo-de-jovem-que-desapareceu-no-mar-e-localizado-apos-nove-dias-de-buscas-em-macae.md
-- smoke-202605160023-macae-e-campos-recebem-vagas-em-cursos-tecnicos-gratuitos-da-firjan-senai.md
+- smoke-202605160123-pf-destaca-que-castro-permitiu-cenario-propicio-para-atividades-espurias-da-refit.md
+- smoke-202605160123-programacao-cultura-mistura-literatura-e-gastronomia-nesse-sabado-16-em-rio-das-ostras.md
+- smoke-202605151805-feirinha-de-itaipava-recebe-estudantes-da-rede-municipal-para-acao-de-lancamento-de-foguetes.md
