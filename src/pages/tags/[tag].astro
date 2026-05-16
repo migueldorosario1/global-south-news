@@ -192,40 +192,49 @@ if (tag.startsWith('camara-')) {
 <html lang="pt-br">
 	<head>
 		<BaseHead title={`${meta.subtitle} - Rio Carta`} description={`Notícias sobre ${meta.subtitle}`} />
-		<style define:vars={{ bgGradient: meta.color }}>
+		<style define:vars={{ accentColor: meta.color }}>
 			main {
 				width: 960px;
 				margin: 0 auto;
 			}
 			.tag-hero {
-				background: var(--bgGradient);
+				background: #f7f9fc;
+				border: 1px solid #e6eaf0;
 				border-radius: 20px;
 				padding: 4rem 2rem;
-				color: white;
+				color: #1a1a1a;
 				text-align: center;
 				margin-bottom: 3rem;
-				box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+				box-shadow: 0 8px 24px rgba(20, 30, 48, 0.06);
 				position: relative;
 				overflow: hidden;
+			}
+			.tag-hero::before {
+				/* faixa colorida fina no topo, preserva identidade visual da categoria */
+				content: '';
+				position: absolute;
+				top: 0; left: 0; right: 0;
+				height: 5px;
+				background: var(--accentColor);
 			}
 			.tag-hero::after {
 				content: '';
 				position: absolute;
 				top: 0; left: 0; right: 0; bottom: 0;
-				background: url('data:image/svg+xml;utf8,<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg"><circle cx="2" cy="2" r="1" fill="rgba(255,255,255,0.1)"/></svg>') repeat;
+				background: url('data:image/svg+xml;utf8,<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg"><circle cx="2" cy="2" r="1" fill="rgba(0,0,0,0.04)"/></svg>') repeat;
 				pointer-events: none;
 			}
 			.tag-icon {
 				font-size: 5rem;
 				margin-bottom: 1rem;
-				filter: drop-shadow(0 10px 20px rgba(0,0,0,0.2));
+				filter: drop-shadow(0 6px 14px rgba(20, 30, 48, 0.15));
 			}
 			.tag-title {
 				font-size: 1.2rem;
 				font-weight: 600;
 				text-transform: uppercase;
 				letter-spacing: 2px;
-				opacity: 0.9;
+				color: #555;
 				margin: 0 0 0.5rem 0;
 			}
 			.tag-subtitle {
@@ -233,7 +242,7 @@ if (tag.startsWith('camara-')) {
 				font-weight: 800;
 				margin: 0;
 				line-height: 1.1;
-				text-shadow: 0 2px 10px rgba(0,0,0,0.1);
+				color: #111;
 			}
 			
 			/* Grid Styles (Same as index.astro) */
@@ -298,7 +307,7 @@ if (tag.startsWith('camara-')) {
 				margin: 1rem 0 0 0;
 				font-size: 1.1rem;
 				font-weight: 600;
-				opacity: 0.85;
+				color: #2c3e50;
 			}
 			.council-roster {
 				margin-bottom: 3rem;
