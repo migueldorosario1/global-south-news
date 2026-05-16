@@ -1,6 +1,6 @@
 ---
 title: "Plataforma digital para conectar PCDs e empresas é lançada pela Prefeitura de Volta Redonda"
-description: "VOLTA REDONDA Com o objetivo de ampliar ainda mais a inclusão em Volta Redonda, a prefeitura, por meio da Secretaria Municipal da Pessoa com Deficiência (SMPD) e em parceria com o "
+description: "VOLTA REDONDA Com o objetivo de ampliar ainda mais a inclusão em Volta Redonda, a prefeitura, por meio da Secretaria Municipal da Pessoa com Deficiência (SMPD) e em parceria com o"
 pubDate: "2026-05-15T17:05:48Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "pessoa-com-deficiencia", "inclusao", "emprego", "sul-fluminense-costa-verde", "leme", "politica-rj"]

@@ -1,13 +1,11 @@
 ---
 title: "Por que o ex-governador Cláudio Castro virou alvo da Polícia Federal"
-description: "Por que o ex-governador Cláudio Castro virou alvo da Polícia Federal Operação Sem Refino, de busca e apreensão, investiga fraudes fiscais, ocultação patrimonial e ligações entre a "
+description: "Por que o ex-governador Cláudio Castro virou alvo da Polícia Federal Operação Sem Refino, de busca e apreensão, investiga fraudes fiscais, ocultação patrimonial e ligações entre a"
 pubDate: "2026-05-15T21:07:31Z"
 draft: true
 tags: ["rio-de-janeiro", "claudio-castro", "barra-da-tijuca", "zona-oeste", "politica-rj", "seguranca-publica", "capital", "regiao-metropolitana", "tijuca", "manguinhos", "favela", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605151805-por-que-o-ex-governador-claudio-castro-virou-alvo-da-policia-federal.webp"
 ---
-Por que o ex-governador Cláudio Castro virou alvo da Polícia Federal
-
 Operação Sem Refino, de busca e apreensão, investiga fraudes fiscais, ocultação patrimonial e ligações entre a Refit e agentes públicos do estado
 
 Ex-governador do Rio de Janeiro, Cláudio Castro (PL) se tornou alvo da Polícia Federal na manhã desta sexta (15), durante a Operação Sem Refino, que investiga um esquema de supostas fraudes fiscais envolvendo a Refit, antiga Refinaria de Manguinhos. A ação apura indícios de ocultação patrimonial, evasão de divisas e possíveis conexões entre empresários e agentes públicos do estado.

@@ -1,6 +1,6 @@
 ---
 title: "Aciap BM reforça apoio à segurança pública com doação para obras da 3ª Cia Independente da PM em Barra Mansa"
-description: "BARRA MANSA As obras de construção da 3ª Companhia Independente da Polícia Militar receberam um importante reforço nesta sexta-feira, 15 de maio, com a doação realizada pela Aciap "
+description: "BARRA MANSA As obras de construção da 3ª Companhia Independente da Polícia Militar receberam um importante reforço nesta sexta-feira, 15 de maio, com a doação realizada pela Aciap"
 pubDate: "2026-05-15T22:25:06Z"
 draft: false
 tags: ["rio-de-janeiro", "barragens", "seguranca-publica", "sul-fluminense-costa-verde", "sul-fluminense", "barra-mansa", "transporte-mobilidade"]

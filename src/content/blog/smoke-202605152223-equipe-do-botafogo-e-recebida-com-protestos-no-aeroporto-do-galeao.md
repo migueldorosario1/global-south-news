@@ -6,8 +6,6 @@ draft: false
 tags: ["rio-de-janeiro", "botafogo", "futebol", "rio-capital-centro", "sao-goncalo-itaborai", "regiao-metropolitana", "galeao", "sao-goncalo", "itaborai"]
 heroImage: "/hero/smoke-smoke-202605152223-equipe-do-botafogo-e-recebida-com-protestos-no-aeroporto-do-galeao.png"
 ---
-Equipe do Botafogo é recebida com protestos no Aeroporto do Galeão
-
 Mesmo em crise, o Glorioso ainda disputa a Copa Sul-Americana e o Campeonato Brasileiro
 
 Após ser eliminado da Copa do Brasil pela Chapecoense, na partida desta quinta-feira (14), a delegação do Botafogo foi recebida por torcedores revoltados e por protestos no Aeroporto do Galeão. A equipe chegou ao Rio de Janeiro na madrugada desta sexta-feira (15) em meio à confusão da torcida organizada do clube que estava presente no local.

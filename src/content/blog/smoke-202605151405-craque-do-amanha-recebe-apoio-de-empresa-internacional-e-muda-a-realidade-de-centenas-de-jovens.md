@@ -6,8 +6,6 @@ draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "regiao-metropolitana", "projeto-social", "esporte", "educacao", "sao-goncalo-itaborai", "leme", "colegio", "comunidade", "itaborai", "marica", "saude", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605151405-craque-do-amanha-recebe-apoio-de-empresa-internacional-e-muda-a-realidade-de-centenas-de-jovens.jpg"
 ---
-'Craque do Amanhã' recebe apoio de empresa internacional e muda a realidade de centenas de jovens em São Gonçalo
-
 Em 2026, o projeto completa 15 anos; Iniciativa atende crianças e adolescentes nas unidades do Arsenal e Neves, oferecendo futebol, reforço pedagógico e apoio às famílias
 
 O apoio de empresas internacionais a projetos sociais tem se tornado cada vez mais relevante para o fortalecimento de iniciativas que transformam realidades locais, especialmente em regiões marcadas por desafios sociais históricos. Mais do que investimentos financeiros, essas parcerias representam uma troca de responsabilidade e compromisso com o desenvolvimento humano, ampliando oportunidades em áreas como educação, cultura, esporte e inclusão social.

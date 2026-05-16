@@ -1,6 +1,6 @@
 ---
 title: "Operação Sem Refino: Cláudio Castro é alvo de busca e apreensão"
-description: "A ação tem como objetivo apurar a atuação de um conglomerado suspeito de utilizar estruturas societárias e financeiras para ocultação patrimonial, dissimulação de bens e evasão de "
+description: "A ação tem como objetivo apurar a atuação de um conglomerado suspeito de utilizar estruturas societárias e financeiras para ocultação patrimonial, dissimulação de bens e evasão de"
 pubDate: "2026-05-15T17:05:06Z"
 draft: true
 tags: ["rio-de-janeiro", "claudio-castro", "operacao-sem-refino", "politica-rj", "estado", "regiao-metropolitana", "seguranca-publica", "saude"]
