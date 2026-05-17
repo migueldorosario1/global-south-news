@@ -32,6 +32,9 @@ const { title, description, image = FallbackImage } = Astro.props;
 />
 <meta name="generator" content={Astro.generator} />
 
+<!-- SEO defense pre-launch (Sprint 0 GSN 2026-05-16): remove only after real posts replace placeholders -->
+<meta name="robots" content="noindex,nofollow" />
+
 <Font cssVariable="--font-atkinson" preload />
 
 <!-- Canonical URL -->
