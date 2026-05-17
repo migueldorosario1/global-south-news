@@ -1,5 +1,5 @@
 {
-  "name": "globalsouthnews",
+  "name": "rio_carta",
   "type": "module",
   "version": "0.0.1",
   "engines": {
@@ -8,22 +8,14 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "gsn:publish-hourly": "node scripts/gsn_publish_hourly_batch.mjs --commit",
-    "gsn:audit-current": "node scripts/gsn_publish_hourly_batch.mjs --audit-current",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.4",
-    "@astrojs/react": "^5.0.4",
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.2",
-    "@supabase/supabase-js": "^2.105.4",
-    "@types/react": "^19.2.14",
-    "@types/react-dom": "^19.2.3",
     "astro": "^6.3.1",
-    "react": "^19.2.6",
-    "react-dom": "^19.2.6",
     "sharp": "^0.34.3"
   }
 }

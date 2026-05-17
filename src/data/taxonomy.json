@@ -1,0 +1,24 @@
+{
+  "schema_version": "v1",
+  "portal": "global_south_news",
+  "twin_portal": null,
+  "guidelines": "GSN must not be a direct English clone of Cafezinho. Focus on Multipolarity, Anti-imperialism, and Strategic Development. Target audience is the international community.",
+  "categories": {
+    "multipolar-world": {
+      "name": "Multipolar World",
+      "tags": ["brics", "sco", "asean", "african-union", "celac"]
+    },
+    "regions": {
+      "name": "Regions",
+      "tags": ["latin-america", "africa", "asia-pacific", "middle-east", "eurasia"]
+    },
+    "strategic-sectors": {
+      "name": "Strategic Sectors",
+      "tags": ["energy", "infrastructure", "trade", "technology"]
+    },
+    "media-map": {
+      "name": "Media Map",
+      "tags": ["media-africa", "media-asia", "media-latam", "media-arab"]
+    }
+  }
+}

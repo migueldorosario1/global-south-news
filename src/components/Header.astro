@@ -1,314 +1,63 @@
 ---
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import HeaderLink from './HeaderLink.astro';
-import logoImg from '../assets/logo-transparent.png';
+import logoImg from '../assets/logo.png';
 import { Image } from 'astro:assets';
-import { rioZones, rjRegions } from '../data/rjTaxonomy';
-import vereadoresRj from '../data/vereadores_rj.json';
-
-const pathname = Astro.url.pathname;
-const isHome = pathname === '/' || pathname === '/index.html';
-
-type Vereador = {
-	nome: string;
-	slug: string;
-	partido?: string;
-	numero?: string;
-};
-
-type CidadeVereadores = {
-	cidade: string;
-	cidadeSlug: string;
-	vereadores: Vereador[];
-};
-
-const cidadesComVereadores = (vereadoresRj.cidades ?? []) as CidadeVereadores[];
-const vereadoresPorCidade = new Map(cidadesComVereadores.map((cidade) => [cidade.cidadeSlug, cidade.vereadores]));
-const limiteVereadoresMenu = 18;
 ---
 
-<header class={`premium-header ${isHome ? 'header-home' : 'header-article'}`}>
+<header class="premium-header">
 	<nav class="navbar">
-		<div class="header-left">
+		<div class="brand">
 			<a href="/" class="logo-link">
-				<Image src={logoImg} alt={SITE_TITLE} width={525} height={225} class="logo-img" />
+				<Image src={logoImg} alt={SITE_TITLE} width={150} height={150} class="logo-img" />
 			</a>
+			<div class="slogan">
+				<span class="slogan-main" style="color: #0a3d62;">Global South News</span>
+				<span class="slogan-sub" style="color: #f6b93b;">Miguel do Rosário</span>
+			</div>
 		</div>
-		<div class="header-right">
-			<div class="row-slogan">
-				<span class="slogan-main">Portal de notícias do Rio de Janeiro</span>
-				<span class="slogan-sub">por Miguel do Rosário</span>
-			</div>
-			<div class="row-menu">
-				<div class="nav-links">
-					<div class="nav-item dropdown">
-						<button class="dropbtn">Início <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
-						<div class="dropdown-content">
-							<a href="/" class="submenu-title" style="text-decoration: none; display: block; font-weight: bold;">Capa do Site</a>
-							<a href="/quem-somos" class="submenu-title" style="text-decoration: none; display: block;">Quem Somos</a>
-							<a href="/editorial" class="submenu-title" style="text-decoration: none; display: block;">Editorial</a>
-							<div class="dropdown-submenu">
-								<span class="submenu-title">Histórico <span>▶</span></span>
-								<div class="submenu-content">
-									<a href="/historico/2026">2026</a>
-									<a href="/historico/2025">2025</a>
-									<a href="/historico/2024">2024</a>
-									<a href="/historico/2023">2023</a>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="nav-item dropdown">
-						<button class="dropbtn">Geonotícias <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
-						<div class="dropdown-content">
-							<div class="dropdown-submenu">
-								<span class="submenu-title">Rio Capital: zonas e bairros <span>▶</span></span>
-								<div class="submenu-content submenu-content-wide">
-									{rioZones.map((zone) => (
-										<div class="submenu-section">
-											<a href={`/tags/${zone.slug}`} class="submenu-section-title">{zone.label}</a>
-											{zone.items.map((item) => <a href={`/tags/${item.slug}`}>{item.label}</a>)}
-										</div>
-									))}
-								</div>
-							</div>
-							<div class="dropdown-submenu">
-								<span class="submenu-title">Cidades por região <span>▶</span></span>
-								<div class="submenu-content submenu-content-wide">
-									{rjRegions.map((region) => (
-										<div class="submenu-section">
-											<a href={`/tags/${region.slug}`} class="submenu-section-title">{region.label}</a>
-											{region.items.map((item) => <a href={`/tags/${item.slug}`}>{item.label}</a>)}
-										</div>
-									))}
-								</div>
-							</div>
-							<div class="dropdown-submenu">
-								<span class="submenu-title">Temas RJ <span>▶</span></span>
-								<div class="submenu-content">
-									<a href="/tags/politica-rj">Política RJ</a>
-									<a href="/tags/seguranca-publica">Segurança Pública</a>
-									<a href="/tags/transporte-mobilidade">Transporte e Mobilidade</a>
-									<a href="/tags/saude">Saúde</a>
-									<a href="/tags/educacao">Educação</a>
-									<a href="/tags/cultura-carnaval">Cultura e Carnaval</a>
-								</div>
-							</div>
-							<a href="/tags/rio-de-janeiro" class="submenu-title" style="text-decoration: none; border-top: 1px solid #eee; margin-top: 0.5rem; border-radius: 0 0 8px 8px; display: flex;">Mapa Rio <span class="badge">taxonomia ativa</span></a>
-						</div>
-					</div>
-
-					<div class="nav-item dropdown">
-						<button class="dropbtn">Outros <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
-						<div class="dropdown-content">
-							<a href="/tags/nacional" class="submenu-title" style="text-decoration: none; display: block;">Nacional</a>
-							<a href="/tags/geopolitica" class="submenu-title" style="text-decoration: none; display: block;">Geopolítica</a>
-							<a href="/tags/eleicoes-2026" class="submenu-title" style="text-decoration: none; display: block;">Eleições 2026</a>
-							<div class="dropdown-submenu">
-								<span class="submenu-title">Alerj <span>▶</span></span>
-								<div class="submenu-content submenu-content-wide">
-									<a href="/tags/alan-lopes">Alan Lopes</a>
-									<a href="/tags/alexandre-knoploch">Alexandre Knoploch</a>
-									<a href="/tags/anderson-moraes">Anderson Moraes</a>
-									<a href="/tags/andre-correa">André Corrêa</a>
-									<a href="/tags/andrezinho-ceciliano">Andrezinho Ceciliano</a>
-									<a href="/tags/arthur-monteiro">Arthur Monteiro</a>
-									<a href="/tags/atila-nunes">Átila Nunes</a>
-									<a href="/tags/atila-nunes-filho">Átila Nunes Filho</a>
-									<a href="/tags/brazao">Brazão</a>
-									<a href="/tags/bruno-boaretto">Bruno Boaretto</a>
-									<a href="/tags/bruno-dauaire">Bruno Dauaire</a>
-									<a href="/tags/carla-machado">Carla Machado</a>
-									<a href="/tags/carlinhos-bnh">Carlinhos BNH</a>
-									<a href="/tags/carlos-macedo">Carlos Macedo</a>
-									<a href="/tags/carlos-minc">Carlos Minc</a>
-									<a href="/tags/celia-jordao">Célia Jordão</a>
-									<a href="/tags/chico-machado">Chico Machado</a>
-									<a href="/tags/chiquinho-da-mangueira">Chiquinho da Mangueira</a>
-									<a href="/tags/claudio-caiado">Claudio Caiado</a>
-									<a href="/tags/dani-balbi">Dani Balbi</a>
-									<a href="/tags/dani-monteiro">Dani Monteiro</a>
-									<a href="/tags/daniel-martins">Daniel Martins</a>
-									<a href="/tags/danniel-librelon">Danniel Librelon</a>
-									<a href="/tags/delaroli">Delaroli</a>
-									<a href="/tags/delegado-carlos-augusto">Delegado Carlos Augusto</a>
-									<a href="/tags/dionisio-lins">Dionisio Lins</a>
-									<a href="/tags/douglas-ruas">Douglas Ruas</a>
-									<a href="/tags/doutor-deodalto">Doutor Deodalto</a>
-									<a href="/tags/doutor-serginho">Doutor Serginho</a>
-									<a href="/tags/eduardo-cavaliere">Eduardo Cavaliere</a>
-									<a href="/tags/elika-takimoto">Elika Takimoto</a>
-									<a href="/tags/elton-cristo">Elton Cristo</a>
-									<a href="/tags/fabio-silva">Fábio Silva</a>
-									<a href="/tags/felipinho-ravis">Felipinho Ravis</a>
-									<a href="/tags/filipe-soares">Filipe Soares</a>
-									<a href="/tags/filippe-poubel">Filippe Poubel</a>
-									<a href="/tags/flavio-serafini">Flavio Serafini</a>
-									<a href="/tags/franciane-motta">Franciane Motta</a>
-									<a href="/tags/fred-pacheco-banda-dom">Fred Pacheco Banda Dom</a>
-									<a href="/tags/giovani-ratinho">Giovani Ratinho</a>
-									<a href="/tags/giselle-monteiro">Giselle Monteiro</a>
-									<a href="/tags/guilherme-schleder">Guilherme Schleder</a>
-									<a href="/tags/gustavo-tutuca">Gustavo Tutuca</a>
-									<a href="/tags/india-armelau">Índia Armelau</a>
-									<a href="/tags/jair-bittencourt">Jair Bittencourt</a>
-									<a href="/tags/jari-oliveira">Jari Oliveira</a>
-									<a href="/tags/jorge-felippe-neto">Jorge Felippe Neto</a>
-									<a href="/tags/julio-rocha">Julio Rocha</a>
-									<a href="/tags/leo-vieira">Léo Vieira</a>
-									<a href="/tags/lilian-behring">Lilian Behring</a>
-									<a href="/tags/lucinha">Lucinha</a>
-									<a href="/tags/luiz-claudio-ribeiro">Luiz Claudio Ribeiro</a>
-									<a href="/tags/luiz-paulo">Luiz Paulo</a>
-									<a href="/tags/marcelo-dino">Marcelo Dino</a>
-									<a href="/tags/marcio-canella">Márcio Canella</a>
-									<a href="/tags/marcio-gualberto">Márcio Gualberto</a>
-									<a href="/tags/marcos-muller">Marcos Muller</a>
-									<a href="/tags/marina-do-mst">Marina do MST</a>
-									<a href="/tags/martha-rocha">Martha Rocha</a>
-									<a href="/tags/munir-neto">Munir Neto</a>
-									<a href="/tags/otoni-de-paula-pai">Otoni de Paula Pai</a>
-									<a href="/tags/pedro-ricardo">Pedro Ricardo</a>
-									<a href="/tags/professor-josemar">Professor Josemar</a>
-									<a href="/tags/rafael-nobre">Rafael Nobre</a>
-									<a href="/tags/rafael-picciani">Rafael Picciani</a>
-									<a href="/tags/renan-jordy">Renan Jordy</a>
-									<a href="/tags/renata-souza">Renata Souza</a>
-									<a href="/tags/renato-machado">Renato Machado</a>
-									<a href="/tags/renato-miranda">Renato Miranda</a>
-									<a href="/tags/ricardo-da-karol">Ricardo da Karol</a>
-									<a href="/tags/rodrigo-amorim">Rodrigo Amorim</a>
-									<a href="/tags/rodrigo-bacellar">Rodrigo Bacellar</a>
-									<a href="/tags/rosenverg-reis">Rosenverg Reis</a>
-									<a href="/tags/samuel-malafaia">Samuel Malafaia</a>
-									<a href="/tags/sarah-poncio">Sarah Poncio</a>
-									<a href="/tags/sergio-fernandes">Sérgio Fernandes</a>
-									<a href="/tags/tande-vieira">Tande Vieira</a>
-									<a href="/tags/th-joias">TH Joias</a>
-									<a href="/tags/thiago-gagliasso">Thiago Gagliasso</a>
-									<a href="/tags/thiago-rangel">Thiago Rangel</a>
-									<a href="/tags/tia-ju">Tia Ju</a>
-									<a href="/tags/val-ceasa">Val Ceasa</a>
-									<a href="/tags/valdecy-da-saude">Valdecy da Saúde</a>
-									<a href="/tags/veronica-lima">Verônica Lima</a>
-									<a href="/tags/vinicius-cozzolino">Vinicius Cozzolino</a>
-									<a href="/tags/vitor-junior">Vitor Júnior</a>
-									<a href="/tags/wellington-jose">Wellington José</a>
-									<a href="/tags/yuri-moura">Yuri Moura</a>
-									<a href="/tags/zeidan">Zeidan</a>
-								</div>
-							</div>
-							<div class="dropdown-submenu">
-								<span class="submenu-title">Câmaras de Vereadores <span>▶</span></span>
-								<div class="submenu-content submenu-content-wide submenu-content-councils">
-									{rjRegions.map((region) => (
-										<div class="submenu-section">
-											<span class="submenu-section-title">{region.label}</span>
-											{region.items.map((item) => {
-												const vereadores = vereadoresPorCidade.get(item.slug) ?? [];
-												return (
-													<div class="council-city">
-														<a href={`/tags/camara-${item.slug}`} class="council-city-link">{item.label}</a>
-														{vereadores.length > 0 && (
-															<div class="council-members">
-																{vereadores.slice(0, limiteVereadoresMenu).map((vereador) => (
-																	<a href={`/tags/${vereador.slug}`} title={`${vereador.nome}${vereador.partido ? ` (${vereador.partido})` : ''}`}>
-																		{vereador.nome}
-																	</a>
-																))}
-																{vereadores.length > limiteVereadoresMenu && (
-																	<a href={`/tags/camara-${item.slug}`} class="council-more">
-																		+{vereadores.length - limiteVereadoresMenu} vereadores
-																	</a>
-																)}
-															</div>
-														)}
-													</div>
-												);
-											})}
-										</div>
-									))}
-								</div>
-							</div>
-							<div class="dropdown-submenu">
-								<span class="submenu-title">Prefeituras <span>▶</span></span>
-								<div class="submenu-content submenu-content-wide">
-									{rjRegions.map((region) => (
-										<div class="submenu-section">
-											<span class="submenu-section-title">{region.label}</span>
-											{region.items.map((item) => <a href={`/tags/prefeitura-${item.slug}`}>{item.label}</a>)}
-										</div>
-									))}
-								</div>
-							</div>
-							<a href="/tags/governo-do-estado" class="submenu-title" style="text-decoration: none; display: block;">Governo do Estado</a>
-							<div class="dropdown-submenu">
-								<span class="submenu-title">Cultura <span>▶</span></span>
-								<div class="submenu-content">
-									<a href="/tags/cultura-shows">Shows</a>
-									<a href="/tags/cultura-teatro">Teatro</a>
-									<a href="/tags/cultura-cinema">Cinema</a>
-									<a href="/tags/cultura-exposicoes">Exposições</a>
-								</div>
-							</div>
-							<div class="dropdown-submenu">
-								<span class="submenu-title">Turismo <span>▶</span></span>
-								<div class="submenu-content submenu-content-wide">
-									{rjRegions.map((region) => (
-										<div class="submenu-section">
-											<a href={`/tags/turismo-${region.slug}`} class="submenu-section-title">{region.label}</a>
-											{region.items.map((item) => <a href={`/tags/turismo-${item.slug}`}>{item.label}</a>)}
-										</div>
-									))}
-								</div>
-							</div>
-							<div class="dropdown-submenu">
-								<span class="submenu-title">Bares <span>▶</span></span>
-								<div class="submenu-content submenu-content-wide">
-									{rjRegions.map((region) => (
-										<div class="submenu-section">
-											<span class="submenu-section-title">{region.label}</span>
-											{region.items.map((item) => <a href={`/tags/bares-${item.slug}`}>{item.label}</a>)}
-										</div>
-									))}
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="nav-item dropdown">
-						<button class="dropbtn">Opinião <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
-						<div class="dropdown-content">
-							<a href="/tags/opiniao-diaria" class="submenu-title" style="text-decoration: none; display: block; font-weight: bold;">Opinião diária do portal</a>
-							<div class="dropdown-submenu">
-								<span class="submenu-title">Colunistas <span>▶</span></span>
-								<div class="submenu-content">
-									<a href="/tags/colunista-heitor-vasques">Heitor Vasques</a>
-									<a href="/tags/colunista-marilia-caleffi">Marília Caleffi</a>
-									<a href="/tags/colunista-padre-nicodemo-esperanca">Padre Nicodemo Esperança</a>
-									<a href="/tags/colunista-renato-bisneto">Renato Bisneto</a>
-									<a href="/tags/colunista-joana-castro-ribeiro">Joana Castro Ribeiro</a>
-									<a href="/tags/colunista-marco-aurelio-mansur">Marco Aurélio Mansur</a>
-									<a href="/tags/colunista-gisele-tamayo">Gisele Tamayo</a>
-									<a href="/tags/colunista-ronaldo-quirino">Ronaldo Quirino</a>
-									<a href="/tags/colunista-sandra-lessa-bittencourt">Sandra Lessa Bittencourt</a>
-									<a href="/tags/colunista-diogo-caminha">Diogo Caminha</a>
-									<a href="/tags/colunista-beatriz-setubal-andrade">Beatriz Setúbal Andrade</a>
-									<a href="/tags/colunista-edmilson-cabral">Edmilson Cabral</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row-social">
-				<div class="social-links-header">
-					<a href="https://x.com/riocartanoticia" target="_blank" title="X"><svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
-					<a href="https://www.instagram.com/riocartaoficial/" target="_blank" title="Instagram"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg></a>
-					<a href="https://www.facebook.com/riocartanoticia/?locale=pt_BR" target="_blank" title="Facebook"><svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="0"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg></a>
-				</div>
-			</div>
+		<div class="nav-links">
+			<HeaderLink href="/">Home</HeaderLink>
+			
+			
+            <div class="nav-item dropdown">
+                <button class="dropbtn">Multipolar World <span>▼</span></button>
+                <div class="dropdown-content">
+                    <a href="/tags/brics">BRICS</a>
+                    <a href="/tags/sco">SCO</a>
+                    <a href="/tags/asean">ASEAN</a>
+                    <a href="/tags/african-union">African Union</a>
+                    <a href="/tags/celac">CELAC</a>
+                </div>
+            </div>
+            <div class="nav-item dropdown">
+                <button class="dropbtn">Regions <span>▼</span></button>
+                <div class="dropdown-content">
+                    <a href="/tags/latin-america">Latin America</a>
+                    <a href="/tags/africa">Africa</a>
+                    <a href="/tags/asia-pacific">Asia & Pacific</a>
+                    <a href="/tags/middle-east">Middle East</a>
+                    <a href="/tags/eurasia">Eurasia</a>
+                </div>
+            </div>
+            <div class="nav-item dropdown">
+                <button class="dropbtn">Strategic Sectors <span>▼</span></button>
+                <div class="dropdown-content">
+                    <a href="/tags/energy">Energy & Commodities</a>
+                    <a href="/tags/infrastructure">Infrastructure & Belt and Road</a>
+                    <a href="/tags/trade">Trade & Currencies</a>
+                    <a href="/tags/technology">Technology & Innovation</a>
+                </div>
+            </div>
+            <div class="nav-item dropdown">
+                <button class="dropbtn">Media Map <span>▼</span></button>
+                <div class="dropdown-content">
+                    <a href="/tags/media-africa">African Media</a>
+                    <a href="/tags/media-asia">Asian Media</a>
+                    <a href="/tags/media-latam">Latin American Media</a>
+                    <a href="/tags/media-arab">Arab Media</a>
+                </div>
+            </div>
 		</div>
 	</nav>
 </header>
@@ -323,84 +72,52 @@ const limiteVereadoresMenu = 18;
 		background: rgba(255, 255, 255, 0.95);
 		backdrop-filter: blur(16px);
 		border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-		padding: 0.75rem 2rem;
+		padding: 0.5rem 2rem;
 		box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
 	}
-
+	
 	.navbar {
-		display: grid;
-		grid-template-columns: auto 1fr;
-		align-items: stretch;
-		gap: 1.5rem;
-		max-width: 1400px;
-		margin: 0 auto;
-	}
-
-	.header-left {
-		display: flex;
-		align-items: stretch;
-	}
-
-	.logo-link {
 		display: flex;
 		align-items: center;
-		justify-content: center;
-		height: 100%;
-		min-height: 160px;
-		overflow: hidden;
-		position: relative;
-		flex-shrink: 0;
+		justify-content: space-between;
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: 0.5rem 0;
 	}
 
-	.logo-img {
-		height: 100%;
-		width: auto;
-		max-width: 520px;
-		object-fit: contain;
+	.brand {
+		display: flex;
+		align-items: center;
+		gap: 1.5rem;
 	}
 
-	.header-right {
+	.logo-link { display: flex; align-items: center; width: 140px; height: 100px; margin-right: 20px; }
+
+	.logo-img { height: 100px; width: auto; object-fit: contain; mix-blend-mode: multiply; }
+
+	.slogan {
 		display: flex;
 		flex-direction: column;
-		justify-content: center;
-		gap: 0.5rem;
-		padding-left: 1.5rem;
 		border-left: 3px solid #eee;
-		min-height: 160px;
-	}
-
-	.row-slogan {
-		display: flex;
-		flex-direction: column;
+		padding-left: 1.5rem;
 		gap: 0.1rem;
 	}
 
 	.slogan-main {
 		font-family: 'Montserrat', sans-serif;
-		font-size: 1.45rem;
+		font-size: 1.3rem;
 		font-weight: 800;
 		color: #111;
 		letter-spacing: -0.5px;
 		text-transform: uppercase;
-		line-height: 1.15;
 	}
 
 	.slogan-sub {
 		font-family: 'Lora', serif;
-		font-size: 1.15rem;
+		font-size: 1.05rem;
 		font-style: italic;
 		color: #d32f2f;
 		font-weight: 500;
-	}
-
-	.row-menu {
-		display: flex;
-		align-items: center;
-	}
-
-	.row-social {
-		display: flex;
-		align-items: center;
 	}
 
 	.badge {
@@ -424,36 +141,19 @@ const limiteVereadoresMenu = 18;
 		text-decoration: none;
 		color: #333;
 		font-weight: 600;
-		font-size: 1.25rem;
+		font-size: 1.1rem;
 		transition: color 0.2s;
 		padding: 0.5rem 0;
 		border-bottom: 2px solid transparent;
 	}
-
+	
 	.nav-links :global(a:hover) {
 		color: #0052D4;
 	}
-
+	
 	.nav-links :global(a.active) {
 		color: #0052D4;
 		border-bottom: 2px solid #0052D4;
-	}
-
-	.social-links-header {
-		display: flex;
-		gap: 1.25rem;
-		align-items: center;
-	}
-
-	.social-links-header a {
-		color: #555;
-		transition: color 0.2s, transform 0.2s;
-		display: flex;
-	}
-
-	.social-links-header a:hover {
-		color: #0052D4;
-		transform: translateY(-2px);
 	}
 
 	/* Dropdown Core */
@@ -465,7 +165,7 @@ const limiteVereadoresMenu = 18;
 		font-family: 'Outfit', sans-serif;
 		background: none;
 		border: none;
-		font-size: 1.25rem;
+		font-size: 1.1rem;
 		font-weight: 600;
 		color: #333;
 		cursor: pointer;
@@ -495,13 +195,10 @@ const limiteVereadoresMenu = 18;
 		transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 	}
 
-	/* Dropdown Hover apenas para Desktop */
-	@media (min-width: 769px) {
-		.dropdown:hover .dropdown-content {
-			visibility: visible;
-			opacity: 1;
-			transform: translateX(-50%) translateY(0);
-		}
+	.dropdown:hover .dropdown-content {
+		visibility: visible;
+		opacity: 1;
+		transform: translateX(-50%) translateY(0);
 	}
 
 	/* Submenu Core */
@@ -527,11 +224,9 @@ const limiteVereadoresMenu = 18;
 		color: #aaa;
 	}
 
-	@media (min-width: 769px) {
-		.dropdown-submenu:hover .submenu-title {
-			background: #f4f7fb;
-			color: #0052D4;
-		}
+	.dropdown-submenu:hover .submenu-title {
+		background: #f4f7fb;
+		color: #0052D4;
 	}
 
 	.submenu-content {
@@ -543,75 +238,17 @@ const limiteVereadoresMenu = 18;
 		margin-left: 0.5rem;
 		background: white;
 		min-width: 200px;
-		max-height: 70vh;
-		overflow-y: auto;
 		border-radius: 12px;
 		box-shadow: 0 10px 40px rgba(0,0,0,0.1);
 		padding: 0.5rem;
 		transform: translateX(10px);
 		transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
-		z-index: 100;
 	}
 
-	.submenu-content-wide {
-		min-width: min(720px, 70vw);
-		display: grid;
-		grid-template-columns: repeat(2, minmax(220px, 1fr));
-		gap: 0.35rem 1rem;
-	}
-
-	.submenu-section {
-		padding: 0.35rem;
-		border-bottom: 1px solid #f0f2f5;
-	}
-
-	.submenu-section-title {
-		font-weight: 800;
-		color: #111 !important;
-		background: #f7f9fc;
-	}
-
-	.submenu-content-councils {
-		min-width: min(860px, 76vw);
-		grid-template-columns: repeat(2, minmax(260px, 1fr));
-	}
-
-	.council-city {
-		padding: 0.25rem 0;
-	}
-
-	.council-city-link {
-		font-weight: 800 !important;
-		color: #222 !important;
-	}
-
-	.council-members {
-		display: grid;
-		grid-template-columns: repeat(2, minmax(0, 1fr));
-		gap: 0.1rem 0.25rem;
-		padding: 0 0.35rem 0.45rem;
-	}
-
-	.council-members a {
-		font-size: 0.78rem;
-		line-height: 1.2;
-		padding: 0.35rem 0.45rem;
-		white-space: nowrap;
-		overflow: hidden;
-		text-overflow: ellipsis;
-	}
-
-	.council-members .council-more {
-		font-weight: 800;
-		color: #0052D4;
-	}
-
-	@media (min-width: 769px) {
-		.dropdown-submenu:hover .submenu-content {
-			visibility: visible;
-			opacity: 1;
-			transform: translateX(0);
-		}
+	.dropdown-submenu:hover .submenu-content {
+		visibility: visible;
+		opacity: 1;
+		transform: translateX(0);
 	}
 
 	.submenu-content a {
@@ -633,104 +270,28 @@ const limiteVereadoresMenu = 18;
 	/* Mobile Responsiveness */
 	@media (max-width: 768px) {
 		.premium-header {
-			padding: 0.5rem;
-		}
-		.header-home {
-			position: relative; /* Not sticky on home so it doesn't take up space */
-		}
-		.header-article {
-			position: sticky;
-			top: 0;
-			padding: 0.2rem 0.5rem;
+			padding: 0.5rem 1rem;
 		}
 		.navbar {
-			grid-template-columns: 1fr;
-			gap: 0.5rem;
-		}
-		.header-left {
-			justify-content: center;
-		}
-		.logo-link {
-			min-height: 80px;
-			width: 240px;
-			height: auto;
-		}
-		.logo-img {
-			max-width: 240px;
-		}
-		.header-right {
-			border-left: none;
-			border-top: 1px solid #eee;
-			padding-left: 0;
-			padding-top: 0.5rem;
-			min-height: auto;
-			align-items: center;
-		}
-		.row-slogan {
-			align-items: center;
-			text-align: center;
-		}
-		.slogan-main {
-			font-size: 1.05rem;
-		}
-		.slogan-sub {
-			font-size: 0.95rem;
-		}
-		.row-menu {
-			width: 100%;
-			justify-content: center;
+			flex-direction: column;
+			gap: 1rem;
 		}
 		.nav-links {
 			flex-wrap: wrap;
 			justify-content: center;
-			gap: 0.5rem;
-		}
-		.dropbtn {
-			font-size: 1rem;
-			padding: 0.3rem 0;
-		}
-		.row-social {
-			display: none;
-		}
-		.header-article .row-slogan {
-			display: none;
-		}
-		.header-article .row-social {
-			display: none;
-		}
-		.header-article .logo-link {
-			min-height: 50px;
-			width: 140px;
-		}
-		.header-article .logo-img {
-			max-width: 140px;
-		}
-		.header-article .dropbtn {
-			font-size: 0.9rem;
-		}
-		.nav-item {
-			position: static;
+			gap: 1rem;
 		}
 		.dropdown-content {
-			position: absolute;
-			top: 100%;
-			left: 0;
-			width: 100%;
-			margin-top: 0;
+			position: static;
 			transform: none;
-			box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-			border: none;
-			border-top: 1px solid #eee;
-			border-radius: 0 0 12px 12px;
+			box-shadow: none;
+			border: 1px solid #eee;
 			display: none;
-			box-sizing: border-box;
-			visibility: visible;
-			opacity: 1;
+			width: 100%;
+			margin-top: 10px;
 		}
-		.dropdown.is-active > .dropdown-content {
+		.dropdown:hover .dropdown-content {
 			display: block;
-			visibility: visible;
-			opacity: 1;
 		}
 		.dropdown-submenu .submenu-content {
 			position: static;
@@ -740,71 +301,6 @@ const limiteVereadoresMenu = 18;
 			margin-left: 1rem;
 			border-left: 2px solid #eee;
 			border-radius: 0;
-			display: none;
-			visibility: visible;
-			opacity: 1;
-		}
-		.dropdown-submenu.is-active > .submenu-content {
-			display: block;
-		}
-		.submenu-content-wide {
-			display: block;
-			min-width: 100%;
 		}
 	}
 </style>
-
-<script>
-	const dropdowns = document.querySelectorAll('.dropdown');
-	dropdowns.forEach(dropdown => {
-		const btn = dropdown.querySelector('.dropbtn');
-		if (!btn) return;
-		btn.addEventListener('click', (e) => {
-			if (window.innerWidth <= 768) {
-				const isAnchor = e.target.tagName === 'A' || e.target.closest('a');
-				if (!isAnchor) {
-					e.preventDefault();
-					// Fecha os outros dropdowns principais
-					dropdowns.forEach(d => {
-					    if (d !== dropdown) d.classList.remove('is-active');
-					});
-					dropdown.classList.toggle('is-active');
-				}
-			}
-		});
-	});
-
-	const submenus = document.querySelectorAll('.dropdown-submenu');
-	submenus.forEach(submenu => {
-		const title = submenu.querySelector('.submenu-title');
-		if (!title) return;
-		title.addEventListener('click', (e) => {
-			if (window.innerWidth <= 768) {
-				const isAnchor = e.target.tagName === 'A' || e.target.closest('a');
-				if (!isAnchor) {
-					e.preventDefault();
-					// Fecha os outros submenus dentro do mesmo dropdown
-					const parent = submenu.closest('.dropdown-content');
-					if (parent) {
-					    parent.querySelectorAll('.dropdown-submenu').forEach(s => {
-					        if (s !== submenu) s.classList.remove('is-active');
-					    });
-					}
-					submenu.classList.toggle('is-active');
-				}
-			}
-		});
-	});
-
-	// Fechar ao clicar fora no mobile
-	document.addEventListener('click', (e) => {
-		if (window.innerWidth <= 768) {
-			const isDropdownClick = e.target.closest('.dropdown');
-			if (!isDropdownClick) {
-				document.querySelectorAll('.dropdown.is-active').forEach(d => {
-					d.classList.remove('is-active');
-				});
-			}
-		}
-	});
-</script>

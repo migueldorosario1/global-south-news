@@ -6,145 +6,15 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import Interlinks from '../components/Interlinks.astro';
-import SocialShare from '../components/SocialShare.astro';
-import OpenComments from '../components/OpenComments.jsx';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage, noindex = false, tags = [] } = Astro.props;
-
-const categoryLabels = new Map([
-	['politica-rj', 'Política RJ'],
-	['seguranca-publica', 'Segurança Pública'],
-	['seguranca-publica-rj', 'Segurança Pública RJ'],
-	['seguranca', 'Segurança'],
-	['rede-social', 'Rede Social'],
-	['redes-sociais', 'Rede Social'],
-	['nacional', 'Nacional'],
-	['internacional', 'Internacional'],
-	['geopolitica', 'Internacional'],
-	['transporte-mobilidade', 'Transporte e Mobilidade'],
-	['educacao', 'Educação'],
-	['saude', 'Saúde'],
-	['cultura-carnaval', 'Cultura e Carnaval'],
-	['economia-rj', 'Economia RJ'],
-	['rio-favelas-e-comunidades', 'Favelas e Comunidades'],
-	['favelas-comunidades', 'Favelas e Comunidades'],
-	['rio-capital-centro', 'Rio Capital - Centro'],
-	['rio-capital-zona-sul-grande-tijuca', 'Rio Capital - Zona Sul e Grande Tijuca'],
-	['rio-capital-zona-norte', 'Rio Capital - Zona Norte'],
-	['rio-capital-barra-recreio-jacarepagua', 'Rio Capital - Barra, Recreio e Jacarepaguá'],
-	['rio-capital-zona-oeste', 'Rio Capital - Zona Oeste'],
-	['regiao-metropolitana', 'Região Metropolitana'],
-	['baixada-fluminense', 'Baixada Fluminense'],
-	['regiao-serrana', 'Região Serrana'],
-	['regiao-dos-lagos', 'Região dos Lagos'],
-	['sul-fluminense-costa-verde', 'Sul Fluminense e Costa Verde'],
-	['norte-noroeste-fluminense', 'Norte/Noroeste Fluminense'],
-	['noroeste-fluminense', 'Noroeste Fluminense'],
-	['macae-norte-fluminense', 'Macaé e Norte Fluminense'],
-	['niteroi', 'Niterói'],
-	['sao-goncalo', 'São Gonçalo'],
-	['duque-de-caxias', 'Duque de Caxias'],
-	['nova-iguacu', 'Nova Iguaçu'],
-	['sao-joao-de-meriti', 'São João de Meriti'],
-	['mage', 'Magé'],
-	['petropolis', 'Petrópolis'],
-	['teresopolis', 'Teresópolis'],
-	['nova-friburgo', 'Nova Friburgo'],
-	['cabo-frio', 'Cabo Frio'],
-	['armacao-dos-buzios', 'Armação dos Búzios'],
-	['arraial-do-cabo', 'Arraial do Cabo'],
-	['saquarema', 'Saquarema'],
-	['araruama', 'Araruama'],
-	['macae', 'Macaé'],
-	['campos-dos-goytacazes', 'Campos dos Goytacazes'],
-	['volta-redonda', 'Volta Redonda'],
-	['barra-mansa', 'Barra Mansa'],
-	['angra-dos-reis', 'Angra dos Reis'],
-	['paraty', 'Paraty'],
-	['rio-de-janeiro', 'Rio de Janeiro'],
-]);
-
-const categoryPriority = [
-	'politica-rj',
-	'seguranca-publica-rj',
-	'rede-social',
-	'redes-sociais',
-	'nacional',
-	'internacional',
-	'geopolitica',
-	'seguranca-publica',
-	'seguranca',
-	'transporte-mobilidade',
-	'educacao',
-	'saude',
-	'cultura-carnaval',
-	'economia-rj',
-	'rio-favelas-e-comunidades',
-	'favelas-comunidades',
-	'rio-capital-centro',
-	'rio-capital-zona-sul-grande-tijuca',
-	'rio-capital-zona-norte',
-	'rio-capital-barra-recreio-jacarepagua',
-	'rio-capital-zona-oeste',
-	'regiao-metropolitana',
-	'baixada-fluminense',
-	'regiao-serrana',
-	'regiao-dos-lagos',
-	'sul-fluminense-costa-verde',
-	'norte-noroeste-fluminense',
-	'noroeste-fluminense',
-	'macae-norte-fluminense',
-	'niteroi',
-	'sao-goncalo',
-	'duque-de-caxias',
-	'nova-iguacu',
-	'sao-joao-de-meriti',
-	'mage',
-	'petropolis',
-	'teresopolis',
-	'nova-friburgo',
-	'cabo-frio',
-	'armacao-dos-buzios',
-	'arraial-do-cabo',
-	'saquarema',
-	'araruama',
-	'macae',
-	'campos-dos-goytacazes',
-	'volta-redonda',
-	'barra-mansa',
-	'angra-dos-reis',
-	'paraty',
-	'rio-de-janeiro',
-];
-
-function formatTagLabel(slug: string) {
-	return slug
-		.split('-')
-		.filter(Boolean)
-		.map((word) => (word.length <= 2 ? word.toUpperCase() : word.charAt(0).toUpperCase() + word.slice(1)))
-		.join(' ');
-}
-
-const normalizedTitle = title
-	.toLowerCase()
-	.normalize('NFD')
-	.replace(/[\u0300-\u036f]/g, '');
-const categorySlug =
-	categoryPriority.find((slug) => tags.includes(slug)) ||
-	(normalizedTitle.includes('rede social') ? 'rede-social' : undefined) ||
-	(normalizedTitle.includes('seguranca') ? 'seguranca-publica' : undefined) ||
-	tags.find((tag) => categoryLabels.has(tag)) ||
-	tags.find((tag) => tag !== 'rio-de-janeiro') ||
-	'rio-de-janeiro';
-const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categorySlug);
+const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 ---
 
-<html lang="pt-BR">
+<html lang="en">
 	<head>
-		<BaseHead title={title} description={description} image={heroImage} />
-		{noindex && <meta name="robots" content="noindex,nofollow" />}
+		<BaseHead title={title} description={description} />
 		<style>
 			main {
 				width: calc(100% - 2em);
@@ -153,21 +23,12 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 			}
 			.hero-image {
 				width: 100%;
-				display: flex;
-				justify-content: center;
-				background: #f0f3f7;
-				border-radius: 12px;
 			}
 			.hero-image img {
 				display: block;
 				margin: 0 auto;
 				border-radius: 12px;
 				box-shadow: var(--box-shadow);
-				max-width: 100%;
-				max-height: 70vh;
-				width: auto;
-				height: auto;
-				object-fit: contain;
 			}
 			.prose {
 				width: 720px;
@@ -185,81 +46,14 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 			.title h1 {
 				margin: 0 0 0.5em 0;
 			}
-			@media (max-width: 768px) {
-				.title h1 {
-					font-size: 1.8rem;
-				}
-				.hero-image {
-					margin-bottom: 1rem;
-				}
-			}
 			.date {
 				margin-bottom: 0.5em;
 				color: rgb(var(--gray));
-			}
-			.category {
-				display: inline-flex;
-				align-items: center;
-				margin-bottom: 0.75rem;
-				padding: 0.35rem 0.7rem;
-				border: 1px solid rgb(var(--gray-light));
-				border-radius: 4px;
-				color: rgb(var(--accent));
-				font-size: 0.78rem;
-				font-weight: 700;
-				line-height: 1.2;
-				text-decoration: none;
-				text-transform: uppercase;
-			}
-			.category:hover {
-				background: rgb(var(--gray-light));
-				color: rgb(var(--accent-dark));
-			}
-			.category-footer {
-				display: flex;
-				align-items: center;
-				gap: 0.6rem;
-				margin-top: 2rem;
-				padding-top: 1rem;
-				border-top: 1px solid rgb(var(--gray-light));
-				font-size: 0.9rem;
-				color: rgb(var(--gray-dark));
-			}
-			.category-footer-label {
-				font-weight: 600;
-				text-transform: uppercase;
-				letter-spacing: 0.04em;
-				font-size: 0.78rem;
-				color: rgb(var(--gray));
-			}
-			.category-footer-link {
-				margin-bottom: 0;
 			}
 			.last-updated-on {
 				font-style: italic;
 			}
 		</style>
-		<script type="application/ld+json" set:html={JSON.stringify({
-			"@context": "https://schema.org",
-			"@type": "NewsArticle",
-			"headline": title,
-			"image": heroImage ? [new URL(heroImage, Astro.url).href] : [],
-			"datePublished": pubDate.toISOString(),
-			"dateModified": updatedDate ? updatedDate.toISOString() : pubDate.toISOString(),
-			"author": [{
-				"@type": "Organization",
-				"name": "Rio Carta",
-				"url": "https://riocarta.com.br"
-			}],
-			"publisher": {
-				"@type": "Organization",
-				"name": "Rio Carta",
-				"logo": {
-					"@type": "ImageObject",
-					"url": new URL('/favicon.png', Astro.url).href
-				}
-			}
-		})} />
 	</head>
 
 	<body>
@@ -269,12 +63,8 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 				<div class="hero-image">
 					{heroImage && <img width="1020" height="510" src={heroImage} alt="" />}
 				</div>
-				<div class="social-top" style="text-align: center; margin-top: 1rem;">
-					<SocialShare title={title} url={Astro.url.href} />
-				</div>
 				<div class="prose">
 					<div class="title">
-						<a class="category" href={`/tags/${categorySlug}/`}>{categoryLabel}</a>
 						<div class="date">
 							<FormattedDate date={pubDate} />
 							{
@@ -289,26 +79,9 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 						<hr />
 					</div>
 					<slot />
-					<div class="category-footer">
-						<span class="category-footer-label">Categoria:</span>
-						<a class="category category-footer-link" href={`/tags/${categorySlug}/`}>{categoryLabel}</a>
-					</div>
-					
-					<div class="follow-us-footer" style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(var(--gray-light), 0.5); display: flex; align-items: center; gap: 1rem;">
-						<span style="font-weight: bold; color: rgb(var(--gray)); font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.5px;">Siga nossas redes:</span>
-						<div style="display: flex; gap: 1rem; align-items: center;">
-							<a href="https://x.com/riocartanoticia" target="_blank" title="X" style="color: #555; transition: color 0.2s;"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
-							<a href="https://www.instagram.com/riocartaoficial/" target="_blank" title="Instagram" style="color: #555; transition: color 0.2s;"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg></a>
-							<a href="https://www.facebook.com/riocartanoticia/?locale=pt_BR" target="_blank" title="Facebook" style="color: #555; transition: color 0.2s;"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="0"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg></a>
-						</div>
-					</div>
 				</div>
 				<div class="prose" style="padding-top: 0;">
 					<Interlinks />
-				</div>
-				<div class="prose" style="padding-top: 0;">
-					<SocialShare title={title} url={Astro.url.href} />
-					<OpenComments client:load postUrl={Astro.url.pathname} />
 				</div>
 			</article>
 		</main>

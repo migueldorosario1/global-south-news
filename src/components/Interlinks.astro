@@ -2,7 +2,6 @@
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('blog'))
-	.filter((post) => !post.data.draft)
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
 	.slice(0, 4); // Pega os 4 posts mais recentes
 ---
