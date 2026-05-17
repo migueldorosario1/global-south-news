@@ -107,7 +107,7 @@ const sortedUfs = [...ufs].sort((a, b) => a.uf.localeCompare(b.uf));
 				{
 					sortedUfs.map((uf) => (
 						<article class="uf-card">
-							<h2><a href={`/data/brazil-prefectures/${uf.slug}/`}>{uf.uf} - {uf.uf_nome}</a></h2>
+							<h2><a href={`/data/brazil-prefectures/${uf.slug}`}>{uf.uf} - {uf.uf_nome}</a></h2>
 							<p>{uf.regiao}</p>
 							<p>{uf.http_ok} of {uf.total} municipalities with responding websites ({uf.http_ok_pct}%).</p>
 						</article>
