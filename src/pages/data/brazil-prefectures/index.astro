@@ -1,0 +1,120 @@
+---
+import BaseHead from '../../../components/BaseHead.astro';
+import Footer from '../../../components/Footer.astro';
+import Header from '../../../components/Header.astro';
+import { SITE_TITLE } from '../../../consts';
+import data from '../../../data/brazil_prefectures_menu.json';
+
+const { summary, ufs } = data;
+const sortedUfs = [...ufs].sort((a, b) => a.uf.localeCompare(b.uf));
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead
+			title={`Brazil Prefectures Directory | ${SITE_TITLE}`}
+			description="A pre-launch directory of Brazilian municipal government websites, built from IBGE and audited public data."
+		/>
+		<style>
+			main {
+				max-width: 1080px;
+			}
+			.hero {
+				margin-bottom: 2rem;
+			}
+			.kicker {
+				color: rgb(var(--gray));
+				font-size: 0.9rem;
+				font-weight: 700;
+				letter-spacing: 0;
+				text-transform: uppercase;
+			}
+			.summary-grid,
+			.uf-grid {
+				display: grid;
+				gap: 1rem;
+			}
+			.summary-grid {
+				grid-template-columns: repeat(4, minmax(0, 1fr));
+				margin: 2rem 0;
+			}
+			.metric,
+			.uf-card {
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 8px;
+				background: #fff;
+				padding: 1rem;
+			}
+			.metric strong {
+				display: block;
+				font-size: 1.8rem;
+				line-height: 1.1;
+			}
+			.metric span,
+			.uf-card p {
+				color: rgb(var(--gray));
+				font-size: 0.95rem;
+				margin: 0.25rem 0 0;
+			}
+			.uf-grid {
+				grid-template-columns: repeat(3, minmax(0, 1fr));
+			}
+			.uf-card h2 {
+				font-size: 1.25rem;
+				margin-bottom: 0.25rem;
+			}
+			.uf-card a {
+				text-decoration: none;
+			}
+			.note {
+				border-left: 4px solid var(--accent);
+				color: rgb(var(--gray-dark));
+				margin: 2rem 0;
+				padding-left: 1rem;
+			}
+			@media (max-width: 820px) {
+				.summary-grid,
+				.uf-grid {
+					grid-template-columns: 1fr;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="hero">
+				<div class="kicker">Brazil Public Data</div>
+				<h1>Brazil Prefectures Directory</h1>
+				<p>
+					A structured pre-launch directory of Brazilian municipal government websites, generated from IBGE municipality data and public web references.
+				</p>
+			</section>
+
+			<section class="summary-grid" aria-label="Directory summary">
+				<div class="metric"><strong>{summary.total_municipios}</strong><span>IBGE municipality records</span></div>
+				<div class="metric"><strong>{summary.urls_http_ok}</strong><span>websites responding HTTP OK</span></div>
+				<div class="metric"><strong>{summary.sem_url}</strong><span>still without URL</span></div>
+				<div class="metric"><strong>{summary.urls_falhas}</strong><span>URLs needing repair</span></div>
+			</section>
+
+			<p class="note">
+				This directory is still under audit. It is not yet a final official registry. Some public sources confuse city tourism portals, legislative sites or old domains with city hall websites.
+			</p>
+
+			<section class="uf-grid" aria-label="States">
+				{
+					sortedUfs.map((uf) => (
+						<article class="uf-card">
+							<h2><a href={`/data/brazil-prefectures/${uf.slug}/`}>{uf.uf} - {uf.uf_nome}</a></h2>
+							<p>{uf.regiao}</p>
+							<p>{uf.http_ok} of {uf.total} municipalities with responding websites ({uf.http_ok_pct}%).</p>
+						</article>
+					))
+				}
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>

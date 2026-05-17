@@ -1,0 +1,148 @@
+---
+import BaseHead from '../../../components/BaseHead.astro';
+import Footer from '../../../components/Footer.astro';
+import Header from '../../../components/Header.astro';
+import { SITE_TITLE } from '../../../consts';
+import data from '../../../data/brazil_prefectures_menu.json';
+
+export function getStaticPaths() {
+	return data.ufs.map((uf) => ({
+		params: { uf: uf.slug },
+		props: {
+			uf,
+			municipios: data.municipios
+				.filter((municipio) => municipio.uf.toLowerCase() === uf.slug)
+				.sort((a, b) => a.municipio.localeCompare(b.municipio, 'pt-BR')),
+		},
+	}));
+}
+
+const { uf, municipios } = Astro.props;
+const okCount = municipios.filter((m) => m.http_ok).length;
+const missingCount = municipios.filter((m) => !m.url_prefeitura).length;
+const brokenCount = municipios.filter((m) => m.url_prefeitura && !m.http_ok).length;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead
+			title={`${uf.uf_nome} Prefectures | ${SITE_TITLE}`}
+			description={`Municipal government website directory for ${uf.uf_nome}, Brazil.`}
+		/>
+		<style>
+			main {
+				max-width: 1080px;
+			}
+			.back {
+				font-size: 0.95rem;
+			}
+			.kicker {
+				color: rgb(var(--gray));
+				font-size: 0.9rem;
+				font-weight: 700;
+				letter-spacing: 0;
+				text-transform: uppercase;
+			}
+			.summary {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.75rem;
+				margin: 1.5rem 0;
+			}
+			.pill {
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 999px;
+				background: #fff;
+				font-size: 0.95rem;
+				padding: 0.35rem 0.75rem;
+			}
+			.table-wrap {
+				overflow-x: auto;
+			}
+			table {
+				border-collapse: collapse;
+				background: #fff;
+				font-size: 0.95rem;
+				line-height: 1.4;
+			}
+			th,
+			td {
+				border-bottom: 1px solid rgb(var(--gray-light));
+				padding: 0.6rem;
+				text-align: left;
+				vertical-align: top;
+			}
+			th {
+				color: rgb(var(--gray));
+				font-size: 0.8rem;
+				text-transform: uppercase;
+			}
+			.status-ok {
+				color: #137333;
+				font-weight: 700;
+			}
+			.status-missing,
+			.status-broken {
+				color: #9a3412;
+				font-weight: 700;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<a class="back" href="/data/brazil-prefectures/">Back to Brazil Prefectures Directory</a>
+			<section>
+				<div class="kicker">Brazil Public Data</div>
+				<h1>{uf.uf_nome} Prefectures</h1>
+				<p>{uf.regiao} region. This page is generated from the pre-launch municipal dataset and remains under audit.</p>
+				<div class="summary">
+					<span class="pill">{municipios.length} municipalities</span>
+					<span class="pill">{okCount} websites responding</span>
+					<span class="pill">{missingCount} without URL</span>
+					<span class="pill">{brokenCount} URLs needing repair</span>
+				</div>
+			</section>
+			<div class="table-wrap">
+				<table>
+					<thead>
+						<tr>
+							<th>IBGE</th>
+							<th>Municipality</th>
+							<th>Website</th>
+							<th>Status</th>
+						</tr>
+					</thead>
+					<tbody>
+						{
+							municipios.map((municipio) => (
+								<tr>
+									<td>{municipio.ibge_id}</td>
+									<td>{municipio.municipio}</td>
+									<td>
+										{municipio.url_prefeitura ? (
+											<a href={municipio.final_url || municipio.url_prefeitura}>{municipio.url_prefeitura}</a>
+										) : (
+											<span>No URL yet</span>
+										)}
+									</td>
+									<td>
+										{municipio.http_ok ? (
+											<span class="status-ok">HTTP OK</span>
+										) : municipio.url_prefeitura ? (
+											<span class="status-broken">Needs repair</span>
+										) : (
+											<span class="status-missing">Missing</span>
+										)}
+									</td>
+								</tr>
+							))
+						}
+					</tbody>
+				</table>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
