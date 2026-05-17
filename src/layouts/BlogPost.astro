@@ -9,12 +9,26 @@ import Interlinks from '../components/Interlinks.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const {
+	title,
+	description,
+	pubDate,
+	updatedDate,
+	heroImage,
+	categoria_macro,
+	hero_credit,
+	hero_license,
+	hero_source_url,
+	alt,
+	source_name,
+	source_url,
+	author,
+} = Astro.props;
 ---
 
-<html lang="en">
+<html lang={Astro.props.lang ?? 'en'}>
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={title} description={description} image={heroImage} />
 		<style>
 			main {
 				width: calc(100% - 2em);
@@ -46,9 +60,36 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.title h1 {
 				margin: 0 0 0.5em 0;
 			}
+			.kicker {
+				margin-bottom: 0.75rem;
+				color: rgb(var(--accent));
+				font-size: 0.85rem;
+				font-weight: 700;
+				letter-spacing: 0;
+				text-transform: uppercase;
+			}
+			.description {
+				margin: 0.75rem auto 1rem;
+				max-width: 620px;
+				color: rgb(var(--gray));
+				font-size: 1.05rem;
+				line-height: 1.5;
+			}
 			.date {
 				margin-bottom: 0.5em;
 				color: rgb(var(--gray));
+			}
+			.image-credit,
+			.source-note {
+				margin: 0.5rem auto 0;
+				max-width: 720px;
+				color: rgb(var(--gray));
+				font-size: 0.85rem;
+				line-height: 1.4;
+			}
+			.image-credit a,
+			.source-note a {
+				color: inherit;
 			}
 			.last-updated-on {
 				font-style: italic;
@@ -61,10 +102,19 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		<main>
 			<article>
 				<div class="hero-image">
-					{heroImage && <img width="1020" height="510" src={heroImage} alt="" />}
+					{heroImage && <img width="1020" height="510" src={heroImage} alt={alt ?? title} />}
+					{
+						heroImage && hero_credit && (
+							<p class="image-credit">
+								Image: {hero_source_url ? <a href={hero_source_url}>{hero_credit}</a> : hero_credit}
+								{hero_license && ` · License: ${hero_license}`}
+							</p>
+						)
+					}
 				</div>
 				<div class="prose">
 					<div class="title">
+						{categoria_macro && <div class="kicker">{categoria_macro}</div>}
 						<div class="date">
 							<FormattedDate date={pubDate} />
 							{
@@ -76,6 +126,15 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 							}
 						</div>
 						<h1>{title}</h1>
+						<p class="description">{description}</p>
+						{
+							source_name && (
+								<p class="source-note">
+									Main source: {source_url ? <a href={source_url}>{source_name}</a> : source_name}
+									{author && ` · By ${author}`}
+								</p>
+							)
+						}
 						<hr />
 					</div>
 					<slot />
