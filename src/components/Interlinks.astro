@@ -1,66 +1,44 @@
 ---
-import { getCollection } from 'astro:content';
-
-const posts = (await getCollection('blog'))
-	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-	.slice(0, 4); // Pega os 4 posts mais recentes
+const links = [
+	{ href: '/tags/multipolar-world', label: 'Multipolar World' },
+	{ href: '/tags/development', label: 'Development' },
+	{ href: '/tags/trade', label: 'Trade' },
+];
 ---
 
-<div class="interlinks-container">
-    <h3>Leia também no Rio Carta:</h3>
-    <ul>
-        {
-            posts.map((post) => (
-                <li>
-                    <a href={`/blog/${post.id}/`}>
-                        {post.data.title}
-                    </a>
-                </li>
-            ))
-        }
-    </ul>
-</div>
+<aside class="interlinks" aria-label="Related sections">
+	<h3>Related sections</h3>
+	<div>
+		{links.map((link) => <a href={link.href}>{link.label}</a>)}
+	</div>
+</aside>
 
 <style>
-.interlinks-container {
-    margin-top: 3em;
-    padding: 1.5em;
-    background: #f8f9fa;
-    border-radius: 8px;
-    border-left: 5px solid var(--accent);
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-}
-.interlinks-container h3 {
-    margin-top: 0;
-    font-size: 1.2em;
-    color: var(--black);
-    margin-bottom: 1em;
-}
-.interlinks-container ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
-.interlinks-container li {
-    margin-bottom: 0.8em;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 0.8em;
-}
-.interlinks-container li:last-child {
-    border-bottom: none;
-    margin-bottom: 0;
-    padding-bottom: 0;
-}
-.interlinks-container a {
-    text-decoration: none;
-    color: var(--accent);
-    font-weight: 600;
-    font-size: 1.05em;
-    display: block;
-    transition: color 0.2s ease;
-}
-.interlinks-container a:hover {
-    color: var(--accent-dark);
-    text-decoration: underline;
-}
+	.interlinks {
+		border-top: 1px solid rgba(var(--gray-light), 0.7);
+		padding-top: 1.5rem;
+	}
+
+	.interlinks h3 {
+		margin: 0 0 0.75rem;
+		font-size: 1rem;
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+		color: rgb(var(--gray));
+	}
+
+	.interlinks div {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.6rem;
+	}
+
+	.interlinks a {
+		border: 1px solid rgba(var(--gray-light), 0.9);
+		border-radius: 999px;
+		padding: 0.45rem 0.8rem;
+		text-decoration: none;
+		color: rgb(var(--black));
+		font-weight: 700;
+	}
 </style>

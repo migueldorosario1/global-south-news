@@ -1,5 +1,4 @@
 ---
-import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
@@ -9,26 +8,60 @@ import Interlinks from '../components/Interlinks.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const {
-	title,
-	description,
-	pubDate,
-	updatedDate,
-	heroImage,
-	categoria_macro,
-	hero_credit,
-	hero_license,
-	hero_source_url,
-	alt,
-	source_name,
-	source_url,
-	author,
-} = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, noindex = false, tags = [] } = Astro.props;
+
+const categoryLabels = new Map([
+	['multipolar-world', 'Multipolar World'],
+	['brics', 'BRICS'],
+	['development', 'Development'],
+	['trade', 'Trade'],
+	['latin-america', 'Latin America'],
+	['media-map', 'Media Map'],
+	['infrastructure', 'Infrastructure'],
+	['energy', 'Energy'],
+	['africa', 'Africa'],
+	['asia', 'Asia'],
+	['west-asia', 'West Asia'],
+]);
+
+const categoryPriority = [
+	'multipolar-world',
+	'brics',
+	'development',
+	'trade',
+	'latin-america',
+	'media-map',
+	'infrastructure',
+	'energy',
+	'africa',
+	'asia',
+	'west-asia',
+];
+
+function formatTagLabel(slug: string) {
+	return slug
+		.split('-')
+		.filter(Boolean)
+		.map((word) => (word.length <= 2 ? word.toUpperCase() : word.charAt(0).toUpperCase() + word.slice(1)))
+		.join(' ');
+}
+
+const normalizedTitle = title
+	.toLowerCase()
+	.normalize('NFD')
+	.replace(/[\u0300-\u036f]/g, '');
+const categorySlug =
+	categoryPriority.find((slug) => tags.includes(slug)) ||
+	tags.find((tag) => categoryLabels.has(tag)) ||
+	tags[0] ||
+	'multipolar-world';
+const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categorySlug);
 ---
 
-<html lang={Astro.props.lang ?? 'en'}>
+<html lang="en">
 	<head>
 		<BaseHead title={title} description={description} image={heroImage} />
+		{noindex && <meta name="robots" content="noindex,nofollow" />}
 		<style>
 			main {
 				width: calc(100% - 2em);
@@ -37,12 +70,21 @@ const {
 			}
 			.hero-image {
 				width: 100%;
+				display: flex;
+				justify-content: center;
+				background: #f0f3f7;
+				border-radius: 12px;
 			}
 			.hero-image img {
 				display: block;
 				margin: 0 auto;
 				border-radius: 12px;
 				box-shadow: var(--box-shadow);
+				max-width: 100%;
+				max-height: 70vh;
+				width: auto;
+				height: auto;
+				object-fit: contain;
 			}
 			.prose {
 				width: 720px;
@@ -60,41 +102,81 @@ const {
 			.title h1 {
 				margin: 0 0 0.5em 0;
 			}
-			.kicker {
-				margin-bottom: 0.75rem;
-				color: rgb(var(--accent));
-				font-size: 0.85rem;
-				font-weight: 700;
-				letter-spacing: 0;
-				text-transform: uppercase;
-			}
-			.description {
-				margin: 0.75rem auto 1rem;
-				max-width: 620px;
-				color: rgb(var(--gray));
-				font-size: 1.05rem;
-				line-height: 1.5;
+			@media (max-width: 768px) {
+				.title h1 {
+					font-size: 1.8rem;
+				}
+				.hero-image {
+					margin-bottom: 1rem;
+				}
 			}
 			.date {
 				margin-bottom: 0.5em;
 				color: rgb(var(--gray));
 			}
-			.image-credit,
-			.source-note {
-				margin: 0.5rem auto 0;
-				max-width: 720px;
-				color: rgb(var(--gray));
-				font-size: 0.85rem;
-				line-height: 1.4;
+			.category {
+				display: inline-flex;
+				align-items: center;
+				margin-bottom: 0.75rem;
+				padding: 0.35rem 0.7rem;
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 4px;
+				color: rgb(var(--accent));
+				font-size: 0.78rem;
+				font-weight: 700;
+				line-height: 1.2;
+				text-decoration: none;
+				text-transform: uppercase;
 			}
-			.image-credit a,
-			.source-note a {
-				color: inherit;
+			.category:hover {
+				background: rgb(var(--gray-light));
+				color: rgb(var(--accent-dark));
+			}
+			.category-footer {
+				display: flex;
+				align-items: center;
+				gap: 0.6rem;
+				margin-top: 2rem;
+				padding-top: 1rem;
+				border-top: 1px solid rgb(var(--gray-light));
+				font-size: 0.9rem;
+				color: rgb(var(--gray-dark));
+			}
+			.category-footer-label {
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 0.04em;
+				font-size: 0.78rem;
+				color: rgb(var(--gray));
+			}
+			.category-footer-link {
+				margin-bottom: 0;
 			}
 			.last-updated-on {
 				font-style: italic;
 			}
 		</style>
+		<script type="application/ld+json" set:html={JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "NewsArticle",
+			"headline": title,
+			"image": heroImage ? [new URL(heroImage, Astro.url).href] : [],
+			"datePublished": pubDate.toISOString(),
+			"dateModified": updatedDate ? updatedDate.toISOString() : pubDate.toISOString(),
+			"author": [{
+				"@type": "Organization",
+				"name": "Global South News",
+				"url": "https://www.globalsouth.news"
+			}],
+			"publisher": {
+				"@type": "Organization",
+				"name": "Global South News",
+				"logo": {
+					"@type": "ImageObject",
+					"url": new URL('/favicon.png', Astro.url).href
+				}
+			}
+		})} />
 	</head>
 
 	<body>
@@ -102,19 +184,11 @@ const {
 		<main>
 			<article>
 				<div class="hero-image">
-					{heroImage && <img width="1020" height="510" src={heroImage} alt={alt ?? title} />}
-					{
-						heroImage && hero_credit && (
-							<p class="image-credit">
-								Image: {hero_source_url ? <a href={hero_source_url}>{hero_credit}</a> : hero_credit}
-								{hero_license && ` · License: ${hero_license}`}
-							</p>
-						)
-					}
+					{heroImage && <img width="1020" height="510" src={heroImage} alt="" />}
 				</div>
 				<div class="prose">
 					<div class="title">
-						{categoria_macro && <div class="kicker">{categoria_macro}</div>}
+						<a class="category" href={`/tags/${categorySlug}/`}>{categoryLabel}</a>
 						<div class="date">
 							<FormattedDate date={pubDate} />
 							{
@@ -126,18 +200,17 @@ const {
 							}
 						</div>
 						<h1>{title}</h1>
-						<p class="description">{description}</p>
-						{
-							source_name && (
-								<p class="source-note">
-									Main source: {source_url ? <a href={source_url}>{source_name}</a> : source_name}
-									{author && ` · By ${author}`}
-								</p>
-							)
-						}
 						<hr />
 					</div>
 					<slot />
+					<div class="category-footer">
+						<span class="category-footer-label">Categoria:</span>
+						<a class="category category-footer-link" href={`/tags/${categorySlug}/`}>{categoryLabel}</a>
+					</div>
+					
+					<div class="follow-us-footer" style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(var(--gray-light), 0.5);">
+						<span style="font-weight: bold; color: rgb(var(--gray)); font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.5px;">Global South News</span>
+					</div>
 				</div>
 				<div class="prose" style="padding-top: 0;">
 					<Interlinks />
