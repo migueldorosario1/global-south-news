@@ -13,6 +13,9 @@ const blogDir = path.join(repo, 'src', 'content', 'blog');
 const publicDir = path.join(repo, 'public');
 const pausePath = path.join(repo, 'tools', 'gsn_publish_paused.txt');
 
+fs.mkdirSync(path.dirname(queuePath), { recursive: true });
+fs.mkdirSync(path.dirname(logPath), { recursive: true });
+
 const args = new Set(process.argv.slice(2));
 const envPath = path.join(repo, '..', 'root', 'chaves_gsn.env');
 const forcedBatchSize = process.env.GSN_BATCH_SIZE ? Number(process.env.GSN_BATCH_SIZE) : null;
@@ -120,15 +123,12 @@ function languageCheck(article) {
   const sample = `${article.title || ''}\n${article.description || ''}\n${String(article.body || '').slice(0, 2600)}`;
   const english = countMarkers(sample, ENGLISH_MARKERS);
   const portuguese = countMarkers(sample, PORTUGUESE_MARKERS) + portugueseAccentBonus(sample);
-  const titleEnglish = countMarkers(title, ENGLISH_MARKERS);
-  const titlePortuguese = countMarkers(title, PORTUGUESE_MARKERS) + portugueseAccentBonus(title);
-  const titleLooksEnglish = titleEnglish >= 3 && titleEnglish > titlePortuguese + 1;
-  const bodyLooksEnglish = english >= 14 && english > portuguese * 1.25;
+  const bodyLooksPortuguese = portuguese >= 14 && portuguese > english * 1.25;
 
-  if (titleLooksEnglish && bodyLooksEnglish) {
+  if (bodyLooksPortuguese) {
     return {
       ok: false,
-      reason: `materia em ingles/nao traduzida: marcadores_en=${english}, marcadores_pt=${portuguese}`,
+      reason: `article appears non-English/Portuguese: markers_en=${english}, markers_pt=${portuguese}`,
     };
   }
   return { ok: true };
@@ -825,7 +825,6 @@ if (commitAndPush) {
     'src/pages/blog/[...slug].astro',
     'src/pages/blog/index.astro',
     'src/pages/historico/[year].astro',
-    'src/pages/historico/[year]/[month].astro',
     'src/pages/historico/index.astro',
     'src/pages/index.astro',
     'src/pages/rss.xml.js',
