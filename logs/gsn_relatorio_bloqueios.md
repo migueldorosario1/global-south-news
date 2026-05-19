@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-19T08:30:36.148Z
-Publicadas/auditadas com sucesso no historico: 1
+Atualizado em: 2026-05-19T09:37:30.863Z
+Publicadas/auditadas com sucesso no historico: 2
 Materias com bloqueio acumulado: 0
 
 ## Solucoes do cerebro aplicadas
@@ -11,4 +11,4 @@ Materias com bloqueio acumulado: 0
 - Nenhum bloqueio acumulado ate agora.
 
 ## Publicadas nesta rodada
-- brief-202605190830-u-s-nod-to-possible-sale-of-support-services-for-indias-apache-helicopters-m777a2-howitzers.md
+- brief-202605190937-drc-faces-a-severe-ebola-outbreak-caused-by-a-highly-lethal-variant-africanews-today.md
