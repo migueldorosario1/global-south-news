@@ -1,5 +1,5 @@
 ---
-title: "Crime pays, evade taxes by using offshore banking centers, speculate in basic raw materials, buy arms makers and oil, environmental pollution polluters. That's where all of the big money is being made. - Dr. Michael Hudson"
+title: 'Crime pays, evade taxes: Dr. Michael Hudson on financial capitalism'
 description: "Renowned economist Dr. Michael Hudson discusses the impact of financial crashes, high interest rates, and geopolitical tensions on the global economy."
 pubDate: "2026-05-20T13:34:26Z"
 draft: false
