@@ -2,7 +2,7 @@
 title: "Liu Xin: 'We are a bridge between the government and the general public"
 description: "Liu Xin reveals how Chinese media serves as a bridge between government and people, challenging Western notions of press freedom."
 pubDate: "2026-05-20T19:56:44Z"
-draft: true
+draft: false
 tags: ["Reports on China", "Andy Bohan", "Liu Xin"]
 heroImage: "/hero/youtube-Aq87aVdtlgo.jpg"
 author: "Global South News Desk"
