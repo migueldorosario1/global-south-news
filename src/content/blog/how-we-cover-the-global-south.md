@@ -8,7 +8,7 @@ tags: ["media-map", "latin-america", "trade", "development"]
 categoria_macro: "Media Map"
 lang: "en"
 author: "Global South News Desk"
-draft: false
+draft: true
 ---
 
 Covering the Global South requires more than translating headlines. It requires a different map of relevance.

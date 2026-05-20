@@ -8,7 +8,7 @@ tags: ["multipolar-world", "brics", "development", "media-map"]
 categoria_macro: "Multipolar World"
 lang: "en"
 author: "Global South News Desk"
-draft: false
+draft: true
 ---
 
 Global South News begins from a simple editorial premise: most international coverage still treats the world as if power, legitimacy and explanation must flow from the old Atlantic center.
