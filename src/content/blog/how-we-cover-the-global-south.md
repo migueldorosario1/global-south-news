@@ -8,7 +8,7 @@ tags: ["media-map", "latin-america", "trade", "development"]
 categoria_macro: "Media Map"
 lang: "en"
 author: "Global South News Desk"
-draft: true
+draft: false
 ---
 
 Covering the Global South requires more than translating headlines. It requires a different map of relevance.
@@ -23,6 +23,7 @@ The third rule is to separate analysis from assertion. Multipolarity is a proces
 
 Some institutions succeed, others stall. Some agreements are transformational, others are symbolic. The task is to describe the difference.
 
-Global South News will build country hubs, regional tags and source lists before turning on heavy automation. This is necessary because a fast system with weak sources only produces faster confusion.
+Global South News builds country hubs, regional tags, and source lists to ensure robust editorial verification. This is necessary because strong sources are the foundation of practical clarity.
 
-The goal is practical clarity. Readers should leave a story understanding what changed, who benefits, who resists and what remains uncertain.
+Our goal is simple: readers should leave a story understanding what changed, who benefits, who resists and what remains.
+
