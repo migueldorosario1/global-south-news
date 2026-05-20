@@ -2,7 +2,7 @@
 title: "Crime pays, evade taxes by using offshore banking centers, speculate in basic raw materials, buy arms makers and oil, environmental pollution polluters. That's where all of the big money is being made. - Dr. Michael Hudson"
 description: "Renowned economist Dr. Michael Hudson discusses the impact of financial crashes, high interest rates, and geopolitical tensions on the global economy."
 pubDate: "2026-05-20T13:34:26Z"
-draft: true
+draft: false
 tags: ["financial crashes", "interest rates", "geopolitical tensions", "oil crisis", "financial capitalism"]
 heroImage: "/hero/youtube-4NWpV8XJXhY.jpg"
 author: "Global South News Desk"
