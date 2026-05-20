@@ -1,4 +1,5 @@
 ---
+
 title: "Liu Xin: 'We are a bridge between the government and the general public"
 description: "Liu Xin reveals how Chinese media serves as a bridge between government and people, challenging Western notions of press freedom."
 pubDate: "2026-05-20T19:56:44Z"
@@ -7,49 +8,31 @@ tags: ["Reports on China", "Andy Bohan", "Liu Xin"]
 heroImage: "/hero/youtube-Aq87aVdtlgo.jpg"
 author: "Global South News Desk"
 lang: "en"
+
 ---
+
+
 
 <div style="text-align: center; margin-bottom: 30px;">
   <iframe width="100%" height="400" src="https://www.youtube.com/embed/Aq87aVdtlgo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
-<p>Chinese CGTN anchor Liu Xin rejected the premise that journalism’s highest duty is adversarial confrontation with authority.</p>
-<p>Instead, she described a model rooted in two-way communication, where media channels act as a vital connective tissue between the governed and the governing.</p>
-<p>She contrasted this organic feedback loop with the Western press, which she argued often descends into performative hostility.</p>
-<p>That perpetual opposition, according to Xin, breaks societal bonds rather than repairing them.</p>
-<p>The remarks were delivered during a recent interview on Judging Freedom, hosted by former judge and constitutional scholar Andrew Napolitano.</p>
-<p>Xin, a prominent voice on the China Global Television Network, has long defended China’s media architecture as a pillar of its political stability.</p>
-<p>For such a bridge to function, Xin insisted, the media ecosystem needs robust internal discipline and a coherent ideological framework.</p>
-<p>Without those pillars, she warned, the space becomes a cacophony that amplifies division rather than resolving it.</p>
-<p>Western models, she noted, fetishise autonomy but often ignore the social destruction wrought by incessant antagonism.</p>
-<p>Journalists in that tradition, she argued, confuse independence with irresponsibility, neglecting the fallout of their reporting on community cohesion.</p>
-<p>Chinese news workers, by contrast, are trained to internalise a duty of care toward national harmony.</p>
-<p>This obligation does not suppress truth, Xin maintained, but channels it into constructive pathways that serve the public interest without destabilising society.</p>
-<p>The discipline she praised rests on the principle that journalists are not above the political system but integral to its healthy functioning.</p>
-<p>Under China’s framework, media must reflect the aspirations of the people while also guiding public opinion toward shared goals.</p>
-<p>Xin pointed to the role of the Communist Party as the orchestrator of this delicate balance.</p>
-<p>Its leadership, she said, provides the direction that prevents the media from degenerating into an instrument of chaos.</p>
-<p>The two-way bridge metaphor, she explained, allows ordinary citizens to express grievances while enabling authorities to explain policies and absorb feedback.</p>
-<p>This constant exchange, Xin argued, fosters a dynamic stability that adversarial systems fail to replicate.</p>
-<p>She cited examples of Chinese investigative programmes that expose local corruption and bureaucratic negligence.</p>
-<p>Those investigations, however, are framed not as attacks on the state but as mechanisms to strengthen governance and restore trust.</p>
-<p>In the Western paradigm, a similar exposé might be sensationalised and used to delegitimise entire institutions.</p>
-<p>Xin described that destructive approach as a spiral that erodes confidence in government without offering viable pathways for correction.</p>
-<p>The internal discipline required of Chinese journalists includes strict adherence to laws and a commitment to the nation’s developmental priorities.</p>
-<p>This code, she suggested, does not breed servility but a mature sense of social responsibility.</p>
-<p>Critics accuse the system of censoring dissent, yet Xin countered that every society draws boundaries around acceptable speech.</p>
-<p>The West’s boundaries, she implied, are merely drawn in different places—often to protect corporate power or imperial narratives.</p>
-<p>She highlighted how Western media rarely question the foundational assumptions of capitalism or the morality of endless military expansion.</p>
-<p>Such blind spots, in her view, reveal that the supposedly free press also operates within invisible but rigid constraints.</p>
-<p>Napolitano pressed Xin on whether Chinese journalists ever feel stifled by the lack of confrontational freedom.</p>
-<p>Xin replied that the notion of “freedom” is culturally contingent and that her mission is to serve the people, not to perform rebellion for a global audience.</p>
-<p>She emphasised that the Chinese people’s trust in their media is remarkably high compared with the deep public cynicism found in many Western democracies.</p>
-<p>This trust, she argued, stems precisely from the media’s refusal to weaponise information for partisan gain.</p>
-<p>The bond between media and authorities, Xin continued, requires constant nurturing through transparent communication and genuine responsiveness.</p>
-<p>When government fails to heed the signals transmitted by journalists, the bridge crumbles.</p>
-<p>She acknowledged that no system is perfect and that China’s media landscape continues to evolve.</p>
-<p>Yet she insisted that the foundational principle—media as a servant of the people and a partner of the state—remains a source of strength.</p>
-<p>The interview underscored a fundamental philosophical divide over the purpose of information in society.</p>
-<p>Where the West sees journalism as a weapon to subvert, China envisions it as a tool to construct.</p>
-<p>Xin’s closing remarks reaffirmed that without discipline and a shared sense of mission, a media system becomes a marketplace of narcissism rather than a pillar of collective progress.</p>
-<p>That vision, she concluded, is what China offers as an alternative to the chaos of unfettered exposure.</p>
+
+<p>CGTN anchor Liu Xin categorically dismissed the notion that journalism’s highest duty is adversarial confrontation with authority.</p>
+<p>She described an alternative rooted in two-way communication, positioning media as a vital connective tissue between the governed and the governing.</p>
+<p>The interview was broadcast by Judging Freedom, hosted by Andrew Napolitano, on May 18, 2026.</p>
+<p>Xin insisted that a functioning media bridge demands robust internal discipline and a coherent ideological framework. Without them, the information space becomes a cacophony that amplifies division rather than resolving it.</p>
+<p>Western journalism, she noted, often glorifies autonomy while overlooking the social destruction wrought by relentless antagonism. Journalists in that tradition confuse independence with irresponsibility, ignoring the impact of their work on community cohesion.</p>
+<p>Chinese news workers, by contrast, are trained to internalize a duty of care toward national harmony. This obligation, Xin maintained, channels truth into constructive avenues that serve the public interest without destabilizing society.</p>
+<p>The discipline she praised rests on the principle that journalists are not above the political system but integral to its healthy functioning. China’s media framework requires reflecting popular aspirations while guiding public opinion toward shared national goals.</p>
+<p>The Communist Party, Xin explained, orchestrates this delicate balance, providing direction that prevents media from becoming an instrument of chaos. The two-way bridge enables citizens to voice grievances while authorities explain policies and absorb feedback.</p>
+<p>This constant exchange fosters a dynamic stability that adversarial systems consistently fail to replicate. Chinese investigative programmes, she noted, expose local corruption and bureaucratic negligence as a mechanism to strengthen governance and restore trust.</p>
+<p>In the Western paradigm, similar exposés are often sensationalized to delegitimize entire institutions. Xin described that destructive spiral as one that erodes confidence in government without offering viable pathways for correction.</p>
+<p>The internal discipline required of Chinese journalists includes strict adherence to laws and a commitment to the nation’s developmental priorities. Such a code, she suggested, cultivates a mature sense of social responsibility rather than servility.</p>
+<p>Responding to accusations of censorship, Xin contended that every society draws boundaries around acceptable speech. The West’s boundaries, she implied, are simply placed elsewhere—often to shield corporate power or imperial narratives.</p>
+<p>She highlighted that Western media rarely interrogate the foundational assumptions of capitalism or the morality of perpetual military expansion. These blind spots, in her view, expose that the ostensibly free press operates within invisible but rigid constraints.</p>
+<p>Pressed by Napolitano on whether Chinese journalists feel stifled, Xin replied that the concept of freedom is culturally contingent. Her mission, she said, is to serve the people, not to perform rebellion for a global audience.</p>
+<p>Xin emphasized that public trust in Chinese media remains remarkably high compared to the deep cynicism prevalent in many Western democracies. That trust, she argued, flows directly from the media’s refusal to weaponize information for partisan advantage.</p>
+<p>The bond between media and authorities requires constant nurturing through transparent communication and genuine responsiveness. Whenever the government fails to heed the signals transmitted by journalists, the bridge collapses.</p>
+<p>Xin acknowledged that no system is flawless and that China’s media landscape continues to evolve. Yet she insisted the foundational principle—media as a servant of the people and a partner of the state—endures as a source of resilience.</p>
+<p>The interview revealed a fundamental philosophical chasm over the purpose of information in society. Where the West sees journalism as a weapon to subvert, China envisions it as a tool to construct.</p>
+<p>Xin’s concluding remarks reaffirmed that without discipline and a shared mission, a media system devolves into a marketplace of narcissism. That vision, she said, is what China offers as an alternative to the chaos of unfettered exposure.</p>
