@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-21T09:37:26.497Z
-Publicadas/auditadas com sucesso no historico: 16
+Atualizado em: 2026-05-21T12:37:24.941Z
+Publicadas/auditadas com sucesso no historico: 17
 Materias com bloqueio acumulado: 2
 
 ## Solucoes do cerebro aplicadas
@@ -12,4 +12,4 @@ Materias com bloqueio acumulado: 2
 - brief-202605202137-somaliland-to-open-first-ever-embassy-in-jerusalem.md: auditoria reteve brief-202605202137-somaliland-to-open-first-ever-embassy-in-jerusalem.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"A auditoria não identificou nenhuma contradição interna, acusação grave sem apoio, data impossível, título desonesto ou aviso interno de rascunho. A matéria está e
 
 ## Publicadas nesta rodada
-- brief-202605210937-un-adopts-resolution-supporting-international-courts-climate-ruling.md
+- brief-202605211237-iron-brothers-how-china-and-pakistan-built-an-unlikely-75-year-bond.md
