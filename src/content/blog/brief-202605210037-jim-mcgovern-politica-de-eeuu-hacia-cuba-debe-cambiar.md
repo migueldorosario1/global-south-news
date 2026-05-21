@@ -2,7 +2,7 @@
 title: "Jim McGovern: Política de EEUU hacia Cuba debe cambiar"
 description: "“Un buen lugar para empezar: TERMINAR el embargo (bloqueo)”, que “durante 60 años, no ha hecho nada más que causar sufrimiento a los cubanos comunes”, dijo el legislador, miembro d"
 pubDate: "2026-05-21T00:37:03Z"
-draft: false
+draft: true
 tags: ["multipolar-world", "latin-america", "sanctions", "diplomacy", "ai"]
 heroImage: "/hero/smoke-brief-202605210037-jim-mcgovern-politica-de-eeuu-hacia-cuba-debe-cambiar.jpg"
 ---
