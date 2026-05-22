@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-22T00:37:26.018Z
-Publicadas/auditadas com sucesso no historico: 20
+Atualizado em: 2026-05-22T03:37:26.453Z
+Publicadas/auditadas com sucesso no historico: 21
 Materias com bloqueio acumulado: 3
 
 ## Solucoes do cerebro aplicadas
@@ -13,4 +13,4 @@ Materias com bloqueio acumulado: 3
 - brief-202605212137-fuel-crisis-threatens-to-bring-malawi-to-a-standstill.md: auditoria reteve brief-202605212137-fuel-crisis-threatens-to-bring-malawi-to-a-standstill.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"A auditoria não identificou nenhuma contradição interna, acusação grave sem apoio, data impossível, título desonesto ou aviso interno de rascunho.","fix":""},{"
 
 ## Publicadas nesta rodada
-- brief-202605220037-ebola-case-confirmed-in-rebel-held-congo-area-far-from-outbreaks-epicentre.md
+- brief-202605220337-chile-es-ultimo-entre-37-paises-en-bienestar-infantil-dice-unicef.md
