@@ -2,7 +2,7 @@
 title: "‘Iron brothers’: How China and Pakistan built an unlikely 75-year bond"
 description: "‘Iron brothers’: How China and Pakistan built an unlikely 75-year bond From secret nuclear exchanges to a key diplomatic deal, Pakistan and China have long helped each other. What’"
 pubDate: "2026-05-21T12:37:02Z"
-draft: false
+draft: true
 tags: ["multipolar-world", "asia", "relations", "diplomacy", "west-asia", "china", "india", "corridor", "ai", "pakistan"]
 heroImage: "/hero/smoke-brief-202605211237-iron-brothers-how-china-and-pakistan-built-an-unlikely-75-year-bond.jpg"
 ---

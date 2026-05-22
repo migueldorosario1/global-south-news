@@ -2,7 +2,7 @@
 title: "Top UN court rules workers’ right to strike ‘protected’ in key treaty"
 description: "Top UN court rules workers’ right to strike ‘protected’ in key treaty The nonbinding ruling is expected to be hailed as a victory by workers’ groups and influence global labour rel"
 pubDate: "2026-05-21T18:37:02Z"
-draft: false
+draft: true
 tags: ["multipolar-world", "human-rights", "labour-laws", "global-relations", "global-south", "west-asia", "ai", "asia"]
 heroImage: "/hero/smoke-brief-202605211837-top-un-court-rules-workers-right-to-strike-protected-in-key-treaty.jpeg"
 ---

@@ -2,7 +2,7 @@
 title: "UN adopts resolution supporting international court’s climate ruling"
 description: "UN adopts resolution supporting international court’s climate ruling 141 UN member states voted in support of the ICJ’s finding climate change is an ‘existential threat’. The Unite"
 pubDate: "2026-05-21T09:37:02Z"
-draft: false
+draft: true
 tags: ["multipolar-world", "climate", "law", "justice", "west-asia", "russia", "shipping", "port", "ai", "asia", "iran", "yemen"]
 heroImage: "/hero/smoke-brief-202605210937-un-adopts-resolution-supporting-international-courts-climate-ruling.jpg"
 ---

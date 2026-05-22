@@ -2,7 +2,7 @@
 title: "Malian refugees in Mauritania bear deep physical and psychological scars"
 description: "Colonel Assimi Goita At a healthcare centre in eastern Mauritania, humanitarian teams are treating a steady flow of Malian refugees suffering from both physical injuries and severe"
 pubDate: "2026-05-21T03:37:02Z"
-draft: false
+draft: true
 tags: ["multipolar-world", "africa", "refugees", "health", "ai"]
 heroImage: "/hero/smoke-brief-202605210337-malian-refugees-in-mauritania-bear-deep-physical-and-psychological-scars.jpg"
 ---

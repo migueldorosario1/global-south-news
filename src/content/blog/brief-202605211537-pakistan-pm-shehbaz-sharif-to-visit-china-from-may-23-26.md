@@ -2,7 +2,7 @@
 title: "Pakistan PM Shehbaz Sharif to visit China from May 23-26"
 description: "Pakistan Prime Minister Shehbaz Sharif will visit Beijing from Saturday (May 23, 2026) to Tuesday (May 26, 2026) for talks, the Chinese Foreign Ministry said, without specifying wh"
 pubDate: "2026-05-21T15:37:03Z"
-draft: false
+draft: true
 tags: ["multipolar-world", "asia", "diplomacy", "conflict-resolution", "china", "russia", "port", "oil", "wind", "ai", "pakistan", "west-asia", "iran", "gulf"]
 heroImage: "/hero/smoke-brief-202605211537-pakistan-pm-shehbaz-sharif-to-visit-china-from-may-23-26.jpg"
 ---

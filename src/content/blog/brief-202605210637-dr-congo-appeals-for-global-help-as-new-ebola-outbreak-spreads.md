@@ -2,7 +2,7 @@
 title: "DR Congo appeals for global help as new Ebola outbreak spreads"
 description: "Democratic Republic Of Congo Health officials in the Democratic Republic of the Congo are racing to contain a new Ebola outbreak, as medical teams establish quarantine zones in den"
 pubDate: "2026-05-21T06:37:02Z"
-draft: false
+draft: true
 tags: ["multipolar-world", "health-public", "africa", "port", "ai"]
 heroImage: "/hero/smoke-brief-202605210637-dr-congo-appeals-for-global-help-as-new-ebola-outbreak-spreads.jpg"
 ---
