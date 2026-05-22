@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-22T06:37:27.537Z
+Atualizado em: 2026-05-22T09:38:24.717Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 3
+Materias com bloqueio acumulado: 7
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -11,6 +11,7 @@ Materias com bloqueio acumulado: 3
 - brief-202605191837-cuatro-mil-paciente-renales-murieron-en-ecuador-por-falta-de-dialisis.md: auditoria reteve brief-202605191837-cuatro-mil-paciente-renales-murieron-en-ecuador-por-falta-de-dialisis.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"A auditoria não identificou nenhuma contradição interna, acusação grave sem apoio, data impossível, título desonesto ou aviso interno de rascunh
 - brief-202605202137-somaliland-to-open-first-ever-embassy-in-jerusalem.md: auditoria reteve brief-202605202137-somaliland-to-open-first-ever-embassy-in-jerusalem.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma breve resumo da notícia, menciona a fonte e a notícia em si não apresenta nenhuma contradição interna, acusação grave sem apoio ou informação i
 - brief-202605212137-fuel-crisis-threatens-to-bring-malawi-to-a-standstill.md: auditoria reteve brief-202605212137-fuel-crisis-threatens-to-bring-malawi-to-a-standstill.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"A auditoria não identificou nenhuma contradição interna, acusação grave sem apoio, data impossível, título desonesto ou aviso interno de rascunho.","fix":""},{"
-
-## Publicadas nesta rodada
-- brief-202605220637-economia-china-resiliente-con-industria-tecnologica-en-alza.md
+- brief-202605220937-we-are-not-for-sale-greenlanders-protest-growing-us-presence-in-nuuk.md: auditoria reteve brief-202605220937-we-are-not-for-sale-greenlanders-protest-growing-us-presence-in-nuuk.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"aud
+- brief-202605220637-economia-china-resiliente-con-industria-tecnologica-en-alza.md: auditoria reteve brief-202605220637-economia-china-resiliente-con-industria-tecnologica-en-alza.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"de
+- brief-202605220337-chile-es-ultimo-entre-37-paises-en-bienestar-infantil-dice-unicef.md: auditoria reteve brief-202605220337-chile-es-ultimo-entre-37-paises-en-bienestar-infantil-dice-unicef.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audito
+- undefined: limite de auditoria da rodada atingido (3/3); aguardando proximo ciclo
