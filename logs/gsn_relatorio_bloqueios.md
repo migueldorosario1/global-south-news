@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-22T18:37:38.138Z
+Atualizado em: 2026-05-22T21:37:34.155Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 10
+Materias com bloqueio acumulado: 11
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -18,3 +18,4 @@ Materias com bloqueio acumulado: 10
 - brief-202605221237-primer-ministro-de-pakistan-viajara-manana-a-china.md: auditoria reteve brief-202605221237-primer-ministro-de-pakistan-viajara-manana-a-china.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepseek","
 - brief-202605221537-pakistan-to-issue-commemorative-coin-to-mark-75-years-of-ties-with-china.md: auditoria reteve brief-202605221537-pakistan-to-issue-commemorative-coin-to-mark-75-years-of-ties-with-china.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{
 - brief-202605221837-who-raises-ebola-health-risk-to-very-high-in-dr-congo.md: auditoria reteve brief-202605221837-who-raises-ebola-health-risk-to-very-high-in-dr-congo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepseek
+- brief-202605222137-crisis-de-asequibilidad-de-la-vivienda-empeora-en-el-mundo.md: auditoria reteve brief-202605222137-crisis-de-asequibilidad-de-la-vivienda-empeora-en-el-mundo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"dee
