@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-22T09:38:24.717Z
+Atualizado em: 2026-05-22T12:37:39.941Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 7
+Materias com bloqueio acumulado: 8
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -15,3 +15,4 @@ Materias com bloqueio acumulado: 7
 - brief-202605220637-economia-china-resiliente-con-industria-tecnologica-en-alza.md: auditoria reteve brief-202605220637-economia-china-resiliente-con-industria-tecnologica-en-alza.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"de
 - brief-202605220337-chile-es-ultimo-entre-37-paises-en-bienestar-infantil-dice-unicef.md: auditoria reteve brief-202605220337-chile-es-ultimo-entre-37-paises-en-bienestar-infantil-dice-unicef.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audito
 - undefined: limite de auditoria da rodada atingido (3/3); aguardando proximo ciclo
+- brief-202605221237-primer-ministro-de-pakistan-viajara-manana-a-china.md: auditoria reteve brief-202605221237-primer-ministro-de-pakistan-viajara-manana-a-china.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepseek","
