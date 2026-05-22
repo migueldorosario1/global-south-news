@@ -2,7 +2,7 @@
 title: "Chile es último entre 37 países en bienestar infantil, dice Unicef"
 description: "El informe titulado “Desigualdad de oportunidades: niños, niñas y adolescentes en desigualdad económica” fue elaborado por la oficina de investigación Innocenti, del Fondo de Nacio"
 pubDate: "2026-05-22T03:37:02Z"
-draft: false
+draft: true
 tags: ["multipolar-world", "health-public", "latin-america", "development", "port", "ai"]
 heroImage: "/hero/smoke-brief-202605220337-chile-es-ultimo-entre-37-paises-en-bienestar-infantil-dice-unicef.jpg"
 ---

@@ -2,7 +2,7 @@
 title: "Economía china resiliente con industria tecnológica en alza"
 description: "La portavoz de la Comisión Nacional de Desarrollo y Reforma, Li Chao, señaló que las variaciones respondieron al aumento de la incertidumbre externa, los riesgos geopolíticos y las"
 pubDate: "2026-05-22T06:37:03Z"
-draft: false
+draft: true
 tags: ["multipolar-world", "asia", "development", "technology", "latin-america", "china", "port", "ai", "asean"]
 heroImage: "/hero/smoke-brief-202605220637-economia-china-resiliente-con-industria-tecnologica-en-alza.jpg"
 ---
