@@ -536,12 +536,51 @@ async function askModelAuditor(auditor, article) {
   }
 }
 
+const METAlanguage_PATTERNS = [
+  { regex: /Editorial queue brief/i, reason: "placeholder 'Editorial queue brief'" },
+  { regex: /Review headline,? category and image/i, reason: "placeholder 'Review headline'" },
+  { regex: /before final publication/i, reason: "placeholder 'before final publication'" },
+  { regex: /selected this item from its international monitoring queue/i, reason: "placeholder monitoring queue" },
+  { regex: /This brief is intentionally concise and original/i, reason: "placeholder 'intentionally concise'" },
+  { regex: /The item should be expanded by the editorial writer/i, reason: "placeholder 'expanded by editorial writer'" },
+  { regex: /As an? (AI|language model|artificial intelligence)/i, reason: "metalinguagem 'As an AI'" },
+  { regex: /I (cannot|apologize|'m sorry|am unable)/i, reason: "metalinguagem 'I cannot/apologize'" },
+  { regex: /(Here|Below) is (the|your) (article|text|summary|response)/i, reason: "metalinguagem 'Here is the article'" },
+  { regex: /I hope (this|you|it) (helps|find|enjoy)/i, reason: "metalinguagem 'I hope this helps'" },
+  { regex: /Please note that/i, reason: "metalinguagem 'Please note that'" },
+  { regex: /It is important to (note|remember|mention)/i, reason: "metalinguagem 'It is important to'" },
+  { regex: /TITLE:|EDITORIAL:|SYS_PROMPT|SYSTEM:/i, reason: "prompt vazado (TITLE/EDITORIAL/SYS)" },
+  { regex: /Write (a|an|the) (article|summary|response|text)/i, reason: "prompt vazado 'Write an article'" },
+  { regex: /You are a (senior|copy|editor|writer|journalist)/i, reason: "prompt vazado 'You are a writer'" },
+  { regex: /```json|```html|```markdown/i, reason: "markdown residual (```)" },
+  { regex: /\(\[.*?\]\(https?:\/\/.*?\)\)/i, reason: "citação IA crua ([site](url))" }
+];
+
 function localVotes(article, warnings) {
-  const textOk = article.body.length > 900 && !article.body.includes('Rascunho técnico') && !article.body.includes('Fonte para revisão');
+  const textToCheck = `${article.title}\n${article.description}\n${article.body}`;
+  const foundMetalanguage = [];
+  for (const pattern of METAlanguage_PATTERNS) {
+    if (pattern.regex.test(textToCheck)) {
+      foundMetalanguage.push(pattern.reason);
+    }
+  }
+  const hasMetalanguage = foundMetalanguage.length > 0;
+
+  const textOk = article.body.length > 900 && 
+                 !article.body.includes('Rascunho técnico') && 
+                 !article.body.includes('Fonte para revisão') &&
+                 !hasMetalanguage;
   const categoryOk = warnings.length === 0 || warnings.every((warning) => warning === 'titulo longo');
   const imageOk = !article.imageSize.startsWith('0x') && Number(article.imageSize.split('x')[0]) >= 600;
+
+  const textReason = !textOk 
+    ? (hasMetalanguage 
+        ? `metalinguagem detectada: ${foundMetalanguage.join(', ')}` 
+        : 'texto muito curto ou contendo marcadores de rascunho')
+    : 'texto e categorias aceitaveis';
+
   return [
-    { auditor: 'codex-texto-categoria', ok: textOk && categoryOk, reason: textOk && categoryOk ? 'texto e categorias aceitaveis' : 'texto/categoria precisa revisao' },
+    { auditor: 'codex-texto-categoria', ok: textOk && categoryOk, reason: textOk && categoryOk ? 'texto e categorias aceitaveis' : `texto/categoria precisa revisao (${textReason})` },
     { auditor: 'codex-imagem-fonte', ok: imageOk, reason: imageOk ? 'imagem destacada aceitavel' : 'imagem destacada insuficiente' },
   ];
 }
