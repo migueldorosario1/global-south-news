@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-23T00:37:34.914Z
+Atualizado em: 2026-05-23T03:37:32.609Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 12
+Materias com bloqueio acumulado: 13
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -20,3 +20,4 @@ Materias com bloqueio acumulado: 12
 - brief-202605221837-who-raises-ebola-health-risk-to-very-high-in-dr-congo.md: auditoria reteve brief-202605221837-who-raises-ebola-health-risk-to-very-high-in-dr-congo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepseek
 - brief-202605222137-crisis-de-asequibilidad-de-la-vivienda-empeora-en-el-mundo.md: auditoria reteve brief-202605222137-crisis-de-asequibilidad-de-la-vivienda-empeora-en-el-mundo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"dee
 - brief-202605230037-pakistan-military-chief-asim-munir-arrives-in-tehran-in-push-to-end-iran-war.md: auditoria reteve brief-202605230037-pakistan-military-chief-asim-munir-arrives-in-tehran-in-push-to-end-iran-war.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); voto
+- brief-202605230337-indonesia-tightens-control-over-key-commodities-in-major-trade-takeover-influencing-global-expor.md: auditoria reteve brief-202605230337-indonesia-tightens-control-over-key-commodities-in-major-trade-takeover-influencing-global-expor.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by edit
