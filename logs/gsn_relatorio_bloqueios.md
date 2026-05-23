@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-22T21:37:34.155Z
+Atualizado em: 2026-05-23T00:37:34.914Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 11
+Materias com bloqueio acumulado: 12
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -19,3 +19,4 @@ Materias com bloqueio acumulado: 11
 - brief-202605221537-pakistan-to-issue-commemorative-coin-to-mark-75-years-of-ties-with-china.md: auditoria reteve brief-202605221537-pakistan-to-issue-commemorative-coin-to-mark-75-years-of-ties-with-china.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{
 - brief-202605221837-who-raises-ebola-health-risk-to-very-high-in-dr-congo.md: auditoria reteve brief-202605221837-who-raises-ebola-health-risk-to-very-high-in-dr-congo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepseek
 - brief-202605222137-crisis-de-asequibilidad-de-la-vivienda-empeora-en-el-mundo.md: auditoria reteve brief-202605222137-crisis-de-asequibilidad-de-la-vivienda-empeora-en-el-mundo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"dee
+- brief-202605230037-pakistan-military-chief-asim-munir-arrives-in-tehran-in-push-to-end-iran-war.md: auditoria reteve brief-202605230037-pakistan-military-chief-asim-munir-arrives-in-tehran-in-push-to-end-iran-war.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); voto
