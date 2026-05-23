@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-23T03:37:32.609Z
+Atualizado em: 2026-05-23T06:37:38.667Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 13
+Materias com bloqueio acumulado: 14
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -21,3 +21,4 @@ Materias com bloqueio acumulado: 13
 - brief-202605222137-crisis-de-asequibilidad-de-la-vivienda-empeora-en-el-mundo.md: auditoria reteve brief-202605222137-crisis-de-asequibilidad-de-la-vivienda-empeora-en-el-mundo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"dee
 - brief-202605230037-pakistan-military-chief-asim-munir-arrives-in-tehran-in-push-to-end-iran-war.md: auditoria reteve brief-202605230037-pakistan-military-chief-asim-munir-arrives-in-tehran-in-push-to-end-iran-war.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); voto
 - brief-202605230337-indonesia-tightens-control-over-key-commodities-in-major-trade-takeover-influencing-global-expor.md: auditoria reteve brief-202605230337-indonesia-tightens-control-over-key-commodities-in-major-trade-takeover-influencing-global-expor.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by edit
+- brief-202605230637-lula-ve-tierras-raras-como-asunto-de-soberania-y-seguridad-nacional.md: auditoria reteve brief-202605230637-lula-ve-tierras-raras-como-asunto-de-soberania-y-seguridad-nacional.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audi
