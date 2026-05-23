@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-23T12:37:35.632Z
+Atualizado em: 2026-05-23T15:37:34.515Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 16
+Materias com bloqueio acumulado: 17
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -24,3 +24,4 @@ Materias com bloqueio acumulado: 16
 - brief-202605230637-lula-ve-tierras-raras-como-asunto-de-soberania-y-seguridad-nacional.md: auditoria reteve brief-202605230637-lula-ve-tierras-raras-como-asunto-de-soberania-y-seguridad-nacional.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audi
 - brief-202605230937-drc-officials-warn-chains-of-ebola-transmission-still-active-as-they-race-to-contain-outbreak.md: auditoria reteve brief-202605230937-drc-officials-warn-chains-of-ebola-transmission-still-active-as-they-race-to-contain-outbreak.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editori
 - brief-202605231237-pakistan-prime-minister-shehbaz-sharif-leaves-for-china-for-four-day-visit.md: auditoria reteve brief-202605231237-pakistan-prime-minister-shehbaz-sharif-leaves-for-china-for-four-day-visit.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=
+- brief-202605231537-china-lanzara-la-mision-tripulada-shenzhou-23-este-domingo.md: auditoria reteve brief-202605231537-china-lanzara-la-mision-tripulada-shenzhou-23-este-domingo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"dee
