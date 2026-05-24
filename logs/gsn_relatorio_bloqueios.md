@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-24T09:37:32.294Z
+Atualizado em: 2026-05-24T12:38:30.317Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 23
+Materias com bloqueio acumulado: 24
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -31,3 +31,4 @@ Materias com bloqueio acumulado: 23
 - brief-202605240337-china-to-send-astronaut-on-year-long-space-mission-as-it-eyes-2030-moon-landing.md: auditoria reteve brief-202605240337-china-to-send-astronaut-on-year-long-space-mission-as-it-eyes-2030-moon-landing.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); v
 - brief-202605240637-uganda-confirms-three-new-ebola-cases-bringing-total-to-five.md: auditoria reteve brief-202605240637-uganda-confirms-three-new-ebola-cases-bringing-total-to-five.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"d
 - brief-202605240937-concern-and-caution-in-drc-as-ebola-risk-at-highest-level.md: auditoria reteve brief-202605240937-concern-and-caution-in-drc-as-ebola-risk-at-highest-level.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deep
+- brief-202605241237-ven-posible-crear-un-millon-de-empresas-unipersonales-en-vietnam.md: auditoria reteve brief-202605241237-ven-posible-crear-un-millon-de-empresas-unipersonales-en-vietnam.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor
