@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-24T00:37:34.636Z
+Atualizado em: 2026-05-24T03:37:34.933Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 20
+Materias com bloqueio acumulado: 21
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -28,3 +28,4 @@ Materias com bloqueio acumulado: 20
 - brief-202605231837-colombia-exportara-a-eeuu-cafe-producido-en-antiguos-terrenos-de-coca.md: auditoria reteve brief-202605231837-colombia-exportara-a-eeuu-cafe-producido-en-antiguos-terrenos-de-coca.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"au
 - brief-202605232137-pakistan-army-chief-munir-and-iran-fm-araghchi-hold-talks-in-tehran-to-end-west-asia-conflict.md: auditoria reteve brief-202605232137-pakistan-army-chief-munir-and-iran-fm-araghchi-hold-talks-in-tehran-to-end-west-asia-conflict.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editori
 - brief-202605240037-conference-at-un-to-review-nuclear-non-proliferation-treaty-fails-to-reach-agreement.md: auditoria reteve brief-202605240037-conference-at-un-to-review-nuclear-non-proliferation-treaty-fails-to-reach-agreement.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer
+- brief-202605240337-china-to-send-astronaut-on-year-long-space-mission-as-it-eyes-2030-moon-landing.md: auditoria reteve brief-202605240337-china-to-send-astronaut-on-year-long-space-mission-as-it-eyes-2030-moon-landing.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); v
