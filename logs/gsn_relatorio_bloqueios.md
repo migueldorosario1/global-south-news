@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-24T06:37:32.473Z
+Atualizado em: 2026-05-24T09:37:32.294Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 22
+Materias com bloqueio acumulado: 23
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -30,3 +30,4 @@ Materias com bloqueio acumulado: 22
 - brief-202605240037-conference-at-un-to-review-nuclear-non-proliferation-treaty-fails-to-reach-agreement.md: auditoria reteve brief-202605240037-conference-at-un-to-review-nuclear-non-proliferation-treaty-fails-to-reach-agreement.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer
 - brief-202605240337-china-to-send-astronaut-on-year-long-space-mission-as-it-eyes-2030-moon-landing.md: auditoria reteve brief-202605240337-china-to-send-astronaut-on-year-long-space-mission-as-it-eyes-2030-moon-landing.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); v
 - brief-202605240637-uganda-confirms-three-new-ebola-cases-bringing-total-to-five.md: auditoria reteve brief-202605240637-uganda-confirms-three-new-ebola-cases-bringing-total-to-five.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"d
+- brief-202605240937-concern-and-caution-in-drc-as-ebola-risk-at-highest-level.md: auditoria reteve brief-202605240937-concern-and-caution-in-drc-as-ebola-risk-at-highest-level.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deep
