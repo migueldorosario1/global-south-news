@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-24T15:38:19.684Z
+Atualizado em: 2026-05-24T18:37:33.176Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 25
+Materias com bloqueio acumulado: 26
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -33,3 +33,4 @@ Materias com bloqueio acumulado: 25
 - brief-202605240937-concern-and-caution-in-drc-as-ebola-risk-at-highest-level.md: auditoria reteve brief-202605240937-concern-and-caution-in-drc-as-ebola-risk-at-highest-level.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deep
 - brief-202605241237-ven-posible-crear-un-millon-de-empresas-unipersonales-en-vietnam.md: auditoria reteve brief-202605241237-ven-posible-crear-un-millon-de-empresas-unipersonales-en-vietnam.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor
 - brief-202605241537-cumbre-nacional-sobre-soberania-estadistica-marco-semana-en-etiopia.md: auditoria reteve brief-202605241537-cumbre-nacional-sobre-soberania-estadistica-marco-semana-en-etiopia.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audi
+- brief-202605241837-chile-convoca-encuentro-regional-contra-la-delincuencia-transnacional.md: auditoria reteve brief-202605241837-chile-convoca-encuentro-regional-contra-la-delincuencia-transnacional.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"au
