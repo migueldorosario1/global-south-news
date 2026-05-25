@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-25T09:37:38.051Z
+Atualizado em: 2026-05-25T12:37:36.495Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 31
+Materias com bloqueio acumulado: 32
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -39,3 +39,4 @@ Materias com bloqueio acumulado: 31
 - brief-202605250337-oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal.md: auditoria reteve brief-202605250337-oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deeps
 - brief-202605250637-former-finance-minister-romuald-wadagni-sworn-is-as-benin-s-new-president.md: auditoria reteve brief-202605250637-former-finance-minister-romuald-wadagni-sworn-is-as-benin-s-new-president.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[
 - brief-202605250937-singapores-economy-beats-expectations-as-govt-warns-of-iran-war-fallout.md: auditoria reteve brief-202605250937-singapores-economy-beats-expectations-as-govt-warns-of-iran-war-fallout.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"
+- brief-202605251237-dr-congo-struggles-to-isolate-patients-suspected-of-having-ebola.md: auditoria reteve brief-202605251237-dr-congo-struggles-to-isolate-patients-suspected-of-having-ebola.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor
