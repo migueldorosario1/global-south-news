@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-25T18:37:37.631Z
+Atualizado em: 2026-05-25T21:37:37.096Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 34
+Materias com bloqueio acumulado: 35
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -42,3 +42,4 @@ Materias com bloqueio acumulado: 34
 - brief-202605251237-dr-congo-struggles-to-isolate-patients-suspected-of-having-ebola.md: auditoria reteve brief-202605251237-dr-congo-struggles-to-isolate-patients-suspected-of-having-ebola.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor
 - brief-202605251537-chinas-xi-praises-unbreakable-pakistan-ties-as-sharif-visits-beijing.md: auditoria reteve brief-202605251537-chinas-xi-praises-unbreakable-pakistan-ties-as-sharif-visits-beijing.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"aud
 - brief-202605251837-the-world-urgently-needs-a-us-iran-deal-now.md: auditoria reteve brief-202605251837-the-world-urgently-needs-a-us-iran-deal-now.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepseek","ok":nul
+- brief-202605252137-dominicana-y-ecuador-impulsan-acuerdo-comercial-y-alianza-energetica.md: auditoria reteve brief-202605252137-dominicana-y-ecuador-impulsan-acuerdo-comercial-y-alianza-energetica.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"aud
