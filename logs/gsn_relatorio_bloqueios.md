@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-25T03:37:29.017Z
+Atualizado em: 2026-05-25T06:37:27.165Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 29
+Materias com bloqueio acumulado: 30
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -37,3 +37,4 @@ Materias com bloqueio acumulado: 29
 - brief-202605242137-ebola-toll-tops-200-other-african-countries-seen-at-risk.md: auditoria reteve brief-202605242137-ebola-toll-tops-200-other-african-countries-seen-at-risk.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deeps
 - brief-202605250037-superan-obstaculos-para-desarrollar-vacunacion-en-amazonia-brasilena.md: auditoria reteve brief-202605250037-superan-obstaculos-para-desarrollar-vacunacion-en-amazonia-brasilena.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"aud
 - brief-202605250337-oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal.md: auditoria reteve brief-202605250337-oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deeps
+- brief-202605250637-former-finance-minister-romuald-wadagni-sworn-is-as-benin-s-new-president.md: auditoria reteve brief-202605250637-former-finance-minister-romuald-wadagni-sworn-is-as-benin-s-new-president.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[
