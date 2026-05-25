@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-24T21:37:31.894Z
+Atualizado em: 2026-05-25T00:37:36.259Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 27
+Materias com bloqueio acumulado: 28
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -35,3 +35,4 @@ Materias com bloqueio acumulado: 27
 - brief-202605241537-cumbre-nacional-sobre-soberania-estadistica-marco-semana-en-etiopia.md: auditoria reteve brief-202605241537-cumbre-nacional-sobre-soberania-estadistica-marco-semana-en-etiopia.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audi
 - brief-202605241837-chile-convoca-encuentro-regional-contra-la-delincuencia-transnacional.md: auditoria reteve brief-202605241837-chile-convoca-encuentro-regional-contra-la-delincuencia-transnacional.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"au
 - brief-202605242137-ebola-toll-tops-200-other-african-countries-seen-at-risk.md: auditoria reteve brief-202605242137-ebola-toll-tops-200-other-african-countries-seen-at-risk.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deeps
+- brief-202605250037-superan-obstaculos-para-desarrollar-vacunacion-en-amazonia-brasilena.md: auditoria reteve brief-202605250037-superan-obstaculos-para-desarrollar-vacunacion-en-amazonia-brasilena.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"aud
