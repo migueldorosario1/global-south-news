@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-26T15:37:35.173Z
+Atualizado em: 2026-05-26T18:37:38.346Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 41
+Materias com bloqueio acumulado: 42
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -49,3 +49,4 @@ Materias com bloqueio acumulado: 41
 - brief-202605260937-congo-throws-open-its-borders-to-africa.md: auditoria reteve brief-202605260937-congo-throws-open-its-borders-to-africa.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepseek","ok":null,"r
 - brief-202605261237-china-pakistan-aim-to-revamp-economic-corridor-gwadar-port.md: auditoria reteve brief-202605261237-china-pakistan-aim-to-revamp-economic-corridor-gwadar-port.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"dee
 - brief-202605261537-india-us-strike-critical-minerals-deal-whats-in-it-why-does-it-matter.md: auditoria reteve brief-202605261537-india-us-strike-critical-minerals-deal-whats-in-it-why-does-it-matter.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"au
+- brief-202605261837-sri-lanka-parliamentary-poll-president-anuras-ruling-coalition-wins-big.md: auditoria reteve brief-202605261837-sri-lanka-parliamentary-poll-president-anuras-ruling-coalition-wins-big.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"
