@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-26T00:37:38.177Z
+Atualizado em: 2026-05-26T03:37:36.367Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 36
+Materias com bloqueio acumulado: 37
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -44,3 +44,4 @@ Materias com bloqueio acumulado: 36
 - brief-202605251837-the-world-urgently-needs-a-us-iran-deal-now.md: auditoria reteve brief-202605251837-the-world-urgently-needs-a-us-iran-deal-now.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepseek","ok":nul
 - brief-202605252137-dominicana-y-ecuador-impulsan-acuerdo-comercial-y-alianza-energetica.md: auditoria reteve brief-202605252137-dominicana-y-ecuador-impulsan-acuerdo-comercial-y-alianza-energetica.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"aud
 - brief-202605260037-senegal-names-economist-lo-as-new-pm-after-sonko-s-sacking.md: auditoria reteve brief-202605260037-senegal-names-economist-lo-as-new-pm-after-sonko-s-sacking.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"dee
+- brief-202605260337-angola-aboga-por-acelerar-autonomia-financiera-de-union-africana.md: auditoria reteve brief-202605260337-angola-aboga-por-acelerar-autonomia-financiera-de-union-africana.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor
