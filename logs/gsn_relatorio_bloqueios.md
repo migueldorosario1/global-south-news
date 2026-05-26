@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-26T09:37:38.521Z
+Atualizado em: 2026-05-26T12:37:37.071Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 39
+Materias com bloqueio acumulado: 40
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -47,3 +47,4 @@ Materias com bloqueio acumulado: 39
 - brief-202605260337-angola-aboga-por-acelerar-autonomia-financiera-de-union-africana.md: auditoria reteve brief-202605260337-angola-aboga-por-acelerar-autonomia-financiera-de-union-africana.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor
 - brief-202605260637-canada-pm-carneys-visit-to-india-reset-ties-after-2023-killing-of-sikh-activist-piyush-goyal-say.md: auditoria reteve brief-202605260637-canada-pm-carneys-visit-to-india-reset-ties-after-2023-killing-of-sikh-activist-piyush-goyal-say.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by edit
 - brief-202605260937-congo-throws-open-its-borders-to-africa.md: auditoria reteve brief-202605260937-congo-throws-open-its-borders-to-africa.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepseek","ok":null,"r
+- brief-202605261237-china-pakistan-aim-to-revamp-economic-corridor-gwadar-port.md: auditoria reteve brief-202605261237-china-pakistan-aim-to-revamp-economic-corridor-gwadar-port.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"dee
