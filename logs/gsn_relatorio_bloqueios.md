@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-27T15:37:36.454Z
+Atualizado em: 2026-05-27T18:37:37.045Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 49
+Materias com bloqueio acumulado: 50
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -57,3 +57,4 @@ Materias com bloqueio acumulado: 49
 - brief-202605270937-africa-day-celebrations-spotlight-unity-youth-and-global-ambition.md: auditoria reteve brief-202605270937-africa-day-celebrations-spotlight-unity-youth-and-global-ambition.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audito
 - brief-202605271237-panama-ties-should-not-be-subject-to-third-party-interference-says-china.md: auditoria reteve brief-202605271237-panama-ties-should-not-be-subject-to-third-party-interference-says-china.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{
 - brief-202605271537-drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns.md: auditoria reteve brief-202605271537-drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audit
+- brief-202605271837-ecuador-fija-fecha-para-acto-de-disculpas-publicas-por-caso-malvinas.md: auditoria reteve brief-202605271837-ecuador-fija-fecha-para-acto-de-disculpas-publicas-por-caso-malvinas.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"aud
