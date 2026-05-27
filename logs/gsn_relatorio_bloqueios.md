@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-26T21:37:37.024Z
+Atualizado em: 2026-05-27T00:37:39.381Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 43
+Materias com bloqueio acumulado: 44
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -51,3 +51,4 @@ Materias com bloqueio acumulado: 43
 - brief-202605261537-india-us-strike-critical-minerals-deal-whats-in-it-why-does-it-matter.md: auditoria reteve brief-202605261537-india-us-strike-critical-minerals-deal-whats-in-it-why-does-it-matter.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"au
 - brief-202605261837-sri-lanka-parliamentary-poll-president-anuras-ruling-coalition-wins-big.md: auditoria reteve brief-202605261837-sri-lanka-parliamentary-poll-president-anuras-ruling-coalition-wins-big.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"
 - brief-202605262137-china-pakistan-agree-to-unswervingly-safeguard-bilateral-ties.md: auditoria reteve brief-202605262137-china-pakistan-agree-to-unswervingly-safeguard-bilateral-ties.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"
+- brief-202605270037-brasil-alcanza-por-primera-vez-indice-muy-alto-de-desarrollo-humano.md: auditoria reteve brief-202605270037-brasil-alcanza-por-primera-vez-indice-muy-alto-de-desarrollo-humano.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audi
