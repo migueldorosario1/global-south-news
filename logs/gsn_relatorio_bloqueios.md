@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-27T03:37:41.570Z
+Atualizado em: 2026-05-27T06:37:40.216Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 45
+Materias com bloqueio acumulado: 46
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -53,3 +53,4 @@ Materias com bloqueio acumulado: 45
 - brief-202605262137-china-pakistan-agree-to-unswervingly-safeguard-bilateral-ties.md: auditoria reteve brief-202605262137-china-pakistan-agree-to-unswervingly-safeguard-bilateral-ties.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"
 - brief-202605270037-brasil-alcanza-por-primera-vez-indice-muy-alto-de-desarrollo-humano.md: auditoria reteve brief-202605270037-brasil-alcanza-por-primera-vez-indice-muy-alto-de-desarrollo-humano.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audi
 - brief-202605270337-global-oil-price-gains-3-as-u-s-military-strikes-on-iran-add-to-peace-deal-uncertainty.md: auditoria reteve brief-202605270337-global-oil-price-gains-3-as-u-s-military-strikes-on-iran-add-to-peace-deal-uncertainty.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writ
+- brief-202605270637-fao-alerto-sobre-crisis-alimentaria-por-cierre-del-estrecho-de-ormuz.md: auditoria reteve brief-202605270637-fao-alerto-sobre-crisis-alimentaria-por-cierre-del-estrecho-de-ormuz.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"aud
