@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-27T18:37:37.045Z
+Atualizado em: 2026-05-27T21:37:37.161Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 50
+Materias com bloqueio acumulado: 51
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -58,3 +58,4 @@ Materias com bloqueio acumulado: 50
 - brief-202605271237-panama-ties-should-not-be-subject-to-third-party-interference-says-china.md: auditoria reteve brief-202605271237-panama-ties-should-not-be-subject-to-third-party-interference-says-china.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{
 - brief-202605271537-drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns.md: auditoria reteve brief-202605271537-drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audit
 - brief-202605271837-ecuador-fija-fecha-para-acto-de-disculpas-publicas-por-caso-malvinas.md: auditoria reteve brief-202605271837-ecuador-fija-fecha-para-acto-de-disculpas-publicas-por-caso-malvinas.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"aud
+- brief-202605272137-who-warns-of-catastrophic-collision-of-ebola-and-war-in-dr-congo.md: auditoria reteve brief-202605272137-who-warns-of-catastrophic-collision-of-ebola-and-war-in-dr-congo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor
