@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-28T09:37:36.454Z
+Atualizado em: 2026-05-28T12:37:37.149Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 55
+Materias com bloqueio acumulado: 56
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -63,3 +63,4 @@ Materias com bloqueio acumulado: 55
 - brief-202605280337-markets-rally-amid-hopes-of-us-iran-deal.md: auditoria reteve brief-202605280337-markets-rally-amid-hopes-of-us-iran-deal.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepseek","ok":null,"
 - brief-202605280637-uganda-shuts-border-with-dr-congo-in-a-bid-to-contain-ebola-outbreak.md: auditoria reteve brief-202605280637-uganda-shuts-border-with-dr-congo-in-a-bid-to-contain-ebola-outbreak.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"aud
 - brief-202605280937-morocco-tops-africas-industrialisation-index-for-first-time.md: auditoria reteve brief-202605280937-morocco-tops-africas-industrialisation-index-for-first-time.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"de
+- brief-202605281237-india-s-energy-investment-to-hit-170-billion-in-2026-on-solar-grid-and-refining-push-internation.md: auditoria reteve brief-202605281237-india-s-energy-investment-to-hit-170-billion-in-2026-on-solar-grid-and-refining-push-internation.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by edit
