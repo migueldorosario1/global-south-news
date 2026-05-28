@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-28T06:37:38.173Z
+Atualizado em: 2026-05-28T09:37:36.454Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 54
+Materias com bloqueio acumulado: 55
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -62,3 +62,4 @@ Materias com bloqueio acumulado: 54
 - brief-202605280037-uganda-closes-its-border-with-congo-as-cases-of-a-rare-ebola-type-surge.md: auditoria reteve brief-202605280037-uganda-closes-its-border-with-congo-as-cases-of-a-rare-ebola-type-surge.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"
 - brief-202605280337-markets-rally-amid-hopes-of-us-iran-deal.md: auditoria reteve brief-202605280337-markets-rally-amid-hopes-of-us-iran-deal.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepseek","ok":null,"
 - brief-202605280637-uganda-shuts-border-with-dr-congo-in-a-bid-to-contain-ebola-outbreak.md: auditoria reteve brief-202605280637-uganda-shuts-border-with-dr-congo-in-a-bid-to-contain-ebola-outbreak.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"aud
+- brief-202605280937-morocco-tops-africas-industrialisation-index-for-first-time.md: auditoria reteve brief-202605280937-morocco-tops-africas-industrialisation-index-for-first-time.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"de
