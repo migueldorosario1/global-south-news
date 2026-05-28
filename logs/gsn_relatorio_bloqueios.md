@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-28T15:37:38.200Z
+Atualizado em: 2026-05-28T18:37:37.927Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 57
+Materias com bloqueio acumulado: 58
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -65,3 +65,4 @@ Materias com bloqueio acumulado: 57
 - brief-202605280937-morocco-tops-africas-industrialisation-index-for-first-time.md: auditoria reteve brief-202605280937-morocco-tops-africas-industrialisation-index-for-first-time.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"de
 - brief-202605281237-india-s-energy-investment-to-hit-170-billion-in-2026-on-solar-grid-and-refining-push-internation.md: auditoria reteve brief-202605281237-india-s-energy-investment-to-hit-170-billion-in-2026-on-solar-grid-and-refining-push-internation.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by edit
 - brief-202605281537-global-temperatures-to-reach-near-record-highs-in-next-five-years-report-finds.md: auditoria reteve brief-202605281537-global-temperatures-to-reach-near-record-highs-in-next-five-years-report-finds.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); vo
+- brief-202605281837-us-treasury-threatens-oman-with-sanctions-over-hormuz-strait.md: auditoria reteve brief-202605281837-us-treasury-threatens-oman-with-sanctions-over-hormuz-strait.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"d
