@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-28T00:37:38.940Z
+Atualizado em: 2026-05-28T03:37:33.769Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 52
+Materias com bloqueio acumulado: 53
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -60,3 +60,4 @@ Materias com bloqueio acumulado: 52
 - brief-202605271837-ecuador-fija-fecha-para-acto-de-disculpas-publicas-por-caso-malvinas.md: auditoria reteve brief-202605271837-ecuador-fija-fecha-para-acto-de-disculpas-publicas-por-caso-malvinas.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"aud
 - brief-202605272137-who-warns-of-catastrophic-collision-of-ebola-and-war-in-dr-congo.md: auditoria reteve brief-202605272137-who-warns-of-catastrophic-collision-of-ebola-and-war-in-dr-congo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor
 - brief-202605280037-uganda-closes-its-border-with-congo-as-cases-of-a-rare-ebola-type-surge.md: auditoria reteve brief-202605280037-uganda-closes-its-border-with-congo-as-cases-of-a-rare-ebola-type-surge.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"
+- brief-202605280337-markets-rally-amid-hopes-of-us-iran-deal.md: auditoria reteve brief-202605280337-markets-rally-amid-hopes-of-us-iran-deal.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepseek","ok":null,"
