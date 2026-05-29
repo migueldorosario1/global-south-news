@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-28T21:37:34.917Z
+Atualizado em: 2026-05-29T00:37:39.729Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 59
+Materias com bloqueio acumulado: 60
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -67,3 +67,4 @@ Materias com bloqueio acumulado: 59
 - brief-202605281537-global-temperatures-to-reach-near-record-highs-in-next-five-years-report-finds.md: auditoria reteve brief-202605281537-global-temperatures-to-reach-near-record-highs-in-next-five-years-report-finds.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); vo
 - brief-202605281837-us-treasury-threatens-oman-with-sanctions-over-hormuz-strait.md: auditoria reteve brief-202605281837-us-treasury-threatens-oman-with-sanctions-over-hormuz-strait.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"d
 - brief-202605282137-global-warming-predicted-to-speed-up-in-next-5-years-surge-past-1-5c-temperature-limit.md: auditoria reteve brief-202605282137-global-warming-predicted-to-speed-up-in-next-5-years-surge-past-1-5c-temperature-limit.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writ
+- brief-202605290037-dr-congo-suspected-ebola-cases-near-1-000-with-at-least-220-deaths.md: auditoria reteve brief-202605290037-dr-congo-suspected-ebola-cases-near-1-000-with-at-least-220-deaths.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audit
