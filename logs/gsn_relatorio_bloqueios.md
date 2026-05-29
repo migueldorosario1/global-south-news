@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-29T15:37:35.538Z
+Atualizado em: 2026-05-29T18:37:32.505Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 65
+Materias com bloqueio acumulado: 66
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -73,3 +73,4 @@ Materias com bloqueio acumulado: 65
 - brief-202605290937-russia-signs-agreement-to-build-first-nuclear-power-plant-in-kazakhstan.md: auditoria reteve brief-202605290937-russia-signs-agreement-to-build-first-nuclear-power-plant-in-kazakhstan.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"
 - brief-202605291237-south-koreas-sk-hynix-enters-exclusive-1-trillion-club.md: auditoria reteve brief-202605291237-south-koreas-sk-hynix-enters-exclusive-1-trillion-club.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepsee
 - brief-202605291537-who-chief-lands-in-congo-to-address-rare-ebola-outbreak-amid-distrust-and-insecurity.md: auditoria reteve brief-202605291537-who-chief-lands-in-congo-to-address-rare-ebola-outbreak-amid-distrust-and-insecurity.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer
+- brief-202605291837-india-u-s-ties-have-limitless-potential-says-ambassador-sergio-gor.md: auditoria reteve brief-202605291837-india-u-s-ties-have-limitless-potential-says-ambassador-sergio-gor.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audit
