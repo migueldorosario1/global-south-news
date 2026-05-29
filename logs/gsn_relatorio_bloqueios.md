@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-29T06:37:37.541Z
+Atualizado em: 2026-05-29T09:37:37.096Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 62
+Materias com bloqueio acumulado: 63
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -70,3 +70,4 @@ Materias com bloqueio acumulado: 62
 - brief-202605290037-dr-congo-suspected-ebola-cases-near-1-000-with-at-least-220-deaths.md: auditoria reteve brief-202605290037-dr-congo-suspected-ebola-cases-near-1-000-with-at-least-220-deaths.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audit
 - brief-202605290337-hottest-year-on-record-almost-certain-to-occur-by-end-of-2030-un-warns.md: auditoria reteve brief-202605290337-hottest-year-on-record-almost-certain-to-occur-by-end-of-2030-un-warns.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"a
 - brief-202605290637-u-s-imposes-fresh-sanctions-on-irans-military-oil-sales-says-treasury.md: auditoria reteve brief-202605290637-u-s-imposes-fresh-sanctions-on-irans-military-oil-sales-says-treasury.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"au
+- brief-202605290937-russia-signs-agreement-to-build-first-nuclear-power-plant-in-kazakhstan.md: auditoria reteve brief-202605290937-russia-signs-agreement-to-build-first-nuclear-power-plant-in-kazakhstan.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"
