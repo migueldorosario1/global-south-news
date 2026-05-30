@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-30T18:37:36.740Z
+Atualizado em: 2026-05-30T21:38:10.975Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 74
+Materias com bloqueio acumulado: 75
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -82,3 +82,4 @@ Materias com bloqueio acumulado: 74
 - brief-202605301237-rusia-e-india-dialogaron-sobre-cooperacion-maritima-bilateral.md: auditoria reteve brief-202605301237-rusia-e-india-dialogaron-sobre-cooperacion-maritima-bilateral.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"
 - brief-202605301537-who-chief-lands-in-eastern-congo-s-ituri-province-epicentre-of-ebola-as-outbreak-outpaces-respon.md: auditoria reteve brief-202605301537-who-chief-lands-in-eastern-congo-s-ituri-province-epicentre-of-ebola-as-outbreak-outpaces-respon.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by edit
 - brief-202605301837-confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo.md: auditoria reteve brief-202605301837-confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{
+- brief-202605302137-defence-secretary-meets-officials-from-australia-eu-netherlands-in-singapore.md: auditoria reteve brief-202605302137-defence-secretary-meets-officials-from-australia-eu-netherlands-in-singapore.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); voto
