@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-29T21:37:40.079Z
+Atualizado em: 2026-05-30T00:37:40.040Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 67
+Materias com bloqueio acumulado: 68
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -75,3 +75,4 @@ Materias com bloqueio acumulado: 67
 - brief-202605291537-who-chief-lands-in-congo-to-address-rare-ebola-outbreak-amid-distrust-and-insecurity.md: auditoria reteve brief-202605291537-who-chief-lands-in-congo-to-address-rare-ebola-outbreak-amid-distrust-and-insecurity.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer
 - brief-202605291837-india-u-s-ties-have-limitless-potential-says-ambassador-sergio-gor.md: auditoria reteve brief-202605291837-india-u-s-ties-have-limitless-potential-says-ambassador-sergio-gor.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audit
 - brief-202605292137-race-against-ebola-unicef-who-and-eu-rush-aid-to-congo.md: auditoria reteve brief-202605292137-race-against-ebola-unicef-who-and-eu-rush-aid-to-congo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepsee
+- brief-202605300037-china-vows-to-support-cuba-against-power-politics-and-bullying.md: auditoria reteve brief-202605300037-china-vows-to-support-cuba-against-power-politics-and-bullying.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":
