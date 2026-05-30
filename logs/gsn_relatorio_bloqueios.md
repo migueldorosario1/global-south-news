@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-30T12:38:29.466Z
+Atualizado em: 2026-05-30T15:37:39.298Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 72
+Materias com bloqueio acumulado: 73
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -80,3 +80,4 @@ Materias com bloqueio acumulado: 72
 - brief-202605300637-lideres-de-china-y-egipto-saludan-70-anos-de-nexos-diplomaticos.md: auditoria reteve brief-202605300637-lideres-de-china-y-egipto-saludan-70-anos-de-nexos-diplomaticos.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor"
 - brief-202605300937-rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance.md: auditoria reteve brief-202605300937-rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"au
 - brief-202605301237-rusia-e-india-dialogaron-sobre-cooperacion-maritima-bilateral.md: auditoria reteve brief-202605301237-rusia-e-india-dialogaron-sobre-cooperacion-maritima-bilateral.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"
+- brief-202605301537-who-chief-lands-in-eastern-congo-s-ituri-province-epicentre-of-ebola-as-outbreak-outpaces-respon.md: auditoria reteve brief-202605301537-who-chief-lands-in-eastern-congo-s-ituri-province-epicentre-of-ebola-as-outbreak-outpaces-respon.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by edit
