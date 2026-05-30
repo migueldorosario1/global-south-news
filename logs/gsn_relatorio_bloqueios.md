@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-30T00:37:40.040Z
+Atualizado em: 2026-05-30T03:38:32.898Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 68
+Materias com bloqueio acumulado: 69
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -76,3 +76,4 @@ Materias com bloqueio acumulado: 68
 - brief-202605291837-india-u-s-ties-have-limitless-potential-says-ambassador-sergio-gor.md: auditoria reteve brief-202605291837-india-u-s-ties-have-limitless-potential-says-ambassador-sergio-gor.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"audit
 - brief-202605292137-race-against-ebola-unicef-who-and-eu-rush-aid-to-congo.md: auditoria reteve brief-202605292137-race-against-ebola-unicef-who-and-eu-rush-aid-to-congo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepsee
 - brief-202605300037-china-vows-to-support-cuba-against-power-politics-and-bullying.md: auditoria reteve brief-202605300037-china-vows-to-support-cuba-against-power-politics-and-bullying.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":
+- brief-202605300337-nueva-carretera-beneficiara-a-mas-de-300-mil-dominicanos-del-sur.md: auditoria reteve brief-202605300337-nueva-carretera-beneficiara-a-mas-de-300-mil-dominicanos-del-sur.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor
