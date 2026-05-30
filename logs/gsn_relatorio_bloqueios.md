@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-30T09:37:36.566Z
+Atualizado em: 2026-05-30T12:38:29.466Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 71
+Materias com bloqueio acumulado: 72
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -79,3 +79,4 @@ Materias com bloqueio acumulado: 71
 - brief-202605300337-nueva-carretera-beneficiara-a-mas-de-300-mil-dominicanos-del-sur.md: auditoria reteve brief-202605300337-nueva-carretera-beneficiara-a-mas-de-300-mil-dominicanos-del-sur.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor
 - brief-202605300637-lideres-de-china-y-egipto-saludan-70-anos-de-nexos-diplomaticos.md: auditoria reteve brief-202605300637-lideres-de-china-y-egipto-saludan-70-anos-de-nexos-diplomaticos.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor"
 - brief-202605300937-rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance.md: auditoria reteve brief-202605300937-rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"au
+- brief-202605301237-rusia-e-india-dialogaron-sobre-cooperacion-maritima-bilateral.md: auditoria reteve brief-202605301237-rusia-e-india-dialogaron-sobre-cooperacion-maritima-bilateral.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"
