@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-30T21:38:10.975Z
+Atualizado em: 2026-05-31T00:37:39.332Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 75
+Materias com bloqueio acumulado: 76
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -83,3 +83,4 @@ Materias com bloqueio acumulado: 75
 - brief-202605301537-who-chief-lands-in-eastern-congo-s-ituri-province-epicentre-of-ebola-as-outbreak-outpaces-respon.md: auditoria reteve brief-202605301537-who-chief-lands-in-eastern-congo-s-ituri-province-epicentre-of-ebola-as-outbreak-outpaces-respon.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by edit
 - brief-202605301837-confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo.md: auditoria reteve brief-202605301837-confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{
 - brief-202605302137-defence-secretary-meets-officials-from-australia-eu-netherlands-in-singapore.md: auditoria reteve brief-202605302137-defence-secretary-meets-officials-from-australia-eu-netherlands-in-singapore.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); voto
+- brief-202605310037-iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive.md: auditoria reteve brief-202605310037-iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[
