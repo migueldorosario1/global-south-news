@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-31T15:37:35.078Z
+Atualizado em: 2026-05-31T18:37:37.888Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 81
+Materias com bloqueio acumulado: 82
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -89,3 +89,4 @@ Materias com bloqueio acumulado: 81
 - brief-202605310937-who-chief-is-confident-ebola-outbreak-in-dr-congo-can-be-stopped.md: auditoria reteve brief-202605310937-who-chief-is-confident-ebola-outbreak-in-dr-congo-can-be-stopped.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor
 - brief-202605311237-sri-lanka-raise-fuel-prices-after-imf-loan-installment.md: auditoria reteve brief-202605311237-sri-lanka-raise-fuel-prices-after-imf-loan-installment.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepsee
 - brief-202605311537-congo-and-uganda-report-263-confirmed-ebola-cases-with-43-deaths-africa-cdc-says.md: auditoria reteve brief-202605311537-congo-and-uganda-report-263-confirmed-ebola-cases-with-43-deaths-africa-cdc-says.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); 
+- brief-202605311837-iran-restores-some-gas-production-at-south-pars-facility.md: auditoria reteve brief-202605311837-iran-restores-some-gas-production-at-south-pars-facility.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deeps
