@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-31T09:37:33.486Z
+Atualizado em: 2026-05-31T12:37:34.978Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 79
+Materias com bloqueio acumulado: 80
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -87,3 +87,4 @@ Materias com bloqueio acumulado: 79
 - brief-202605310337-is-the-war-in-ukraine-entering-a-new-phase.md: auditoria reteve brief-202605310337-is-the-war-in-ukraine-entering-a-new-phase.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepseek","ok":null
 - brief-202605310637-millones-de-chinos-salen-de-la-pobreza-con-estrategia-nacional.md: auditoria reteve brief-202605310637-millones-de-chinos-salen-de-la-pobreza-con-estrategia-nacional.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":
 - brief-202605310937-who-chief-is-confident-ebola-outbreak-in-dr-congo-can-be-stopped.md: auditoria reteve brief-202605310937-who-chief-is-confident-ebola-outbreak-in-dr-congo-can-be-stopped.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor
+- brief-202605311237-sri-lanka-raise-fuel-prices-after-imf-loan-installment.md: auditoria reteve brief-202605311237-sri-lanka-raise-fuel-prices-after-imf-loan-installment.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deepsee
