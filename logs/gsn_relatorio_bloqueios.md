@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-31T21:37:31.868Z
+Atualizado em: 2026-06-01T00:37:34.534Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 83
+Materias com bloqueio acumulado: 84
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -91,3 +91,4 @@ Materias com bloqueio acumulado: 83
 - brief-202605311537-congo-and-uganda-report-263-confirmed-ebola-cases-with-43-deaths-africa-cdc-says.md: auditoria reteve brief-202605311537-congo-and-uganda-report-263-confirmed-ebola-cases-with-43-deaths-africa-cdc-says.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); 
 - brief-202605311837-iran-restores-some-gas-production-at-south-pars-facility.md: auditoria reteve brief-202605311837-iran-restores-some-gas-production-at-south-pars-facility.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"deeps
 - brief-202605312137-presidenta-mexicana-presenta-resultados-de-20-meses-de-gobierno.md: auditoria reteve brief-202605312137-presidenta-mexicana-presenta-resultados-de-20-meses-de-gobierno.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor"
+- brief-202606010037-ethiopias-election-is-about-affirming-national-commitment-to-democracy.md: auditoria reteve brief-202606010037-ethiopias-election-is-about-affirming-national-commitment-to-democracy.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"a
