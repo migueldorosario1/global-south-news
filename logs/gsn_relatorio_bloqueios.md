@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-01T06:37:36.855Z
+Atualizado em: 2026-06-01T09:37:35.910Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 86
+Materias com bloqueio acumulado: 87
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -94,3 +94,4 @@ Materias com bloqueio acumulado: 86
 - brief-202606010037-ethiopias-election-is-about-affirming-national-commitment-to-democracy.md: auditoria reteve brief-202606010037-ethiopias-election-is-about-affirming-national-commitment-to-democracy.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"a
 - brief-202606010337-colombians-head-to-the-polls-to-choose-president-gustavo-petros-successor.md: auditoria reteve brief-202606010337-colombians-head-to-the-polls-to-choose-president-gustavo-petros-successor.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[
 - brief-202606010637-nueva-ronda-comercial-india-eeuu-en-busca-de-consenso-final.md: auditoria reteve brief-202606010637-nueva-ronda-comercial-india-eeuu-en-busca-de-consenso-final.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"de
+- brief-202606010937-women-at-greatest-risk-from-drc-ebola-outbreak-health-workers-warn-as-confirmed-cases-rise.md: auditoria reteve brief-202606010937-women-at-greatest-risk-from-drc-ebola-outbreak-health-workers-warn-as-confirmed-cases-rise.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial 
