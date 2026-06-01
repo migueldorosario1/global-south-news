@@ -4,7 +4,7 @@ description: "UN adopts resolution supporting international court’s climate ru
 pubDate: "2026-05-21T09:37:02Z"
 draft: true
 tags: ["multipolar-world", "climate", "law", "justice", "west-asia", "russia", "shipping", "port", "ai", "asia", "iran", "yemen"]
-heroImage: "/hero/smoke-brief-202605210937-un-adopts-resolution-supporting-international-courts-climate-ruling.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202605210937-un-adopts-resolution-supporting-international-courts-climate-ruling.jpg"
 ---
 > Editorial queue brief. Review headline, category and image before final publication.
 

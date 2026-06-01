@@ -4,7 +4,7 @@ description: "Col. Douglas Macgregor told Judging Freedom that another US attack
 pubDate: "2026-05-21T21:10:00Z"
 draft: false
 tags: ["iran", "united-states", "west-asia", "war", "geopolitics", "judging-freedom", "douglas-macgregor"]
-heroImage: "/hero/youtube-OOaOHDcC1V4.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/youtube-OOaOHDcC1V4.jpg"
 author: "Global South News Desk"
 lang: "en"
 source_name: "Judging Freedom"

@@ -4,7 +4,7 @@ description: "Democratic Republic Of Congo Health officials in the Democratic Re
 pubDate: "2026-05-21T06:37:02Z"
 draft: true
 tags: ["multipolar-world", "health-public", "africa", "port", "ai"]
-heroImage: "/hero/smoke-brief-202605210637-dr-congo-appeals-for-global-help-as-new-ebola-outbreak-spreads.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202605210637-dr-congo-appeals-for-global-help-as-new-ebola-outbreak-spreads.jpg"
 ---
 > Editorial queue brief. Review headline, category and image before final publication.
 

@@ -2,7 +2,7 @@
 title: "PF deflagra Operação Sem Refino contra ex-governador Cláudio Castro e bloqueia R$ 52 bilhões"
 description: "A Polícia Federal (PF) deflagrou, na manhã de 15 de maio de 2026, a Operação Sem Refino, tendo como alvo o ex-governador do Rio de Janeiro, Cláudio Castro (PL). Foram cumpridos 17 "
 pubDate: "2026-06-01T14:35:57Z"
-heroImage: "/hero/pf-deflagra-operacao-sem-refino-contra-ex-governador-claudio-castro-e-bloqueia-r-52-bilhoes.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/pf-deflagra-operacao-sem-refino-contra-ex-governador-claudio-castro-e-bloqueia-r-52-bilhoes.jpg"
 tags: ["Cláudio Castro", "Operação Sem Refino", "Polícia Federal", "Rio de Janeiro", "multipolar-world"]
 ---
 

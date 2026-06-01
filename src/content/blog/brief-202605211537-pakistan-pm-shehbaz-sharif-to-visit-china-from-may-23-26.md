@@ -4,7 +4,7 @@ description: "Pakistan Prime Minister Shehbaz Sharif will visit Beijing from Sat
 pubDate: "2026-05-21T15:37:03Z"
 draft: true
 tags: ["multipolar-world", "asia", "diplomacy", "conflict-resolution", "china", "russia", "port", "oil", "wind", "ai", "pakistan", "west-asia", "iran", "gulf"]
-heroImage: "/hero/smoke-brief-202605211537-pakistan-pm-shehbaz-sharif-to-visit-china-from-may-23-26.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202605211537-pakistan-pm-shehbaz-sharif-to-visit-china-from-may-23-26.jpg"
 ---
 > Editorial queue brief. Review headline, category and image before final publication.
 

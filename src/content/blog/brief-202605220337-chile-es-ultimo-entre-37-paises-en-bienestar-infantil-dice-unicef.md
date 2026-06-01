@@ -4,7 +4,7 @@ description: "El informe titulado “Desigualdad de oportunidades: niños, niña
 pubDate: "2026-05-22T03:37:02Z"
 draft: true
 tags: ["multipolar-world", "health-public", "latin-america", "development", "port", "ai"]
-heroImage: "/hero/smoke-brief-202605220337-chile-es-ultimo-entre-37-paises-en-bienestar-infantil-dice-unicef.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202605220337-chile-es-ultimo-entre-37-paises-en-bienestar-infantil-dice-unicef.jpg"
 ---
 > Editorial queue brief. Review headline, category and image before final publication.
 

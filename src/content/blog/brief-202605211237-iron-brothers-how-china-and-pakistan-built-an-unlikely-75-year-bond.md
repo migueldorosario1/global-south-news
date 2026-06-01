@@ -4,7 +4,7 @@ description: "‘Iron brothers’: How China and Pakistan built an unlikely 75-y
 pubDate: "2026-05-21T12:37:02Z"
 draft: true
 tags: ["multipolar-world", "asia", "relations", "diplomacy", "west-asia", "china", "india", "corridor", "ai", "pakistan"]
-heroImage: "/hero/smoke-brief-202605211237-iron-brothers-how-china-and-pakistan-built-an-unlikely-75-year-bond.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202605211237-iron-brothers-how-china-and-pakistan-built-an-unlikely-75-year-bond.jpg"
 ---
 > Editorial queue brief. Review headline, category and image before final publication.
 

@@ -4,7 +4,7 @@ description: "Renowned economist Dr. Michael Hudson discusses the impact of fina
 pubDate: "2026-05-20T13:34:26Z"
 draft: false
 tags: ["financial crashes", "interest rates", "geopolitical tensions", "oil crisis", "financial capitalism"]
-heroImage: "/hero/youtube-4NWpV8XJXhY.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/youtube-4NWpV8XJXhY.jpg"
 author: "Global South News Desk"
 lang: "en"
 ---

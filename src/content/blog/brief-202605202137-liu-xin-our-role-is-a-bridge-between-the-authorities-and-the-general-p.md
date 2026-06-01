@@ -4,7 +4,7 @@ description: "CGTN's Liu Xin explains why Chinese media acts as a bridge, not an
 pubDate: "2026-05-20T21:37:10Z"
 draft: false
 tags: ["Reports on China", "Andy Bohan", "Liu Xin"]
-heroImage: "/hero/youtube-Aq87aVdtlgo.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/youtube-Aq87aVdtlgo.jpg"
 author: "Global South News Desk"
 lang: "en"
 ---

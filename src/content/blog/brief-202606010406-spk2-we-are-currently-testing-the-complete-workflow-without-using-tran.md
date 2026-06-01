@@ -4,7 +4,7 @@ description: "SPK_2 details the GSN YouTube agent pipeline test, ensuring the Ed
 pubDate: "2026-06-01T04:06:47Z"
 draft: true
 tags: ["Global South News Test", "SPK_1", "SPK_2"]
-heroImage: "/hero/youtube-TESTE_GSN_20260601.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/youtube-TESTE_GSN_20260601.jpg"
 author: "Global South News Desk"
 lang: "en"
 ---

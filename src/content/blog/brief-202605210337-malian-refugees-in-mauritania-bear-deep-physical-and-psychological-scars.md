@@ -4,7 +4,7 @@ description: "Colonel Assimi Goita At a healthcare centre in eastern Mauritania,
 pubDate: "2026-05-21T03:37:02Z"
 draft: true
 tags: ["multipolar-world", "africa", "refugees", "health", "ai"]
-heroImage: "/hero/smoke-brief-202605210337-malian-refugees-in-mauritania-bear-deep-physical-and-psychological-scars.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202605210337-malian-refugees-in-mauritania-bear-deep-physical-and-psychological-scars.jpg"
 ---
 > Editorial queue brief. Review headline, category and image before final publication.
 

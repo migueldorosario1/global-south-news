@@ -4,7 +4,7 @@ description: "Top UN court rules workers’ right to strike ‘protected’ in k
 pubDate: "2026-05-21T18:37:02Z"
 draft: true
 tags: ["multipolar-world", "human-rights", "labour-laws", "global-relations", "global-south", "west-asia", "ai", "asia"]
-heroImage: "/hero/smoke-brief-202605211837-top-un-court-rules-workers-right-to-strike-protected-in-key-treaty.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202605211837-top-un-court-rules-workers-right-to-strike-protected-in-key-treaty.jpeg"
 ---
 > Editorial queue brief. Review headline, category and image before final publication.
 

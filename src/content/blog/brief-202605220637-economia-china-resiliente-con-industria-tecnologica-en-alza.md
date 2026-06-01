@@ -4,7 +4,7 @@ description: "La portavoz de la Comisión Nacional de Desarrollo y Reforma, Li C
 pubDate: "2026-05-22T06:37:03Z"
 draft: true
 tags: ["multipolar-world", "asia", "development", "technology", "latin-america", "china", "port", "ai", "asean"]
-heroImage: "/hero/smoke-brief-202605220637-economia-china-resiliente-con-industria-tecnologica-en-alza.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202605220637-economia-china-resiliente-con-industria-tecnologica-en-alza.jpg"
 ---
 > Editorial queue brief. Review headline, category and image before final publication.
 
