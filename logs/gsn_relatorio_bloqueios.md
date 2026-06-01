@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-01T12:37:37.883Z
+Atualizado em: 2026-06-01T15:37:38.651Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 88
+Materias com bloqueio acumulado: 89
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -96,3 +96,4 @@ Materias com bloqueio acumulado: 88
 - brief-202606010637-nueva-ronda-comercial-india-eeuu-en-busca-de-consenso-final.md: auditoria reteve brief-202606010637-nueva-ronda-comercial-india-eeuu-en-busca-de-consenso-final.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial writer'); votos=[{"auditor":"de
 - brief-202606010937-women-at-greatest-risk-from-drc-ebola-outbreak-health-workers-warn-as-confirmed-cases-rise.md: auditoria reteve brief-202606010937-women-at-greatest-risk-from-drc-ebola-outbreak-health-workers-warn-as-confirmed-cases-rise.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial 
 - brief-202606011237-pro-trump-candidate-pulls-ahead-in-colombia-presidential-vote-as-ruling-party-sows-doubt-in-resu.md: auditoria reteve brief-202606011237-pro-trump-candidate-pulls-ahead-in-colombia-presidential-vote-as-ruling-party-sows-doubt-in-resu.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by edit
+- brief-202606011537-india-australia-underscore-maritime-freedom-and-supply-chain-security-in-high-level-talks.md: auditoria reteve brief-202606011537-india-australia-underscore-maritime-freedom-and-supply-chain-security-in-high-level-talks.md: falha local critica: texto/categoria precisa revisao (metalinguagem detectada: placeholder 'Editorial queue brief', placeholder 'Review headline', placeholder 'before final publication', placeholder monitoring queue, placeholder 'intentionally concise', placeholder 'expanded by editorial w
