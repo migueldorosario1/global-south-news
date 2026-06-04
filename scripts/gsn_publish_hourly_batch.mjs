@@ -656,13 +656,18 @@ async function auditAndFix(file, publish) {
   if (!/(multipolar|brics|development|trade|latin-america|africa|asia|west-asia|infrastructure|energy|technology)/i.test(tags)) {
     warnings.push('categoria GSN fraca');
   }
-  if (!fs.existsSync(heroPath)) throw new Error(`imagem destacada ausente: ${heroImage}`);
+  let imageSize = 'remote';
+  const isRemoteHero = heroImage && (heroImage.startsWith('http://') || heroImage.startsWith('https://'));
 
-  const meta = await sharp(heroPath).metadata();
-  if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
-    const warning = `imagem destacada pequena: ${heroImage} ${meta.width}x${meta.height}`;
-    if (publish) throw new Error(warning);
-    warnings.push(warning);
+  if (!isRemoteHero) {
+    if (!fs.existsSync(heroPath)) throw new Error(`imagem destacada ausente: ${heroImage}`);
+    const meta = await sharp(heroPath).metadata();
+    imageSize = `${meta.width}x${meta.height}`;
+    if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
+      const warning = `imagem destacada pequena: ${heroImage} ${imageSize}`;
+      if (publish) throw new Error(warning);
+      warnings.push(warning);
+    }
   }
 
   let nextBody = cleanBody(body, title);
@@ -676,7 +681,7 @@ async function auditAndFix(file, publish) {
         heroImage,
         tags,
         body: nextBody,
-        imageSize: `${meta.width}x${meta.height}`,
+        imageSize,
         sourceName: source.name,
         sourceUrl: source.url,
   };
@@ -698,7 +703,7 @@ async function auditAndFix(file, publish) {
     published: publish,
     title,
     heroImage,
-    imageSize: `${meta.width}x${meta.height}`,
+    imageSize,
     warnings,
     expandedAudit: consensus.votes,
     approvals: consensus.approvals,
@@ -848,7 +853,11 @@ if (commitAndPush) {
     .map((file) => {
       const text = fs.readFileSync(path.join(blogDir, file), 'utf8');
       const { frontmatter } = splitFrontmatter(text);
-      return `public/${getField(frontmatter, 'heroImage').replace(/^\//, '')}`;
+      const img = getField(frontmatter, 'heroImage');
+      if (img && !img.startsWith('http://') && !img.startsWith('https://')) {
+        return `public/${img.replace(/^\//, '')}`;
+      }
+      return null;
     })
     .filter(Boolean);
   const changedFiles = [
