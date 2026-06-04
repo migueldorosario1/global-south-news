@@ -2,7 +2,7 @@
 title: "Donald Trump: 'We could go another two, three weeks and just wipe everybody out.'"
 description: "Trump claims U.S. can 'wipe out' Iran in weeks via bombing, but Daniel Davis exposes how failed U.S. defenses and contradictory strikes embolden adversarie"
 pubDate: "2026-06-04T16:16:37Z"
-draft: true
+draft: false
 tags: ["Daniel Davis / Deep Dive", "Daniel Davis", "Donald Trump"]
 heroImage: "/hero/youtube-jB6iTLAfm0k.jpg"
 author: "Global South News Desk"
