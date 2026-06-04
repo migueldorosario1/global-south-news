@@ -571,7 +571,7 @@ function localVotes(article, warnings) {
                  !article.body.includes('Fonte para revisão') &&
                  !hasMetalanguage;
   const categoryOk = warnings.length === 0 || warnings.every((warning) => warning === 'titulo longo');
-  const imageOk = !article.imageSize.startsWith('0x') && Number(article.imageSize.split('x')[0]) >= 600;
+  const imageOk = article.imageSize === 'remote' || (!article.imageSize.startsWith('0x') && Number(article.imageSize.split('x')[0]) >= 600);
 
   const textReason = !textOk 
     ? (hasMetalanguage 
@@ -877,9 +877,7 @@ if (commitAndPush) {
     'src/pages/index.astro',
     'src/pages/rss.xml.js',
     'src/pages/tags/[tag].astro',
-    'public/hero',
     ...changedArticleSet.map((file) => `src/content/blog/${file}`),
-    ...heroImages,
   ];
   git(['add', ...changedFiles]);
     const staged = git(['diff', '--cached', '--name-only']);
