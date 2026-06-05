@@ -1,0 +1,15 @@
+---
+title: "Vietnam's President: Environmental Protection as National Security Imperative"
+description: "Vietnamese President To Lam links environmental protection to national security, emphasizing sustainable development within ecological boundaries."
+pubDate: "2026-06-05T07:03:36Z"
+draft: true
+tags: ["environmental security", "climate change", "Vietnam", "sustainable development", "international cooperation"]
+heroImage: "/hero/smoke-brief-202606051500-vietnam-s-president-environmental-protection-as-national-security-imperative-qwen.jpg"
+---
+
+<p>Vietnamese President To Lam warned on Friday that high economic growth is meaningless if citizens live amid pollution and environmental degradation, stressing that environmental protection is a fundamental component of national and human security.</p>
+<p>In an article published to mark World Environment Day on June 5 and World Oceans Day on June 8, Lam wrote that “a safe environment and peaceful, sustainable oceans are central elements for development, security, peace, justice, ethics and the survival of nations.”</p>
+<p>Lam argued that the world is witnessing profound and unprecedented ecological changes that are pushing nature’s limits to dangerous levels. “This imbalance shows that the limits of nature are being brought to dangerous levels,” he said, questioning whether development can be considered sustainable when the ecological basis for life is being eroded. A modern and prosperous society, he contended, must generate wealth within ecological boundaries, use resources responsibly and treat nature as an indispensable condition for existence and a legacy for future generations.</p>
+<p>The oceans, Lam noted, underscore humanity’s interdependence, making their protection not just an environmental obligation but a requirement for peace, cooperation, respect for international law, equity in development and shared global responsibility. For Vietnam, a maritime nation with more than 3,260 kilometres of coastline, two major deltas and millions of coastal residents severely affected by climate change, these issues carry profound urgency.</p>
+<p>Lam highlighted Vietnam’s firm commitment to reaching net-zero emissions by 2050, promoting a just energy transition, cutting plastic waste in oceans, building a circular economy and conserving biodiversity. “These commitments respond not to externally imposed obligations but to the country’s own inherent needs,” he stressed.</p>
+<p>The Vietnamese leader also called on the international community, especially developed nations, to fully deliver on climate financing pledges, technology transfer, human-resource training, governance capacity building and expanded market access for green products from developing countries. Developing countries, in turn, must show resolve to transform growth models, use support resources effectively and strengthen transparency and accountability in meeting environmental commitments.</p>
