@@ -4,7 +4,7 @@ description: "Venezuela's Delcy Rodríguez meets Indian PM Modi to strengthen st
 pubDate: "2026-06-05T15:30:54Z"
 draft: false
 tags: ["Bilateral Cooperation", "Delcy Rodríguez", "Global South", "India", "Narendra Modi", "Venezuela", "latin-america"]
-heroImage: "/hero/smoke-brief-202606051200-venezuela-s-acting-president-rodriguez-holds-strategic-talks-with-pm-modi-in-new-delhi-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051200-venezuela-s-acting-president-rodriguez-holds-strategic-talks-with-pm-modi-in-new-delhi-qwen.jpg"
 ---
 <p>Venezuela’s acting president, Delcy Rodríguez, met Indian prime minister Narendra Modi at Hyderabad House in New Delhi on Wednesday, describing the talks as an opportunity to forge new strategic alliances between the two nations. Rodríguez shared details of the encounter on Telegram, calling it “an honour” and thanking Modi for his warm reception while conveying greetings from the Venezuelan people.</p>
 <p>Rodríguez was accompanied by foreign minister Yván Gil, transport minister Jacqueline Faría, health minister Isabel Iturria and science and technology minister Gabriela Jiménez. The two sides discussed deepening bilateral cooperation in transport, health, energy complementarity, agriculture, science and technology, exploring fresh avenues for mutual benefit.</p>

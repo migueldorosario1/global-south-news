@@ -4,7 +4,7 @@ description: "Iran's World Cup team faces unprecedented challenges as military c
 pubDate: "2026-06-05T15:14:15Z"
 draft: false
 tags: ["Iran", "Middle East", "Sports Diplomacy", "US-Iran Conflict", "World Cup 2026", "west-asia"]
-heroImage: "/hero/smoke-brief-202606051200-iran-footballers-prepare-for-world-cup-amid-active-conflict-with-us-israel.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051200-iran-footballers-prepare-for-world-cup-amid-active-conflict-with-us-israel.jpg"
 ---
 <p>Iran’s World Cup players Saeid Ezatolahi and Mohammad Ghorbani have described the psychological and logistical toll of preparing for the 2026 tournament as their nation remains in active military conflict with co-hosts the United States and Israel. The unprecedented situation has forced the team to abandon its pre-tournament base in Arizona for Tijuana, Mexico, and left visa clearance uncertain until the final weeks before kick-off.</p>
 <p>“To be honest, it’s not easy,” Ezatolahi, a 29-year-old midfielder with two previous World Cup appearances, told the Associated Press from the squad’s temporary training camp in Antalya, Turkey. “At the same time, we are following the news in our country and the political things, of course, can affect the mind of the players and the people.” The war began on 28 February and, despite an uneasy ceasefire since 8 April, occasional hostilities have prevented any permanent peace talks.</p>

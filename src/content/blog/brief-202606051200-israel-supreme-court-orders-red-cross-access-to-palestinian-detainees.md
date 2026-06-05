@@ -4,7 +4,7 @@ description: "Israel's Supreme Court unanimously strikes down government policy 
 pubDate: "2026-06-05T15:04:22Z"
 draft: false
 tags: ["Human Rights", "ICRC", "International Law", "Israel", "Palestine", "Supreme Court", "west-asia"]
-heroImage: "/hero/smoke-brief-202606051200-israel-supreme-court-orders-red-cross-access-to-palestinian-detainees.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051200-israel-supreme-court-orders-red-cross-access-to-palestinian-detainees.jpg"
 ---
 <p>Israel’s Supreme Court on Wednesday unanimously struck down a government policy barring the International Committee of the Red Cross (ICRC) from visiting Palestinian detainees, ruling that the ban violated both Israeli and international law. The decision orders the state to reverse a near-three-year prohibition affecting more than 9,000 Palestinian security prisoners held in Israeli prisons and military detention centres.</p>
 <p>Visits were suspended after the Hamas-led attack of October 2023, in which more than 1,100 people were killed and over 240 taken captive. The government then halted all prison visits and withheld information on detainees, abandoning what had been standard practice before the war. The Association for Civil Rights in Israel (ACRI), which co-filed the legal challenge, said it was the first time in 50 years that Israel had prevented Red Cross access.</p>
