@@ -39,6 +39,7 @@ fi
   printf '\n[%s] GSN hourly publish start\n' "$(date -Is)"
   "$GSN_PYTHON" -u scripts/gsn_zelador_destaques.py
   "$GSN_PYTHON" -u "$ROOT_DIR/gsn_smoke_markdown.py" 15 --queue
+  "$GSN_PYTHON" -u "$ROOT_DIR/fix_brief_tags.py"
   
   # Upload new hero images to R2 and rewrite Markdown frontmatter to remote URLs
   "$GSN_PYTHON" -u "$ROOT_DIR/gsn_migrar_hero_r2.py" upload
