@@ -1,10 +1,12 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-05T14:44:55.980Z
-Publicadas/auditadas com sucesso no historico: 66
-Materias com bloqueio acumulado: 176
+Atualizado em: 2026-06-05T15:38:22.728Z
+Publicadas/auditadas com sucesso no historico: 75
+Materias com bloqueio acumulado: 182
 
 ## Solucoes do cerebro aplicadas
+- imagens devem ficar dentro do silo GSN antes do deploy
+- publicação correta é Markdown/Astro/Vercel, não WordPress
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
 
 ## Bloqueios acumulados
@@ -184,3 +186,20 @@ Materias com bloqueio acumulado: 176
 - brief-202606051435-millones-de-chinos-salen-de-la-pobreza-con-estrategia-nacional.md: auditoria reteve brief-202606051435-millones-de-chinos-salen-de-la-pobreza-con-estrategia-nacional.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":false,"reason":"A matéria não cita nenhuma fonte para apoiar as afirmações feitas, o que torna a notícia suscet
 - brief-202606051435-report-finds-africa-had-record-growth-in-number-of-millionaires-in-2025.md: auditoria reteve brief-202606051435-report-finds-africa-had-record-growth-in-number-of-millionaires-in-2025.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":false,"reason":"A matéria menciona um relatório que supostamente encontrou um crescimento recorde de m
 - brief-202606051435-india-among-russia-s-top-foreign-trade-partners-pm-mishustin.md: auditoria reteve brief-202606051435-india-among-russia-s-top-foreign-trade-partners-pm-mishustin.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":false,"reason":"A matéria não cita uma fonte para apoiar as informações apresentadas, o que compromete a credibil
+- brief-202606051200-bolivia-s-president-seeks-to-formalize-state-of-exception-amid-35-day-protests.md: auditoria reteve brief-202606051200-bolivia-s-president-seeks-to-formalize-state-of-exception-amid-35-day-protests.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":false,"reason":"O presidente da Bolívia é Luis Arce, não Paz. O texto menciona um nome errado p
+- brief-202606051200-kenya-pushes-forward-with-us-ebola-center-despite-deadly-protests.md: auditoria reteve brief-202606051200-kenya-pushes-forward-with-us-ebola-center-despite-deadly-protests.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":false,"reason":"A matéria menciona que o centro deveria abrir com 50 leitos de isolamento gerido por pessoal
+- brief-202606051200-republican-house-votes-to-limit-iran-war-powers.md: auditoria reteve brief-202606051200-republican-house-votes-to-limit-iran-war-powers.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":false,"reason":"A matéria menciona que os ataques a Teerã começaram há três meses, mas não há fonte citada para apoiar essa in
+- brief-202606051200-bangladesh-foils-multiple-indian-attempts-to-force-people-across-border.md: auditoria reteve brief-202606051200-bangladesh-foils-multiple-indian-attempts-to-force-people-across-border.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":false,"reason":"A materia acusou a India de tentar forçar pessoas a atravessar a fronteira com Banglad
+- brief-202606051200-senegal-s-economic-crisis-top-economist-urges-imf-reforms.md: auditoria reteve brief-202606051200-senegal-s-economic-crisis-top-economist-urges-imf-reforms.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto não apresenta contradições internas, acusações graves sem apoio, datas impossíveis, título de
+- brief-202606051200-us-mediated-lebanon-ceasefire-rejected-by-hezbollah-israel.md: auditoria reteve brief-202606051200-us-mediated-lebanon-ceasefire-rejected-by-hezbollah-israel.md: veto externo consistente: kimi: A data de 600 pessoas mortas em ataques israelenses desde o acordo de 16 de abril é inconsistente com a data de início do ataque em março. Além disso, a afirmação de que Israel ocupa um quinto do território libanês não é claramente demonstrada ou citada em uma fonte. | qwen: A data mencio
+
+## Publicadas nesta rodada
+- brief-202606051200-pakistan-accuses-india-of-weaponizing-water-in-indus-waters-treaty-dispute.md
+- brief-202606051200-israel-supreme-court-orders-red-cross-access-to-palestinian-detainees.md
+- brief-202606051200-mali-bans-high-powered-motorcycles-in-bid-to-curb-jihadist-insurgency.md
+- brief-202606051200-un-warns-ai-expansion-will-double-data-centre-energy-and-water-use-by-2030.md
+- brief-202606051200-iran-footballers-prepare-for-world-cup-amid-active-conflict-with-us-israel.md
+- brief-202606051200-el-nino-to-bring-warmer-winter-variable-rainfall-to-uruguay.md
+- brief-202606051200-nepal-foreign-minister-shisir-khanal-to-visit-india-june-5-7-amid-border-dispute-tensions.md
+- brief-202606051200-israeli-drone-strikes-cast-doubt-on-extended-lebanon-israel-ceasefire.md
+- brief-202606051200-venezuela-s-acting-president-rodriguez-holds-strategic-talks-with-pm-modi-in-new-delhi.md

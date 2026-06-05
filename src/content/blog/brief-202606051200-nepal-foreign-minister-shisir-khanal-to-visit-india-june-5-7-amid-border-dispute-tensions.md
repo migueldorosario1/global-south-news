@@ -1,0 +1,12 @@
+---
+title: "Nepal Foreign Minister Shisir Khanal to visit India June 5-7 amid border dispute tensions"
+description: "Nepal Foreign Minister Shisir Khanal to visit India June 5-7 amid border dispute tensions with third-party involvement remarks."
+pubDate: "2026-06-05T15:36:08Z"
+draft: false
+tags: ["Balendra Shah", "Border dispute", "Nepal-India relations", "S Jaishankar", "Shisir Khanal", "asia"]
+heroImage: "/hero/smoke-brief-202606051200-nepal-foreign-minister-shisir-khanal-to-visit-india-june-5-7-amid-border-dispute-tensions.jpg"
+---
+<p>Nepal’s Minister for Foreign Affairs Shisir Khanal will arrive in New Delhi on June 5 for a three-day visit at the invitation of India’s External Affairs Minister S. Jaishankar. The trip, the first ministerial visit from Prime Minister Balendra Shah’s government since it took office in March, comes after remarks by Shah that triggered diplomatic friction between the neighbours.</p>
+<p>On May 31, Shah told Nepal’s Parliament that Kathmandu was in touch with China and the United Kingdom, in addition to India, over the long-standing border dispute. New Delhi swiftly and categorically rejected any role for third parties in resolving the bilateral boundary issue. The Khanal visit is therefore seen as an effort to stabilise ties and return the conversation to shared priorities.</p>
+<p>During his stay, Khanal will hold a formal meeting with Jaishankar, Nepal’s Foreign Ministry said in a statement. The two sides will discuss “matters of mutual interest” with a view to deepening cooperation in trade, investment, connectivity, energy and people-to-people exchanges. The statement described the visit as part of regular high-level exchanges that will “further consolidate the enduring and multifaceted bilateral relations” between the two countries.</p>
+<p>The visit follows a meeting in New Delhi earlier this week between Indian Prime Minister Narendra Modi and Rabi Lamichhane, chairman of Nepal’s ruling Rastriya Swatantra Party. Modi said on social media that he welcomed Lamichhane’s desire to “work closely together for a shared and prosperous future,” emphasising that Nepal is a priority partner under India’s Neighbourhood First policy. The back-to-back engagements highlight Kathmandu’s traditional emphasis on early outreach to New Delhi and the depth of political and economic ties that continue to bind the South Asian neighbours.</p>
