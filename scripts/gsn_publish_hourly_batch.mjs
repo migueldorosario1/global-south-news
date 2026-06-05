@@ -835,7 +835,14 @@ const changedArticleSet = auditCurrentOnly
   : [...new Set([...(reAuditVisible ? visible : []), ...nextBatch])];
 const publishSet = auditCurrentOnly ? visible : nextBatch;
 
-execFileSync('npm', ['run', 'build'], { cwd: repo, stdio: 'inherit' });
+execFileSync('npm', ['run', 'build'], {
+  cwd: repo,
+  stdio: 'inherit',
+  env: {
+    ...process.env,
+    NODE_OPTIONS: (process.env.NODE_OPTIONS || '') + ' --max-old-space-size=4096'
+  }
+});
 
 if (!auditCurrentOnly) {
   state = {
