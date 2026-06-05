@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-04T21:37:56.282Z
+Atualizado em: 2026-06-05T00:37:53.017Z
 Publicadas/auditadas com sucesso no historico: 22
-Materias com bloqueio acumulado: 122
+Materias com bloqueio acumulado: 123
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -129,4 +129,5 @@ Materias com bloqueio acumulado: 122
 - brief-202606041901-china-opens-its-markets-to-african-exports-who-benefits.md: auditoria reteve brief-202606041901-china-opens-its-markets-to-african-exports-who-benefits.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":false,"reason":"A matéria não cita nenhuma fonte para apoiar as afirmações feitas, o que torna a notícia sem credibili
 - brief-202606041901-venezuelas-acting-president-rodriguez-arrives-in-india-for-working-visit-aimed-at-further-deepen.md: auditoria reteve brief-202606041901-venezuelas-acting-president-rodriguez-arrives-in-india-for-working-visit-aimed-at-further-deepen.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto não apresenta contradições internas, acusações graves 
 - brief-202606041901-nicaragua-elevo-cobertura-de-agua-potable-al-95-por-ciento.md: auditoria reteve brief-202606041901-nicaragua-elevo-cobertura-de-agua-potable-al-95-por-ciento.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto não apresenta contradições internas, acusações graves sem apoio, datas impossíveis, título d
-- brief-202606042137-google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans.md: auditoria reteve brief-202606042137-google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":false,"reason":"A auditoria identificou que o texto não cita uma fonte para a informação de que a Alphabet plane
+- brief-202606042137-google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans.md: auditoria reteve brief-202606042137-google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":false,"reason":"A matéria não cita uma fonte para a informação de que a Alphabet vai vender ações no valor de US
+- brief-202606050037-google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans.md: auditoria reteve brief-202606050037-google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":false,"reason":"A matéria não cita uma fonte para apoiar a afirmação de que a Alphabet planeja vender ações no v
