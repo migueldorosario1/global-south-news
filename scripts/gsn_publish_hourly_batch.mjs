@@ -871,11 +871,15 @@ writeHourlyReport({ published: publishSet });
 if (commitAndPush) {
   const heroImages = changedArticleSet
     .map((file) => {
-      const text = fs.readFileSync(path.join(blogDir, file), 'utf8');
-      const { frontmatter } = splitFrontmatter(text);
-      const img = getField(frontmatter, 'heroImage');
-      if (img && !img.startsWith('http://') && !img.startsWith('https://')) {
-        return `public/${img.replace(/^\//, '')}`;
+      try {
+        const text = fs.readFileSync(path.join(blogDir, file), 'utf8');
+        const { frontmatter } = splitFrontmatter(text);
+        const img = getField(frontmatter, 'heroImage');
+        if (img && !img.startsWith('http://') && !img.startsWith('https://')) {
+          return `public/${img.replace(/^\//, '')}`;
+        }
+      } catch (err) {
+        console.warn(`Aviso: nao foi possivel ler ${file} para extrair imagem hero:`, err.message);
       }
       return null;
     })
@@ -897,7 +901,9 @@ if (commitAndPush) {
     'src/pages/index.astro',
     'src/pages/rss.xml.js',
     'src/pages/tags/[tag].astro',
-    ...changedArticleSet.map((file) => `src/content/blog/${file}`),
+    ...changedArticleSet
+      .map((file) => `src/content/blog/${file}`)
+      .filter((file) => fs.existsSync(path.join(repo, file))),
   ];
   for (const file of changedFiles) {
     if (fs.existsSync(path.join(repo, file))) {
