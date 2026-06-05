@@ -4,7 +4,7 @@ description: "Niger Benin’s new President Romuald Wadagni travelled to both Ni
 pubDate: "2026-06-05T05:13:15Z"
 draft: false
 tags: ["multipolar-world", "africa", "security", "trade", "infrastructure", "regional-integration", "development", "logistics", "ai", "sahel", "nigeria"]
-heroImage: "/hero/smoke-brief-202606051300-benin-s-new-president-rebuilding-ties-with-sahel-states-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051300-benin-s-new-president-rebuilding-ties-with-sahel-states-qwen.jpg"
 ---
 <p>Benin’s new president, Romuald Wadagni, on Tuesday secured a commitment from Niger’s military junta to begin the process of reopening their shared border, a breakthrough in his first foreign tour aimed at restoring ties with neighbouring Sahel states. The border was shut last year after Niger accused Benin of hosting French military bases that it claimed were being used to destabilise its government.</p>
 <p>In Niamey, Mr Wadagni held talks with the leader of Niger’s military junta. Niger’s foreign minister, Bakary Yaou Sangare, said the two presidents discussed the terrorist threat across the Sahel and West Africa and reaffirmed their commitment to joining forces to combat the scourge of terrorism and banditry. The discussions signalled a potential thaw in relations that soured when Niger, along with Burkina Faso and Mali, distanced itself from former colonial power France and formed the Alliance of Sahel States confederation.</p>

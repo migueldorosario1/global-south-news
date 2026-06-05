@@ -4,7 +4,7 @@ description: "Niger Benin's new leader on Tuesday visited neighbouring Niger and
 pubDate: "2026-06-05T04:24:55Z"
 draft: false
 tags: ["multipolar-world", "africa", "diplomacy", "security", "ai", "sahel"]
-heroImage: "/hero/smoke-brief-202606051215-benin-president-visits-niger-burkina-following-coup-tensions-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051215-benin-president-visits-niger-burkina-following-coup-tensions-qwen.jpg"
 ---
 <p>Cotonou’s new president, Romuald Wadagni, travelled to Niger and Burkina Faso on Tuesday in a swift diplomatic push to mend ties with the military-led Sahelian states, signalling a potential breakthrough after months of border closures and mutual recriminations. Meeting Niger’s junta chief, Abdourahamane Tiani, in Niamey, the two leaders issued a joint statement pledging to “remove all obstacles to strengthening cooperation” and work towards reopening their shared frontier. The border was shut by Niger after its 2023 coup, with Niamey accusing Benin of hosting French bases it claimed were used to destabilise the country—a charge Cotonou has consistently denied.</p>
 <p>The visit, which later took Wadagni to Ouagadougou for talks with Burkina Faso’s leader Ibrahim Traore, underscored a deliberate recalibration of regional diplomacy. Both encounters produced commitments to reinforce joint efforts against terrorism and violent extremism, which have spread from the Sahel into northern Benin. The joint statement with Tiani said they affirmed “their commitment to join forces in fighting the scourge of terrorism and banditry,” while Traore and Wadagni stressed “the urgency of consolidating cooperation against terrorism, cross-border crime and violent extremism.”</p>

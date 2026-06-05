@@ -4,7 +4,7 @@ description: "DRC-Rwanda tensions The United States has imposed new sanctions on
 pubDate: "2026-06-05T05:23:40Z"
 draft: false
 tags: ["multipolar-world", "sanctions", "conflict", "drc", "africa", "port", "ai"]
-heroImage: "/hero/smoke-brief-202606051300-us-imposes-fresh-sanctions-on-m23-and-fdlr-leaders-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051300-us-imposes-fresh-sanctions-on-m23-and-fdlr-leaders-qwen.jpg"
 ---
 <p>The United States has imposed sanctions on two senior commanders from opposing armed groups in eastern Democratic Republic of Congo, in a bid to intensify pressure on all sides of a conflict that has triggered one of Africa’s worst humanitarian crises. The measures, announced by Treasury Secretary Scott Bessent on Tuesday, target John Imani Nzenze, intelligence chief of the M23 rebel movement, and Gustave Kubwayo — known as Colonel Sirkoof — a top commander of the Democratic Forces for the Liberation of Rwanda (FDLR).</p>
 <p>Nzenze is described by Washington as a close associate of M23 leader Sultani Makenga, who is already under US and UN sanctions. He has been linked to military operations against Congolese forces since the movement’s first rebellion in 2012. Kubwayo runs an intelligence and special operations unit for the Hutu militia that remains active in North Kivu province.</p>

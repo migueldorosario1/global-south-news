@@ -4,7 +4,7 @@ description: "Según la comunicación, los expertos de naciones como China, Indi
 pubDate: "2026-06-05T04:22:01Z"
 draft: false
 tags: ["multipolar-world", "brics", "south-south-cooperation", "trade", "security", "latin-america", "china", "india", "ai", "asia", "asean", "iran"]
-heroImage: "/hero/smoke-brief-202606051215-foro-lecturas-primakov-reunira-en-moscu-a-expertos-de-20-paises-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051215-foro-lecturas-primakov-reunira-en-moscu-a-expertos-de-20-paises-qwen.jpg"
 ---
 <p>MOSCOW — Foreign Minister Sergei Lavrov and presidential aide Yuri Ushakov will headline the Primakov Readings International Forum, as senior experts from 20 nations gather here to assess a fracturing global order under the banner “A World Without Rules: A Game of Power?”</p>
 <p>Organised jointly by the Primakov National Research Institute of World Economy and International Relations (IMEMO RAN) and the Primakov Centre for Foreign Policy Cooperation, the forum will draw specialists in international security, global economics and diplomacy from China, India, Iran, Uzbekistan, Belarus and Russia, among others. Panels will confront the erosion of multilateral norms, emerging scenarios for a new world order, barriers to global trade and investment, and intensifying competition over artificial intelligence.</p>

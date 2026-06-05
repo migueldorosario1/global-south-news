@@ -4,7 +4,7 @@ description: "Lebanon Residents in Lebanon’s capital expressed cautious scepti
 pubDate: "2026-06-05T04:20:02Z"
 draft: false
 tags: ["multipolar-world", "west-asia", "ceasefire", "sovereignty", "africa", "port", "ai", "lebanon"]
-heroImage: "/hero/smoke-brief-202606051215-lebanon-israeli-drone-attacks-scepticism-greet-ceasefire-extension-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051215-lebanon-israeli-drone-attacks-scepticism-greet-ceasefire-extension-qwen.jpg"
 ---
 <p>BEIRUT — Lebanon and Israel extended a US-brokered ceasefire on June 3, but the fragile truce was immediately tested when Israeli drone strikes killed at least one person and wounded four in southern Lebanon the following day. The renewed agreement creates “pilot” security zones inside Lebanon from which Hezbollah militants would be banned, though the group is absent from the ambassadorial-level talks in Washington.</p>
 <p>Residents in Beirut voiced sharp scepticism over whether the deal would address Israel’s military presence and long-term ambitions. “According to the terms of the ceasefire, it should not favour some people over others,” said Suad Attia, a Beirut resident. “It depends on whether it includes a withdrawal from the occupied territories and does not give Israel freedom of movement based on what it considers a threat and what it does not.” Khaled Zaghloul, another Beirut resident, said Israel must guarantee “that it has no ambitions to occupy” Lebanon once Hezbollah is no longer a factor. Hassan Dakhlallah from the southern city of Tyre was more blunt, citing past behaviour: “Once it occupies something, it does not withdraw from it.”</p>

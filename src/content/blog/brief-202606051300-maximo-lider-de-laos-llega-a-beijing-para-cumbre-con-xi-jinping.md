@@ -4,7 +4,7 @@ description: "La agenda coincide con el aniversario 65 del establecimiento de re
 pubDate: "2026-06-05T05:10:25Z"
 draft: false
 tags: ["multipolar-world", "asia", "china", "laos", "infrastructure", "trade", "belt-and-road", "latin-america", "port", "ai"]
-heroImage: "/hero/smoke-brief-202606051300-maximo-lider-de-laos-llega-a-beijing-para-cumbre-con-xi-jinping-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051300-maximo-lider-de-laos-llega-a-beijing-para-cumbre-con-xi-jinping-qwen.jpg"
 ---
 <p>Laos President Thongloun Sisoulith arrived in Beijing on Thursday for talks with Chinese President Xi Jinping, a visit that marks the 65th anniversary of diplomatic relations and celebrates the fifth year of operations of the China-Laos railway, a signature project under Beijing’s Belt and Road Initiative.</p>
 <p>Sisoulith, who opened his trip in Hangzhou on June 2, is expected to discuss strengthening cooperation between two socialist states governed by communist parties. The Central Committee of the Communist Party of China recently reaffirmed that Beijing attaches strategic importance to bilateral ties and is willing to deepen strategic communication, expand exchanges and advance a shared-future community.</p>

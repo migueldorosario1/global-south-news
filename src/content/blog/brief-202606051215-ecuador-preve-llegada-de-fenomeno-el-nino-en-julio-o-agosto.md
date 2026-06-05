@@ -4,7 +4,7 @@ description: "El director de Pronósticos del organismo, Vladimir Arreaga, seña
 pubDate: "2026-06-05T04:40:11Z"
 draft: false
 tags: ["multipolar-world", "latin-america", "climate", "development", "infrastructure", "port", "ai", "digital"]
-heroImage: "/hero/smoke-brief-202606051215-ecuador-preve-llegada-de-fenomeno-el-nino-en-julio-o-agosto-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051215-ecuador-preve-llegada-de-fenomeno-el-nino-en-julio-o-agosto-qwen.jpg"
 ---
 <p>Ecuador’s weather agency warned on Thursday that the El Niño climate phenomenon has an 80 per cent probability of forming in July or August, threatening to intensify coastal rains while drying out parts of the Amazon basin. Vladimir Arreaga, forecasting director at the National Institute of Meteorology and Hydrology (Inamhi), said equatorial Pacific monitoring shows consistent warming of surface waters and weakening winds — key precursors of the event.</p>
 <p>“There is a high probability, greater than 80 per cent, that the event will develop in the coming months, especially from July and August,” Arreaga said. If the oceanic warming couples with atmospheric conditions, he added, it could amplify rainfall during the next coastal wet season, while the Amazon could experience reduced precipitation as in previous episodes.</p>

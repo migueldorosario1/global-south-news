@@ -4,7 +4,7 @@ description: "Según medios locales, el encuentro estuvo encabezado por el aseso
 pubDate: "2026-06-05T04:46:52Z"
 draft: false
 tags: ["multipolar-world", "brics", "development", "latin-america", "infrastructure", "port", "ai", "asia"]
-heroImage: "/hero/smoke-brief-202606051215-comision-mixta-nicaragua-rusia-revisa-avances-de-cooperacion.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051215-comision-mixta-nicaragua-rusia-revisa-avances-de-cooperacion.jpg"
 ---
 <p>Nicaragua’s presidential adviser Laureano Ortega chaired a joint commission with Russia in St. Petersburg on Wednesday, reviewing cooperation in health, communications, culture, economy, sport and security and highlighting progress in vaccine production and plans for a nuclear medicine centre.</p>
 <p>Ortega, who is the special representative for the Nicaraguan co-presidents on Russian affairs, said the Latin American Mechnikov Institute of Biotechnology, operating in Nicaragua for more than a decade, is now manufacturing influenza vaccines distributed free to the population. Both sides are also working on supply of a human papillomavirus vaccine, and Nicaragua is joining clinical trials of Russian-developed vaccines against dengue and cancer, he told Russia’s RT network.</p>

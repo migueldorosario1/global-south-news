@@ -4,7 +4,7 @@ description: "Mohammad Marandi warns that a US/Israeli strike on Iran's critical
 pubDate: "2026-06-04T18:03:00Z"
 draft: false
 tags: ["Dialogue Works", "Nima Alkhorshid", "Mohammad Marandi"]
-heroImage: "/hero/youtube-cA1vwusUpfY.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/youtube-cA1vwusUpfY.jpg"
 author: "Global South News Desk"
 lang: "en"
 ---

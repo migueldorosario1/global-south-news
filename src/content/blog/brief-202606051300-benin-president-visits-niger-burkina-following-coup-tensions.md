@@ -4,7 +4,7 @@ description: "Niger Benin's new leader on Tuesday visited neighbouring Niger and
 pubDate: "2026-06-05T05:07:13Z"
 draft: false
 tags: ["multipolar-world", "africa", "diplomacy", "security", "ai", "sahel"]
-heroImage: "/hero/smoke-brief-202606051300-benin-president-visits-niger-burkina-following-coup-tensions-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051300-benin-president-visits-niger-burkina-following-coup-tensions-qwen.jpg"
 ---
 <p>On 4 June Benin’s newly inaugurated President Romuald Wadagni visited Niger and Burkina Faso, securing commitments to reopen a border shut after months of post-coup tensions. Mr Wadagni met Niger’s junta chief Abdourahamane Tiani in Niamey before travelling to Ouagadougou for talks with Burkina Faso’s leader Ibrahim Traoré, signalling a swift diplomatic reset weeks into his presidency.</p>
 <p>A joint statement with Niger said both sides were “committed to working to remove all obstacles to strengthening cooperation… in particular the reopening of the border.” The two leaders vowed to join forces against the “scourge of terrorism and banditry” plaguing the subregion. In Burkina Faso, Mr Traoré and Mr Wadagni affirmed “the urgency of consolidating cooperation against terrorism, cross-border crime and violent extremism.”</p>

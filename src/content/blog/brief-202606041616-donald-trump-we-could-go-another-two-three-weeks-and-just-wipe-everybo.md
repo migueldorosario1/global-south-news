@@ -4,7 +4,7 @@ description: "Trump claims U.S. can 'wipe out' Iran in weeks via bombing, but Da
 pubDate: "2026-06-04T16:16:37Z"
 draft: false
 tags: ["Daniel Davis - Deep Dive", "Daniel Davis", "Donald Trump"]
-heroImage: "/hero/youtube-jB6iTLAfm0k.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/youtube-jB6iTLAfm0k.jpg"
 author: "Global South News Desk"
 lang: "en"
 ---

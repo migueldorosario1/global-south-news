@@ -4,7 +4,7 @@ description: "De acuerdo con el comunicado final de la reunión virtual que sost
 pubDate: "2026-06-05T05:32:14Z"
 draft: false
 tags: ["multipolar-world", "africa", "regional-integration", "health", "latin-america", "port", "ai", "kenya"]
-heroImage: "/hero/smoke-brief-202606051300-comunidad-de-africa-oriental-por-armonizar-medidas-contra-ebola-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051300-comunidad-de-africa-oriental-por-armonizar-medidas-contra-ebola-qwen.jpg"
 ---
 <p>The East African Community (EAC) has set up a regional technical working group to co-ordinate the response to the Bundibugyo Ebola outbreak, as the Pandemic Fund’s executive board approved $220.6m in emergency financing for affected and at-risk nations in East and Central Africa.</p>
 <p>The working group, composed of experts from EAC member states including the Democratic Republic of Congo, will monitor the outbreak, co-ordinate technical interventions, review epidemiological trends and report periodically to ministers and other bloc decision-making bodies. The decision follows a virtual ministerial meeting held on June 1-2, the EAC said on Thursday.</p>

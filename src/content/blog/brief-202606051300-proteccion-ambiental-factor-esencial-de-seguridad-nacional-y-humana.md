@@ -4,7 +4,7 @@ description: "“Un país puede registrar un elevado crecimiento económico, per
 pubDate: "2026-06-05T05:00:11Z"
 draft: false
 tags: ["multipolar-world", "climate", "development", "asia", "latin-america", "ai", "vietnam"]
-heroImage: "/hero/smoke-brief-202606051300-proteccion-ambiental-factor-esencial-de-seguridad-nacional-y-humana.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051300-proteccion-ambiental-factor-esencial-de-seguridad-nacional-y-humana.jpg"
 ---
 <p>Vietnamese President To Lam has declared that environmental protection is a fundamental pillar of national and human security, warning that economic growth cannot be considered sustainable if citizens live amid pollution and environmental degradation. “A country may record high economic growth, but if its citizens live in conditions of pollution and environmental degradation, it cannot be called truly sustainable development,” Lam wrote in an article published to mark World Environment Day and World Oceans Day.</p>
 <p>In the article, titled “For an ecological civilisation, a green Vietnam and a peaceful and sustainable ocean,” Lam called for deeper reflection on humanity’s relationship with nature. He argued that the world is witnessing unprecedented ecological changes that are pushing natural limits to dangerous levels, posing a fundamental question: can development be sustainable if the ecological basis of life is being eroded?</p>

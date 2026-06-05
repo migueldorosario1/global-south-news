@@ -4,7 +4,7 @@ description: "Pakistan said on Thursday (June 4, 2026) two river projects by arc
 pubDate: "2026-06-04T17:04:24Z"
 draft: true
 tags: ["multipolar-world", "sovereignty", "infrastructure", "water-security", "south-asia", "asia", "india", "hydro", "ai", "pakistan"]
-heroImage: "/hero/smoke-brief-202606041404-pakistan-accuses-india-of-weaponising-water-after-treaty-suspension.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606041404-pakistan-accuses-india-of-weaponising-water-after-treaty-suspension.jpg"
 ---
 
 <p>ISLAMABAD — Pakistan on Thursday accused India of “weaponising water” following New Delhi’s suspension of the Indus Waters Treaty, escalating a dispute that threatens the water security of 250 million Pakistanis and risks aggravating tensions between the nuclear-armed neighbours.</p>
