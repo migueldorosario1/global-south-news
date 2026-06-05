@@ -1,10 +1,12 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-05T07:08:11.964Z
-Publicadas/auditadas com sucesso no historico: 48
-Materias com bloqueio acumulado: 149
+Atualizado em: 2026-06-05T09:43:18.656Z
+Publicadas/auditadas com sucesso no historico: 58
+Materias com bloqueio acumulado: 153
 
 ## Solucoes do cerebro aplicadas
+- imagens devem ficar dentro do silo GSN antes do deploy
+- publicação correta é Markdown/Astro/Vercel, não WordPress
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
 
 ## Bloqueios acumulados
@@ -157,7 +159,19 @@ Materias com bloqueio acumulado: 149
 - brief-202606051428-benin-s-wadagni-reopens-niger-border-rebuilds-sahel-ties.md: auditoria reteve brief-202606051428-benin-s-wadagni-reopens-niger-border-rebuilds-sahel-ties.md: falha local critica: texto/categoria precisa revisao (texto e categorias aceitaveis); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto não apresenta contradições internas, acusações graves sem apoio, datas impossíveis ou título desonesto.","fix":""},{"
 - brief-202606051428-laos-president-thongloun-sisoulith-visits-china-amid-65th-anniversary-of-ties.md: auditoria reteve brief-202606051428-laos-president-thongloun-sisoulith-visits-china-amid-65th-anniversary-of-ties.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 400"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"A da
 - brief-202606051424-vietnam-leader-links-environmental-protection-to-national-security.md: auditoria reteve brief-202606051424-vietnam-leader-links-environmental-protection-to-national-security.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto não apresenta contradições internas, acusações graves sem apoio, datas impossíveis, 
+- brief-202606050600-house-votes-to-curtail-trump-s-iran-war-powers-as-nuclear-talks-stall.md: auditoria reteve brief-202606050600-house-votes-to-curtail-trump-s-iran-war-powers-as-nuclear-talks-stall.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto não apresenta contradições internas, acusações graves sem apoio, datas impossívei
+- brief-202606050600-iran-footballers-face-world-cup-amid-us-iran-visa-crisis.md: auditoria reteve brief-202606050600-iran-footballers-face-world-cup-amid-us-iran-visa-crisis.md: veto externo consistente: kimi: A data de início do conflito mencionada no texto (28 de fevereiro) e a data da cessação de fogo (8 de abril) não podem ser verificadas como corretas sem uma fonte confiável. Além disso, a afirmação de que o conflito entre os Estados Unidos e Israel e a preparação da seleção iraniana para a 
+- brief-202606050600-el-nino-s-impact-on-uruguay-warmer-winter-variable-rainfall.md: auditoria reteve brief-202606050600-el-nino-s-impact-on-uruguay-warmer-winter-variable-rainfall.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma visão geral dos impactos do El Niño na agricultura do Uruguai, sem apresentar c
+- brief-202606050600-israeli-drone-strikes-kill-lebanese-civilians-amid-ceasefire-tensions.md: auditoria reteve brief-202606050600-israeli-drone-strikes-kill-lebanese-civilians-amid-ceasefire-tensions.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":false,"reason":"A materia menciona uma fonte citada (NNA), mas a fonte não é fornecida no texto. Sem a f
 
 ## Publicadas nesta rodada
-- brief-202606051428-lebanon-israel-ceasefire-extended-despite-drone-strikes-and-public-doubts.md
-- brief-202606051428-benin-s-wadagni-reopens-niger-border-rebuilds-sahel-ties.md
+- brief-202606050600-pakistan-accuses-india-of-weaponizing-water-in-indus-waters-dispute.md
+- brief-202606050600-israel-supreme-court-orders-red-cross-access-to-palestinian-prisoners.md
+- brief-202606050600-mali-bans-large-motorcycles-to-curb-jihadist-mobility.md
+- brief-202606050600-bolivia-s-president-seeks-state-of-exception-law-as-protests-enter-35th-day.md
+- brief-202606050600-un-warns-ai-expansion-will-double-data-centre-energy-and-water-use-by-2030.md
+- brief-202606050600-kenya-proceeds-with-us-backed-ebola-quarantine-center-despite-deadly-protests.md
+- brief-202606050600-bangladesh-thwarts-india-s-forced-border-crossings-amid-migration-dispute.md
+- brief-202606050600-senegal-races-against-time-to-secure-imf-bailout-amid-debt-crisis.md
+- brief-202606050600-nepal-foreign-minister-to-visit-india-amid-border-dispute-tensions.md
+- brief-202606050600-venezuela-s-rodriguez-and-modi-bolster-global-south-ties-in-new-delhi.md
