@@ -4,7 +4,7 @@ description: "Uruguay faces warmer winters and split rainfall patterns as El Ni�
 pubDate: "2026-06-05T12:19:31Z"
 draft: false
 tags: ["Agriculture", "Climate Change", "El Niño", "Meteorology", "Uruguay", "latin-america"]
-heroImage: "/hero/smoke-brief-202606050900-el-nino-to-bring-warmer-winter-variable-rainfall-to-uruguay-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050900-el-nino-to-bring-warmer-winter-variable-rainfall-to-uruguay-qwen.jpg"
 ---
 <p>Uruguayan meteorologist Madeleine Renom said on Thursday that a global El Niño event will deliver warmer-than-normal winter temperatures and above-average rainfall to northern Uruguay between September and January, with effects likely extending until mid-2027. Her forecast comes as the World Meteorological Organization this week raised the probability of El Niño developing between June and August to 80 per cent.</p>
 <p>Renom explained that mean temperatures during the Southern Hemisphere winter months of June, July and August would be “always above normal”, although occasional cold spells would still occur. The warm anomaly will define the season, she added.</p>

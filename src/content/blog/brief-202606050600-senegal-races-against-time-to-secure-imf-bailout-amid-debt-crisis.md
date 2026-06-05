@@ -4,7 +4,7 @@ description: "Senegal seeks IMF program before June deadline as new government f
 pubDate: "2026-06-05T09:39:25Z"
 draft: false
 tags: ["Bassirou Diomaye Faye", "Debt Crisis", "Economic Reform", "Global South", "IMF", "Senegal", "africa"]
-heroImage: "/hero/smoke-brief-202606050600-senegal-races-against-time-to-secure-imf-bailout-amid-debt-crisis.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-senegal-races-against-time-to-secure-imf-bailout-amid-debt-crisis.jpg"
 ---
 <p>Senegal has launched urgent talks with the International Monetary Fund in a race to avert a sovereign default, abandoning the economic sovereignty platform that swept it to power in 2024. President Bassirou Diomaye Faye and Prime Minister Ousmane Sonko formed a new government last month with a single mission: to secure an IMF programme before a self-imposed June 30 deadline.</p>
 <p>The administration inherited a deeply indebted state, and surging global interest rates have since crippled its ability to service obligations. With international bond markets effectively shut, officials have acknowledged that only a Fund-backed stabilisation package can prevent a disorderly default.</p>

@@ -4,7 +4,7 @@ description: "Bangladesh foils 10 Indian attempts to force people across border,
 pubDate: "2026-06-05T09:24:24Z"
 draft: false
 tags: ["India-Bangladesh relations", "South Asia", "asia", "border dispute", "diplomatic tensions", "migration"]
-heroImage: "/hero/smoke-brief-202606050600-bangladesh-thwarts-india-s-forced-border-crossings-amid-migration-dispute.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-bangladesh-thwarts-india-s-forced-border-crossings-amid-migration-dispute.jpg"
 ---
 <p>DHAKA — Border Guard Bangladesh said on June 4 that it had thwarted 10 attempts by Indian authorities to force people across the border over the previous 24 hours, intensifying a dispute over alleged undocumented migration. The BGB accused India’s Border Security Force of trying to drive people into Bangladesh without following formal repatriation procedures.</p>
 <p>India’s BSF and Ministry of External Affairs did not respond to requests for comment. The stand-off comes amid strained ties following the 2024 ousting of Sheikh Hasina, Bangladesh’s long-time India-aligned prime minister. India’s ruling Bharatiya Janata Party, which governs several border states, has made tackling undocumented migration a priority and has been attempting to push Bengali-speaking Muslims, branded as “illegal infiltrators,” into Bangladesh since last year.</p>

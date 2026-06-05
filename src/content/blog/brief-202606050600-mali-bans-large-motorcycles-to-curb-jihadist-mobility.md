@@ -4,7 +4,7 @@ description: "Mali's interim government bans motorcycles 125cc+ outside urban ar
 pubDate: "2026-06-05T09:06:46Z"
 draft: false
 tags: ["Mali", "West Africa", "jihadist insurgency", "motorcycle ban", "multipolar", "security crisis"]
-heroImage: "/hero/smoke-brief-202606050600-mali-bans-large-motorcycles-to-curb-jihadist-mobility.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-mali-bans-large-motorcycles-to-curb-jihadist-mobility.jpg"
 ---
 <p>Mali’s interim government has banned the use of motorcycles with engines of 125cc or larger outside major urban areas, escalating its crackdown on jihadist groups that rely heavily on such vehicles for attacks and mobility. The decree, read on national television on Wednesday evening, also suspends the “import, transit, marketing, sale and free distribution” of these motorcycles and their accessories across the entire country.</p>
 <p>The measure exempts Bamako, regional capitals and certain smaller urban centres, but otherwise strictly limits the circulation of powerful motorbikes—a preferred mode of transport for Islamist militants operating in the Sahel. Authorities did not specify how the ban would be enforced in rural areas where state presence is already thin.</p>

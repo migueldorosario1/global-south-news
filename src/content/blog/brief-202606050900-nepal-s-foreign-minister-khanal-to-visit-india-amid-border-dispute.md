@@ -4,7 +4,7 @@ description: "Nepal's Foreign Minister Shisir Khanal travels to New Delhi June 5
 pubDate: "2026-06-05T12:35:27Z"
 draft: false
 tags: ["Balendra Shah", "Border dispute", "Diplomatic visit", "Nepal-India relations", "S Jaishankar", "asia"]
-heroImage: "/hero/smoke-brief-202606050900-nepal-s-foreign-minister-khanal-to-visit-india-amid-border-dispute.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050900-nepal-s-foreign-minister-khanal-to-visit-india-amid-border-dispute.jpg"
 ---
 <p>KATHMANDU — Nepal’s Foreign Minister Shisir Khanal will travel to New Delhi from June 5 to 7 at the invitation of Indian External Affairs Minister S. Jaishankar, marking the first ministerial visit from Prime Minister Balendra Shah’s government since it took office in March.</p>
 <p>The trip, announced by Nepal’s foreign ministry on Thursday, follows a diplomatic row sparked by Prime Minister Shah. In a May 31 parliamentary address, Shah disclosed that besides direct talks with India on their border dispute, Kathmandu had engaged with China and the UK. New Delhi firmly rebuffed the suggestion two days later, reiterating that no third party should be involved in the bilateral boundary question.</p>

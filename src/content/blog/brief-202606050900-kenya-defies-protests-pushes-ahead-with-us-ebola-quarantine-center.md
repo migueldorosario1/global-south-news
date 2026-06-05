@@ -4,7 +4,7 @@ description: "Kenya proceeds with US-funded Ebola quarantine center despite dead
 pubDate: "2026-06-05T12:25:39Z"
 draft: false
 tags: ["Ebola", "Kenya", "Neo-colonial", "Protests", "Public Health", "Quarantine", "United States", "africa"]
-heroImage: "/hero/smoke-brief-202606050900-kenya-defies-protests-pushes-ahead-with-us-ebola-quarantine-center.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050900-kenya-defies-protests-pushes-ahead-with-us-ebola-quarantine-center.jpg"
 ---
 <p>Kenya’s Health Minister Aden Duale confirmed on Wednesday that a controversial US-funded Ebola quarantine facility at Laikipia Air Base will proceed, defying public outrage and deadly protests that killed two people earlier this week.</p>
 <p>The project, part of a 2015 agreement under Washington’s Biological Threat Reduction Program, was designed to isolate Americans arriving from the Democratic Republic of Congo, where a major Ebola outbreak is under way. A court order temporarily blocked its opening last week.</p>

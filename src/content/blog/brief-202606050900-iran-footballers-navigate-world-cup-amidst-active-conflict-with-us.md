@@ -4,7 +4,7 @@ description: "Iran's national football team prepares for World Cup amid ongoing 
 pubDate: "2026-06-05T12:13:42Z"
 draft: false
 tags: ["Global South", "Iran", "Sports Diplomacy", "US-Iran Conflict", "World Cup 2026", "multipolar"]
-heroImage: "/hero/smoke-brief-202606050900-iran-footballers-navigate-world-cup-amidst-active-conflict-with-us.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050900-iran-footballers-navigate-world-cup-amidst-active-conflict-with-us.jpg"
 ---
 <p>Iran’s national football team faces a World Cup like no other, with the country at war with tournament co-host the United States. Midfielders Saeid Ezatolahi and Mohammad Ghorbani described how the conflict, which erupted on February 28 and remains under an uneasy April 8 ceasefire, is disrupting preparations and weighing on the squad.</p>
 <p>“It’s not easy. At the same time we are following the news in our country and the political things can affect the mind of the players,” Ezatolahi, 29, told the Associated Press during a training camp in Turkey. The three-time World Cup participant said the team must channel the pressure into pride for the Iranian people.</p>

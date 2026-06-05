@@ -4,7 +4,7 @@ description: "Vietnamese President To Lam links environmental protection to nati
 pubDate: "2026-06-05T07:03:36Z"
 draft: true
 tags: ["environmental security", "climate change", "Vietnam", "sustainable development", "international cooperation"]
-heroImage: "/hero/smoke-brief-202606051500-vietnam-s-president-environmental-protection-as-national-security-imperative-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051500-vietnam-s-president-environmental-protection-as-national-security-imperative-qwen.jpg"
 ---
 
 <p>Vietnamese President To Lam warned on Friday that high economic growth is meaningless if citizens live amid pollution and environmental degradation, stressing that environmental protection is a fundamental component of national and human security.</p>

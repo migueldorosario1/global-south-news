@@ -4,7 +4,7 @@ description: "through Chenab River projects, escalating dispute over suspended I
 pubDate: "2026-06-05T09:02:13Z"
 draft: false
 tags: ["Geopolitics", "India-Pakistan relations", "Indus Waters Treaty", "South Asia", "Water security", "asia"]
-heroImage: "/hero/smoke-brief-202606050600-pakistan-accuses-india-of-weaponizing-water-in-indus-waters-dispute.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-pakistan-accuses-india-of-weaponizing-water-in-indus-waters-dispute.jpg"
 ---
 <p>Islamabad charged on Thursday that two Indian hydropower projects on the Chenab River amount to weaponising water, escalating a dispute over a historic treaty that New Delhi suspended last year. Pakistan’s Foreign Ministry spokesperson, Tahir Andrabi, told journalists that India had not consulted Pakistan before advancing the initiatives, which he said would undermine the Indus Waters Treaty and threaten the livelihoods of 250 million Pakistanis.</p>
 <p>“These projects confirm that India seems to weaponise water,” Andrabi said. “This carries dangerous implications not only for Pakistan’s economy but also for regional stability and international peace and security.” He added that any illegal measure endangering Pakistan’s water, food and economic security was unacceptable and that Islamabad would retain all options to safeguard its rights under the treaty, without elaborating.</p>

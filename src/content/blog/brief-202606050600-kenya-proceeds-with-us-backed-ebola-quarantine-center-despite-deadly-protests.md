@@ -4,7 +4,7 @@ description: "Kenya moves forward with controversial US-backed Ebola quarantine 
 pubDate: "2026-06-05T09:28:51Z"
 draft: false
 tags: ["Ebola", "Kenya", "Protests", "Public Health", "United States", "africa"]
-heroImage: "/hero/smoke-brief-202606050600-kenya-proceeds-with-us-backed-ebola-quarantine-center-despite-deadly-protests.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-kenya-proceeds-with-us-backed-ebola-quarantine-center-despite-deadly-protests.jpg"
 ---
 <p>Kenya’s health minister said on Wednesday that a US-funded Ebola quarantine centre at Laikipia Air Base will proceed, dismissing deadly protests that killed two people and a court order temporarily blocking the project. Aden Duale told parliament the facility would serve both Kenyan and US nationals and that the government would not halt construction.</p>
 <p>The US-built isolation centre was due to open last week to quarantine Americans arriving from the Democratic Republic of Congo, which is battling a major Ebola outbreak. Many Kenyans have expressed anger over what they see as colonial undertones and the risk of Ebola spreading from the base, located about 200 kilometres north of Nairobi.</p>

@@ -4,7 +4,7 @@ description: "Jeffrey Sachs slams Israel as a rogue state committing genocide, u
 pubDate: "2026-06-05T14:33:06Z"
 draft: false
 tags: ["Judging Freedom", "Andrew Napolitano", "Jeffrey Sachs"]
-heroImage: "/hero/youtube-eT9O06bJR_4.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/youtube-eT9O06bJR_4.jpg"
 author: "Global South News Desk"
 lang: "en"
 ---

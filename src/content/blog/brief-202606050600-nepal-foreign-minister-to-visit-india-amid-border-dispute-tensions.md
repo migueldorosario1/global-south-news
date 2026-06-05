@@ -4,7 +4,7 @@ description: "Nepal's foreign minister visits India for talks on trade and conne
 pubDate: "2026-06-05T09:41:42Z"
 draft: false
 tags: ["Border Dispute", "Diplomacy", "Foreign Relations", "India", "Nepal", "asia"]
-heroImage: "/hero/smoke-brief-202606050600-nepal-foreign-minister-to-visit-india-amid-border-dispute-tensions.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-nepal-foreign-minister-to-visit-india-amid-border-dispute-tensions.jpg"
 ---
 <p>Nepal’s Minister for Foreign Affairs Shisir Khanal will visit India from June 5 to 7 at the invitation of India’s External Affairs Minister S. Jaishankar, the government in Kathmandu said on Thursday, against the backdrop of a diplomatic row over third-party mediation in the two countries’ border dispute.</p>
 <p>Mr. Khanal will hold formal talks with Mr. Jaishankar in New Delhi, with discussions expected to cover trade, investment, connectivity, energy and people-to-people ties, according to a Nepali foreign ministry statement. The visit, part of regular high-level exchanges, is the first by a minister from Prime Minister Balendra Shah’s government since it took office in March, and aims to further consolidate what Kathmandu called the “enduring and multifaceted” bilateral relationship.</p>
