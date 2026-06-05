@@ -1,0 +1,13 @@
+---
+title: "Benin president visits Niger, Burkina, following coup tensions"
+description: "Niger Benin's new leader on Tuesday visited neighbouring Niger and Burkina Faso, in a sign of easing tensions between his country and the military-led west African states. Niger's"
+pubDate: "2026-06-05T05:07:13Z"
+draft: false
+tags: ["multipolar-world", "africa", "diplomacy", "security", "ai", "sahel"]
+heroImage: "/hero/smoke-brief-202606051300-benin-president-visits-niger-burkina-following-coup-tensions-qwen.jpg"
+---
+<p>On 4 June Benin’s newly inaugurated President Romuald Wadagni visited Niger and Burkina Faso, securing commitments to reopen a border shut after months of post-coup tensions. Mr Wadagni met Niger’s junta chief Abdourahamane Tiani in Niamey before travelling to Ouagadougou for talks with Burkina Faso’s leader Ibrahim Traoré, signalling a swift diplomatic reset weeks into his presidency.</p>
+<p>A joint statement with Niger said both sides were “committed to working to remove all obstacles to strengthening cooperation… in particular the reopening of the border.” The two leaders vowed to join forces against the “scourge of terrorism and banditry” plaguing the subregion. In Burkina Faso, Mr Traoré and Mr Wadagni affirmed “the urgency of consolidating cooperation against terrorism, cross-border crime and violent extremism.”</p>
+<p>The rapprochement follows sharp acrimony after Niger’s July 2023 coup. Niamey sealed the frontier, accusing Cotonou of hosting French military bases bent on destabilising Niger. Former president Patrice Talon was even named by General Tiani as a sponsor of jihadist attacks on Niamey airport. Benin and Paris have consistently denied the allegations. Niger, alongside Burkina Faso and Mali, subsequently formed the Alliance of Sahel States and quit the West African bloc ECOWAS, claiming it was beholden to France.</p>
+<p>Mr Wadagni, a former finance minister and handpicked successor of Mr Talon, won April’s election with 94 percent of the vote. His visit, which his office described as part of “active neighbourhood diplomacy,” followed an early overture when Niger’s prime minister attended his 24 May inauguration. Niamey’s main roads were bedecked with both nations’ flags as crowds greeted the convoy.</p>
+<p>The economic stakes are considerable. Landlocked Niger previously moved about 80 percent of its freight through Benin’s port of Seme-Kpodji. A cross-border oil pipeline remains operational, but the only bridge over the Niger River is still closed with heavy security. Political scientist Odilon Koukoubou said Mr Talon’s departure had “offered a window of opportunity that had to be seized quickly,” as AES leaders appeared to resent the former president more than Benin itself.</p>

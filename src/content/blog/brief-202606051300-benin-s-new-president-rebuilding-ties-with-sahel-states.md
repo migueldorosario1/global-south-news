@@ -1,0 +1,12 @@
+---
+title: "Benin's new president rebuilding ties with Sahel states"
+description: "Niger Benin’s new President Romuald Wadagni travelled to both Niger and Burkina Faso on Tuesday as he tries to rebuilds ties with the Sahel states. Less than a week after taking of"
+pubDate: "2026-06-05T05:13:15Z"
+draft: false
+tags: ["multipolar-world", "africa", "security", "trade", "infrastructure", "regional-integration", "development", "logistics", "ai", "sahel", "nigeria"]
+heroImage: "/hero/smoke-brief-202606051300-benin-s-new-president-rebuilding-ties-with-sahel-states-qwen.jpg"
+---
+<p>Benin’s new president, Romuald Wadagni, on Tuesday secured a commitment from Niger’s military junta to begin the process of reopening their shared border, a breakthrough in his first foreign tour aimed at restoring ties with neighbouring Sahel states. The border was shut last year after Niger accused Benin of hosting French military bases that it claimed were being used to destabilise its government.</p>
+<p>In Niamey, Mr Wadagni held talks with the leader of Niger’s military junta. Niger’s foreign minister, Bakary Yaou Sangare, said the two presidents discussed the terrorist threat across the Sahel and West Africa and reaffirmed their commitment to joining forces to combat the scourge of terrorism and banditry. The discussions signalled a potential thaw in relations that soured when Niger, along with Burkina Faso and Mali, distanced itself from former colonial power France and formed the Alliance of Sahel States confederation.</p>
+<p>Later the same day, Mr Wadagni travelled to Ouagadougou to meet Burkina Faso’s transitional leader, Captain Ibrahim Traoré. Their talks focused on strengthening political dialogue and deepening cooperation, with discussions centred on security, counterterrorism, trade, infrastructure, vocational training and logistics, both sides said. The visit underscores Benin’s push to reposition itself as a bridge between the junta-led Sahel states and coastal West Africa, amid persistent jihadist violence that has undercut development initiatives across the region.</p>
+<p>The diplomatic overture began on Monday with a stop in Nigeria, Mr Wadagni’s first international trip since taking office. Taken together, the three-nation trip signals an effort by the new Beninese leader to rebuild ties and coordinate regional action against terrorism.</p>

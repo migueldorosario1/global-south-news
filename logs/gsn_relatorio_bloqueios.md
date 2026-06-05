@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-05T05:01:54.937Z
-Publicadas/auditadas com sucesso no historico: 32
-Materias com bloqueio acumulado: 125
+Atualizado em: 2026-06-05T05:43:57.050Z
+Publicadas/auditadas com sucesso no historico: 42
+Materias com bloqueio acumulado: 127
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -133,15 +133,17 @@ Materias com bloqueio acumulado: 125
 - brief-202606050037-google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - brief-202606050337-google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - brief-202606051215-dominicana-acoge-conferencia-latinoamericana-de-saneamiento.md: auditoria reteve brief-202606051215-dominicana-acoge-conferencia-latinoamericana-de-saneamiento.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"chave ausente"},{"auditor":"kimi","ok":null,"reason":"chave ausente"},{"auditor":"qwen","ok":null,"reason":"chave ausente"},{"auditor":"codex-texto-categoria","ok
+- brief-202606051300-foro-lecturas-primakov-reunira-en-moscu-a-expertos-de-20-paises.md: auditoria reteve brief-202606051300-foro-lecturas-primakov-reunira-en-moscu-a-expertos-de-20-paises.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"chave ausente"},{"auditor":"kimi","ok":null,"reason":"chave ausente"},{"auditor":"qwen","ok":null,"reason":"chave ausente"},{"auditor":"codex-texto-categoria"
+- brief-202606051300-dominicana-acoge-conferencia-latinoamericana-de-saneamiento.md: auditoria reteve brief-202606051300-dominicana-acoge-conferencia-latinoamericana-de-saneamiento.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"chave ausente"},{"auditor":"kimi","ok":null,"reason":"chave ausente"},{"auditor":"qwen","ok":null,"reason":"chave ausente"},{"auditor":"codex-texto-categoria","ok
 
 ## Publicadas nesta rodada
-- brief-202606051215-proteccion-ambiental-factor-esencial-de-seguridad-nacional-y-humana.md
-- brief-202606051215-lebanon-israeli-drone-attacks-scepticism-greet-ceasefire-extension.md
-- brief-202606051215-foro-lecturas-primakov-reunira-en-moscu-a-expertos-de-20-paises.md
-- brief-202606051215-benin-president-visits-niger-burkina-following-coup-tensions.md
-- brief-202606051215-maximo-lider-de-laos-llega-a-beijing-para-cumbre-con-xi-jinping.md
-- brief-202606051215-benin-s-new-president-rebuilding-ties-with-sahel-states.md
-- brief-202606051215-gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike.md
-- brief-202606051215-ecuador-preve-llegada-de-fenomeno-el-nino-en-julio-o-agosto.md
-- brief-202606051215-us-imposes-fresh-sanctions-on-m23-and-fdlr-leaders.md
-- brief-202606051215-comision-mixta-nicaragua-rusia-revisa-avances-de-cooperacion.md
+- brief-202606051300-proteccion-ambiental-factor-esencial-de-seguridad-nacional-y-humana.md
+- brief-202606051300-benin-president-visits-niger-burkina-following-coup-tensions.md
+- brief-202606051300-maximo-lider-de-laos-llega-a-beijing-para-cumbre-con-xi-jinping.md
+- brief-202606051300-benin-s-new-president-rebuilding-ties-with-sahel-states.md
+- brief-202606051300-gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike.md
+- brief-202606051300-ecuador-preve-llegada-de-fenomeno-el-nino-en-julio-o-agosto.md
+- brief-202606051300-us-imposes-fresh-sanctions-on-m23-and-fdlr-leaders.md
+- brief-202606051300-comision-mixta-nicaragua-rusia-revisa-avances-de-cooperacion.md
+- brief-202606051300-dr-congo-airport-reopens-in-ebola-hit-area-as-suspected-cases-drop.md
+- brief-202606051300-comunidad-de-africa-oriental-por-armonizar-medidas-contra-ebola.md
