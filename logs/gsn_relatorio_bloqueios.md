@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-05T06:58:48.240Z
-Publicadas/auditadas com sucesso no historico: 44
-Materias com bloqueio acumulado: 144
+Atualizado em: 2026-06-05T07:03:13.789Z
+Publicadas/auditadas com sucesso no historico: 46
+Materias com bloqueio acumulado: 149
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -152,3 +152,12 @@ Materias com bloqueio acumulado: 144
 - brief-202606051300-senalan-avances-de-centro-de-imagenologia-molecular-de-uruguay.md: arquivo da fila ausente; item ignorado para nao derrubar o publicador remoto
 - brief-202606051300-debt-crisis-senegal-turns-to-the-imf-business-africa.md: auditoria reteve brief-202606051300-debt-crisis-senegal-turns-to-the-imf-business-africa.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto não apresenta contradições internas, acusações graves sem apoio, datas impossíveis, título desones
 - brief-202606051215-dr-congo-airport-reopens-in-ebola-hit-area-as-suspected-cases-drop.md: auditoria reteve brief-202606051215-dr-congo-airport-reopens-in-ebola-hit-area-as-suspected-cases-drop.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto não apresenta contradições internas, acusações graves sem apoio, datas impossíveis, 
+- brief-202606051428-lebanon-israel-ceasefire-extended-despite-drone-strikes-and-public-doubts.md: auditoria reteve brief-202606051428-lebanon-israel-ceasefire-extended-despite-drone-strikes-and-public-doubts.md: falha local critica: texto/categoria precisa revisao (texto e categorias aceitaveis); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto não apresenta contradições internas, acusações graves sem apoio, datas impossíveis ou títulos desone
+- brief-202606051428-primakov-forum-global-power-dynamics-in-a-rule-based-world.md: auditoria reteve brief-202606051428-primakov-forum-global-power-dynamics-in-a-rule-based-world.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto descreve um evento futuro, o Primakov Readings forum, que está previsto para acontecer em Mo
+- brief-202606051428-benin-s-wadagni-reopens-niger-border-rebuilds-sahel-ties.md: auditoria reteve brief-202606051428-benin-s-wadagni-reopens-niger-border-rebuilds-sahel-ties.md: falha local critica: texto/categoria precisa revisao (texto e categorias aceitaveis); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto não apresenta contradições internas, acusações graves sem apoio, datas impossíveis ou título desonesto.","fix":""},{"
+- brief-202606051428-laos-president-thongloun-sisoulith-visits-china-amid-65th-anniversary-of-ties.md: auditoria reteve brief-202606051428-laos-president-thongloun-sisoulith-visits-china-amid-65th-anniversary-of-ties.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 400"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"A da
+- brief-202606051424-vietnam-leader-links-environmental-protection-to-national-security.md: auditoria reteve brief-202606051424-vietnam-leader-links-environmental-protection-to-national-security.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto não apresenta contradições internas, acusações graves sem apoio, datas impossíveis o
+
+## Publicadas nesta rodada
+- brief-202606051428-vietnam-leader-links-environmental-protection-to-national-security.md
+- brief-202606051428-benin-s-new-president-wadagni-visits-niger-burkina-faso-to-ease-regional-tensions.md
