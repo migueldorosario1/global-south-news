@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-06T01:42:46.221Z
-Publicadas/auditadas com sucesso no historico: 75
-Materias com bloqueio acumulado: 183
+Atualizado em: 2026-06-06T09:41:22.857Z
+Publicadas/auditadas com sucesso no historico: 76
+Materias com bloqueio acumulado: 184
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -191,3 +191,7 @@ Materias com bloqueio acumulado: 183
 - brief-202606051200-senegal-s-economic-crisis-top-economist-urges-imf-reforms.md: auditoria reteve brief-202606051200-senegal-s-economic-crisis-top-economist-urges-imf-reforms.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto não apresenta contradições internas, acusações graves sem apoio, datas impossíveis, título de
 - brief-202606051200-us-mediated-lebanon-ceasefire-rejected-by-hezbollah-israel.md: auditoria reteve brief-202606051200-us-mediated-lebanon-ceasefire-rejected-by-hezbollah-israel.md: veto externo consistente: kimi: A data de 600 pessoas mortas em ataques israelenses desde o acordo de 16 de abril é inconsistente com a data de início do ataque em março. Além disso, a afirmação de que Israel ocupa um quinto do território libanês não é claramente demonstrada ou citada em uma fonte. | qwen: A data mencio
 - brief-202606060137-shehbaz-sharif-secures-china-deal-to-upgrade-cpec-and-gwadar-port.md: auditoria reteve brief-202606060137-shehbaz-sharif-secures-china-deal-to-upgrade-cpec-and-gwadar-port.md: veto externo isolado sem fonte citada: qwen: {"ok":false,"reason":"A matéria afirma que Shehbaz Sharif e líderes chineses alcançaram um 'novo amplo consenso' em 'terça-feira' para atualizar o CPEC e o porto de Gwadar, mas não; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"k
+- brief-202606060937-china-pakistan-agree-to-revitalize-cpec-open-gwadar-to-third-party-investors.md: auditoria reteve brief-202606060937-china-pakistan-agree-to-revitalize-cpec-open-gwadar-to-third-party-investors.md: veto externo isolado sem fonte citada: qwen: {"ok":false,"reason":"A data do evento (visita do PM Shehbaz Sharif a Pequim e declaração conjunta 'na terça-feira') é impossível: 6 de junho de 2026 é sábado, mas não há informaçã; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"
+
+## Publicadas nesta rodada
+- brief-202606060137-shehbaz-sharif-secures-china-deal-to-upgrade-cpec-and-gwadar-port.md
