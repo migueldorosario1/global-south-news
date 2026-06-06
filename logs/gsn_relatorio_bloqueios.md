@@ -1,12 +1,10 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-05T15:38:22.728Z
+Atualizado em: 2026-06-06T01:42:46.221Z
 Publicadas/auditadas com sucesso no historico: 75
-Materias com bloqueio acumulado: 182
+Materias com bloqueio acumulado: 183
 
 ## Solucoes do cerebro aplicadas
-- imagens devem ficar dentro do silo GSN antes do deploy
-- publicação correta é Markdown/Astro/Vercel, não WordPress
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
 
 ## Bloqueios acumulados
@@ -192,14 +190,4 @@ Materias com bloqueio acumulado: 182
 - brief-202606051200-bangladesh-foils-multiple-indian-attempts-to-force-people-across-border.md: auditoria reteve brief-202606051200-bangladesh-foils-multiple-indian-attempts-to-force-people-across-border.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":false,"reason":"A materia acusou a India de tentar forçar pessoas a atravessar a fronteira com Banglad
 - brief-202606051200-senegal-s-economic-crisis-top-economist-urges-imf-reforms.md: auditoria reteve brief-202606051200-senegal-s-economic-crisis-top-economist-urges-imf-reforms.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto não apresenta contradições internas, acusações graves sem apoio, datas impossíveis, título de
 - brief-202606051200-us-mediated-lebanon-ceasefire-rejected-by-hezbollah-israel.md: auditoria reteve brief-202606051200-us-mediated-lebanon-ceasefire-rejected-by-hezbollah-israel.md: veto externo consistente: kimi: A data de 600 pessoas mortas em ataques israelenses desde o acordo de 16 de abril é inconsistente com a data de início do ataque em março. Além disso, a afirmação de que Israel ocupa um quinto do território libanês não é claramente demonstrada ou citada em uma fonte. | qwen: A data mencio
-
-## Publicadas nesta rodada
-- brief-202606051200-pakistan-accuses-india-of-weaponizing-water-in-indus-waters-treaty-dispute.md
-- brief-202606051200-israel-supreme-court-orders-red-cross-access-to-palestinian-detainees.md
-- brief-202606051200-mali-bans-high-powered-motorcycles-in-bid-to-curb-jihadist-insurgency.md
-- brief-202606051200-un-warns-ai-expansion-will-double-data-centre-energy-and-water-use-by-2030.md
-- brief-202606051200-iran-footballers-prepare-for-world-cup-amid-active-conflict-with-us-israel.md
-- brief-202606051200-el-nino-to-bring-warmer-winter-variable-rainfall-to-uruguay.md
-- brief-202606051200-nepal-foreign-minister-shisir-khanal-to-visit-india-june-5-7-amid-border-dispute-tensions.md
-- brief-202606051200-israeli-drone-strikes-cast-doubt-on-extended-lebanon-israel-ceasefire.md
-- brief-202606051200-venezuela-s-acting-president-rodriguez-holds-strategic-talks-with-pm-modi-in-new-delhi.md
+- brief-202606060137-shehbaz-sharif-secures-china-deal-to-upgrade-cpec-and-gwadar-port.md: auditoria reteve brief-202606060137-shehbaz-sharif-secures-china-deal-to-upgrade-cpec-and-gwadar-port.md: veto externo isolado sem fonte citada: qwen: {"ok":false,"reason":"A matéria afirma que Shehbaz Sharif e líderes chineses alcançaram um 'novo amplo consenso' em 'terça-feira' para atualizar o CPEC e o porto de Gwadar, mas não; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"k
