@@ -10,11 +10,12 @@ interface Props {
 	title: string;
 	description: string;
 	image?: ImageMetadata | string;
+	noindex?: boolean;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = FallbackImage } = Astro.props;
+const { title, description, image = FallbackImage, noindex = false } = Astro.props;
 const imageURL = typeof image === 'string' ? new URL(image, Astro.site) : new URL(image.src, Astro.url);
 ---
 
@@ -32,8 +33,8 @@ const imageURL = typeof image === 'string' ? new URL(image, Astro.site) : new UR
 />
 <meta name="generator" content={Astro.generator} />
 
-<!-- SEO defense pre-launch (Sprint 0 GSN 2026-05-16): remove only after real posts replace placeholders -->
-<meta name="robots" content="noindex,nofollow" />
+<!-- SEO defense control (Sprint 0 GSN 2026-05-16 / Sprint 1 Compliance) -->
+<meta name="robots" content={noindex ? "noindex,nofollow" : "index,follow"} />
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />

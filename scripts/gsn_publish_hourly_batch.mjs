@@ -455,7 +455,8 @@ async function applyBrainFixes(file, context = {}) {
   let text = fs.readFileSync(fullPath, 'utf8');
   const { frontmatter, body } = splitFrontmatter(text);
   const heroImage = getField(frontmatter, 'heroImage');
-  const heroPath = path.join(publicDir, heroImage.replace(/^\//, ''));
+  const isRemoteHero = heroImage && (heroImage.startsWith('http://') || heroImage.startsWith('https://'));
+  const heroPath = (!heroImage || isRemoteHero) ? null : path.join(publicDir, heroImage.replace(/^\//, ''));
   const applied = [];
 
   const cleanedBody = cleanBody(body, getField(frontmatter, 'title'))
@@ -467,7 +468,7 @@ async function applyBrainFixes(file, context = {}) {
     applied.push('limpeza de marcas internas/fonte conforme padrao Markdown GSN');
   }
 
-  if (fs.existsSync(heroPath)) {
+  if (heroPath && fs.existsSync(heroPath)) {
     const meta = await sharp(heroPath).metadata();
     if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
       await sharp(heroPath)
@@ -536,12 +537,51 @@ async function askModelAuditor(auditor, article) {
   }
 }
 
+const METAlanguage_PATTERNS = [
+  { regex: /Editorial queue brief/i, reason: "placeholder 'Editorial queue brief'" },
+  { regex: /Review headline,? category and image/i, reason: "placeholder 'Review headline'" },
+  { regex: /before final publication/i, reason: "placeholder 'before final publication'" },
+  { regex: /selected this item from its international monitoring queue/i, reason: "placeholder monitoring queue" },
+  { regex: /This brief is intentionally concise and original/i, reason: "placeholder 'intentionally concise'" },
+  { regex: /The item should be expanded by the editorial writer/i, reason: "placeholder 'expanded by editorial writer'" },
+  { regex: /As an? (AI|language model|artificial intelligence)/i, reason: "metalinguagem 'As an AI'" },
+  { regex: /I (cannot|apologize|'m sorry|am unable)/i, reason: "metalinguagem 'I cannot/apologize'" },
+  { regex: /(Here|Below) is (the|your) (article|text|summary|response)/i, reason: "metalinguagem 'Here is the article'" },
+  { regex: /I hope (this|you|it) (helps|find|enjoy)/i, reason: "metalinguagem 'I hope this helps'" },
+  { regex: /Please note that/i, reason: "metalinguagem 'Please note that'" },
+  { regex: /It is important to (note|remember|mention)/i, reason: "metalinguagem 'It is important to'" },
+  { regex: /TITLE:|EDITORIAL:|SYS_PROMPT|SYSTEM:/i, reason: "prompt vazado (TITLE/EDITORIAL/SYS)" },
+  { regex: /Write (a|an|the) (article|summary|response|text)/i, reason: "prompt vazado 'Write an article'" },
+  { regex: /You are a (senior|copy|editor|writer|journalist)/i, reason: "prompt vazado 'You are a writer'" },
+  { regex: /```json|```html|```markdown/i, reason: "markdown residual (```)" },
+  { regex: /\(\[.*?\]\(https?:\/\/.*?\)\)/i, reason: "citação IA crua ([site](url))" }
+];
+
 function localVotes(article, warnings) {
-  const textOk = article.body.length > 900 && !article.body.includes('Rascunho técnico') && !article.body.includes('Fonte para revisão');
+  const textToCheck = `${article.title}\n${article.description}\n${article.body}`;
+  const foundMetalanguage = [];
+  for (const pattern of METAlanguage_PATTERNS) {
+    if (pattern.regex.test(textToCheck)) {
+      foundMetalanguage.push(pattern.reason);
+    }
+  }
+  const hasMetalanguage = foundMetalanguage.length > 0;
+
+  const textOk = article.body.length > 900 && 
+                 !article.body.includes('Rascunho técnico') && 
+                 !article.body.includes('Fonte para revisão') &&
+                 !hasMetalanguage;
   const categoryOk = warnings.length === 0 || warnings.every((warning) => warning === 'titulo longo');
-  const imageOk = !article.imageSize.startsWith('0x') && Number(article.imageSize.split('x')[0]) >= 600;
+  const imageOk = article.imageSize === 'remote' || (!article.imageSize.startsWith('0x') && Number(article.imageSize.split('x')[0]) >= 600);
+
+  const textReason = !textOk 
+    ? (hasMetalanguage 
+        ? `metalinguagem detectada: ${foundMetalanguage.join(', ')}` 
+        : 'texto muito curto ou contendo marcadores de rascunho')
+    : 'texto e categorias aceitaveis';
+
   return [
-    { auditor: 'codex-texto-categoria', ok: textOk && categoryOk, reason: textOk && categoryOk ? 'texto e categorias aceitaveis' : 'texto/categoria precisa revisao' },
+    { auditor: 'codex-texto-categoria', ok: textOk && categoryOk, reason: textOk && categoryOk ? 'texto e categorias aceitaveis' : `texto/categoria precisa revisao (${textReason})` },
     { auditor: 'codex-imagem-fonte', ok: imageOk, reason: imageOk ? 'imagem destacada aceitavel' : 'imagem destacada insuficiente' },
   ];
 }
@@ -608,7 +648,8 @@ async function auditAndFix(file, publish) {
   const heroImage = getField(frontmatter, 'heroImage');
   const description = getField(frontmatter, 'description');
   const tags = getField(frontmatter, 'tags');
-  const heroPath = path.join(publicDir, heroImage.replace(/^\//, ''));
+  const isRemoteHero = heroImage && (heroImage.startsWith('http://') || heroImage.startsWith('https://'));
+  const heroPath = (!heroImage || isRemoteHero) ? null : path.join(publicDir, heroImage.replace(/^\//, ''));
   const warnings = [];
 
   if (!title || title.length < 20) warnings.push('titulo fraco ou ausente');
@@ -617,13 +658,17 @@ async function auditAndFix(file, publish) {
   if (!/(multipolar|brics|development|trade|latin-america|africa|asia|west-asia|infrastructure|energy|technology)/i.test(tags)) {
     warnings.push('categoria GSN fraca');
   }
-  if (!fs.existsSync(heroPath)) throw new Error(`imagem destacada ausente: ${heroImage}`);
+  let imageSize = 'remote';
 
-  const meta = await sharp(heroPath).metadata();
-  if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
-    const warning = `imagem destacada pequena: ${heroImage} ${meta.width}x${meta.height}`;
-    if (publish) throw new Error(warning);
-    warnings.push(warning);
+  if (!isRemoteHero && heroPath) {
+    if (!fs.existsSync(heroPath)) throw new Error(`imagem destacada ausente: ${heroImage}`);
+    const meta = await sharp(heroPath).metadata();
+    imageSize = `${meta.width}x${meta.height}`;
+    if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
+      const warning = `imagem destacada pequena: ${heroImage} ${imageSize}`;
+      if (publish) throw new Error(warning);
+      warnings.push(warning);
+    }
   }
 
   let nextBody = cleanBody(body, title);
@@ -637,7 +682,7 @@ async function auditAndFix(file, publish) {
         heroImage,
         tags,
         body: nextBody,
-        imageSize: `${meta.width}x${meta.height}`,
+        imageSize,
         sourceName: source.name,
         sourceUrl: source.url,
   };
@@ -659,7 +704,7 @@ async function auditAndFix(file, publish) {
     published: publish,
     title,
     heroImage,
-    imageSize: `${meta.width}x${meta.height}`,
+    imageSize,
     warnings,
     expandedAudit: consensus.votes,
     approvals: consensus.approvals,
@@ -790,7 +835,26 @@ const changedArticleSet = auditCurrentOnly
   : [...new Set([...(reAuditVisible ? visible : []), ...nextBatch])];
 const publishSet = auditCurrentOnly ? visible : nextBatch;
 
-execFileSync('npm', ['run', 'build'], { cwd: repo, stdio: 'inherit' });
+if (!auditCurrentOnly) {
+  try {
+    console.log('Migrando imagens hero para o Cloudflare R2 antes do build...');
+    const pythonBin = process.env.GSN_PYTHON || 'python3';
+    const migrationScript = path.join(repo, '..', 'root', 'gsn_migrar_hero_r2.py');
+    execFileSync(pythonBin, [migrationScript, 'upload'], { cwd: repo, stdio: 'inherit' });
+    execFileSync(pythonBin, [migrationScript, 'rewrite'], { cwd: repo, stdio: 'inherit' });
+  } catch (err) {
+    console.error('Falha ao rodar gsn_migrar_hero_r2.py:', err.message);
+  }
+}
+
+execFileSync('npm', ['run', 'build'], {
+  cwd: repo,
+  stdio: 'inherit',
+  env: {
+    ...process.env,
+    NODE_OPTIONS: (process.env.NODE_OPTIONS || '') + ' --max-old-space-size=4096'
+  }
+});
 
 if (!auditCurrentOnly) {
   state = {
@@ -807,9 +871,17 @@ writeHourlyReport({ published: publishSet });
 if (commitAndPush) {
   const heroImages = changedArticleSet
     .map((file) => {
-      const text = fs.readFileSync(path.join(blogDir, file), 'utf8');
-      const { frontmatter } = splitFrontmatter(text);
-      return `public/${getField(frontmatter, 'heroImage').replace(/^\//, '')}`;
+      try {
+        const text = fs.readFileSync(path.join(blogDir, file), 'utf8');
+        const { frontmatter } = splitFrontmatter(text);
+        const img = getField(frontmatter, 'heroImage');
+        if (img && !img.startsWith('http://') && !img.startsWith('https://')) {
+          return `public/${img.replace(/^\//, '')}`;
+        }
+      } catch (err) {
+        console.warn(`Aviso: nao foi possivel ler ${file} para extrair imagem hero:`, err.message);
+      }
+      return null;
     })
     .filter(Boolean);
   const changedFiles = [
@@ -829,11 +901,23 @@ if (commitAndPush) {
     'src/pages/index.astro',
     'src/pages/rss.xml.js',
     'src/pages/tags/[tag].astro',
-    'public/hero',
-    ...changedArticleSet.map((file) => `src/content/blog/${file}`),
-    ...heroImages,
+    ...changedArticleSet
+      .map((file) => `src/content/blog/${file}`)
+      .filter((file) => fs.existsSync(path.join(repo, file))),
   ];
-  git(['add', ...changedFiles]);
+  for (const file of changedFiles) {
+    if (fs.existsSync(path.join(repo, file))) {
+      try {
+        git(['add', file]);
+      } catch {
+        try {
+          git(['add', '-f', file]);
+        } catch (forceError) {
+          console.warn(`Could not add file ${file}: ${forceError.message}`);
+        }
+      }
+    }
+  }
     const staged = git(['diff', '--cached', '--name-only']);
     if (staged) {
       const publishedTitles = publishSet.map((file) => path.basename(file, '.md')).join(', ');

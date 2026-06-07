@@ -1,0 +1,9 @@
+---
+title: "House Votes to Curtail Trump's Iran War Powers as Nuclear Talks Stall"
+description: "US House moves to limit Trump's military authority on Iran amid stalled nuclear negotiations, with Trump accusing Democrats of prioritizing political gain over national security."
+pubDate: "2026-06-05T09:36:31Z"
+draft: true
+tags: ["Congress", "Donald Trump", "Iran", "United States", "War Powers Act", "multipolar"]
+heroImage: "/hero/smoke-brief-202606050600-house-votes-to-curtail-trump-s-iran-war-powers-as-nuclear-talks-stall.jpg"
+---
+<p>Trump dismissed such objections, claiming Democrats “would rather have our Country fail.”</p>

@@ -1,0 +1,12 @@
+---
+title: "Mali bans high-powered motorcycles in bid to curb jihadist insurgency"
+description: "Mali's military junta bans motorcycles 125cc and above nationwide to combat jihadist groups, risking rural paralysis amid deepening security crisis."
+pubDate: "2026-06-05T15:06:10Z"
+draft: false
+tags: ["JNIM", "Mali", "West Africa", "insurgency", "jihadist insurgency", "motorcycle ban", "multipolar", "security crisis"]
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051200-mali-bans-high-powered-motorcycles-in-bid-to-curb-jihadist-insurgency.jpg"
+---
+<p>Mali’s ruling junta has banned the use of motorcycles with engines of 125cc and above outside major cities and halted their import and sale nationwide, in a marked escalation of its fight against jihadist groups that rely heavily on such vehicles. The decree, broadcast on state television on June 3, represents one of the most sweeping restrictions imposed since insurgents intensified a blockade of the capital.</p>
+<p>The order suspends “the circulation of motorcycles with an engine capacity of 125 cc and above, outside major urban centres, throughout the entire national territory.” It makes exceptions for Bamako, regional capitals and a few other urban localities. A parallel measure prohibits the import, transit, marketing, sale and free distribution of the same category of motorcycles and their accessories across the country. The authorities did not specify enforcement mechanisms or how the ban would affect vast rural areas where two-wheelers are a lifeline.</p>
+<p>The restrictions follow large-scale, coordinated attacks on April 25 and 26 by the Al-Qaeda-linked Group for the Support of Islam and Muslims (JNIM) and Tuareg separatist fighters. Since April 30, insurgents have severed several key roads into Bamako, torching dozens of buses and freight trucks and severely disrupting supply chains to the city of some 3 million people. In the north, armed groups have captured strategic areas, including the town of Kidal—a stinging setback for the junta that seized power in 2020.</p>
+<p>Militants across the Sahel have long favoured high-powered motorcycles for swift hit-and-run raids and logistics. By targeting the vehicles, the junta hopes to degrade insurgent mobility. Yet the measure risks paralysing rural commerce, healthcare access and everyday transport in a country where paved roads are scarce, underscoring the difficult trade-offs Mali’s military leaders face as the security crisis deepens.</p>
