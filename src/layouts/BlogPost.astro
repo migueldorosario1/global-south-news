@@ -6,9 +6,57 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import Interlinks from '../components/Interlinks.astro';
 
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<'blog'>['data'] & { body?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, noindex = false, tags = [] } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, noindex = false, tags = [], body = '' } = Astro.props;
+
+// Detect YouTube Video ID for compliance schemas
+let youtubeId: string | null = null;
+if (heroImage) {
+	const match = heroImage.match(/youtube-([a-zA-Z0-9_-]{11})/);
+	if (match) {
+		youtubeId = match[1];
+	}
+}
+if (!youtubeId && body) {
+	const iframeMatch = body.match(/youtube\.com\/embed\/([a-zA-Z0-9_-]{11})/);
+	if (iframeMatch) {
+		youtubeId = iframeMatch[1];
+	} else {
+		const watchMatch = body.match(/v=([a-zA-Z0-9_-]{11})/);
+		if (watchMatch) {
+			youtubeId = watchMatch[1];
+		}
+	}
+}
+
+const videoSchema = youtubeId ? {
+	"@context": "https://schema.org",
+	"@type": "VideoObject",
+	"name": title,
+	"description": description,
+	"thumbnailUrl": heroImage ? [new URL(heroImage, Astro.url).href] : [],
+	"uploadDate": pubDate.toISOString(),
+	"embedUrl": `https://www.youtube.com/embed/${youtubeId}`
+} : null;
+
+const broadcastSchema = youtubeId ? {
+	"@context": "https://schema.org",
+	"@type": "BroadcastEvent",
+	"name": `Live: ${title}`,
+	"isLiveBroadcast": true,
+	"startDate": pubDate.toISOString(),
+	"endDate": new Date(pubDate.getTime() + 2 * 60 * 60 * 1000).toISOString(),
+	"videoFormat": "HD",
+	"video": {
+		"@type": "VideoObject",
+		"name": title,
+		"description": description,
+		"thumbnailUrl": heroImage ? [new URL(heroImage, Astro.url).href] : [],
+		"uploadDate": pubDate.toISOString(),
+		"embedUrl": `https://www.youtube.com/embed/${youtubeId}`
+	}
+} : null;
 
 const categoryLabels = new Map([
 	['multipolar-world', 'Multipolar World'],
@@ -60,8 +108,7 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} image={heroImage} />
-		{noindex && <meta name="robots" content="noindex,nofollow" />}
+		<BaseHead title={title} description={description} image={heroImage} noindex={noindex} />
 		<style>
 			main {
 				width: calc(100% - 2em);
@@ -177,6 +224,12 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 				}
 			}
 		})} />
+		{videoSchema && (
+			<script type="application/ld+json" set:html={JSON.stringify(videoSchema)} />
+		)}
+		{broadcastSchema && (
+			<script type="application/ld+json" set:html={JSON.stringify(broadcastSchema)} />
+		)}
 	</head>
 
 	<body>
