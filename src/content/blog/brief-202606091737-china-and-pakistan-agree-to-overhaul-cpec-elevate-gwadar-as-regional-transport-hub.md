@@ -1,0 +1,14 @@
+---
+title: "China and Pakistan Agree to Overhaul CPEC, Elevate Gwadar as Regional Transport Hub"
+description: "Pakistan and China agreed to overhaul CPEC and turn Gwadar into a regional hub, with Islamabad pledging tighter security for Chinese workers and opening to"
+pubDate: "2026-06-09T17:40:14Z"
+draft: true
+tags: ["Belt and Road Initiative", "CPEC", "China", "Gwadar Port", "Pakistan", "Shehbaz Sharif", "asia", "economic corridor"]
+heroImage: "/hero/smoke-brief-202606091737-china-and-pakistan-agree-to-overhaul-cpec-elevate-gwadar-as-regional-transport-hub.jpg"
+---
+
+<p>Pakistan and China agreed on a sweeping overhaul of the China-Pakistan Economic Corridor and the development of Gwadar Port as a regional transport node, committing to deeper strategic ties during Prime Minister Shehbaz Sharif’s visit to Beijing. A joint statement issued on Tuesday, after Sharif met President Xi Jinping and Premier Li Qiang, said the two countries had forged a “new broad consensus” to upgrade overland links and welcome third-party participation in flagship Belt and Road projects.</p>
+<p>The plan will accelerate “high-quality” CPEC development, with a particular focus on doubling down on Gwadar as a maritime and logistics hub. China and Pakistan pledged to modernise the Karakoram Highway, the high-altitude artery that connects the two nations, and improve infrastructure at the Khunjerab Pass. By opening CPEC to outside investors under an agreed model, both sides aim to transform the corridor into a more commercially viable and geopolitically layered undertaking.</p>
+<p>Security commitments loomed large in the talks. Islamabad promised targeted measures and closer cooperation to protect Chinese workers and assets, responding to Beijing’s longstanding alarm over repeated militant attacks on its nationals and project sites. The statement did not detail specific mechanisms, but the pledge forms a central part of Pakistan’s attempt to reassure its largest economic partner that investments will be shielded.</p>
+<p>Beyond infrastructure, the communiqué highlighted Pakistan’s role in regional diplomacy. China praised Sharif’s government for helping mediate a temporary ceasefire between the United States and Iran and hosting related talks. Both countries endorsed a five-point initiative for restoring peace in West Asia and reiterated mutual political stances: Pakistan called Taiwan an “inalienable” part of China and opposed any moves toward independence, while Beijing welcomed Pakistan’s efforts to facilitate dialogue with Afghanistan. The two sides jointly condemned the use of regional territory by groups such as the Tehreek-e-Taliban Pakistan and the Eastern Turkistan Islamic Movement to threaten security.</p>
+<p>For the Global South, the strengthened partnership offers infrastructure-led connectivity but also embeds nations more deeply in the overlapping security and sovereignty dilemmas that accompany the Belt and Road.</p>
