@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-13T09:40:12.391Z
+Atualizado em: 2026-06-13T17:39:37.915Z
 Publicadas/auditadas com sucesso no historico: 76
-Materias com bloqueio acumulado: 205
+Materias com bloqueio acumulado: 206
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -213,3 +213,4 @@ Materias com bloqueio acumulado: 205
 - brief-202606121737-albanese-israeli-torture-is-inherited-imperial-method-not-aberration.md: auditoria reteve brief-202606121737-albanese-israeli-torture-is-inherited-imperial-method-not-aberration.md: veto externo isolado sem fonte citada: qwen: {"ok":false,"reason":"Acusação grave de tortura sexual específica contra Rasmea Odeh em 1969, com detalhes explícitos (‘rape with objects’, ‘coercive threats involving her father’); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor"
 - brief-202606130137-un-expert-israels-sexual-torture-techniques-rooted-in-british-and-french-colonialism.md: auditoria reteve brief-202606130137-un-expert-israels-sexual-torture-techniques-rooted-in-british-and-french-colonialism.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\"
 - brief-202606130937-bodies-of-evidence-exposing-israel-s-sexual-torture-of-palestinians.md: auditoria reteve brief-202606130937-bodies-of-evidence-exposing-israel-s-sexual-torture-of-palestinians.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"A data de 1969
+- brief-202606131737-un-expert-says-israels-use-of-sexual-torture-is-direct-inheritance-of-british-colonial-methods.md: auditoria reteve brief-202606131737-un-expert-says-israels-use-of-sexual-torture-is-direct-inheritance-of-british-colonial-methods.md: veto externo isolado sem fonte citada: qwen: {"ok":false,"reason":"A matéria faz acusações graves de uso sistemático de tortura sexual por Israel, atribuindo-as a uma 'herança direta' de métodos coloniais britânicos, mas não ; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta 

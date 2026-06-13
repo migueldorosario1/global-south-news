@@ -1,0 +1,12 @@
+---
+title: "UN Expert Says Israel’s Use of Sexual Torture Is Direct Inheritance of British Colonial Methods"
+description: "UN Special Rapporteur Francesca Albanese argues Israel's systematic sexual torture against Palestinians stems from British colonial counterinsurgency metho"
+pubDate: "2026-06-13T17:38:59Z"
+draft: true
+tags: ["Colonialism", "Human Rights", "Israel", "Palestine", "Sexual Torture", "UN Special Rapporteur", "west-asia"]
+heroImage: "/hero/smoke-brief-202606131737-un-expert-says-israels-use-of-sexual-torture-is-direct-inheritance-of-british-colonial-methods.jpg"
+---
+
+<p>Francesca Albanese, the UN Special Rapporteur on the occupied Palestinian territories, has stated that Israel’s systematic use of sexual torture against Palestinians is a direct inheritance of colonial counterinsurgency methods, not a recent aberration. In a feature accompanying the documentary ‘Bodies of Evidence,’ Albanese traced a direct lineage from British emergency regulations during the Mandate era to current Israeli practices. Albanese noted that British administrative and interrogation techniques, previously tested against the Irish insurgency, were “immediately received and ingrained in the Israeli system” upon the state’s founding.</p>
+<p>Kifaya Khraim, international advocacy coordinator at the Ramallah-based Women’s Centre for Legal Aid and Counselling, said that Israeli forces exploit social stigma around sexual violence. She described how many women report devices inserted inside them “without being able to identify that as rape or sexual violence,” adding that “Israeli forces know of [the social stigma], and they use it and they exploit it.”</p>
+<p>The report identifies a colonial chain that links British counterinsurgency in Ireland and Kenya to French operations in Algeria, with Israel consolidating these inherited methods into its own security apparatus. Survivor testimonies, including the 1969 rape of Rasmea Odeh with a stick and the application of electric shocks to her genitals, exemplify techniques that international jurists now classify as war crimes and crimes against humanity. Experts contend that this systematic deployment of sexual torture poses a fundamental challenge to the enforcement of international human rights law, exposing how colonial-era doctrines of pacification persist within modern state structures targeting populations across the Global South.</p>
