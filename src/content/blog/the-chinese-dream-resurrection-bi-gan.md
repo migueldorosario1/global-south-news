@@ -1,7 +1,7 @@
 ---
 title: "Resurrection: Bi Gan's Cinematic Dream and China's Soft Power Ascent"
 description: "Bi Gan's 'Resurrection' triumphs at Cannes and Chinese box office, heralding China's entry into high-art cinema as a poetic, radical work of global ambition."
-pubDate: "2026-01-02T12:00:00Z"
+pubDate: "2026-06-13T16:00:00Z"
 draft: false
 tags: ["asia", "multipolar-world", "development"]
 author: "Priscila Miranda"

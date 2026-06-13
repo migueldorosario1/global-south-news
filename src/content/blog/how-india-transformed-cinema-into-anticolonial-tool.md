@@ -1,7 +1,7 @@
 ---
 title: "How India Turned Cinema into an Anti-Colonial Tool Before Independence"
 description: "Before independence, India decoded Hollywood's system to build a film industry rooted in local identity, making it an anti-colonial tool and global force."
-pubDate: "2026-02-12T12:00:00Z"
+pubDate: "2026-06-13T16:05:00Z"
 draft: false
 tags: ["asia", "brics", "development", "multipolar-world"]
 author: "Priscila Miranda"
