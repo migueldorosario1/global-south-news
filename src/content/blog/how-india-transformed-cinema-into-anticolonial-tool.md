@@ -93,3 +93,5 @@ heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-how-i
 <p>The rapprochement between two major Global South countries should not be viewed solely through commercial or industrial lenses—but also through cultural ones. If the twenty-first century is defined by fierce competition over narratives, platforms, and imaginaries, India demonstrates that cultural identity, technological mastery, and industrial infrastructure can be successfully combined. For Brazil—which continues to grapple with consolidating domestic audiovisual hegemony—the dialogue with India’s experience is not merely symbolic: it is strategic.</p>
 
 <p>Sovereignty is not built only through trade agreements—but through command of the narrative tools of one’s time.</p>
+
+<p><em>By Priscila Miranda, director of Fênix Filmes.</em></p>

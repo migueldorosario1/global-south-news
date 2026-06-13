@@ -42,3 +42,5 @@ heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-the-c
 <p>And it enters because it affirms, with aesthetic power and artistic courage, that a country of the Global South can produce not only infrastructure and technology, but art.</p>
 <p>That is power. That is cinema.</p>
 <p>Resurrection will be released this year, in theaters throughout Brazil, by distributor Fênix Filmes.</p>
+
+<p><em>By Priscila Miranda, director of Fênix Filmes.</em></p>
