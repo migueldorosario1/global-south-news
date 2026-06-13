@@ -111,16 +111,20 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 		<BaseHead title={title} description={description} image={heroImage} noindex={noindex} />
 		<style>
 			main {
-				width: calc(100% - 2em);
-				max-width: 100%;
-				margin: 0;
+				width: 100%;
+				max-width: 1200px;
+				margin: 0 auto;
+				padding: 2rem 1.5rem;
 			}
 			.hero-image {
 				width: 100%;
 				display: flex;
 				justify-content: center;
-				background: #f0f3f7;
+				background: transparent;
 				border-radius: 12px;
+				margin-bottom: 2.5rem;
+				border: 1px solid var(--border-color);
+				overflow: hidden;
 			}
 			.hero-image img {
 				display: block;
@@ -128,79 +132,95 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 				border-radius: 12px;
 				box-shadow: var(--box-shadow);
 				max-width: 100%;
-				max-height: 70vh;
-				width: auto;
+				max-height: 65vh;
+				width: 100%;
 				height: auto;
-				object-fit: contain;
+				object-fit: cover;
 			}
 			.prose {
-				width: 720px;
-				max-width: calc(100% - 2em);
+				width: 740px;
+				max-width: 100%;
 				margin: auto;
-				padding: 1em;
-				color: rgb(var(--gray-dark));
+				padding: 0 1rem;
+				color: var(--text-main);
+				font-size: 1.08rem;
+				line-height: 1.8;
 			}
 			.title {
-				margin-bottom: 1em;
-				padding: 1em 0;
-				text-align: center;
-				line-height: 1;
+				margin-bottom: 2.5rem;
+				padding-bottom: 1.5rem;
+				border-bottom: 1px solid var(--border-color);
+				text-align: left;
 			}
 			.title h1 {
-				margin: 0 0 0.5em 0;
+				margin: 0.5rem 0 1rem 0;
+				font-size: 2.6rem;
+				font-weight: 800;
+				line-height: 1.2;
+				letter-spacing: -0.025em;
+				color: var(--text-title);
 			}
 			@media (max-width: 768px) {
 				.title h1 {
-					font-size: 1.8rem;
+					font-size: 1.85rem;
 				}
 				.hero-image {
-					margin-bottom: 1rem;
+					margin-bottom: 1.5rem;
+				}
+				.prose {
+					padding: 0;
 				}
 			}
 			.date {
 				margin-bottom: 0.5em;
-				color: rgb(var(--gray));
+				color: var(--text-muted);
+				font-size: 0.88rem;
+				font-weight: 500;
 			}
 			.category {
 				display: inline-flex;
 				align-items: center;
 				margin-bottom: 0.75rem;
-				padding: 0.35rem 0.7rem;
-				border: 1px solid rgb(var(--gray-light));
+				padding: 0.25rem 0.6rem;
+				border: 1px solid rgba(255, 76, 59, 0.18);
 				border-radius: 4px;
-				color: rgb(var(--accent));
-				font-size: 0.78rem;
+				color: var(--accent);
+				background: rgba(255, 76, 59, 0.08);
+				font-size: 0.75rem;
 				font-weight: 700;
 				line-height: 1.2;
 				text-decoration: none;
 				text-transform: uppercase;
+				letter-spacing: 0.05em;
 			}
 			.category:hover {
-				background: rgb(var(--gray-light));
-				color: rgb(var(--accent-dark));
+				background: rgba(255, 76, 59, 0.15);
+				color: var(--text-title);
 			}
 			.category-footer {
 				display: flex;
 				align-items: center;
 				gap: 0.6rem;
-				margin-top: 2rem;
-				padding-top: 1rem;
-				border-top: 1px solid rgb(var(--gray-light));
+				margin-top: 3rem;
+				padding-top: 1.5rem;
+				border-top: 1px solid var(--border-color);
 				font-size: 0.9rem;
-				color: rgb(var(--gray-dark));
+				color: var(--text-muted);
 			}
 			.category-footer-label {
-				font-weight: 600;
+				font-weight: 700;
 				text-transform: uppercase;
-				letter-spacing: 0.04em;
-				font-size: 0.78rem;
-				color: rgb(var(--gray));
+				letter-spacing: 0.06em;
+				font-size: 0.75rem;
+				color: var(--text-muted);
 			}
 			.category-footer-link {
 				margin-bottom: 0;
 			}
 			.last-updated-on {
 				font-style: italic;
+				display: inline-block;
+				margin-left: 0.5rem;
 			}
 		</style>
 		<script type="application/ld+json" set:html={JSON.stringify({

@@ -3,23 +3,43 @@ const today = new Date();
 ---
 
 <footer>
-	<p>&copy; {today.getFullYear()} Global South News. All rights reserved.</p>
-	<p class="footer-note">A newsroom architecture for development, sovereignty and multipolar politics.</p>
+	<p class="footer-brand">GLOBAL <span class="accent-text">SOUTH</span> NEWS</p>
+	<p>&copy; {today.getFullYear()} All rights reserved.</p>
+	<p class="footer-note">A newsroom for development, sovereignty and multipolar politics.</p>
 </footer>
 
 <style>
 	footer {
-		padding: 2.5rem 1rem 4rem;
-		background: linear-gradient(var(--gray-gradient)) no-repeat;
-		color: rgb(var(--gray));
+		padding: 4rem 1.5rem 5rem;
+		background: #06070a;
+		border-top: 1px solid var(--border-color);
+		color: var(--text-muted);
 		text-align: center;
+		font-family: var(--font-headings);
+	}
+
+	.footer-brand {
+		font-weight: 800;
+		font-size: 1rem;
+		letter-spacing: 0.15em;
+		color: var(--text-title);
+		margin-bottom: 0.75rem !important;
+	}
+
+	.accent-text {
+		color: var(--accent);
 	}
 
 	footer p {
-		margin: 0.35rem 0;
+		margin: 0.45rem 0;
+		font-size: 0.85rem;
 	}
 
 	.footer-note {
-		font-size: 0.95rem;
+		font-size: 0.8rem;
+		opacity: 0.85;
+		max-width: 500px;
+		margin: 1rem auto 0 auto !important;
+		line-height: 1.5;
 	}
 </style>

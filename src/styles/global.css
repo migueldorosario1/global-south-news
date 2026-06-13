@@ -1,124 +1,214 @@
-/*
-  The CSS in this style tag is based off of Bear Blog's default CSS.
-  https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
-  License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
- */
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Inter:wght@300;400;500;600;700&display=swap');
 
 :root {
-	--accent: #2337ff;
-	--accent-dark: #000d8a;
-	--black: 15, 18, 25;
-	--gray: 96, 115, 159;
-	--gray-light: 229, 233, 240;
-	--gray-dark: 34, 41, 57;
-	--gray-gradient: rgba(var(--gray-light), 50%), #fff;
-	--box-shadow:
-		0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%),
-		0 16px 32px rgba(var(--gray), 33%);
+	--bg-main: #08090c;
+	--bg-card: #11131a;
+	--bg-header: rgba(8, 9, 12, 0.85);
+	--text-main: #9fa6b2;
+	--text-title: #f3f4f6;
+	--text-muted: #647087;
+	--accent: #ff4c3b; /* Crimson red */
+	--accent-dark: #b8281b;
+	--accent-alt: #f39c12; /* Amber gold */
+	--accent-gradient: linear-gradient(135deg, #ff4c3b, #f39c12);
+	--border-color: rgba(255, 255, 255, 0.06);
+	--border-hover: rgba(255, 76, 59, 0.25);
+	--box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+	--font-headings: 'Plus Jakarta Sans', sans-serif;
+	--font-body: 'Inter', sans-serif;
+	
+	/* Compatibility with legacy variables */
+	--black: 243, 244, 246;
+	--gray: 100, 112, 135;
+	--gray-light: 26, 29, 38;
+	--gray-dark: 209, 213, 219;
+	--gray-gradient: rgba(var(--gray-light), 50%), #08090c;
 }
+
+* {
+	box-sizing: border-box;
+}
+
 body {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: var(--font-body);
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	background: linear-gradient(var(--gray-gradient)) no-repeat;
-	background-size: 100% 600px;
+	background-color: var(--bg-main);
+	background-image: linear-gradient(var(--gray-gradient));
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
-	color: rgb(var(--gray-dark));
-	font-size: 20px;
-	line-height: 1.7;
+	color: var(--text-main);
+	font-size: 17px;
+	line-height: 1.75;
+	-webkit-font-smoothing: antialiased;
 }
+
 main {
-	width: 720px;
-	max-width: calc(100% - 2em);
-	margin: auto;
-	padding: 3em 1em;
+	width: 1000px;
+	max-width: 100%;
+	margin: 0 auto;
+	padding: 3rem 1.5rem;
 }
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-	margin: 0 0 0.5rem 0;
-	color: rgb(var(--black));
-	line-height: 1.2;
+	font-family: var(--font-headings);
+	font-weight: 700;
+	margin: 0 0 0.75rem 0;
+	color: var(--text-title);
+	line-height: 1.25;
+	letter-spacing: -0.015em;
 }
+
 h1 {
-	font-size: 3.052em;
+	font-size: 2.85rem;
+	font-weight: 800;
+	letter-spacing: -0.03em;
 }
+
 h2 {
-	font-size: 2.441em;
+	font-size: 2rem;
+	font-weight: 700;
+	letter-spacing: -0.02em;
 }
+
 h3 {
-	font-size: 1.953em;
+	font-size: 1.5rem;
 }
+
 h4 {
-	font-size: 1.563em;
+	font-size: 1.25rem;
 }
-h5 {
-	font-size: 1.25em;
-}
+
 strong,
 b {
 	font-weight: 700;
+	color: var(--text-title);
 }
+
 a {
 	color: var(--accent);
+	text-decoration: none;
+	transition: color 0.2s ease, border-color 0.2s ease;
 }
+
 a:hover {
-	color: var(--accent);
+	color: var(--accent-alt);
 }
+
 p {
-	margin-bottom: 1em;
+	margin-bottom: 1.25rem;
 }
+
 .prose p {
-	margin-bottom: 2em;
+	margin-bottom: 1.5rem;
 }
+
 textarea {
 	width: 100%;
 	font-size: 16px;
+	background: var(--bg-card);
+	border: 1px solid var(--border-color);
+	color: var(--text-main);
+	border-radius: 6px;
+	padding: 0.75rem;
 }
+
 input {
 	font-size: 16px;
+	background: var(--bg-card);
+	border: 1px solid var(--border-color);
+	color: var(--text-main);
+	border-radius: 6px;
+	padding: 0.5rem 0.75rem;
 }
+
 table {
 	width: 100%;
+	border-collapse: collapse;
+	margin: 1.5rem 0;
 }
+
+th, td {
+	padding: 0.75rem 1rem;
+	border-bottom: 1px solid var(--border-color);
+	text-align: left;
+}
+
+th {
+	color: var(--text-title);
+	font-weight: 600;
+}
+
 img {
 	max-width: 100%;
 	height: auto;
 	border-radius: 8px;
+	box-shadow: var(--box-shadow);
+	border: 1px solid rgba(255, 255, 255, 0.04);
 }
+
 code {
-	padding: 2px 5px;
-	background-color: rgb(var(--gray-light));
-	border-radius: 2px;
+	font-family: monospace;
+	padding: 2px 6px;
+	background-color: var(--bg-card);
+	border: 1px solid var(--border-color);
+	border-radius: 4px;
+	color: var(--accent);
+	font-size: 0.9em;
 }
+
 pre {
 	padding: 1.5em;
 	border-radius: 8px;
+	background-color: var(--bg-card) !important;
+	border: 1px solid var(--border-color);
+	overflow-x: auto;
 }
+
 pre > code {
 	all: unset;
+	font-family: monospace;
 }
+
 blockquote {
 	border-left: 4px solid var(--accent);
-	padding: 0 0 0 20px;
-	margin: 0;
-	font-size: 1.333em;
+	padding: 0.5rem 0 0.5rem 1.5rem;
+	margin: 1.5rem 0;
+	font-size: 1.15em;
+	font-style: italic;
+	color: var(--text-title);
+	background: rgba(255, 76, 59, 0.03);
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
 }
+
 hr {
 	border: none;
-	border-top: 1px solid rgb(var(--gray-light));
+	border-top: 1px solid var(--border-color);
+	margin: 2rem 0;
 }
-@media (max-width: 720px) {
+
+@media (max-width: 768px) {
 	body {
-		font-size: 18px;
+		font-size: 16px;
 	}
 	main {
-		padding: 1em;
+		padding: 1.5rem 1rem;
+	}
+	h1 {
+		font-size: 2.2rem;
+	}
+	h2 {
+		font-size: 1.65rem;
 	}
 }
 
@@ -130,12 +220,8 @@ hr {
 	height: 1px;
 	width: 1px;
 	overflow: hidden;
-	/* IE6, IE7 - a 0 height clip, off to the bottom right of the visible 1px box */
 	clip: rect(1px 1px 1px 1px);
-	/* maybe deprecated but we need to support legacy browsers */
 	clip: rect(1px, 1px, 1px, 1px);
-	/* modern browsers, clip-path works inwards from each corner */
 	clip-path: inset(50%);
-	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
 }
