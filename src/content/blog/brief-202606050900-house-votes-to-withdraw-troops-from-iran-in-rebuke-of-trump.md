@@ -4,7 +4,7 @@ description: "US House passes bill to end Iran war operations, defying Trump wit
 pubDate: "2026-06-05T12:30:25Z"
 draft: true
 tags: ["Congress", "Donald Trump", "Iran", "United States", "War Powers Act", "multipolar"]
-heroImage: "/hero/smoke-brief-202606050900-house-votes-to-withdraw-troops-from-iran-in-rebuke-of-trump.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050900-house-votes-to-withdraw-troops-from-iran-in-rebuke-of-trump.jpg"
 ---
 <p>WASHINGTON, June 4 – The U.S. House of Representatives voted 215-208 on Wednesday to order the withdrawal of American troops from the Iran war, with four Republicans joining Democrats in a rare bipartisan rebuke of President Donald Trump’s military campaign.</p>
 <p>Trump denounced the vote on Thursday as “unpatriotic,” claiming it disrupted his final negotiations with Tehran to end the three-month-old conflict. “Who would do such an unpatriotic thing. They know where the negotiations stand,” he wrote on his Truth Social platform.</p>

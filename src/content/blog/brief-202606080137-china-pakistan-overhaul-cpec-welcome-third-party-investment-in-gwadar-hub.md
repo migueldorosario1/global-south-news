@@ -4,7 +4,7 @@ description: "China and Pakistan agreed to overhaul CPEC, make Gwadar a regional
 pubDate: "2026-06-08T01:39:32Z"
 draft: true
 tags: ["CPEC", "China-Pakistan", "Gwadar Port", "Regional Connectivity", "Third-Party Investment", "asia"]
-heroImage: "/hero/smoke-brief-202606080137-china-pakistan-overhaul-cpec-welcome-third-party-investment-in-gwadar-hub.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606080137-china-pakistan-overhaul-cpec-welcome-third-party-investment-in-gwadar-hub.jpg"
 ---
 
 <p>China and Pakistan have struck a "new broad consensus" to overhaul their flagship economic corridor and turn the Arabian Sea port of Gwadar into a regional connectivity hub, with both sides also welcoming third-party participation in the corridor's development, the two governments announced on Tuesday as Prime Minister Shehbaz Sharif wrapped up a visit to Beijing.</p>

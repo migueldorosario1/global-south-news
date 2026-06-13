@@ -5,7 +5,7 @@ pubDate: "2026-01-02T12:00:00Z"
 draft: false
 tags: ["asia", "multipolar-world", "development"]
 author: "Priscila Miranda"
-heroImage: "/hero/smoke-the-chinese-dream-resurrection-bi-gan.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-the-chinese-dream-resurrection-bi-gan.jpeg"
 ---
 
 <p>The Chinese Dream, Resurrection, the Fiat Lux Film of the Year!</p>

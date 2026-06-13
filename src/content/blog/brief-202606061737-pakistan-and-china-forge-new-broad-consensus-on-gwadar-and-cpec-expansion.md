@@ -4,7 +4,7 @@ description: "Pakistan and China agree to develop Gwadar port and open CPEC to t
 pubDate: "2026-06-06T17:42:25Z"
 draft: true
 tags: ["CPEC", "China-Pakistan relations", "Gwadar port", "economic corridor", "multipolar", "security"]
-heroImage: "/hero/smoke-brief-202606061737-pakistan-and-china-forge-new-broad-consensus-on-gwadar-and-cpec-expansion.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606061737-pakistan-and-china-forge-new-broad-consensus-on-gwadar-and-cpec-expansion.jpg"
 ---
 
 <p>Pakistan and China have agreed to develop the strategic Gwadar port and open the China-Pakistan Economic Corridor (CPEC) to third-party participation, as part of a "new broad consensus" to deepen strategic ties. The joint statement was announced on Tuesday after Pakistani Prime Minister Shehbaz Sharif met President Xi Jinping and Premier Li Qiang in Beijing.</p>

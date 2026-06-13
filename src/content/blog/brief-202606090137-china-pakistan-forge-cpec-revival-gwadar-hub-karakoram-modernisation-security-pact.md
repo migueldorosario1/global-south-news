@@ -4,7 +4,7 @@ description: "China and Pakistan announce major CPEC upgrades—including Gwadar
 pubDate: "2026-06-09T01:38:01Z"
 draft: true
 tags: ["Belt and Road Initiative", "CPEC", "China-Pakistan relations", "Gwadar Port", "asia", "infrastructure diplomacy"]
-heroImage: "/hero/smoke-brief-202606090137-china-pakistan-forge-cpec-revival-gwadar-hub-karakoram-modernisation-security-pact.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606090137-china-pakistan-forge-cpec-revival-gwadar-hub-karakoram-modernisation-security-pact.jpg"
 ---
 
 <p>During Pakistani Prime Minister Shehbaz Sharif’s visit to Beijing on May 26, 2026, China and Pakistan announced a “new broad consensus” to accelerate the high-quality development of the China-Pakistan Economic Corridor (CPEC), elevate Gwadar Port into a regional connectivity hub, and modernise the Karakoram Highway—including the Khunjerab Pass—under the Belt and Road Initiative. The agreement followed meetings between Sharif and Chinese President Xi Jinping and Premier Li Qiang, underscoring renewed strategic coordination amid evolving regional dynamics.</p>

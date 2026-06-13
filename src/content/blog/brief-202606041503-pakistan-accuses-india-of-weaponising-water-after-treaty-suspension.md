@@ -4,7 +4,7 @@ description: "Pakistan said on Thursday (June 4, 2026) two river projects by arc
 pubDate: "2026-06-04T18:03:07Z"
 draft: true
 tags: ["multipolar-world", "sovereignty", "infrastructure", "water-security", "south-asia", "asia", "india", "hydro", "ai", "pakistan"]
-heroImage: "/hero/smoke-brief-202606041503-pakistan-accuses-india-of-weaponising-water-after-treaty-suspension.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606041503-pakistan-accuses-india-of-weaponising-water-after-treaty-suspension.jpg"
 ---
 
 <p>Pakistan on Thursday accused India of weaponising water resources after New Delhi pushed forward with two river projects on the Chenab River, further straining a critical bilateral treaty already suspended by India.</p>

@@ -4,6 +4,6 @@ description: "US House moves to limit Trump's military authority on Iran amid st
 pubDate: "2026-06-05T09:36:31Z"
 draft: true
 tags: ["Congress", "Donald Trump", "Iran", "United States", "War Powers Act", "multipolar"]
-heroImage: "/hero/smoke-brief-202606050600-house-votes-to-curtail-trump-s-iran-war-powers-as-nuclear-talks-stall.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-house-votes-to-curtail-trump-s-iran-war-powers-as-nuclear-talks-stall.jpg"
 ---
 <p>Trump dismissed such objections, claiming Democrats “would rather have our Country fail.”</p>

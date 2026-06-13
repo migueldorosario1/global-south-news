@@ -4,7 +4,7 @@ description: "China and Pakistan announced plans to accelerate CPEC, transform G
 pubDate: "2026-06-09T09:39:02Z"
 draft: true
 tags: ["Belt and Road Initiative", "China-Pakistan Economic Corridor", "China-Pakistan relations", "Gwadar port", "asia", "third-party investment"]
-heroImage: "/hero/smoke-brief-202606090937-china-and-pakistan-pledge-to-accelerate-cpec-open-gwadar-to-third-party-investment.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606090937-china-and-pakistan-pledge-to-accelerate-cpec-open-gwadar-to-third-party-investment.jpg"
 ---
 
 <p>BEIJING — China and Pakistan unveiled a sweeping new consensus to deepen strategic cooperation on Tuesday, following meetings in Beijing between Pakistan’s Prime Minister Shehbaz Sharif and Chinese President Xi Jinping and Premier Li Qiang. The joint statement outlined plans to accelerate high-quality development of the China-Pakistan Economic Corridor and transform the southwestern port of Gwadar into a regional connectivity hub.</p>

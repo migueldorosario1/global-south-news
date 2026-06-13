@@ -4,7 +4,7 @@ description: "In Beijing, China and Pakistan unveiled a CPEC overhaul, Gwadar hu
 pubDate: "2026-06-08T17:40:30Z"
 draft: true
 tags: ["Belt and Road Initiative", "CPEC", "China-Pakistan relations", "Gwadar Port", "Security", "asia"]
-heroImage: "/hero/smoke-brief-202606081737-china-and-pakistan-agree-on-cpec-overhaul-gwadar-hub-security-boost.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606081737-china-and-pakistan-agree-on-cpec-overhaul-gwadar-hub-security-boost.jpg"
 ---
 
 <p>BEIJING — China and Pakistan unveiled a “new broad consensus” on Tuesday to overhaul the strategic China-Pakistan Economic Corridor, position the Arabian Sea port of Gwadar as a regional trade hub, and invite third-party participation in the multibillion-dollar infrastructure network. The agreement was sealed as Prime Minister Shehbaz Sharif wrapped up talks with President Xi Jinping and Premier Li Qiang, amid Islamabad’s push for foreign investment while it grapples with tensions along its Afghan border and mediates in the Iran conflict.</p>

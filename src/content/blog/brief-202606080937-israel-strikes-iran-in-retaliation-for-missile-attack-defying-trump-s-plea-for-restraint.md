@@ -4,7 +4,7 @@ description: "Israel struck Iran on June 8 after Tehran’s missile attack broke
 pubDate: "2026-06-08T09:41:42Z"
 draft: true
 tags: ["Ceasefire Violation", "Global Energy Security", "Iran-Israel Escalation", "west-asia"]
-heroImage: "/hero/smoke-brief-202606080937-israel-strikes-iran-in-retaliation-for-missile-attack-defying-trump-s-plea-for-restraint.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606080937-israel-strikes-iran-in-retaliation-for-missile-attack-defying-trump-s-plea-for-restraint.jpg"
 ---
 
 <p>TEL AVIV/TEHRAN — Israel launched airstrikes against military targets in western and central Iran on June 8, retaliating for a Tehran missile attack that shattered the fragile April 8 ceasefire, and ignoring a personal appeal from US President Donald Trump to hold fire. The strikes, 100 days into the conflict that began with the joint US-Israeli killing of Supreme Leader Ayatollah Ali Khamenei, hit areas including Isfahan and Tehran, Iranian state television reported.</p>

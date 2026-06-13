@@ -4,7 +4,7 @@ description: "China and Pakistan unveil plan to overhaul CPEC, turning Gwadar in
 pubDate: "2026-06-07T17:38:57Z"
 draft: true
 tags: ["Belt and Road", "CPEC", "Gwadar", "asia", "foreign investment", "security"]
-heroImage: "/hero/smoke-brief-202606071737-china-pakistan-forge-new-consensus-to-overhaul-cpec-and-invite-global-investors.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606071737-china-pakistan-forge-new-consensus-to-overhaul-cpec-and-invite-global-investors.jpg"
 ---
 
 <p>Pakistani Prime Minister Shehbaz Sharif and Chinese President Xi Jinping agreed on Tuesday to overhaul the China-Pakistan Economic Corridor, pledging to turn the Gwadar port into a regional hub and opening the flagship Belt and Road project to third-party investors. The “new broad consensus”, announced after Sharif met Xi and Premier Li Qiang in Beijing, prioritises upgrading the Khunjerab Pass and the Karakoram Highway — the main overland link between the two neighbours.</p>

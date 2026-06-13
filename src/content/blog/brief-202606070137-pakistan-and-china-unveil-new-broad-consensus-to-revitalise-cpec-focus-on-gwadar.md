@@ -4,7 +4,7 @@ description: "Pakistan and China unveil a broad consensus to revitalise CPEC, ma
 pubDate: "2026-06-07T01:39:33Z"
 draft: true
 tags: ["Belt and Road", "CPEC", "China-Pakistan", "Gwadar port", "Shehbaz Sharif", "asia", "regional security"]
-heroImage: "/hero/smoke-brief-202606070137-pakistan-and-china-unveil-new-broad-consensus-to-revitalise-cpec-focus-on-gwadar.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606070137-pakistan-and-china-unveil-new-broad-consensus-to-revitalise-cpec-focus-on-gwadar.jpg"
 ---
 
 <p>Pakistan and China unveiled a sweeping "new broad consensus" on Tuesday to revitalise the China-Pakistan Economic Corridor and position the Arabian Sea port of Gwadar as a hub of regional connectivity. The agreement came as Prime Minister Shehbaz Sharif met President Xi Jinping and Premier Li Qiang during a visit to Beijing aimed at securing investment and reinforcing strategic ties.</p>

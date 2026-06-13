@@ -4,7 +4,7 @@ description: "US-brokered Lebanon ceasefire immediately rejected by Hezbollah an
 pubDate: "2026-06-05T15:24:20Z"
 draft: true
 tags: ["Hezbollah", "Israel", "Lebanon", "Middle East Conflict", "US-Mediated Truce", "west-asia"]
-heroImage: "/hero/smoke-brief-202606051200-us-mediated-lebanon-ceasefire-rejected-by-hezbollah-israel.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051200-us-mediated-lebanon-ceasefire-rejected-by-hezbollah-israel.jpg"
 ---
 <p>The Trump administration has brokered a new ceasefire agreement between Israel and Lebanon, but the deal faced immediate rejection from Hezbollah leader Naim Qassem, who called it a “surrender and defeat,” and from Israeli defence minister Israel Katz, who insisted military operations would continue regardless. Lebanese President Joseph Aoun said on Thursday that the US-mediated truce would take effect within 24 hours of approval by all parties, though Hezbollah was not a party to the talks.</p>
 <p>The accord calls for a “complete cessation” of Hezbollah fire and the withdrawal of its fighters from south of the Litani River, along with the creation of “pilot zones” where the Lebanese Armed Forces would assume exclusive security control to the exclusion of non-state actors. Unlike the failed April 16 truce—which was termed a “cessation of hostilities” and included a self-defence clause for Israel—the new text drops that provision. However, it makes no mention of an Israeli withdrawal from southern Lebanon, where Israeli forces now occupy roughly one-fifth of the country.</p>

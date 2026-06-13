@@ -5,7 +5,7 @@ pubDate: "2026-02-12T12:00:00Z"
 draft: false
 tags: ["asia", "brics", "development", "multipolar-world"]
 author: "Priscila Miranda"
-heroImage: "/hero/smoke-how-india-transformed-cinema-into-anticolonial-tool.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-how-india-transformed-cinema-into-anticolonial-tool.jpg"
 ---
 
 <p>How India Turned Cinema into an Anti-Colonial Tool Before Independence</p>
