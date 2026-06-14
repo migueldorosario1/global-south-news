@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-14T01:39:31.545Z
+Atualizado em: 2026-06-14T09:39:46.311Z
 Publicadas/auditadas com sucesso no historico: 76
-Materias com bloqueio acumulado: 207
+Materias com bloqueio acumulado: 208
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -215,3 +215,4 @@ Materias com bloqueio acumulado: 207
 - brief-202606130937-bodies-of-evidence-exposing-israel-s-sexual-torture-of-palestinians.md: auditoria reteve brief-202606130937-bodies-of-evidence-exposing-israel-s-sexual-torture-of-palestinians.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"A data de 1969
 - brief-202606131737-un-expert-says-israels-use-of-sexual-torture-is-direct-inheritance-of-british-colonial-methods.md: auditoria reteve brief-202606131737-un-expert-says-israels-use-of-sexual-torture-is-direct-inheritance-of-british-colonial-methods.md: veto externo isolado sem fonte citada: qwen: {"ok":false,"reason":"A matéria faz acusações graves de uso sistemático de tortura sexual por Israel, atribuindo-as a uma 'herança direta' de métodos coloniais britânicos, mas não ; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta 
 - brief-202606140137-un-rapporteur-exposes-colonial-roots-of-israels-sexual-torture-of-palestinians.md: auditoria reteve brief-202606140137-un-rapporteur-exposes-colonial-roots-of-israels-sexual-torture-of-palestinians.md: veto externo isolado sem fonte citada: qwen: {"ok":false,"reason":"A matéria faz acusações graves de tortura sexual sistemática por Israel com base em uma fonte não citada (‘sem fonte’) e atribui afirmações específicas a Fran; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},
+- brief-202606140937-israel-s-sexual-torture-of-palestinians-traces-to-british-colonial-methods.md: auditoria reteve brief-202606140937-israel-s-sexual-torture-of-palestinians-traces-to-british-colonial-methods.md: veto externo isolado sem fonte citada: qwen: {"ok":false,"reason":"A fonte citada 'Al Jazeera documentary and accompanying essay' não é especificada (sem título, data, link ou referência verificável), e a menção a 'Bodies of ; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"au
