@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-14T17:39:56.126Z
+Atualizado em: 2026-06-15T01:40:31.994Z
 Publicadas/auditadas com sucesso no historico: 76
-Materias com bloqueio acumulado: 209
+Materias com bloqueio acumulado: 210
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -217,3 +217,4 @@ Materias com bloqueio acumulado: 209
 - brief-202606140137-un-rapporteur-exposes-colonial-roots-of-israels-sexual-torture-of-palestinians.md: auditoria reteve brief-202606140137-un-rapporteur-exposes-colonial-roots-of-israels-sexual-torture-of-palestinians.md: veto externo isolado sem fonte citada: qwen: {"ok":false,"reason":"A matéria faz acusações graves de tortura sexual sistemática por Israel com base em uma fonte não citada (‘sem fonte’) e atribui afirmações específicas a Fran; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},
 - brief-202606140937-israel-s-sexual-torture-of-palestinians-traces-to-british-colonial-methods.md: auditoria reteve brief-202606140937-israel-s-sexual-torture-of-palestinians-traces-to-british-colonial-methods.md: veto externo isolado sem fonte citada: qwen: {"ok":false,"reason":"A matéria faz acusações graves de tortura sexual sistemática por Israel com ligação direta a métodos coloniais britânicos, mas não cita nenhuma fonte verificá; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"au
 - brief-202606141737-albanese-israeli-sexual-torture-stems-from-british-french-colonial-methods.md: auditoria reteve brief-202606141737-albanese-israeli-sexual-torture-stems-from-british-french-colonial-methods.md: veto externo isolado sem fonte citada: qwen: {"ok":false,"reason":"A matéria atribui declarações graves à relatora especial da ONU Francesca Albanese — incluindo a afirmação de que 'tortura sexual israelense deriva diretament; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"au
+- brief-202606150137-un-expert-israeli-sexual-torture-of-palestinians-rooted-in-british-and-french-colonial-methods.md: auditoria reteve brief-202606150137-un-expert-israeli-sexual-torture-of-palestinians-rooted-in-british-and-french-colonial-methods.md: veto externo isolado sem fonte citada: qwen: {"ok":false,"reason":"A matéria afirma que a relatora especial da ONU Francesca Albanese 'detalhou' e 'disse' essas alegações em uma investigação da Al Jazeera publicada na quinta-; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta 
