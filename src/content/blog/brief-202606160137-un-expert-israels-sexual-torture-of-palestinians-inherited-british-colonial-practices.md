@@ -1,0 +1,16 @@
+---
+title: "UN Expert: Israel’s Sexual Torture of Palestinians Inherited British Colonial Practices"
+description: "UN expert Francesca Albanese says Israel's sexual torture of Palestinians stems from British colonial tactics used in Ireland and Kenya."
+pubDate: "2026-06-16T01:39:37Z"
+draft: true
+tags: ["Colonialism", "International law", "Israel", "Palestine", "Sexual violence", "west-asia"]
+heroImage: "/hero/smoke-brief-202606160137-un-expert-israels-sexual-torture-of-palestinians-inherited-british-colonial-practices.jpg"
+---
+
+<p>UN Special Rapporteur Francesca Albanese has told Al Jazeera that Israel’s documented use of sexual torture against Palestinian detainees constitutes a direct inheritance from British Mandate emergency laws, tracing a colonial lineage from Ireland to Kenya that persists in Israeli interrogation rooms today.</p>
+<p>“During the British Mandate in Palestine, it is documented that the British administration used practices of torture that had already been used against the Irish insurgency,” Albanese states in the documentary *Bodies of Evidence: Israel’s Darkest Weapon*. She notes that British emergency regulations were not adapted but “immediately received and ingrained in the Israeli system” from the state’s founding.</p>
+<p>The historical chain is documented in personnel as much as policy. Approximately 650 former members of the Black and Tans, the paramilitary force notorious for colonial terror during Ireland’s War of Independence, were redeployed to form the British Palestine Gendarmerie in 1922. By 1923, former Black and Tans comprised up to 95 percent of that force, bringing interrogation methods that would outlast the Mandate itself.</p>
+<p>Survivor testimony underscores the continuity. Rasmea Odeh testified before a UN committee in 1979 that she was raped with a stick and given electric shocks to her genitals while in Israeli custody a decade earlier. Abdel Latif Ghaith, later director of prisoner-rights organisation Addameer, witnessed her ordeal from an adjacent cell. “I saw Rasmea in the interrogation room,” Ghaith recounts. “And she was naked.”</p>
+<p>Kifaya Khraim, international advocacy coordinator at the Ramallah-based Women’s Centre for Legal Aid and Counselling, describes a pattern of sexual humiliation employed to break political will. “Israeli forces know of [the social stigma], and they use it and they exploit it,” Khraim says, referring to how many women are unable to identify sexual assault as rape or sexual violence.</p>
+<p>Former International Criminal Court judge Cuno Tarfusser states unequivocally that such acts constitute war crimes. “Sexual violence becomes more than crime,” Tarfusser tells the documentary. “Sexual crimes become a method to fight the war.”</p>
+<p>For states of the Global South, legal observers note, the findings expose how colonial counterinsurgency blueprints have been absorbed into modern state violence, undermining international human rights norms while shielding Western-backed perpetrators from accountability. Britain’s Mandate-era legal architecture and France’s systematic use of sexual violence during the Algerian war provided doctrinal foundations that Israeli security apparatuses continue to operationalise.</p>
