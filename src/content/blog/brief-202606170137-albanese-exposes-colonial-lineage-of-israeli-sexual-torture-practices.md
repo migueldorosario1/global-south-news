@@ -1,0 +1,13 @@
+---
+title: "Albanese Exposes Colonial Lineage of Israeli Sexual Torture Practices"
+description: "UN Special Rapporteur Francesca Albanese documents how Israeli sexual torture tactics inherit colonial counterinsurgency methods—legally, structurally, and"
+pubDate: "2026-06-17T01:38:10Z"
+draft: true
+tags: ["Palestine", "UN", "colonialism", "counterinsurgency", "international law", "multipolar", "sexual violence", "torture"]
+heroImage: "/hero/smoke-brief-202606170137-albanese-exposes-colonial-lineage-of-israeli-sexual-torture-practices.jpg"
+---
+
+<p>Francesca Albanese, UN Special Rapporteur on the Occupied Palestinian Territories, has documented a direct institutional lineage linking contemporary sexual torture of Palestinians to British colonial counterinsurgency practices in Ireland and Mandate Palestine, French methods in Algeria, and apartheid South Africa’s racialised security apparatus. Speaking in Al Jazeera’s documentary *Bodies of Evidence: Israel’s Darkest Weapon*, Albanese stresses that these techniques were not merely emulated but formally inherited—through personnel transfers, emergency regulations, and legal frameworks—into Israel’s post-1948 state architecture.</p>
+<p>Abdel Latif Ghaith, director of the Palestinian prisoner-rights organisation Addameer, recounted witnessing the 1969 sexual torture of Rasmea Odeh—a survivor who later testified before the UN in Geneva about rape with a stick, electric shocks to her genitals, and coercive threats involving her father. Odeh’s testimony predates the 1984 UN Convention Against Torture by fifteen years. Kifaya Khraim of the Ramallah-based Women’s Centre for Legal Aid and Counselling (WCLAC) notes that Israeli forces deliberately exploit social stigma, deploying sexual violence in ways survivors often cannot name or report.</p>
+<p>Historical continuity is stark: approximately 650 former British Black and Tans were redeployed to Mandate Palestine in 1922 to form the Palestine Gendarmerie. British emergency regulations—including warrantless arrest and administrative detention—were adopted verbatim into Israeli law. France’s systematic use of sexual torture during the Algerian War, analysed clinically by Frantz Fanon, further informed Israeli doctrine; the 1987 Landau Commission codified “moderate physical pressure,” while the 1999 High Court ruling left enforcement to the same security agencies it purported to regulate.</p>
+<p>For scholars and survivors across the Global South, this genealogy reframes impunity not as failure of accountability but as structural feature—where colonial legal instruments, racialised violence, and erasure of sovereignty persist across ostensibly independent states.</p>
