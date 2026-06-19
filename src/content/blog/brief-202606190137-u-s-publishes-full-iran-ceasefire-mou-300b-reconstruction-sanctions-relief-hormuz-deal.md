@@ -1,0 +1,13 @@
+---
+title: "U.S. Publishes Full Iran Ceasefire MOU: $300B Reconstruction, Sanctions Relief, Hormuz Deal"
+description: "U.S. releases full ceasefire MOU with Iran: immediate end to hostilities, sanctions relief, $300B fund, and Hormuz transit. Could stabilize global energy"
+pubDate: "2026-06-19T01:38:53Z"
+draft: true
+tags: ["Ceasefire", "Iran", "Middle East", "Nuclear Deal", "Reconstruction", "Sanctions", "Strait of Hormuz", "United States", "west-asia"]
+heroImage: "/hero/smoke-brief-202606190137-u-s-publishes-full-iran-ceasefire-mou-300b-reconstruction-sanctions-relief-hormuz-deal.jpg"
+---
+
+<p>The United States government on Wednesday published the full text of a memorandum of understanding it says was jointly agreed with Iran, offering the most detailed blueprint to date for ending hostilities, lifting sanctions and stabilising strategic Gulf waterways. The document, dated June 17, 2026, provides for an immediate and permanent cessation of all military operations on all fronts, including Lebanon, while opening a 60-day window to negotiate a final accord.</p>
+<p>Under the terms, Washington commits to fully end its naval blockade within 30 days, during which pre-war commercial traffic would be progressively restored. In parallel, Iran agrees to use its best efforts to secure the Strait of Hormuz for unhindered commercial transit at no charge for an initial 60 days, and to pursue talks with Oman and other littoral states on the strait’s long-term governance. The MOU also stipulates the termination of all unilateral and UN Security Council sanctions, the release of frozen Iranian assets, and the launch of a $300 billion international reconstruction and development plan led by the United States and regional partners.</p>
+<p>On the nuclear file, Iran reaffirms it will not seek or build atomic weapons and accepts on-site down-blending of enriched uranium under IAEA supervision while a final settlement is negotiated. Both sides have pledged to maintain the status quo in the interim: Iran freezes its nuclear programme and the U.S. imposes no new sanctions or troop deployments. Waivers for Iranian crude exports and associated banking services would take effect immediately upon signing.</p>
+<p>A monitoring mechanism is to be established, and any final deal would be enshrined in a binding UN Security Council resolution. For the Global South, the accord holds the prospect of stabilising vital energy supply chains, easing price volatility and unlocking a vast reconstruction market. Yet its implementation remains contingent on a final agreement and sustained political will in Washington, leaving much of the MOU’s promise uncertain.</p>
