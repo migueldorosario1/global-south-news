@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-19T09:39:23.431Z
+Atualizado em: 2026-06-19T17:39:21.190Z
 Publicadas/auditadas com sucesso no historico: 76
-Materias com bloqueio acumulado: 223
+Materias com bloqueio acumulado: 224
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -230,4 +230,5 @@ Materias com bloqueio acumulado: 223
 - brief-202606180937-u-s-to-end-hormuz-blockade-in-30-days-under-new-iran-accord.md: auditoria reteve brief-202606180937-u-s-to-end-hormuz-blockade-in-30-days-under-new-iran-accord.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"A matéria afirma que o
 - brief-202606181737-u-s-releases-memorandum-of-understanding-to-halt-all-military-operations-including-in-lebanon.md: auditoria reteve brief-202606181737-u-s-releases-memorandum-of-understanding-to-halt-all-military-operations-including-in-lebanon.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\
 - brief-202606190137-u-s-publishes-full-iran-ceasefire-mou-300b-reconstruction-sanctions-relief-hormuz-deal.md: auditoria reteve brief-202606190137-u-s-publishes-full-iran-ceasefire-mou-300b-reconstruction-sanctions-relief-hormuz-deal.md: veto externo isolado sem fonte citada: qwen: {"ok":false,"reason":"A matéria afirma que os EUA publicaram oficialmente um MOU com o Irã em 17 de junho de 2026, mas não cita nenhuma fonte verificável — e, conforme critério exp; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON
-- brief-202606190937-us-draft-mou-offers-iran-300b-reconstruction-plan-and-full-sanctions-relief.md: auditoria reteve brief-202606190937-us-draft-mou-offers-iran-300b-reconstruction-plan-and-full-sanctions-relief.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":false,"reason":"A matéria afirma a existência de 
+- brief-202606190937-us-draft-mou-offers-iran-300b-reconstruction-plan-and-full-sanctions-relief.md: auditoria reteve brief-202606190937-us-draft-mou-offers-iran-300b-reconstruction-plan-and-full-sanctions-relief.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"Acusaç
+- brief-202606191737-us-to-end-iran-naval-blockade-in-exchange-for-safe-hormuz-passage.md: auditoria reteve brief-202606191737-us-to-end-iran-naval-blockade-in-exchange-for-safe-hormuz-passage.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\"Acusação grave d
