@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-22T09:40:29.454Z
-Publicadas/auditadas com sucesso no historico: 77
+Atualizado em: 2026-06-22T17:39:02.926Z
+Publicadas/auditadas com sucesso no historico: 78
 Materias com bloqueio acumulado: 232
 
 ## Solucoes do cerebro aplicadas
@@ -240,3 +240,6 @@ Materias com bloqueio acumulado: 232
 - brief-202606211737-u-s-iran-ceasefire-deal-blockade-lifted-sanctions-relief-300b-reconstruction-pledged.md: auditoria reteve brief-202606211737-u-s-iran-ceasefire-deal-blockade-lifted-sanctions-relief-300b-reconstruction-pledged.md: veto externo isolado sem fonte citada: qwen: Acusação grave sem apoio no texto/fonte: o texto afirma a existência de um MOU oficial entre EUA e Irã com termos detalhados (bloqueio naval levantado, US$300 bi em reconstrução, resolução vinculante do CSNU, etc.), mas não cita nenhuma fonte verific
 - brief-202606220137-breakthrough-u-s-iran-deal-naval-blockade-ends-300-billion-reconstruction-launched.md: auditoria reteve brief-202606220137-breakthrough-u-s-iran-deal-naval-blockade-ends-300-billion-reconstruction-launched.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\
 - brief-202606220937-us-and-iran-sign-mou-to-lift-naval-blockade-withdraw-forces-and-open-hormuz-strait.md: auditoria reteve brief-202606220937-us-and-iran-sign-mou-to-lift-naval-blockade-withdraw-forces-and-open-hormuz-strait.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":false,"reason":"Acusação grave sem apoio n
+
+## Publicadas nesta rodada
+- brief-202606221737-us-iran-mou-ends-hostilities-lifts-blockade-and-pursues-nuclear-deal.md
