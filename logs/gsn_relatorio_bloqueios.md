@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-21T17:39:59.730Z
-Publicadas/auditadas com sucesso no historico: 76
-Materias com bloqueio acumulado: 230
+Atualizado em: 2026-06-22T01:39:26.014Z
+Publicadas/auditadas com sucesso no historico: 77
+Materias com bloqueio acumulado: 231
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -238,3 +238,7 @@ Materias com bloqueio acumulado: 230
 - brief-202606210137-u-s-iran-mou-unveiled-ceasefire-sanctions-relief-300b-reconstruction-nuclear-deal.md: auditoria reteve brief-202606210137-u-s-iran-mou-unveiled-ceasefire-sanctions-relief-300b-reconstruction-nuclear-deal.md: veto externo isolado sem fonte citada: qwen: A matéria afirma que os EUA divulgaram, em 17 de junho de 2026, um MOU com o Irã contendo cessar-fogo imediato, alívio de sanções, fundo de reconstrução de US$ 300 bilhões e acordo nuclear — mas não cita nenhuma fonte verificável, e nenhum desses evento
 - brief-202606210937-u-s-iran-mou-declares-permanent-ceasefire-on-all-fronts-including-lebanon-with-60-day-talks.md: auditoria reteve brief-202606210937-u-s-iran-mou-declares-permanent-ceasefire-on-all-fronts-including-lebanon-with-60-day-talks.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"r
 - brief-202606211737-u-s-iran-ceasefire-deal-blockade-lifted-sanctions-relief-300b-reconstruction-pledged.md: auditoria reteve brief-202606211737-u-s-iran-ceasefire-deal-blockade-lifted-sanctions-relief-300b-reconstruction-pledged.md: veto externo isolado sem fonte citada: qwen: Acusação grave sem apoio no texto/fonte: o texto afirma a existência de um MOU oficial entre EUA e Irã com termos detalhados (bloqueio naval levantado, US$300 bi em reconstrução, resolução vinculante do CSNU, etc.), mas não cita nenhuma fonte verific
+- brief-202606220137-breakthrough-u-s-iran-deal-naval-blockade-ends-300-billion-reconstruction-launched.md: auditoria reteve brief-202606220137-breakthrough-u-s-iran-deal-naval-blockade-ends-300-billion-reconstruction-launched.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":false,"reason":"{\"ok\":false,\"reason\":\
+
+## Publicadas nesta rodada
+- brief-202606211737-u-s-iran-ceasefire-deal-blockade-lifted-sanctions-relief-300b-reconstruction-pledged.md
