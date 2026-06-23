@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-22T17:39:02.926Z
-Publicadas/auditadas com sucesso no historico: 78
+Atualizado em: 2026-06-23T01:39:35.532Z
+Publicadas/auditadas com sucesso no historico: 79
 Materias com bloqueio acumulado: 232
 
 ## Solucoes do cerebro aplicadas
@@ -242,4 +242,4 @@ Materias com bloqueio acumulado: 232
 - brief-202606220937-us-and-iran-sign-mou-to-lift-naval-blockade-withdraw-forces-and-open-hormuz-strait.md: auditoria reteve brief-202606220937-us-and-iran-sign-mou-to-lift-naval-blockade-withdraw-forces-and-open-hormuz-strait.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":false,"reason":"Acusação grave sem apoio n
 
 ## Publicadas nesta rodada
-- brief-202606221737-us-iran-mou-ends-hostilities-lifts-blockade-and-pursues-nuclear-deal.md
+- brief-202606230137-u-s-and-iran-agree-to-permanent-ceasefire-blockade-removal-and-300-billion-reconstruction-plan.md
