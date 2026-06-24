@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-24T09:40:09.974Z
-Publicadas/auditadas com sucesso no historico: 81
+Atualizado em: 2026-06-24T17:39:01.064Z
+Publicadas/auditadas com sucesso no historico: 82
 Materias com bloqueio acumulado: 234
 
 ## Solucoes do cerebro aplicadas
@@ -244,4 +244,4 @@ Materias com bloqueio acumulado: 234
 - brief-202606240137-us-releases-text-of-iran-peace-deal-ceasefire-300b-reconstruction-sanctions-end.md: auditoria reteve brief-202606240137-us-releases-text-of-iran-peace-deal-ceasefire-300b-reconstruction-sanctions-end.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-t
 
 ## Publicadas nesta rodada
-- brief-202606240937-leaked-us-iran-mou-proposes-immediate-ceasefire-sanctions-removal-and-60-day-nuclear-accord.md
+- brief-202606241737-u-s-and-iran-sign-landmark-mou-for-ceasefire-sanctions-relief-300b-plan.md
