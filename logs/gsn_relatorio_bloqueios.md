@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-24T01:39:25.727Z
-Publicadas/auditadas com sucesso no historico: 80
+Atualizado em: 2026-06-24T09:40:09.974Z
+Publicadas/auditadas com sucesso no historico: 81
 Materias com bloqueio acumulado: 234
 
 ## Solucoes do cerebro aplicadas
@@ -242,3 +242,6 @@ Materias com bloqueio acumulado: 234
 - brief-202606220937-us-and-iran-sign-mou-to-lift-naval-blockade-withdraw-forces-and-open-hormuz-strait.md: auditoria reteve brief-202606220937-us-and-iran-sign-mou-to-lift-naval-blockade-withdraw-forces-and-open-hormuz-strait.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"code
 - brief-202606231737-us-iran-mou-no-nuclear-weapons-down-blend-enriched-uranium-under-iaea-binding-un-resolution.md: auditoria reteve brief-202606231737-us-iran-mou-no-nuclear-weapons-down-blend-enriched-uranium-under-iaea-binding-un-resolution.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"audit
 - brief-202606240137-us-releases-text-of-iran-peace-deal-ceasefire-300b-reconstruction-sanctions-end.md: auditoria reteve brief-202606240137-us-releases-text-of-iran-peace-deal-ceasefire-300b-reconstruction-sanctions-end.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-t
+
+## Publicadas nesta rodada
+- brief-202606240937-leaked-us-iran-mou-proposes-immediate-ceasefire-sanctions-removal-and-60-day-nuclear-accord.md
