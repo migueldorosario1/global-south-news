@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-26T09:41:05.055Z
-Publicadas/auditadas com sucesso no historico: 86
+Atualizado em: 2026-06-26T17:39:34.854Z
+Publicadas/auditadas com sucesso no historico: 87
 Materias com bloqueio acumulado: 235
 
 ## Solucoes do cerebro aplicadas
@@ -243,3 +243,6 @@ Materias com bloqueio acumulado: 235
 - brief-202606231737-us-iran-mou-no-nuclear-weapons-down-blend-enriched-uranium-under-iaea-binding-un-resolution.md: auditoria reteve brief-202606231737-us-iran-mou-no-nuclear-weapons-down-blend-enriched-uranium-under-iaea-binding-un-resolution.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"audit
 - brief-202606240137-us-releases-text-of-iran-peace-deal-ceasefire-300b-reconstruction-sanctions-end.md: auditoria reteve brief-202606240137-us-releases-text-of-iran-peace-deal-ceasefire-300b-reconstruction-sanctions-end.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-t
 - brief-202606260937-trump-nobody-purposefully-attacked-iranian-girls-school-that-killed-175.md: auditoria reteve brief-202606260937-trump-nobody-purposefully-attacked-iranian-girls-school-that-killed-175.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-cat
+
+## Publicadas nesta rodada
+- brief-202606261737-trump-casts-doubt-on-pentagon-probe-into-strike-that-killed-175-at-iranian-girls-school.md
