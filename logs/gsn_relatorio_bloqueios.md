@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-06-26T17:39:34.854Z
-Publicadas/auditadas com sucesso no historico: 87
+Atualizado em: 2026-06-27T01:39:00.430Z
+Publicadas/auditadas com sucesso no historico: 88
 Materias com bloqueio acumulado: 235
 
 ## Solucoes do cerebro aplicadas
@@ -245,4 +245,4 @@ Materias com bloqueio acumulado: 235
 - brief-202606260937-trump-nobody-purposefully-attacked-iranian-girls-school-that-killed-175.md: auditoria reteve brief-202606260937-trump-nobody-purposefully-attacked-iranian-girls-school-that-killed-175.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-cat
 
 ## Publicadas nesta rodada
-- brief-202606261737-trump-casts-doubt-on-pentagon-probe-into-strike-that-killed-175-at-iranian-girls-school.md
+- brief-202606270137-trump-casts-doubt-on-who-bombed-iran-school-killing-175-children.md
