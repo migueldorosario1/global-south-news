@@ -1,0 +1,12 @@
+---
+title: "Trump: ‘May Never Be Known’ Who Struck Iran School, Killing 175"
+description: "Trump says Iran school strike that killed 175 ‘may never be known,’ despite Pentagon probe blaming US forces, raising accountability concerns."
+pubDate: "2026-06-28T09:39:05Z"
+draft: false
+tags: ["Accountability", "Civilian casualties", "Iran", "Pentagon", "School strike", "Trump", "west-asia"]
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606280937-trump-may-never-be-known-who-struck-iran-school-killing-175.jpg"
+---
+<p>U.S. President Donald Trump said on June 24 that it may never be known who carried out the February 28 strike on a girls’ school in Minab, Iran, which killed more than 175 children and teachers, even though an internal Pentagon investigation has reportedly concluded that U.S. forces were likely responsible. The statement casts further uncertainty over accountability for one of the deadliest incidents of the U.S.-Israeli military campaign against Iran.</p>
+<p>Speaking to reporters, Trump remarked, “I don’t know that they are ever going to solve that problem,” and claimed he had seen no evidence of U.S. involvement. He attributed the difficulty to the confusion of battle, saying “missiles were flying all over the place,” and added: “I don’t think it was us.” The remarks came after Reuters first reported in March that an initial U.S. military probe pointed to American forces as the likely perpetrators, possibly due to outdated targeting data. The Pentagon has not publicly acknowledged those preliminary findings.</p>
+<p>The attack, launched on the first day of the conflict, sparked global revulsion. The UN human rights office called it “absolutely horrific.” Trump had initially blamed Iran without evidence, later shifting to say he would await the investigation’s results while insisting that no one had deliberately targeted the school. Deliberately striking a school would constitute a war crime under international humanitarian law.</p>
+<p>For the Global South, the incident lays bare the catastrophic civilian toll of great-power military operations and the glaring gaps in accountability when powerful states are implicated. As Trump’s remarks suggest that a conclusive finding may never emerge, the erosion of international legal protections for schools and children in conflict zones becomes an urgent concern for nations that have long demanded equal application of humanitarian law.</p>
