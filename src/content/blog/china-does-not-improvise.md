@@ -9,47 +9,34 @@ heroImage: "/hero/china-does-not-improvise.png"
 lang: "en"
 ---
 
-<p>In an analysis shared on his official site <a href="http://www.nogueirabatista.com.br" target="_blank" rel="noopener">www.nogueirabatista.com.br</a>, economist Paulo Nogueira Batista Jr. notes that according to the classic treatise *The Art of War* by ancient Chinese military strategist Sun Tzu, to subdue the enemy without fighting is the acme of skill. In the first three or four decades of the reform and opening up initiated by Chinese leader Deng Xiaoping in 1979, the People's Republic of China systematically sought a peaceful rise within the post-World War II international framework.</p>
+**By Paulo Nogueira Batista Jr.**
 
-<p>During this initial period, the nation successfully avoided direct confrontation with the United States and other global powers. Deng adopted as his guiding motto the classic Chinese maxim to hide the force and wait for the hour.</p>
+> "To subdue the enemy without fighting is the acme of skill." — Sun Tzu, in *The Art of War*
 
-<p>Nevertheless, the United States preferred to move towards a policy of containment and confrontation, beginning in the first term of US President Donald Trump. This hostile policy continued under the administration of former US President Joe Biden and has intensified dramatically in the second term of Trump.</p>
+China is in the process of redefining its relations with the rest of the world, with the West in particular. In the first three or four decades of the period of economic reform and opening up initiated by Deng Xiaoping in 1979, China sought a "peaceful rise" within the international framework established under the aegis of the United States after World War II and was initially very successful. It systematically avoided confrontation with the United States and other nations, positioning itself with strategic prudence and patience. Deng adopted as his motto a classic Chinese maxim – "hide the force, wait for the hour".  
 
-<p>The United States now sees China as a rival and its main strategic threat. Accordingly, the American government has adopted a series of measures designed to undermine China in the commercial, technological, military, and diplomatic areas.</p>
+Nevertheless, the United States preferred to move towards a policy of containment and confrontation, beginning in Donald Trump's first term, from 2017 to 2020, continuing with Joe Biden, from 2021 to 2024, and intensifying dramatically in Trump's second term since last year. The United States now sees China as a rival and main threat. Accordingly, it has adopted a series of measures designed to undermine China in the commercial, technological, military and diplomatic areas.
 
-<p>From the first Trump administration, China recognized that the strategy of hiding the force and biding the time was no longer viable. The Asian nation had become too large, even surpassing the United States in economic terms when comparing gross domestic product measured by purchasing power parity.</p>
+From the first Trump administration at least, and probably before that, China recognized that the strategy of "hiding the force and biding the time" was no longer viable. China had become too big, even surpassing the United States in economic terms (when comparing GDPs measured by purchasing power parity) and international trade (China became the main trading partner for most countries in the world). The rapid development aroused envy and suspicion. The country became the target of intrigues, diplomatic maneuvers and sanctions.  
 
-<p>China also became the main trading partner for most countries in the world. This rapid development aroused envy and suspicion, making the country the target of intrigues, diplomatic maneuvers, and unilateral sanctions.</p>
+But China has not abandoned its strategic caution. The Chinese continue to avoid conflict whenever possible. Care with words and actions prevails, even when the country is under attack or faces systematic hostility. Amid the turmoil, the Chinese maintain their traditional style of dealing with strategic challenges that Henry Kissinger, in his famous book On China, described as a combination of thorough analysis, careful preparation, and attention to psychological and political factors. 
 
-<p>Despite these growing pressures, China has not abandoned its traditional strategic caution. The Chinese government and its diplomats continue to avoid direct conflict whenever possible.</p>
+A part of the China’s preparation, which would prove decisive in 2026, was the formation of strategic oil reserves. Thanks to this, China suffers relatively little from the oil price shock triggered by Iran's war. The country's monetary reserves are also immense, nowadays less exposed to confiscations and sanctions. A large part of these international reserves are hidden, having been transferred by the Central Bank to commercial banks and other public banks. These public banks also buy foreign currency in the foreign exchange market, in coordination with the Central Bank, to avoid unwanted appreciation of the national currency. In addition, China has begun building cross-border payment systems as an alternative to Western-controlled systems, which have been used to punish and sanction countries deemed hostile. The use of the renminbi in China's international transactions has also grown. Almost 100% of Russia/China trade, for example, is currently undertaken in rubles and renminbi. 
 
-<p>Care with words and actions prevails even when the country is under attack or faces systematic hostility. Amid this global turmoil, the Chinese maintain a style that former US Secretary of State Henry Kissinger described as a combination of thorough analysis and careful preparation.</p>
+Thus, as would become evident, China was well positioned to weather the storm unleashed by the Trump administration in its second term. Trump came in full force, using in a more radical way the instruments already used against China in his first term. He found, however, an opponent more willing to fight and more capable of facing international clashes. Under Xi Jinping, China appears as an adversary that knows how to defend itself with great effectiveness and, more than that, knows full well the vulnerabilities of the superpower and its allies and satellites. Not only does China know them, but is willing to exploit them every time it suffers an attack from the United States or other countries. 
 
-<p>A key part of the preparation, which proved decisive, was the formation of strategic oil reserves. Thanks to this foresight, China suffers relatively little from the oil price shock triggered by the conflict in West Asia.</p>
+China has been getting the better of this confrontation with the United States, not only because of its qualities and strengths, but also because of the opponent's mistakes. The US, overestimating its strength, has opened fronts of conflict with Russia, China and Iran at the same time, promoting a strong alliance between the three countries. And worse: they are losing on all three fronts. The war against Iran, in particular, seems to be a milestone. In retrospect, as many have noted, it may prove to be the harbinger of the end of the American Empire.  
 
-<p>The country's monetary reserves are also immense and less exposed to Western confiscations and sanctions. A large part of these international reserves are hidden, having been transferred by the Central Bank of China to commercial banks and other public financial institutions.</p>
+China not only follows consistent strategies, but also knows how to maneuver tactically, taking advantage of the opponents' mistakes. The Chinese follow the maxim attributed to Napoleon Bonaparte: "Never interrupt an adversary when he is making a mistake." There is, it seems, no reliable evidence that Napoleon actually said or wrote this, but this apocryphal Western maxim is entirely consistent with classical Chinese military thought, as expressed notably by Sun Tzu in The Art of War, including for example in the phrase that appears in the epigraph to this article.
 
-<p>These public banks buy foreign currency in the foreign exchange market to avoid unwanted appreciation of the national currency. In addition, China has begun building cross-border payment systems as an alternative to Western-controlled systems.</p>
+China changes, evolves, adapts to the challenges that arise, but at the same time preserves its philosophical traditions and its ancient culture. It does not abandon Confucius, nor Mao Zedong. It does not cling thoughtlessly to the past, but neither does it forsake its roots. 
 
-<p>The use of the renminbi in China's international transactions has grown significantly. Almost all trade between Russia and China is currently undertaken in rubles and renminbi.</p>
-
-<p>Thus, China was well positioned to weather the storm unleashed by the Trump administration in its second term. Trump initiated a series of aggressive measures, using the economic instruments of his first term in a much more radical way.</p>
-
-<p>He found, however, an opponent more willing to fight and more capable of facing international clashes. Under Chinese President Xi Jinping, China appears as an adversary that knows how to defend itself with great effectiveness.</p>
-
-<p>China knows full well the vulnerabilities of the superpower and its allies. Not only does China know them, but the country is also willing to exploit these weak points every time it suffers an attack from the United States.</p>
-
-<p>China has been getting the better of this confrontation, not only because of its qualities, but also because of the opponent's mistakes. Overestimating its strength, the United States has opened fronts of conflict with Russia, China, and the Islamic Republic of Iran at the same time.</p>
-
-<p>This multi-front aggression has promoted a strong alliance between these three sovereign nations. The United States is losing ground on all three fronts, and the war against Iran in particular seems to be a major turning point.</p>
-
-<p>In retrospect, as many geopolitical analysts have noted, this conflict may prove to be the harbinger of the end of the American Empire. The Chinese follow the maxim attributed to French military leader Napoleon Bonaparte to never interrupt an adversary when he is making a mistake.</p>
-
-<p>While there is no reliable evidence that Napoleon actually said this, the maxim is consistent with classical Chinese military thought. China changes and adapts to the challenges that arise while preserving its philosophical traditions and ancient culture.</p>
-
-<p>The nation does not abandon ancient philosopher Confucius, nor does it forsake the legacy of Chinese leader Mao Zedong. China does not cling thoughtlessly to the past, but it will never abandon its deep roots.</p>
-
-<p>The ascent of the country is no longer peaceful but increasingly conflictive. However, this rise can be expected to continue without interruption as the world shifts toward multipolarity.</p>
+Its ascent, no longer peaceful but increasingly conflictive, can be expected to continue without interruption. 
 
 <hr />
-<p><em>Paulo Nogueira Batista Jr. is a Brazilian economist who served as the vice president and founder of the New Development Bank established by the BRICS in Shanghai from 2015 to 2017. He also worked as the executive director at the IMF for Brazil and ten other countries in Washington from 2007 to 2015, and can be contacted via email at paulonbjr@hotmail.com or through his official site.</em></p>
+
+*The author is a Brazilian economist. He was vice president and founder of the New Development Bank, established by the BRICS in Shanghai, from 2015 to 2017, and executive director at the IMF for Brazil and 10 other countries in Washington, from 2007 to 2015.*
+
+*E-mail: paulonbjr@hotmail.com*
+
+*Portal: www.nogueirabatista.com.br*
