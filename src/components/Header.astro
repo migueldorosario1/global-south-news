@@ -69,7 +69,7 @@ const isGeonewsActive = cleanPath.startsWith('tags/asia') ||
 		backdrop-filter: blur(16px);
 		-webkit-backdrop-filter: blur(16px);
 		border-bottom: 1px solid var(--border-color);
-		box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+		box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
 	}
 
 	.navbar {
@@ -126,7 +126,6 @@ const isGeonewsActive = cleanPath.startsWith('tags/asia') ||
 
 	.accent-text {
 		color: var(--accent);
-		text-shadow: 0 0 15px rgba(255, 76, 59, 0.2);
 	}
 
 	.logo-subtitle {
@@ -193,15 +192,14 @@ const isGeonewsActive = cleanPath.startsWith('tags/asia') ||
 
 	.nav-links a:hover, .dropdown-trigger:hover {
 		color: var(--text-title) !important;
-		background: rgba(255, 255, 255, 0.03);
-		border-color: rgba(255, 255, 255, 0.05);
+		background: rgba(0, 0, 0, 0.03);
+		border-color: rgba(0, 0, 0, 0.05);
 	}
 
 	.nav-links a.active, .dropdown-trigger.active {
 		color: var(--text-title) !important;
-		background: rgba(255, 76, 59, 0.08);
-		border-color: rgba(255, 76, 59, 0.2);
-		text-shadow: 0 0 10px rgba(255, 76, 59, 0.15);
+		background: rgba(158, 47, 80, 0.08);
+		border-color: rgba(158, 47, 80, 0.2);
 		font-weight: 700;
 	}
 
@@ -213,7 +211,7 @@ const isGeonewsActive = cleanPath.startsWith('tags/asia') ||
 		transform: translateX(-50%) translateY(10px);
 		background: var(--bg-card);
 		border: 1px solid var(--border-color);
-		box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+		box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
 		border-radius: 8px;
 		list-style: none;
 		margin: 0.5rem 0 0 0;
@@ -256,7 +254,7 @@ const isGeonewsActive = cleanPath.startsWith('tags/asia') ||
 
 	.dropdown-menu a:hover {
 		color: var(--text-title) !important;
-		background: rgba(255, 76, 59, 0.12);
+		background: rgba(158, 47, 80, 0.08);
 	}
 
 	.chevron {

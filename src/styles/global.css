@@ -1,28 +1,28 @@
-@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&family=Inter:wght@400;500;600;700&display=swap');
 
 :root {
-	--bg-main: #08090c;
-	--bg-card: #11131a;
-	--bg-header: rgba(8, 9, 12, 0.85);
-	--text-main: #9fa6b2;
-	--text-title: #f3f4f6;
-	--text-muted: #647087;
-	--accent: #ff4c3b; /* Crimson red */
-	--accent-dark: #b8281b;
-	--accent-alt: #f39c12; /* Amber gold */
-	--accent-gradient: linear-gradient(135deg, #ff4c3b, #f39c12);
-	--border-color: rgba(255, 255, 255, 0.06);
-	--border-hover: rgba(255, 76, 59, 0.25);
-	--box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-	--font-headings: 'Plus Jakarta Sans', sans-serif;
-	--font-body: 'Inter', sans-serif;
+	--bg-main: #fff1e5; /* FT signature warm pastel cream */
+	--bg-card: #f6e9dd; /* Slightly darker warm biscuit card */
+	--bg-header: rgba(255, 241, 229, 0.95);
+	--text-main: #2b2b2b; /* Readable dark grey/black for text */
+	--text-title: #111111; /* Pitch black for titles */
+	--text-muted: #6f685f; /* Elegant warm grey-brown for secondary text */
+	--accent: #9e2f50; /* FT classic Crimson/Burgundy red */
+	--accent-dark: #741d35;
+	--accent-alt: #0a5a66; /* Elegant dark teal/blue-green */
+	--accent-gradient: linear-gradient(135deg, #9e2f50, #0a5a66);
+	--border-color: #e2d1c3; /* Warm paper-like border color */
+	--border-hover: rgba(158, 47, 80, 0.25);
+	--box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+	--font-headings: 'Playfair Display', 'Georgia', serif;
+	--font-body: 'Lora', 'Georgia', serif;
 	
 	/* Compatibility with legacy variables */
-	--black: 243, 244, 246;
-	--gray: 100, 112, 135;
-	--gray-light: 26, 29, 38;
-	--gray-dark: 209, 213, 219;
-	--gray-gradient: rgba(var(--gray-light), 50%), #08090c;
+	--black: 17, 17, 17;
+	--gray: 111, 104, 95;
+	--gray-light: 246, 233, 221;
+	--gray-dark: 43, 43, 43;
+	--gray-gradient: #fff1e5, #fff1e5;
 }
 
 * {
@@ -153,7 +153,7 @@ img {
 	height: auto;
 	border-radius: 8px;
 	box-shadow: var(--box-shadow);
-	border: 1px solid rgba(255, 255, 255, 0.04);
+	border: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 code {
@@ -186,7 +186,7 @@ blockquote {
 	font-size: 1.15em;
 	font-style: italic;
 	color: var(--text-title);
-	background: rgba(255, 76, 59, 0.03);
+	background: rgba(158, 47, 80, 0.04);
 	border-top-right-radius: 4px;
 	border-bottom-right-radius: 4px;
 }

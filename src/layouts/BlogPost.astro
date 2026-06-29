@@ -182,10 +182,10 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 				align-items: center;
 				margin-bottom: 0.75rem;
 				padding: 0.25rem 0.6rem;
-				border: 1px solid rgba(255, 76, 59, 0.18);
+				border: 1px solid rgba(158, 47, 80, 0.18);
 				border-radius: 4px;
 				color: var(--accent);
-				background: rgba(255, 76, 59, 0.08);
+				background: rgba(158, 47, 80, 0.08);
 				font-size: 0.75rem;
 				font-weight: 700;
 				line-height: 1.2;
@@ -194,7 +194,7 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 				letter-spacing: 0.05em;
 			}
 			.category:hover {
-				background: rgba(255, 76, 59, 0.15);
+				background: rgba(158, 47, 80, 0.15);
 				color: var(--text-title);
 			}
 			.category-footer {
@@ -281,8 +281,8 @@ const categoryLabel = categoryLabels.get(categorySlug) || formatTagLabel(categor
 						<a class="category category-footer-link" href={`/tags/${categorySlug}/`}>{categoryLabel}</a>
 					</div>
 					
-					<div class="follow-us-footer" style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(var(--gray-light), 0.5);">
-						<span style="font-weight: bold; color: rgb(var(--gray)); font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.5px;">Global South News</span>
+					<div class="follow-us-footer" style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border-color);">
+						<span style="font-weight: bold; color: var(--text-muted); font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.5px;">Global South News</span>
 					</div>
 				</div>
 				<div class="prose" style="padding-top: 0;">

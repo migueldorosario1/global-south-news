@@ -91,13 +91,13 @@ function getCategoryLabel(slug) {
 				display: flex;
 				flex-direction: column;
 				transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
-				box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+				box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
 			}
 
 			.article-card:hover {
 				transform: translateY(-4px);
 				border-color: var(--border-hover);
-				box-shadow: 0 12px 30px rgba(255, 76, 59, 0.08), 0 4px 15px rgba(0, 0, 0, 0.3);
+				box-shadow: 0 12px 25px rgba(158, 47, 80, 0.06), 0 4px 15px rgba(0, 0, 0, 0.06);
 			}
 
 			.image-container {
@@ -106,7 +106,7 @@ function getCategoryLabel(slug) {
 				overflow: hidden;
 				position: relative;
 				border-bottom: 1px solid var(--border-color);
-				background: #0d0f14;
+				background: var(--bg-card);
 			}
 
 			.article-image {
@@ -140,15 +140,15 @@ function getCategoryLabel(slug) {
 
 			.category-badge {
 				color: var(--accent);
-				background: rgba(255, 76, 59, 0.08);
-				border: 1px solid rgba(255, 76, 59, 0.15);
+				background: rgba(158, 47, 80, 0.08);
+				border: 1px solid rgba(158, 47, 80, 0.15);
 				padding: 0.2rem 0.5rem;
 				border-radius: 4px;
 				text-decoration: none;
 			}
 
 			.category-badge:hover {
-				background: rgba(255, 76, 59, 0.15);
+				background: rgba(158, 47, 80, 0.15);
 				color: var(--text-title);
 			}
 
