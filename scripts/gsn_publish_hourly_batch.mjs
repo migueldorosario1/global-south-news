@@ -453,10 +453,10 @@ function writeHourlyReport(extra = {}) {
 async function applyBrainFixes(file, context = {}) {
   const fullPath = path.join(blogDir, file);
   let text = fs.readFileSync(fullPath, 'utf8');
-  const { frontmatter, body } = splitFrontmatter(text);
-  const heroImage = getField(frontmatter, 'heroImage');
+  let { frontmatter, body } = splitFrontmatter(text);
+  let heroImage = getField(frontmatter, 'heroImage');
   const isRemoteHero = heroImage && (heroImage.startsWith('http://') || heroImage.startsWith('https://'));
-  const heroPath = (!heroImage || isRemoteHero) ? null : path.join(publicDir, heroImage.replace(/^\//, ''));
+  let heroPath = (!heroImage || isRemoteHero) ? null : path.join(publicDir, heroImage.replace(/^\//, ''));
   const applied = [];
 
   const cleanedBody = cleanBody(body, getField(frontmatter, 'title'))
@@ -469,13 +469,72 @@ async function applyBrainFixes(file, context = {}) {
   }
 
   if (heroPath && fs.existsSync(heroPath)) {
-    const meta = await sharp(heroPath).metadata();
-    if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
-      await sharp(heroPath)
-        .resize({ width: Math.max(1200, meta.width || 1200), withoutEnlargement: false })
-        .toFile(`${heroPath}.tmp`);
-      fs.renameSync(`${heroPath}.tmp`, heroPath);
-      applied.push('imagem destacada ampliada dentro do silo GSN');
+    const stats = fs.statSync(heroPath);
+    const sizeKB = stats.size / 1024.0;
+    const isPng = heroPath.toLowerCase().endsWith('.png');
+
+    if (sizeKB > 300 || isPng) {
+      try {
+        const meta = await sharp(heroPath).metadata();
+        const targetW = 1200;
+        const targetH = 630;
+        let pipeline = sharp(heroPath);
+
+        if (meta.hasAlpha) {
+          pipeline = pipeline.flatten({ background: { r: 255, g: 255, b: 255 } });
+        }
+
+        const targetRatio = targetW / targetH;
+        const currentRatio = (meta.width || targetW) / (meta.height || targetH);
+
+        if (Math.abs(currentRatio - targetRatio) > 0.01) {
+          pipeline = pipeline.resize({
+            width: targetW,
+            height: targetH,
+            fit: 'cover',
+            position: 'entropy'
+          });
+        } else {
+          pipeline = pipeline.resize(targetW, targetH);
+        }
+
+        const targetJpgPath = heroPath.replace(/\.[^.]+$/, '.jpg');
+        const tempPath = `${targetJpgPath}.tmp_opt`;
+        await pipeline.jpeg({ quality: 82 }).toFile(tempPath);
+
+        if (targetJpgPath !== heroPath) {
+          fs.unlinkSync(heroPath);
+        }
+        fs.renameSync(tempPath, targetJpgPath);
+
+        const newStats = fs.statSync(targetJpgPath);
+        const newSizeKB = newStats.size / 1024.0;
+        const newHeroImage = heroImage.replace(/\.[^.]+$/, '.jpg');
+
+        frontmatter = setQuotedField(frontmatter, 'heroImage', newHeroImage);
+        text = `---\n${frontmatter}\n---\n${cleanedBody}`;
+        fs.writeFileSync(fullPath, text);
+
+        if (targetJpgPath !== heroPath) {
+          applied.push(`imagem destacada PNG convertida para JPG otimizado: ${newHeroImage} (${newSizeKB.toFixed(1)} KB)`);
+        } else {
+          applied.push(`imagem destacada JPG pesada otimizada em lote: ${newHeroImage} (${newSizeKB.toFixed(1)} KB)`);
+        }
+
+        heroImage = newHeroImage;
+        heroPath = targetJpgPath;
+      } catch (err) {
+        console.error(`Erro ao otimizar imagem ${heroPath}:`, err);
+      }
+    } else {
+      const meta = await sharp(heroPath).metadata();
+      if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
+        await sharp(heroPath)
+          .resize({ width: Math.max(1200, meta.width || 1200), withoutEnlargement: false })
+          .toFile(`${heroPath}.tmp`);
+        fs.renameSync(`${heroPath}.tmp`, heroPath);
+        applied.push('imagem destacada pequena ampliada');
+      }
     }
   }
 
