@@ -5,6 +5,10 @@ pubDate: "2026-06-05T09:10:01Z"
 draft: false
 tags: ["Bolivia", "Luis Arce", "Political Crisis", "Protests", "State of Exception", "latin-america"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-bolivia-s-president-seeks-state-of-exception-law-as-protests-enter-35th-day.jpg"
+alt: "Photo representing: Bolivia's President Seeks State of Exception Law as Protests Enter 35th Day"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
 <p>Bolivian President Paz has submitted a bill to Congress to regulate a state of exception, as protests demanding his resignation entered their 35th day. The proposed law, which Paz said would “strengthen” the armed forces’ role in “humanitarian action,” is intended to restore order amid unrelenting road blockades.</p>
 <p>Vice President Édman Lara immediately opposed the measure, arguing that only a negotiated solution can resolve the crisis. Lara renewed his call for government-protest talks mediated by the Vice Presidency, the Catholic Church and the Human Rights Ombudsman.</p>

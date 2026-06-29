@@ -7,8 +7,11 @@ tags: ["Daniel Davis - Deep Dive", "Daniel Davis", "Donald Trump"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/youtube-jB6iTLAfm0k.jpg"
 author: "Global South News Desk"
 lang: "en"
+alt: "Photo representing: Donald Trump: 'We could go another two, three weeks and just wipe everybody out."
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
-
 <div style="text-align: center; margin-bottom: 30px;">
   <iframe width="100%" height="400" src="https://www.youtube.com/embed/jB6iTLAfm0k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

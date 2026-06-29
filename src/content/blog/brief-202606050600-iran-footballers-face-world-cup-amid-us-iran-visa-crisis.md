@@ -5,6 +5,10 @@ pubDate: "2026-06-05T09:14:45Z"
 draft: true
 tags: ["Iran", "Middle East", "Sports Diplomacy", "US-Iran Conflict", "World Cup 2026", "west-asia"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-iran-footballers-face-world-cup-amid-us-iran-visa-crisis.jpg"
+alt: "Photo representing: Iran Footballers Face World Cup Amid US-Iran Visa Crisis"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
 <p>Iran footballers Saeid Ezatolahi and Mohammad Ghorbani have detailed how the country’s war with the United States and Israel is upending their World Cup preparations, as visa barriers and a forced relocation of their training base add an extraordinary layer of political tension to the tournament.</p>
 <p>The conflict, which erupted on February 28 and has been locked in an uneasy ceasefire since April 8, prompted US visa processing delays that compelled Iran to abandon its original camp in Tucson, Arizona, and shift to Tijuana, Mexico. The squad spent more than two weeks training in Turkey and received Mexican entry permits this week, but players remain unable to enter the sole host nation where all their Group G matches are scheduled.</p>

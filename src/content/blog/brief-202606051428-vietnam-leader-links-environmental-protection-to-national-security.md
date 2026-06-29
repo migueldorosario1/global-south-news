@@ -5,6 +5,10 @@ pubDate: "2026-06-05T06:30:08Z"
 draft: false
 tags: ["environmental security", "climate change", "Vietnam", "sustainable development", "international cooperation"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051428-vietnam-leader-links-environmental-protection-to-national-security.jpg"
+alt: "Photo representing: Vietnam Leader Links Environmental Protection to National Security"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
 <p>Vietnamese President To Lam declared that environmental protection has become a matter of national and human security in an extensive article marking World Environment Day on June 5 and World Oceans Day on June 8.</p>
 <p>"A country may register high economic growth, but if its citizens live in conditions of pollution and environmental degradation, one cannot speak of truly sustainable development," Lam wrote in the piece titled "For an ecological civilisation, a green Vietnam and a peaceful and sustainable ocean." The president argued that a modern, prosperous society is one that generates wealth within ecological limits, uses resources responsibly and treats nature as an indispensable condition for existence, a national heritage and a legacy for future generations.</p>

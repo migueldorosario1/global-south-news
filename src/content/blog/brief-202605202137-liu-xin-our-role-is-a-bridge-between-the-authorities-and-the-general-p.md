@@ -7,8 +7,11 @@ tags: ["Reports on China", "Andy Bohan", "Liu Xin"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/youtube-Aq87aVdtlgo.jpg"
 author: "Global South News Desk"
 lang: "en"
+alt: "Photo representing: Liu Xin: 'Our role is a bridge between the authorities and the general public, instead of an antagonist"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
-
 <div style="text-align: center; margin-bottom: 30px;">
   <iframe width="100%" height="400" src="https://www.youtube.com/embed/Aq87aVdtlgo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

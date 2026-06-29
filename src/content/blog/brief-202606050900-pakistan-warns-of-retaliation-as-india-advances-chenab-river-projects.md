@@ -5,6 +5,10 @@ pubDate: "2026-06-05T12:02:08Z"
 draft: false
 tags: ["Geopolitics", "India-Pakistan relations", "Indus Waters Treaty", "South Asia", "Water security", "asia"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050900-pakistan-warns-of-retaliation-as-india-advances-chenab-river-projects.jpg"
+alt: "Photo representing: Pakistan Warns of Retaliation as India Advances Chenab River Projects"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
 <p>Pakistan accused India of weaponizing water resources on Thursday, warning of unspecified retaliatory measures after New Delhi advanced two hydropower projects on the Chenab River despite the suspension of their bilateral Indus Waters Treaty. Foreign Ministry spokesperson Tahir Andrabi told journalists the initiatives would undermine the 1960 pact and threaten the water and food security of Pakistan’s 250 million people.</p>
 <p>Andrabi said India had not consulted Islamabad on the projects, which include a proposed tunnel to transfer water from the Chenab to the Beas basin and sediment removal operations at the Salal Power Station. “These projects confirm that India seems to weaponise water,” he stated, adding that the developments carried “dangerous implications not only for Pakistan’s economy but also for regional stability and international peace and security.”</p>

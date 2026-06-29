@@ -7,8 +7,11 @@ tags: ["Dialogue Works", "Nima Alkhorshid", "Mohammad Marandi"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/youtube-cA1vwusUpfY.jpg"
 author: "Global South News Desk"
 lang: "en"
+alt: "Photo representing: Mohammad Marandi: 'If they strike Iranian critical infrastructure, a global economic depression is inevitable"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
-
 <div style="text-align: center; margin-bottom: 30px;">
   <iframe width="100%" height="400" src="https://www.youtube.com/embed/cA1vwusUpfY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

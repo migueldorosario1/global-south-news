@@ -9,8 +9,11 @@ author: "Global South News Desk"
 lang: "en"
 source_name: "Judging Freedom"
 source_url: "https://www.youtube.com/watch?v=OOaOHDcC1V4"
+alt: "Photo representing: Macgregor warns a renewed US attack on Iran could enter a final phase"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
-
 <div style="text-align: center; margin-bottom: 30px;">
   <iframe width="100%" height="400" src="https://www.youtube.com/embed/OOaOHDcC1V4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

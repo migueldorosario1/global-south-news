@@ -9,8 +9,11 @@ categoria_macro: "Multipolar World"
 lang: "en"
 author: "Global South News Desk"
 draft: false
+alt: "Photo representing: Why Global South News exists"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
-
 Global South News begins from a simple editorial premise: most international coverage still treats the world as if power, legitimacy and explanation must flow from the old Atlantic center.
 
 That frame is no longer enough. Trade routes, industrial policy, energy systems, technology platforms and diplomatic coalitions are being reorganized across Asia, Africa, Latin America and the Middle East.

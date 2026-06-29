@@ -7,9 +7,11 @@ tags: ["financial crashes", "interest rates", "geopolitical tensions", "oil cris
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/youtube-4NWpV8XJXhY.jpg"
 author: "Global South News Desk"
 lang: "en"
+alt: "Photo representing: Crime pays, evade taxes: Dr. Michael Hudson on financial capitalism"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
-
-
 <div style="text-align: center; margin-bottom: 30px;">
   <iframe width="100%" height="400" src="https://www.youtube.com/embed/4NWpV8XJXhY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

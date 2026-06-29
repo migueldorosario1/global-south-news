@@ -6,8 +6,11 @@ draft: false
 tags: ["asia", "china", "movie"]
 author: "Priscila Miranda"
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-the-chinese-dream-resurrection-bi-gan.jpeg"
+alt: "Photo representing: Resurrection: Bi Gan's Cinematic Dream and China's Soft Power Ascent"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
-
 <p>The Chinese Dream, Resurrection, the Fiat Lux Film of the Year!</p>
 <p>If there is a film that represents China in contemporary cinema, that film is Bi Gan’s Resurrection. Not just for its formal ambition or its technical scale, but because it asserts something far deeper: China’s definitive entry into the realm of the imaginary, into the terrain of soft power, into that place where countries stop merely existing and start being dreamed of.</p>
 <p>On its opening weekend, Resurrection debuted in first place at the Chinese box office, grossing RMB 116.8 million (approximately US$16.5 million), according to The Hollywood Reporter. Since then, the film has surpassed the US$25 million mark exclusively in China, an absolutely exceptional performance for a work of art of such formal radicalism and aesthetic ambition.</p>

@@ -5,6 +5,10 @@ pubDate: "2026-06-05T04:55:14Z"
 draft: false
 tags: ["multipolar-world", "africa", "public-health", "sovereignty", "kenya", "ai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051215-residents-of-kenyan-town-hosting-u-s-ebola-center-oppose-facility-qwen.jpg"
+alt: "Photo representing: Residents of Kenyan town hosting U.S. Ebola center oppose facility"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
 <p>Kenya’s Health Minister Aden Duale on Wednesday confirmed that a US-funded Ebola quarantine centre at Laikipia Air Base would proceed, defying opposition from residents of the nearby town of Nanyuki. The decision followed days of deadly protests over the project.</p>
 <p>The facility, built at the airbase, is intended to isolate both US and Kenyan citizens arriving from the Democratic Republic of Congo, which is battling a deadly Ebola outbreak. Many in Nanyuki view the centre as a threat to their safety.</p>

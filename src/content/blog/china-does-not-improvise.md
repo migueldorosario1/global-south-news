@@ -7,8 +7,11 @@ draft: false
 tags: ['multipolar-world', 'brics', 'asia']
 heroImage: "/hero/china-does-not-improvise.png"
 lang: "en"
+alt: "Photo representing: China Does Not Improvise"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
-
 **By Paulo Nogueira Batista Jr.**
 
 > "To subdue the enemy without fighting is the acme of skill." — Sun Tzu, in *The Art of War*

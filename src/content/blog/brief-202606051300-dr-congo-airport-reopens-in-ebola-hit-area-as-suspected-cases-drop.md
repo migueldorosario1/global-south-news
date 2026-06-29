@@ -5,6 +5,10 @@ pubDate: "2026-06-05T05:28:42Z"
 draft: false
 tags: ["multipolar-world", "ebola", "public-health", "sovereignty", "dr-congo", "kenya", "africa", "port", "oil", "gas", "ai", "african-union"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051300-dr-congo-airport-reopens-in-ebola-hit-area-as-suspected-cases-drop-qwen.jpg"
+alt: "Photo representing: DR Congo airport reopens in Ebola-hit area as suspected cases drop"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
 <p>The airport serving the epicentre of the Democratic Republic of Congo's Ebola outbreak reopened on Tuesday, as the number of suspected cases fell sharply, with authorities announcing the gradual resumption of flights. The airport, which had allowed only humanitarian and medical planes after commercial flights were suspended on May 23, is easing access for health workers tackling the Bundibugyo strain for which no approved vaccine exists.</p>
 <p>The World Health Organization reported that suspected cases dropped to 116 from 906 late last week, based on Congolese data. Many patients were removed from the tally after showing symptoms of other illnesses, WHO spokesman Christian Lindmeier said in Geneva. Confirmed cases stand at 321, including 48 deaths, according to DRC health authorities.</p>

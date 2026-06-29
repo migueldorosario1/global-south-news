@@ -6,8 +6,11 @@ draft: false
 tags: ["latin-america", "brazil", "movie"]
 author: "Priscila Miranda"
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/citizen-netflix-streaming-regulation-brazil.png"
+alt: "Photo representing: Citizen Netflix"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
-
 The concept of sovereignty is too important to be handled carelessly. We must champion it without falling into the trap of turning it into a purely political banner. Sovereignty is about a nation’s economic security. It’s about putting money in the pockets of Brazilian companies and citizens. When we talk about sovereignty in the streaming market, we aren’t dealing with some abstract, ideological issue. We are talking about the economy, plain and simple.
 
 The central question is a no-brainer: how do we fund local Brazilian audiovisual production so it can level up, advance, and become a powerhouse? How do we protect and grow an industry that creates jobs and generates income right here in Brazil? The answers to these questions will determine whether the country has control over its own culture and the economic resources it generates.

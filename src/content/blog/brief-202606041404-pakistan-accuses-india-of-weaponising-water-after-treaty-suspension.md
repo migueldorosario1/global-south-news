@@ -5,8 +5,11 @@ pubDate: "2026-06-04T17:04:24Z"
 draft: true
 tags: ["multipolar-world", "sovereignty", "infrastructure", "water-security", "south-asia", "asia", "india", "hydro", "ai", "pakistan"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606041404-pakistan-accuses-india-of-weaponising-water-after-treaty-suspension.jpg"
+alt: "Photo representing: Pakistan accuses India of weaponising water after treaty suspension"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
-
 <p>ISLAMABAD — Pakistan on Thursday accused India of “weaponising water” following New Delhi’s suspension of the Indus Waters Treaty, escalating a dispute that threatens the water security of 250 million Pakistanis and risks aggravating tensions between the nuclear-armed neighbours.</p>
 <p>Pakistan’s Foreign Ministry spokesperson Tahir Andrabi told reporters that two Indian projects on the Chenab River would undermine the foundational 1960 pact governing cross-border waterways. Andrabi said New Delhi had not consulted Islamabad on either initiative. “These projects confirm that India seems to weaponise water,” he said, warning of “dangerous implications” for Pakistan’s economy and regional stability.</p>
 <p>India suspended the bilateral treaty after a deadly April 2025 attack on tourists in Indian-administered Kashmir, which New Delhi blamed on Pakistan-backed militants — a charge Islamabad denies. The move preceded intense drone, missile and artillery exchanges the following month that killed nearly 70 people on both sides.</p>

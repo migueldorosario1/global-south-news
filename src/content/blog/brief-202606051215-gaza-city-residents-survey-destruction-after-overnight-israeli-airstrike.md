@@ -5,6 +5,10 @@ pubDate: "2026-06-05T04:37:21Z"
 draft: false
 tags: ["multipolar-world", "west-asia", "conflict", "humanitarian", "africa", "port", "ai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051215-gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike-qwen.jpg"
+alt: "Photo representing: Gaza city residents survey destruction after overnight Israeli airstrike"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
 <p>GAZA CITY, June 4 – Residents of Gaza City picked through rubble-strewn streets on Thursday after an Israeli airstrike struck a residential building in the early hours, causing casualties and deepening the sense of insecurity among a population already worn down by months of displacement.</p>
 <p>The pre-dawn attack, which occurred around 2 a.m., scattered debris across several neighbourhoods and drew emergency crews to the scene to tackle fires and treat the wounded. Witnesses described chaotic scenes as families fled their apartments and gathered near the site, where several sections of the multi-storey structure were left damaged.</p>

@@ -9,8 +9,11 @@ categoria_macro: "Media Map"
 lang: "en"
 author: "Global South News Desk"
 draft: false
+alt: "Photo representing: How we cover the Global South"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
-
 Covering the Global South requires more than translating headlines. It requires a different map of relevance.
 
 Many stories that look secondary from the viewpoint of major Western capitals are central to countries building infrastructure, defending policy space or negotiating development finance.

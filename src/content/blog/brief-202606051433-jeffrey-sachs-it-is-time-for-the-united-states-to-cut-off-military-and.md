@@ -7,8 +7,11 @@ tags: ["Judging Freedom", "Andrew Napolitano", "Jeffrey Sachs"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/youtube-eT9O06bJR_4.jpg"
 author: "Global South News Desk"
 lang: "en"
+alt: "Photo representing: Jeffrey Sachs: 'It is time for the United States to cut off military and financial aid to Israel"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
-
 <div style="text-align: center; margin-bottom: 30px;">
   <iframe width="100%" height="400" src="https://www.youtube.com/embed/eT9O06bJR_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

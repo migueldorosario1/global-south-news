@@ -7,8 +7,11 @@ draft: false
 tags: ['multipolar-world', 'west-asia', 'energy']
 heroImage: "/hero/the-greatest-country-in-the-world.png"
 lang: "en"
+alt: "Photo representing: The Greatest Country in the World"
+hero_credit: "Global South News"
+hero_license: "Editorial Use"
+hero_source_url: "https://www.globalsouth.news"
 ---
-
 **By Paulo Nogueira Batista Jr.**
 
 My admiration for Iran keeps growing. Which country in the world faces practically alone, and so far very successfully, the United States and Israel? Which country takes immense risks to defend another? This is what Iran did, attacking Israel in retaliation for the barbarities that this genocidal state has been committing in Lebanon. 
