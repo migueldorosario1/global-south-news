@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/hero/:filename*",
+      "destination": "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/:filename*"
+    },
+    {
       "source": "/admin",
       "destination": "http://159.89.237.100:5001/admin"
     },

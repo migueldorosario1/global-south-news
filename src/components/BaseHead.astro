@@ -16,7 +16,26 @@ interface Props {
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
 const { title, description, image = FallbackImage, noindex = false } = Astro.props;
-const imageURL = typeof image === 'string' ? new URL(image, Astro.site).href : new URL(image.src, Astro.site).href;
+
+let imageURL = '';
+if (typeof image === 'string') {
+	if (image.startsWith('http')) {
+		try {
+			const parsed = new URL(image);
+			if (parsed.hostname.includes('r2.dev')) {
+				imageURL = new URL(parsed.pathname, Astro.site).href;
+			} else {
+				imageURL = parsed.href;
+			}
+		} catch (e) {
+			imageURL = new URL(image, Astro.site).href;
+		}
+	} else {
+		imageURL = new URL(image, Astro.site).href;
+	}
+} else {
+	imageURL = new URL(image.src, Astro.site).href;
+}
 ---
 
 <!-- Global Metadata -->
@@ -50,6 +69,10 @@ const imageURL = typeof image === 'string' ? new URL(image, Astro.site).href : n
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={imageURL} />
+<meta property="og:image:secure_url" content={imageURL} />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
