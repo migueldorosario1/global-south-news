@@ -476,36 +476,39 @@ async function applyBrainFixes(file, context = {}) {
     if (sizeKB > 300 || isPng) {
       try {
         const meta = await sharp(heroPath).metadata();
-        const targetW = 1200;
-        const targetH = 630;
         let pipeline = sharp(heroPath);
 
         if (meta.hasAlpha) {
           pipeline = pipeline.flatten({ background: { r: 255, g: 255, b: 255 } });
         }
 
-        const targetRatio = targetW / targetH;
-        const currentRatio = (meta.width || targetW) / (meta.height || targetH);
+        // Resize to fit inside 1200x1200, keeping aspect ratio (no crop!)
+        pipeline = pipeline.resize({
+          width: 1200,
+          height: 1200,
+          fit: 'inside',
+          withoutEnlargement: true
+        });
 
-        if (Math.abs(currentRatio - targetRatio) > 0.01) {
-          pipeline = pipeline.resize({
-            width: targetW,
-            height: targetH,
-            fit: 'cover',
-            position: 'entropy'
-          });
-        } else {
-          pipeline = pipeline.resize(targetW, targetH);
-        }
+        // Optimization loop: compress in-memory buffer until size is under 300KB
+        let quality = 82;
+        let buffer;
+        do {
+          buffer = await pipeline.clone().jpeg({ quality, chromaSubsampling: '4:2:0' }).toBuffer();
+          if (buffer.length / 1024.0 <= 300 || quality <= 50) {
+            break;
+          }
+          quality -= 5;
+        } while (quality > 50);
 
         const targetJpgPath = heroPath.replace(/\.[^.]+$/, '.jpg');
-        const tempPath = `${targetJpgPath}.tmp_opt`;
-        await pipeline.jpeg({ quality: 82 }).toFile(tempPath);
-
+        
+        // If the source was a different file type (PNG), delete it first
         if (targetJpgPath !== heroPath) {
           fs.unlinkSync(heroPath);
         }
-        fs.renameSync(tempPath, targetJpgPath);
+        
+        fs.writeFileSync(targetJpgPath, buffer);
 
         const newStats = fs.statSync(targetJpgPath);
         const newSizeKB = newStats.size / 1024.0;
