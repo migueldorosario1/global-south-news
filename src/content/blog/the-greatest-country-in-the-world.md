@@ -5,7 +5,7 @@ pubDate: "2026-06-29T15:19:52Z"
 author: "Paulo Nogueira Batista Jr."
 draft: false
 tags: ['multipolar-world', 'west-asia', 'energy']
-heroImage: "/hero/the-greatest-country-in-the-world.png"
+heroImage: "/hero/the-greatest-country-in-the-world.jpg"
 lang: "en"
 alt: "Photo representing: The Greatest Country in the World"
 hero_credit: "Global South News"
