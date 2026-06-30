@@ -1,0 +1,12 @@
+---
+title: "Trump: Fault for Iran school strike that killed 175 children may never be known, dismissing US probe"
+description: "Trump casts doubt on US role in Iran school strike that killed 175, dismissing Pentagon probe findings that pointed to American forces."
+pubDate: "2026-06-30T01:39:05Z"
+draft: false
+tags: ["Donald Trump", "Global South", "Iran school strike", "Pentagon probe", "accountability", "multipolar"]
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606300137-trump-fault-for-iran-school-strike-that-killed-175-children-may-never-be-known-dismissing-us-pro.jpg"
+---
+<p>WASHINGTON — U.S. President Donald Trump said on Wednesday it may never be known who was responsible for the February 28 airstrike on a girls’ school in Minab, Iran, that killed more than 175 children and teachers. “I don’t know that they are ever going to solve that problem in terms of whose fault it was,” Mr Trump told reporters, casting doubt on early findings from an internal U.S. military investigation that had pointed to American forces.</p>
+<p>The strike, on the first day of a joint U.S.-Israeli military campaign against Iran, triggered global condemnation and raised war crime concerns. Reuters reported in March that the Pentagon probe likely concluded U.S. forces were at fault, possibly due to the use of outdated targeting data. U.S. officials have not formally acknowledged those preliminary findings and have said the investigation remains ongoing.</p>
+<p>Mr Trump expressed scepticism about U.S. involvement, saying: “Somebody said it was our missile, maybe it wasn’t our missile but I have seen nothing to lead me to believe it was.” He added: “I don’t think it was us.” The president had initially blamed Iran without evidence, later stating he would accept the results of the inquiry while insisting no one deliberately targeted the school. Iran maintains that over 175 children and teachers died in the attack.</p>
+<p>The United Nations human rights office called the strike “absolutely horrific.” Deliberately attacking a school would constitute a war crime under international humanitarian law, and U.S. officials have said Washington would not intentionally strike such a site. For the Global South, the incident underscores the profound civilian risks posed by military interventions and the persistent difficulty of holding powerful nations accountable for violations of international norms.</p>
