@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-07-01T01:39:34.871Z
-Publicadas/auditadas com sucesso no historico: 99
+Atualizado em: 2026-07-01T09:40:49.317Z
+Publicadas/auditadas com sucesso no historico: 100
 Materias com bloqueio acumulado: 236
 
 ## Solucoes do cerebro aplicadas
@@ -244,3 +244,6 @@ Materias com bloqueio acumulado: 236
 - brief-202606240137-us-releases-text-of-iran-peace-deal-ceasefire-300b-reconstruction-sanctions-end.md: auditoria reteve brief-202606240137-us-releases-text-of-iran-peace-deal-ceasefire-300b-reconstruction-sanctions-end.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-t
 - brief-202606260937-trump-nobody-purposefully-attacked-iranian-girls-school-that-killed-175.md: auditoria reteve brief-202606260937-trump-nobody-purposefully-attacked-iranian-girls-school-that-killed-175.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-cat
 - brief-202607010137-despite-us-probe-trump-says-iran-school-strike-culprit-may-never-be-known.md: auditoria reteve brief-202607010137-despite-us-probe-trump-says-iran-school-strike-culprit-may-never-be-known.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-c
+
+## Publicadas nesta rodada
+- brief-202607010937-trump-may-never-be-known-who-was-at-fault-for-strike-that-killed-175-at-iran-girls-school.md
