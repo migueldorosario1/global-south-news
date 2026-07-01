@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-07-01T09:40:49.317Z
+Atualizado em: 2026-07-01T17:39:53.271Z
 Publicadas/auditadas com sucesso no historico: 100
-Materias com bloqueio acumulado: 236
+Materias com bloqueio acumulado: 237
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -244,6 +244,4 @@ Materias com bloqueio acumulado: 236
 - brief-202606240137-us-releases-text-of-iran-peace-deal-ceasefire-300b-reconstruction-sanctions-end.md: auditoria reteve brief-202606240137-us-releases-text-of-iran-peace-deal-ceasefire-300b-reconstruction-sanctions-end.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-t
 - brief-202606260937-trump-nobody-purposefully-attacked-iranian-girls-school-that-killed-175.md: auditoria reteve brief-202606260937-trump-nobody-purposefully-attacked-iranian-girls-school-that-killed-175.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-cat
 - brief-202607010137-despite-us-probe-trump-says-iran-school-strike-culprit-may-never-be-known.md: auditoria reteve brief-202607010137-despite-us-probe-trump-says-iran-school-strike-culprit-may-never-be-known.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-c
-
-## Publicadas nesta rodada
-- brief-202607010937-trump-may-never-be-known-who-was-at-fault-for-strike-that-killed-175-at-iran-girls-school.md
+- brief-202607011737-trump-questions-us-role-in-iran-school-strike-that-killed-175-amid-global-outrage.md: auditoria reteve brief-202607011737-trump-questions-us-role-in-iran-school-strike-that-killed-175-amid-global-outrage.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex
