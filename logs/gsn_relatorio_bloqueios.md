@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-07-02T01:40:26.918Z
+Atualizado em: 2026-07-02T09:39:49.997Z
 Publicadas/auditadas com sucesso no historico: 101
-Materias com bloqueio acumulado: 237
+Materias com bloqueio acumulado: 238
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -245,6 +245,4 @@ Materias com bloqueio acumulado: 237
 - brief-202606260937-trump-nobody-purposefully-attacked-iranian-girls-school-that-killed-175.md: auditoria reteve brief-202606260937-trump-nobody-purposefully-attacked-iranian-girls-school-that-killed-175.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-cat
 - brief-202607010137-despite-us-probe-trump-says-iran-school-strike-culprit-may-never-be-known.md: auditoria reteve brief-202607010137-despite-us-probe-trump-says-iran-school-strike-culprit-may-never-be-known.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-c
 - brief-202607011737-trump-questions-us-role-in-iran-school-strike-that-killed-175-amid-global-outrage.md: auditoria reteve brief-202607011737-trump-questions-us-role-in-iran-school-strike-that-killed-175-amid-global-outrage.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex
-
-## Publicadas nesta rodada
-- brief-202607020137-trump-may-never-know-who-killed-175-at-iran-girls-school-us-probes-point-to-own-forces.md
+- brief-202607020937-trump-perpetrator-of-iran-school-strike-that-killed-175-may-never-be-found.md: auditoria reteve brief-202607020937-trump-perpetrator-of-iran-school-strike-that-killed-175-may-never-be-found.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-
