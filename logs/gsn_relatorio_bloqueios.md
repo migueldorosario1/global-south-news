@@ -1,6 +1,6 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-07-05T01:53:53.197Z
+Atualizado em: 2026-07-05T09:54:24.886Z
 Publicadas/auditadas com sucesso no historico: 102
 Materias com bloqueio acumulado: 238
 
