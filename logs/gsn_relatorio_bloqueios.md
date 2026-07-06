@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-07-05T09:54:24.886Z
-Publicadas/auditadas com sucesso no historico: 102
+Atualizado em: 2026-07-06T17:40:08.479Z
+Publicadas/auditadas com sucesso no historico: 103
 Materias com bloqueio acumulado: 238
 
 ## Solucoes do cerebro aplicadas
@@ -246,3 +246,6 @@ Materias com bloqueio acumulado: 238
 - brief-202607010137-despite-us-probe-trump-says-iran-school-strike-culprit-may-never-be-known.md: auditoria reteve brief-202607010137-despite-us-probe-trump-says-iran-school-strike-culprit-may-never-be-known.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-c
 - brief-202607011737-trump-questions-us-role-in-iran-school-strike-that-killed-175-amid-global-outrage.md: auditoria reteve brief-202607011737-trump-questions-us-role-in-iran-school-strike-that-killed-175-amid-global-outrage.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"HTTP 402"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-categor
 - brief-202607020937-trump-perpetrator-of-iran-school-strike-that-killed-175-may-never-be-found.md: auditoria reteve brief-202607020937-trump-perpetrator-of-iran-school-strike-that-killed-175-may-never-be-found.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"HTTP 402"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-categoria","ok
+
+## Publicadas nesta rodada
+- brief-202607061737-trump-casts-doubt-on-u-s-role-in-iran-school-strike-that-killed-175.md
