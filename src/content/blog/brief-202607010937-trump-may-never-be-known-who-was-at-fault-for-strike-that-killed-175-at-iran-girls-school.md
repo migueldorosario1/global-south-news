@@ -1,9 +1,0 @@
----
-title: "Trump: ‘May Never Be Known’ Who Was at Fault for Strike That Killed 175 at Iran Girls’ School"
-description: "Trump casts doubt on ever determining fault for a U.S. strike on an Iranian girls’ school that killed 175 children, amid international outrage and a Pentag"
-pubDate: "2026-07-01T09:40:21Z"
-draft: false
-tags: ["Iran", "United States", "War Crimes", "multipolar"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202607010937-trump-may-never-be-known-who-was-at-fault-for-strike-that-killed-175-at-iran-girls-school.jpg"
----
-<p>U.S. President Donald Trump said on Wednesday that it may never be established who was responsible for the February 28 airstrike on a girls’ school in Minab, Iran, which killed more than 175 children and teachers during the first day of a joint U.S.-Israeli military offensive. His remarks came despite an internal U.S. military investigation, first reported by Reuters in March, that indicated American forces were likely at fault for the attack. The Pentagon has since elevated the probe but has not acknowledged any preliminary findings.</p><p>“I don’t know that they are ever going to solve that problem,” Trump told reporters, citing the chaotic battlefield environment with “missiles flying all over the place.” He asserted that he had seen no evidence linking the U.S. to the strike, adding: “I don’t think it was us.”</p><p>The attack on the girls’ school, which Iranian officials said killed over 175 children and teachers, provoked global outrage. The United Nations human rights office described the incident as “absolutely horrific.” Deliberately striking a school would likely constitute a war crime under international humanitarian law, though U.S. officials have insisted Washington would never intentionally target such a facility. Trump initially claimed without evidence that Iran was to blame, before stating he would await the outcome of the investigation.</p>
