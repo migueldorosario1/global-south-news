@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-07-07T01:39:42.035Z
-Publicadas/auditadas com sucesso no historico: 104
+Atualizado em: 2026-07-07T09:41:11.677Z
+Publicadas/auditadas com sucesso no historico: 105
 Materias com bloqueio acumulado: 238
 
 ## Solucoes do cerebro aplicadas
@@ -248,4 +248,4 @@ Materias com bloqueio acumulado: 238
 - brief-202607020937-trump-perpetrator-of-iran-school-strike-that-killed-175-may-never-be-found.md: auditoria reteve brief-202607020937-trump-perpetrator-of-iran-school-strike-that-killed-175-may-never-be-found.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"HTTP 402"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-categoria","ok
 
 ## Publicadas nesta rodada
-- brief-202607070137-at-khameneis-funeral-tehran-mourners-chant-death-to-trump-as-peace-talks-continue.md
+- brief-202607070937-mourners-in-tehran-chant-death-to-trump-at-funeral-for-slain-supreme-leader-khamenei.md
