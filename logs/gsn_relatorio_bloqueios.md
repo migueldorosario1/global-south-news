@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-07-08T01:54:13.798Z
-Publicadas/auditadas com sucesso no historico: 105
+Atualizado em: 2026-07-08T09:39:33.054Z
+Publicadas/auditadas com sucesso no historico: 106
 Materias com bloqueio acumulado: 239
 
 ## Solucoes do cerebro aplicadas
@@ -247,3 +247,6 @@ Materias com bloqueio acumulado: 239
 - brief-202607011737-trump-questions-us-role-in-iran-school-strike-that-killed-175-amid-global-outrage.md: auditoria reteve brief-202607011737-trump-questions-us-role-in-iran-school-strike-that-killed-175-amid-global-outrage.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"HTTP 402"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-categor
 - brief-202607020937-trump-perpetrator-of-iran-school-strike-that-killed-175-may-never-be-found.md: auditoria reteve brief-202607020937-trump-perpetrator-of-iran-school-strike-that-killed-175-may-never-be-found.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"HTTP 402"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-categoria","ok
 - brief-202607071737-crowds-chant-death-to-trump-at-khamenei-s-tehran-funeral-amid-war-talks.md: auditoria reteve brief-202607071737-crowds-chant-death-to-trump-at-khamenei-s-tehran-funeral-amid-war-talks.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"HTTP 402"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-categoria","ok":f
+
+## Publicadas nesta rodada
+- brief-202607080937-death-to-trump-chants-at-khameneis-funeral-as-u-s-iran-talks-seek-end-to-war.md
