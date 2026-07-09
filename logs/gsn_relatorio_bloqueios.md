@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-07-08T17:39:43.738Z
+Atualizado em: 2026-07-09T01:40:03.939Z
 Publicadas/auditadas com sucesso no historico: 106
-Materias com bloqueio acumulado: 240
+Materias com bloqueio acumulado: 241
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -248,3 +248,4 @@ Materias com bloqueio acumulado: 240
 - brief-202607020937-trump-perpetrator-of-iran-school-strike-that-killed-175-may-never-be-found.md: auditoria reteve brief-202607020937-trump-perpetrator-of-iran-school-strike-that-killed-175-may-never-be-found.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-
 - brief-202607071737-crowds-chant-death-to-trump-at-khamenei-s-tehran-funeral-amid-war-talks.md: auditoria reteve brief-202607071737-crowds-chant-death-to-trump-at-khamenei-s-tehran-funeral-amid-war-talks.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"HTTP 402"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-categoria","ok":f
 - brief-202607081737-khamenei-s-tehran-funeral-procession-begins-as-trump-vows-to-finish-the-job.md: auditoria reteve brief-202607081737-khamenei-s-tehran-funeral-procession-begins-as-trump-vows-to-finish-the-job.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto
+- brief-202607090137-tehran-mourns-khamenei-as-crowds-chant-death-to-trump-amid-war-negotiations.md: auditoria reteve brief-202607090137-tehran-mourns-khamenei-as-crowds-chant-death-to-trump-amid-war-negotiations.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto
