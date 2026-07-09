@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-07-09T09:40:07.129Z
-Publicadas/auditadas com sucesso no historico: 107
+Atualizado em: 2026-07-09T17:40:35.595Z
+Publicadas/auditadas com sucesso no historico: 108
 Materias com bloqueio acumulado: 241
 
 ## Solucoes do cerebro aplicadas
@@ -251,4 +251,4 @@ Materias com bloqueio acumulado: 241
 - brief-202607090137-tehran-mourns-khamenei-as-crowds-chant-death-to-trump-amid-war-negotiations.md: auditoria reteve brief-202607090137-tehran-mourns-khamenei-as-crowds-chant-death-to-trump-amid-war-negotiations.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto
 
 ## Publicadas nesta rodada
-- brief-202607090937-tehran-funeral-for-khamenei-draws-fury-at-trump-as-diplomacy-hangs-in-balance.md
+- brief-202607091737-khameneis-funeral-fills-tehran-as-trump-threatens-to-finish-the-job-without-a-deal.md
