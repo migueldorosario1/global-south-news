@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-07-09T01:40:03.939Z
-Publicadas/auditadas com sucesso no historico: 106
+Atualizado em: 2026-07-09T09:40:07.129Z
+Publicadas/auditadas com sucesso no historico: 107
 Materias com bloqueio acumulado: 241
 
 ## Solucoes do cerebro aplicadas
@@ -249,3 +249,6 @@ Materias com bloqueio acumulado: 241
 - brief-202607071737-crowds-chant-death-to-trump-at-khamenei-s-tehran-funeral-amid-war-talks.md: auditoria reteve brief-202607071737-crowds-chant-death-to-trump-at-khamenei-s-tehran-funeral-amid-war-talks.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"HTTP 402"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-categoria","ok":f
 - brief-202607081737-khamenei-s-tehran-funeral-procession-begins-as-trump-vows-to-finish-the-job.md: auditoria reteve brief-202607081737-khamenei-s-tehran-funeral-procession-begins-as-trump-vows-to-finish-the-job.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto
 - brief-202607090137-tehran-mourns-khamenei-as-crowds-chant-death-to-trump-amid-war-negotiations.md: auditoria reteve brief-202607090137-tehran-mourns-khamenei-as-crowds-chant-death-to-trump-amid-war-negotiations.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto
+
+## Publicadas nesta rodada
+- brief-202607090937-tehran-funeral-for-khamenei-draws-fury-at-trump-as-diplomacy-hangs-in-balance.md
