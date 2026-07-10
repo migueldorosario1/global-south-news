@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-07-10T01:40:24.624Z
+Atualizado em: 2026-07-10T09:40:50.288Z
 Publicadas/auditadas com sucesso no historico: 109
-Materias com bloqueio acumulado: 241
+Materias com bloqueio acumulado: 242
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -249,6 +249,4 @@ Materias com bloqueio acumulado: 241
 - brief-202607071737-crowds-chant-death-to-trump-at-khamenei-s-tehran-funeral-amid-war-talks.md: auditoria reteve brief-202607071737-crowds-chant-death-to-trump-at-khamenei-s-tehran-funeral-amid-war-talks.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"HTTP 402"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-categoria","ok":f
 - brief-202607081737-khamenei-s-tehran-funeral-procession-begins-as-trump-vows-to-finish-the-job.md: auditoria reteve brief-202607081737-khamenei-s-tehran-funeral-procession-begins-as-trump-vows-to-finish-the-job.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto
 - brief-202607090137-tehran-mourns-khamenei-as-crowds-chant-death-to-trump-amid-war-negotiations.md: auditoria reteve brief-202607090137-tehran-mourns-khamenei-as-crowds-chant-death-to-trump-amid-war-negotiations.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto
-
-## Publicadas nesta rodada
-- brief-202607100137-massive-tehran-procession-for-khamenei-as-trump-vows-to-finish-the-job-without-deal.md
+- brief-202607100937-iran-begins-12-hour-khamenei-funeral-procession-as-trump-vows-to-finish-the-job.md: auditoria reteve brief-202607100937-iran-begins-12-hour-khamenei-funeral-procession-as-trump-vows-to-finish-the-job.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-t
