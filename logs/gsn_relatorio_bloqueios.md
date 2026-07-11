@@ -1,7 +1,7 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-07-10T17:40:37.628Z
-Publicadas/auditadas com sucesso no historico: 110
+Atualizado em: 2026-07-11T01:40:04.802Z
+Publicadas/auditadas com sucesso no historico: 111
 Materias com bloqueio acumulado: 242
 
 ## Solucoes do cerebro aplicadas
@@ -252,4 +252,4 @@ Materias com bloqueio acumulado: 242
 - brief-202607100937-iran-begins-12-hour-khamenei-funeral-procession-as-trump-vows-to-finish-the-job.md: auditoria reteve brief-202607100937-iran-begins-12-hour-khamenei-funeral-procession-as-trump-vows-to-finish-the-job.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-t
 
 ## Publicadas nesta rodada
-- brief-202607101737-khameneis-funeral-procession-draws-huge-crowd-in-tehran-trump-warns-finish-the-job-if-no-deal.md
+- brief-202607110137-tehran-funeral-for-khamenei-draws-millions-as-trump-demands-ceasefire-or-finish-the-job.md
