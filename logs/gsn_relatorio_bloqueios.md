@@ -1,8 +1,8 @@
 # Global South News - Relatorio horario de bloqueios
 
-Atualizado em: 2026-07-12T01:39:44.319Z
+Atualizado em: 2026-07-12T09:40:12.255Z
 Publicadas/auditadas com sucesso no historico: 113
-Materias com bloqueio acumulado: 243
+Materias com bloqueio acumulado: 244
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -251,3 +251,4 @@ Materias com bloqueio acumulado: 243
 - brief-202607090137-tehran-mourns-khamenei-as-crowds-chant-death-to-trump-amid-war-negotiations.md: auditoria reteve brief-202607090137-tehran-mourns-khamenei-as-crowds-chant-death-to-trump-amid-war-negotiations.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto
 - brief-202607100937-iran-begins-12-hour-khamenei-funeral-procession-as-trump-vows-to-finish-the-job.md: auditoria reteve brief-202607100937-iran-begins-12-hour-khamenei-funeral-procession-as-trump-vows-to-finish-the-job.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-t
 - brief-202607120137-tehran-mourners-demand-trumps-death-at-khamenei-funeral-procession.md: auditoria reteve brief-202607120137-tehran-mourners-demand-trumps-death-at-khamenei-funeral-procession.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":"codex-texto-categori
+- brief-202607120937-iran-mourns-supreme-leader-khamenei-as-crowds-chant-death-to-trump-amid-ceasefire-talks.md: auditoria reteve brief-202607120937-iran-mourns-supreme-leader-khamenei-as-crowds-chant-death-to-trump-amid-ceasefire-talks.md: falha local critica: texto/categoria precisa revisao (texto muito curto ou contendo marcadores de rascunho); votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":null,"reason":"HTTP 401"},{"auditor":"qwen","ok":null,"reason":"HTTP 401"},{"auditor":
