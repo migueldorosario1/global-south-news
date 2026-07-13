@@ -4,7 +4,7 @@ description: "Amnesty: 5,910 Palestinians displaced in West Bank from 2023-2025,
 pubDate: "2026-06-10T17:41:38Z"
 draft: true
 tags: ["Amnesty International", "Area C", "Israel", "West Bank", "displacement", "ethnic cleansing", "multipolar"]
-heroImage: "/hero/smoke-brief-202606101737-amnesty-5-910-palestinians-displaced-in-west-bank-as-israel-s-ethnic-cleansing-policy.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606101737-amnesty-5-910-palestinians-displaced-in-west-bank-as-israel-s-ethnic-cleansing-policy.jpg"
 alt: "Photo representing: Amnesty: 5,910 Palestinians Displaced in West Bank as Israel's 'Ethnic Cleansing' Policy"
 hero_credit: "Global South News"
 hero_license: "Editorial Use"

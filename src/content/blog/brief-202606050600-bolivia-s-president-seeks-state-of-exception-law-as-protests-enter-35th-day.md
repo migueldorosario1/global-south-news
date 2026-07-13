@@ -2,7 +2,7 @@
 title: "Bolivia's President Seeks State of Exception Law as Protests Enter 35th Day"
 description: "Bolivia's President Paz proposes state of exception law amid 35-day protests with road blockades causing shortages. Vice President calls for talks."
 pubDate: "2026-06-05T09:10:01Z"
-draft: false
+draft: true
 tags: ["Bolivia", "Luis Arce", "Political Crisis", "Protests", "State of Exception", "latin-america"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-bolivia-s-president-seeks-state-of-exception-law-as-protests-enter-35th-day.jpg"
 alt: "Photo representing: Bolivia's President Seeks State of Exception Law as Protests Enter 35th Day"

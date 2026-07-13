@@ -4,7 +4,7 @@ description: "Iran's IRGC hits US bases in Kuwait and Bahrain after US strikes o
 pubDate: "2026-06-11T09:40:04Z"
 draft: true
 tags: ["Bahrain", "CENTCOM", "IRGC", "Iran", "Kuwait", "Strait of Hormuz", "United States", "west-asia"]
-heroImage: "/hero/smoke-brief-202606110937-iran-retaliates-closes-strait-of-hormuz-strikes-us-bases-in-kuwait-and-bahrain.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606110937-iran-retaliates-closes-strait-of-hormuz-strikes-us-bases-in-kuwait-and-bahrain.jpg"
 alt: "Photo representing: Iran Retaliates: Closes Strait of Hormuz, Strikes US Bases in Kuwait and Bahrain"
 hero_credit: "Global South News"
 hero_license: "Editorial Use"

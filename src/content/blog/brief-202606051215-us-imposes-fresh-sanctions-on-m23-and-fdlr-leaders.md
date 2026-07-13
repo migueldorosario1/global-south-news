@@ -2,7 +2,7 @@
 title: "US imposes fresh sanctions on M23 and FDLR leaders"
 description: "DRC-Rwanda tensions The United States has imposed new sanctions on senior figures from the M23 rebel movement and the FDLR militia, escalating pressure on armed groups fueling conf"
 pubDate: "2026-06-05T04:43:15Z"
-draft: false
+draft: true
 tags: ["multipolar-world", "sanctions", "conflict", "drc", "africa", "port", "ai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051215-us-imposes-fresh-sanctions-on-m23-and-fdlr-leaders-qwen.jpg"
 alt: "Photo representing: US imposes fresh sanctions on M23 and FDLR leaders"

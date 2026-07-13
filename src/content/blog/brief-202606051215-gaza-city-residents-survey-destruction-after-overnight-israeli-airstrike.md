@@ -2,7 +2,7 @@
 title: "Gaza city residents survey destruction after overnight Israeli airstrike"
 description: "Gaza city residents survey destruction after overnight Israeli airstrike Debris covered nearby streets and several sections of the building were left damaged as families and neighb"
 pubDate: "2026-06-05T04:37:21Z"
-draft: false
+draft: true
 tags: ["multipolar-world", "west-asia", "conflict", "humanitarian", "africa", "port", "ai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051215-gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike-qwen.jpg"
 alt: "Photo representing: Gaza city residents survey destruction after overnight Israeli airstrike"

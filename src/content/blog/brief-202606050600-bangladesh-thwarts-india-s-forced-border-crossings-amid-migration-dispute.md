@@ -2,7 +2,7 @@
 title: "Bangladesh Thwarts India's Forced Border Crossings Amid Migration Dispute"
 description: "Bangladesh foils 10 Indian attempts to force people across border, escalating diplomatic tensions over undocumented migration"
 pubDate: "2026-06-05T09:24:24Z"
-draft: false
+draft: true
 tags: ["India-Bangladesh relations", "South Asia", "asia", "border dispute", "diplomatic tensions", "migration"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-bangladesh-thwarts-india-s-forced-border-crossings-amid-migration-dispute.jpg"
 alt: "Photo representing: Bangladesh Thwarts India's Forced Border Crossings Amid Migration Dispute"

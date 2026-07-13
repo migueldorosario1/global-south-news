@@ -2,7 +2,7 @@
 title: "Residents of Kenyan town hosting U.S. Ebola center oppose facility"
 description: "Kenya People in the central Kenyan town of Nanyuki expressed annoyance at the plan for a US-funded Ebola quarantine centre to be opened at a nearby airbase. The centre, built at La"
 pubDate: "2026-06-05T04:55:14Z"
-draft: false
+draft: true
 tags: ["multipolar-world", "africa", "public-health", "sovereignty", "kenya", "ai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051215-residents-of-kenyan-town-hosting-u-s-ebola-center-oppose-facility-qwen.jpg"
 alt: "Photo representing: Residents of Kenyan town hosting U.S. Ebola center oppose facility"

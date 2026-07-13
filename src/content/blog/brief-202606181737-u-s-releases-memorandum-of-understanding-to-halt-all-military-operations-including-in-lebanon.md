@@ -4,7 +4,7 @@ description: "The United States made public a comprehensive Memorandum of Unders
 pubDate: "2026-06-18T17:38:44Z"
 draft: true
 tags: ["Lebanon", "US diplomacy", "ceasefire", "memorandum of understanding", "sovereignty", "west-asia"]
-heroImage: "/hero/smoke-brief-202606181737-u-s-releases-memorandum-of-understanding-to-halt-all-military-operations-including-in-lebanon.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606181737-u-s-releases-memorandum-of-understanding-to-halt-all-military-operations-including-in-lebanon.jpg"
 alt: "Photo representing: U.S. Releases Memorandum of Understanding to Halt All Military Operations, Including in Lebanon"
 hero_credit: "Global South News"
 hero_license: "Editorial Use"

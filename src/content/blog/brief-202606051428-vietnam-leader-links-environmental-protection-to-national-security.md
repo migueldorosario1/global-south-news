@@ -2,7 +2,7 @@
 title: "Vietnam Leader Links Environmental Protection to National Security"
 description: "Vietnam's president declares environmental protection fundamental to national security and sustainable development."
 pubDate: "2026-06-05T06:30:08Z"
-draft: false
+draft: true
 tags: ["environmental security", "climate change", "Vietnam", "sustainable development", "international cooperation"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051428-vietnam-leader-links-environmental-protection-to-national-security.jpg"
 alt: "Photo representing: Vietnam Leader Links Environmental Protection to National Security"

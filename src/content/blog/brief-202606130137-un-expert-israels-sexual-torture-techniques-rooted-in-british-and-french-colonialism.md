@@ -4,7 +4,7 @@ description: "Francesca Albanese traces Israel’s sexual torture of Palestinian
 pubDate: "2026-06-13T01:39:13Z"
 draft: true
 tags: ["Israel", "Palestine", "colonialism", "multipolar", "sexual violence", "torture"]
-heroImage: "/hero/smoke-brief-202606130137-un-expert-israels-sexual-torture-techniques-rooted-in-british-and-french-colonialism.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606130137-un-expert-israels-sexual-torture-techniques-rooted-in-british-and-french-colonialism.jpg"
 alt: "Photo representing: UN Expert: Israel’s Sexual Torture Techniques Rooted in British and French Colonialism"
 hero_credit: "Global South News"
 hero_license: "Editorial Use"

@@ -2,7 +2,7 @@
 title: "UN Warns AI Expansion Will Double Data Centre Energy and Water Use by 2030"
 description: "UN report reveals AI's physical infrastructure will double data centre electricity and water consumption by 2030, raising sustainability concerns."
 pubDate: "2026-06-05T09:12:06Z"
-draft: false
+draft: true
 tags: ["UN research", "artificial intelligence", "data centres", "energy", "resource consumption", "sustainability"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-un-warns-ai-expansion-will-double-data-centre-energy-and-water-use-by-2030.jpg"
 alt: "Photo representing: UN Warns AI Expansion Will Double Data Centre Energy and Water Use by 2030"

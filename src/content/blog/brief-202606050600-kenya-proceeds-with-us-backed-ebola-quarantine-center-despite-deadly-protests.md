@@ -2,7 +2,7 @@
 title: "Kenya Proceeds with US-Backed Ebola Quarantine Center Despite Deadly Protests"
 description: "Kenya moves forward with controversial US-backed Ebola quarantine center despite deadly protests over colonial concerns."
 pubDate: "2026-06-05T09:28:51Z"
-draft: false
+draft: true
 tags: ["Ebola", "Kenya", "Protests", "Public Health", "United States", "africa"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-kenya-proceeds-with-us-backed-ebola-quarantine-center-despite-deadly-protests.jpg"
 alt: "Photo representing: Kenya Proceeds with US-Backed Ebola Quarantine Center Despite Deadly Protests"

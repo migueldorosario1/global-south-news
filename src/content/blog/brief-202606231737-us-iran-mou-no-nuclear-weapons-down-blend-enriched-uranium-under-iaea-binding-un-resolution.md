@@ -4,7 +4,7 @@ description: "Released MOU text confirms Iran will not pursue nuclear weapons. E
 pubDate: "2026-06-23T17:38:41Z"
 draft: true
 tags: ["IAEA", "UN Security Council", "US-Iran MOU", "enriched uranium", "multipolar", "nuclear non-proliferation"]
-heroImage: "/hero/smoke-brief-202606231737-us-iran-mou-no-nuclear-weapons-down-blend-enriched-uranium-under-iaea-binding-un-resolution.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606231737-us-iran-mou-no-nuclear-weapons-down-blend-enriched-uranium-under-iaea-binding-un-resolution.jpg"
 alt: "Photo representing: US-Iran MOU: No Nuclear Weapons, Down-Blend Enriched Uranium Under IAEA, Binding UN Resolution"
 hero_credit: "Global South News"
 hero_license: "Editorial Use"

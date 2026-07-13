@@ -2,7 +2,7 @@
 title: "Israel Supreme Court Orders Red Cross Access to Palestinian Prisoners"
 description: "Israel's Supreme Court orders repeal of policy blocking Red Cross visits to Palestinian prisoners, citing lack of legal basis."
 pubDate: "2026-06-05T09:05:00Z"
-draft: false
+draft: true
 tags: ["Human Rights", "ICRC", "International Law", "Israel", "Palestine", "Supreme Court", "west-asia"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-israel-supreme-court-orders-red-cross-access-to-palestinian-prisoners.jpg"
 alt: "Photo representing: Israel Supreme Court Orders Red Cross Access to Palestinian Prisoners"

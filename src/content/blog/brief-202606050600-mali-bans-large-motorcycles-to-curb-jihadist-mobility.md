@@ -2,7 +2,7 @@
 title: "Mali bans large motorcycles to curb jihadist mobility"
 description: "Mali's interim government bans motorcycles 125cc+ outside urban areas to combat jihadist groups, disrupting rural commerce amid escalating security threats."
 pubDate: "2026-06-05T09:06:46Z"
-draft: false
+draft: true
 tags: ["Mali", "West Africa", "jihadist insurgency", "motorcycle ban", "multipolar", "security crisis"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-mali-bans-large-motorcycles-to-curb-jihadist-mobility.jpg"
 alt: "Photo representing: Mali bans large motorcycles to curb jihadist mobility"

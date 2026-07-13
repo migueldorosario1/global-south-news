@@ -5,7 +5,7 @@ pubDate: "2026-06-29T15:19:52Z"
 author: "Paulo Nogueira Batista Jr."
 draft: false
 tags: ['multipolar-world', 'brics', 'asia']
-heroImage: "/hero/china-does-not-improvise.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/china-does-not-improvise.jpg"
 lang: "en"
 alt: "Photo representing: China Does Not Improvise"
 hero_credit: "Global South News"

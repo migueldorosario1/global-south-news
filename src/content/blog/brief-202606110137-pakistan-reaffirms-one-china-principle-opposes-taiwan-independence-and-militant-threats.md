@@ -4,7 +4,7 @@ description: "Pakistan reaffirms one-China principle, opposes Taiwan independenc
 pubDate: "2026-06-11T01:39:41Z"
 draft: true
 tags: ["Afghanistan", "China", "ETIM", "Pakistan", "TTP", "Taiwan", "multipolar", "one-China principle", "regional security"]
-heroImage: "/hero/smoke-brief-202606110137-pakistan-reaffirms-one-china-principle-opposes-taiwan-independence-and-militant-threats.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606110137-pakistan-reaffirms-one-china-principle-opposes-taiwan-independence-and-militant-threats.jpg"
 alt: "Photo representing: Pakistan Reaffirms One-China Principle, Opposes Taiwan Independence and Militant Threats"
 hero_credit: "Global South News"
 hero_license: "Editorial Use"

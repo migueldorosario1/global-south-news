@@ -4,7 +4,7 @@ description: "The US will lift its naval blockade and restore commercial traffic
 pubDate: "2026-06-18T01:38:56Z"
 draft: true
 tags: ["Strait of Hormuz", "US-Iran MOU", "crude oil exports", "frozen assets", "naval blockade", "sanctions relief", "west-asia"]
-heroImage: "/hero/smoke-brief-202606180137-us-to-end-naval-blockade-iran-to-secure-hormuz-passage-as-sanctions-relief-and-assets-freed-unde.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606180137-us-to-end-naval-blockade-iran-to-secure-hormuz-passage-as-sanctions-relief-and-assets-freed-unde.jpg"
 alt: "Photo representing: US to End Naval Blockade, Iran to Secure Hormuz Passage as Sanctions Relief and Assets Freed Under MOU"
 hero_credit: "Global South News"
 hero_license: "Editorial Use"

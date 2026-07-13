@@ -2,7 +2,7 @@
 title: "Benin's Wadagni Reopens Niger Border, Rebuilds Sahel Ties"
 description: "Benin's President Wadagni secures Niger border reopening during first international tour to rebuild ties with Sahel allies."
 pubDate: "2026-06-05T06:44:38Z"
-draft: false
+draft: true
 tags: ["Benin", "Niger", "Burkina Faso", "Sahel", "Diplomacy", "Security", "africa"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606051428-benin-s-wadagni-reopens-niger-border-rebuilds-sahel-ties-qwen.jpg"
 alt: "Photo representing: Benin's Wadagni Reopens Niger Border, Rebuilds Sahel Ties"

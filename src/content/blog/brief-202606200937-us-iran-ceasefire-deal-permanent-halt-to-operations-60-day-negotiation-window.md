@@ -4,7 +4,7 @@ description: "US reveals Iran MOU with permanent ceasefire on all fronts, includ
 pubDate: "2026-06-20T09:39:01Z"
 draft: true
 tags: ["Lebanon ceasefire", "Middle East diplomacy", "US-Iran MOU", "ceasefire agreement", "de-escalation", "west-asia"]
-heroImage: "/hero/smoke-brief-202606200937-us-iran-ceasefire-deal-permanent-halt-to-operations-60-day-negotiation-window.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606200937-us-iran-ceasefire-deal-permanent-halt-to-operations-60-day-negotiation-window.jpg"
 alt: "Photo representing: US-Iran Ceasefire Deal: Permanent Halt to Operations, 60-Day Negotiation Window"
 hero_credit: "Global South News"
 hero_license: "Editorial Use"

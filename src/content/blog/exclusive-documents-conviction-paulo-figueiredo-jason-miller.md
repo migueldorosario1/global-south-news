@@ -5,7 +5,7 @@ pubDate: "2026-07-07T14:15:00Z"
 author: "Miguel do Rosário"
 draft: false
 tags: ['geopolitics', 'united-states', 'brazil', 'jason-miller', 'paulo-figueiredo']
-heroImage: "/hero/the-greatest-country-in-the-world.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/the-greatest-country-in-the-world.jpg"
 lang: "en"
 alt: "Exclusive Documents of Paulo Figueiredo and Jason Miller Conviction"
 hero_credit: "Global South News"

@@ -4,7 +4,7 @@ description: "UN Special Rapporteur Francesca Albanese links Israel’s sexual t
 pubDate: "2026-06-12T17:38:06Z"
 draft: true
 tags: ["Palestine", "UN", "colonialism", "human rights", "international law", "torture", "west-asia"]
-heroImage: "/hero/smoke-brief-202606121737-albanese-israeli-torture-is-inherited-imperial-method-not-aberration.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606121737-albanese-israeli-torture-is-inherited-imperial-method-not-aberration.jpg"
 alt: "Photo representing: Albanese: Israeli Torture Is Inherited Imperial Method, Not Aberration"
 hero_credit: "Global South News"
 hero_license: "Editorial Use"

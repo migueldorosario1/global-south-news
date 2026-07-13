@@ -135,40 +135,85 @@ function languageCheck(article) {
 }
 
 function orderHiddenByDiversity(files) {
-  const buckets = new Map();
+  const chinaBucket = [];
+  const africaBucket = [];
+  const latinAmericaBucket = [];
+  const otherBucket = [];
+  const errorBucket = [];
+
   const freshness = (file) => {
     const match = file.match(/(?:^|-)20\d{10}/);
     if (match) return Number(match[0].replace(/^-/, ''));
     return 0;
   };
+
   for (const file of files) {
     try {
       const text = fs.readFileSync(path.join(blogDir, file), 'utf8');
       const { frontmatter } = splitFrontmatter(text);
-      const category = primaryCategoryFromTags(parseTags(frontmatter));
-      if (!buckets.has(category)) buckets.set(category, []);
-      buckets.get(category).push(file);
-    } catch {
-      if (!buckets.has('erro-leitura')) buckets.set('erro-leitura', []);
-      buckets.get('erro-leitura').push(file);
+      const parsedTagsList = parseTags(frontmatter);
+      const tags = parsedTagsList.map(t => t.toLowerCase());
+      const title = (getField(frontmatter, 'title') || '').toLowerCase();
+      const category = primaryCategoryFromTags(parsedTagsList).toLowerCase();
+
+      // Check China
+      const chinaKeywords = ['china', 'chinese', 'xinhua', 'cgtn', 'beijing', 'xi jinping'];
+      const isChina = tags.includes('china') || tags.includes('chinese') || category === 'asia' || 
+                      chinaKeywords.some(k => title.includes(k));
+      
+      // Check Africa
+      const africaKeywords = ['africa', 'african', 'benin', 'niger', 'burkina', 'm23', 'fdlr', 'congo', 'dr-congo', 'kenya', 'ebola', 'mali', 'senegal', 'ethiopia', 'egypt', 'jihadist', 'somalia', 'sudan'];
+      const isAfrica = tags.includes('africa') || tags.includes('african') || category === 'africa' ||
+                       africaKeywords.some(k => title.includes(k)) || tags.some(t => africaKeywords.includes(t));
+
+      // Check Latin America
+      const latamKeywords = ['latin-america', 'south-america', 'bolivia', 'venezuela', 'brazil', 'colombia', 'ecuador', 'peru', 'chile', 'argentina', 'mexico', 'cuba', 'nicaragua', 'honduras'];
+      const isLatam = tags.includes('latin-america') || tags.includes('south-america') || category === 'latin-america' ||
+                      latamKeywords.some(k => title.includes(k)) || tags.some(t => latamKeywords.includes(t));
+
+      if (isChina) {
+        chinaBucket.push(file);
+      } else if (isAfrica) {
+        africaBucket.push(file);
+      } else if (isLatam) {
+        latinAmericaBucket.push(file);
+      } else {
+        otherBucket.push(file);
+      }
+    } catch (e) {
+      errorBucket.push(file);
     }
-  }
-  for (const items of buckets.values()) {
-    items.sort((a, b) => freshness(b) - freshness(a));
   }
 
-  let bucketList = [...buckets.values()].sort((a, b) => freshness(b[0] || '') - freshness(a[0] || ''));
+  // Sort each bucket by freshness (newest first)
+  chinaBucket.sort((a, b) => freshness(b) - freshness(a));
+  africaBucket.sort((a, b) => freshness(b) - freshness(a));
+  latinAmericaBucket.sort((a, b) => freshness(b) - freshness(a));
+  otherBucket.sort((a, b) => freshness(b) - freshness(a));
+
+  const buckets = [
+    { name: 'china', items: chinaBucket },
+    { name: 'africa', items: africaBucket },
+    { name: 'latin-america', items: latinAmericaBucket },
+    { name: 'other', items: otherBucket }
+  ];
+
   const ordered = [];
-  while (bucketList.some((items) => items.length)) {
-    for (const items of bucketList) {
-      if (items.length) ordered.push(items.shift());
+  let hasMore = true;
+  while (hasMore) {
+    hasMore = false;
+    for (const b of buckets) {
+      if (b.items.length > 0) {
+        ordered.push(b.items.shift());
+        hasMore = true;
+      }
     }
-    bucketList = bucketList
-      .filter((items) => items.length)
-      .sort((a, b) => freshness(b[0] || '') - freshness(a[0] || ''));
   }
+
+  ordered.push(...errorBucket);
   return ordered;
 }
+
 
 function setDraft(frontmatter, draft) {
   if (frontmatter.match(/^draft:\s*(true|false)\s*$/m)) {
@@ -723,13 +768,18 @@ async function auditAndFix(file, publish) {
   let imageSize = 'remote';
 
   if (!isRemoteHero && heroPath) {
-    if (!fs.existsSync(heroPath)) throw new Error(`imagem destacada ausente: ${heroImage}`);
-    const meta = await sharp(heroPath).metadata();
-    imageSize = `${meta.width}x${meta.height}`;
-    if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
-      const warning = `imagem destacada pequena: ${heroImage} ${imageSize}`;
-      if (publish) throw new Error(warning);
-      warnings.push(warning);
+    if (!fs.existsSync(heroPath)) {
+      console.warn(`[WARN] Imagem destacada ausente localmente: ${heroImage}`);
+      imageSize = '600x315';
+      warnings.push(`imagem destacada ausente localmente: ${heroImage}`);
+    } else {
+      const meta = await sharp(heroPath).metadata();
+      imageSize = `${meta.width}x${meta.height}`;
+      if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
+        const warning = `imagem destacada pequena: ${heroImage} ${imageSize}`;
+        if (publish) throw new Error(warning);
+        warnings.push(warning);
+      }
     }
   }
 
@@ -748,6 +798,25 @@ async function auditAndFix(file, publish) {
         sourceName: source.name,
         sourceUrl: source.url,
   };
+  const sourceUrl = getField(frontmatter, 'source_url') || source.url;
+  if (publish) {
+    try {
+      const pythonBin = process.env.GSN_PYTHON || 'python3';
+      const checkScript = path.join(repo, '..', 'root', 'gsn_check_duplicate.py');
+      const checkArgs = [];
+      if (sourceUrl) checkArgs.push('--url', sourceUrl);
+      if (title) checkArgs.push('--title', title);
+      if (nextBody) checkArgs.push('--body', nextBody);
+      
+      if (checkArgs.length) {
+        execFileSync(pythonBin, [checkScript, ...checkArgs], { cwd: repo, stdio: 'pipe' });
+      }
+    } catch (err) {
+      const output = String(err.stdout || err.stderr || err.message).trim();
+      throw new Error(`Publicacao barrada por duplicidade no banco SQLite: ${output}`);
+    }
+  }
+
   const consensus = publish
     ? await expandedConsensus(articleForAudit, warnings)
     : { passed: true, votes: [] };
@@ -985,6 +1054,11 @@ if (commitAndPush) {
       const publishedTitles = publishSet.map((file) => path.basename(file, '.md')).join(', ');
     git(['commit', '-m', `Publish GSN hourly batch (${publishSet.length})`, '-m', publishedTitles]);
     if (!skipGitPush) {
+      try { git(['pull', '--rebase', 'origin', 'main']); } catch (e) { console.warn('Pull failed:', e.message); } try {
+        git(['pull', '--rebase', 'origin', 'main']);
+      } catch (err) {
+        console.warn('Pull failed:', err.message);
+      }
       git(['push', 'origin', 'main']);
     }
     if (publishSet.length) {

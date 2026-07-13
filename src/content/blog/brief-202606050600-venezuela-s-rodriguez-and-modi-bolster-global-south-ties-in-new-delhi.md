@@ -2,7 +2,7 @@
 title: "Venezuela's Rodríguez and Modi Bolster Global South Ties in New Delhi"
 description: "Venezuela's acting president Delsy Rodríguez meets Indian PM Narendra Modi to strengthen bilateral ties and Global South cooperation."
 pubDate: "2026-06-05T09:33:35Z"
-draft: false
+draft: true
 tags: ["Bilateral Cooperation", "Delsy Rodríguez", "Global South", "India", "Narendra Modi", "Venezuela", "latin-america"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-brief-202606050600-venezuela-s-rodriguez-and-modi-bolster-global-south-ties-in-new-delhi-qwen.jpg"
 alt: "Photo representing: Venezuela's Rodríguez and Modi Bolster Global South Ties in New Delhi"
