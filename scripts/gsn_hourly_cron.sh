@@ -19,6 +19,15 @@ fi
 source "$ENV_FILE"
 cd "$GSN_DIR"
 
+# Evita execuções simultâneas/sobrepostas da pipeline
+LOCKFILE="/tmp/gsn_hourly_cron.lock"
+exec 200>"$LOCKFILE"
+if ! flock -n 200; then
+  printf '[%s] GSN hourly publish skipped: outra instancia ja esta em execucao (process lock)\n' "$(date -Is)" >> logs/gsn_hourly_cron.log
+  exit 0
+fi
+
+
 if [[ -f tools/gsn_publish_paused.txt ]]; then
   pause_reason="$(head -c 240 tools/gsn_publish_paused.txt | tr '\n' ' ')"
   printf '[%s] GSN hourly publish skipped: publicacao automatica pausada (%s)\n' "$(date -Is)" "$pause_reason" >> logs/gsn_hourly_cron.log
