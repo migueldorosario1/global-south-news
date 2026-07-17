@@ -1,0 +1,13 @@
+---
+title: "Iranian Missile Strike Kills Indian Sailor, Injures Six Indian Nationals Aboard UAE Tankers"
+description: "Iranian missiles hit two UAE tankers in the Strait of Hormuz, killing an Indian sailor and wounding six Indian nationals, deepening the Gulf conflict."
+pubDate: "2026-07-17T17:39:04Z"
+draft: true
+tags: ["India", "Iran", "Strait of Hormuz", "UAE", "maritime security", "missile strike", "multipolar", "oil tankers"]
+heroImage: "/hero/smoke-brief-202607171737-iranian-missile-strike-kills-indian-sailor-injures-six-indian-nationals-aboard-uae-tankers.jpg"
+---
+
+<p>An Indian crew member was killed and eight other sailors wounded when Iranian cruise missiles struck two UAE-flagged oil tankers in the Strait of Hormuz on Tuesday, the United Arab Emirates Ministry of Defence said, marking a sharp escalation in the strategic waterway that carries a fifth of global oil trade. The ministry identified the vessels as the Mombasa and Al Bahiyah, saying they were targeted in Omani territorial waters along the strait’s southern lane. Six of the wounded were Indian nationals and two were Ukrainian; four sustained serious injuries.</p>
+<p>The attack triggered onboard fires that have since been brought under control, the ministry added. It condemned the incident as a “blatant attack” and said the Emirates retained “its full right to respond to this escalation,” without specifying immediate retaliatory steps. The United Kingdom Maritime Trade Operations agency separately reported that a tanker had been struck by an unknown projectile 40 nautical miles northeast of Oman’s Qalhat, saying the crew were safe. It was not immediately clear if the UKMTO alert referred to the same incident. Iran did not comment.</p>
+<p>The assault deepens a conflict that began on February 28, when the United States and Israel launched air strikes on Iran. On Monday, President Donald Trump said the U.S. was reinstating a maritime blockade on Iranian shipping and would keep the strait open “for a fee,” while threatening another round of strikes. Iran’s military command rejected any U.S. role in the waterway, and the cycle of retaliation has now destabilised the Gulf, throwing into doubt a fragile interim deal signed last month to halt hostilities.</p>
+<p>For the Global South, particularly India, the direct loss of its nationals and the threat to the Strait of Hormuz carry severe economic and security risks. Before the conflict erupted, more than 15 million barrels of oil passed through the chokepoint daily, feeding import-dependent economies. With supply lines under direct fire and no immediate diplomatic off-ramp, energy-importing nations face the prospect of prolonged volatility that could cascade through their fiscal and stability frameworks.</p>
