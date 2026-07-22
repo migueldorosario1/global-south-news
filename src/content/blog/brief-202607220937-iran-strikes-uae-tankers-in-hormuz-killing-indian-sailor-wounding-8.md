@@ -1,0 +1,13 @@
+---
+title: "Iran Strikes UAE Tankers in Hormuz, Killing Indian Sailor, Wounding 8"
+description: "Iranian missiles struck two UAE tankers in the Strait of Hormuz, killing an Indian sailor and wounding eight. The attack threatens critical energy routes."
+pubDate: "2026-07-22T09:39:17Z"
+draft: true
+tags: ["Energy Security", "India", "Iran", "Maritime Security", "Strait of Hormuz", "UAE", "multipolar"]
+heroImage: "/hero/smoke-brief-202607220937-iran-strikes-uae-tankers-in-hormuz-killing-indian-sailor-wounding-8.jpg"
+---
+
+<p>Iranian cruise missiles struck two Emirati oil tankers in the Strait of Hormuz, killing one Indian crew member and wounding eight others, the United Arab Emirates Ministry of Defence said on Tuesday, July 14, 2026. The vessels, the Mombasa and Al Bahiyah, were targeted in the southern lane of the strait while in Omani territorial waters, sparking fires that caused material damage before being brought under control.</p>
+<p>The dead sailor was aboard the Mombasa, the ministry said. Of the wounded, six were Indian nationals and two were Ukrainian; four sustained serious injuries. The ministry condemned what it called a “blatant attack” and stated that the UAE retained “its full right to respond to this escalation”.</p>
+<p>The incident marks the latest flashpoint since the United States and Israel launched military strikes on Iran on February 28. The conflict has severely destabilised the Gulf, with Iran retaliating against US bases in multiple countries. On Monday, US President Donald Trump announced the reimposition of a naval blockade on Iranian shipping and warned that US forces would strike Iran again “very hard”, while demanding fees to keep the strait open. Iran’s top military command rejected any US role in the waterway and vowed not to permit foreign intervention.</p>
+<p>For the Global South, the attack carries immediate consequences. The Strait of Hormuz is the conduit for more than 15 million barrels of fuel daily, a critical supply for developing economies. The casualties among Indian and Ukrainian mariners underscore the human cost to workers from emerging nations who crew vital energy infrastructure. As an interim US-Iran deal struck last month to reopen the strait falters, the renewed threat to tanker traffic deepens uncertainty for global energy markets and supply chains essential to growth across Asia, Africa and Latin America.</p>
