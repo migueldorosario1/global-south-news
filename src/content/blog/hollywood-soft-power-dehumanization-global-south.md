@@ -2,7 +2,7 @@
 title: "The American Neoimperialism Behind Hollywood's Soft Power"
 description: "In an analysis of soft power and geopolitics, O Cafezinho presents audience data from the streaming platforms (Netflix, Prime Video) and shows that 85% of the world's population lives in the Global South, yet consumes narratives from Hollywood. A defense of a new multipolar audiovisual industry."
 pubDate: "2026-08-13T13:02:42Z"
-author: "O Cafezinho"
+author: "Miguel do Rosário"
 draft: false
 lang: "en"
 categoria_macro: "Geopolitics"
@@ -19,7 +19,7 @@ interlink_lang: "pt"
 wp_id: 265537
 ---
 
-**By the O Cafezinho Newsroom**
+**By Miguel do Rosário**
 
 The North American entertainment industry remains the most formidable *soft power* machine in the history of humanity. From the refined espionage plots of *The Americans* to the frenetic pace of *Special Ops: Lioness* (on Prime Video), through massive hits such as *Reacher* and *Jack Ryan*, Hollywood and the major United States studios wield the art of dramaturgy and cultural persuasion with impeccable mastery.
 
