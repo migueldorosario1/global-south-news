@@ -28,9 +28,6 @@ The answer is no. And a single number suffices to realize the dimension of the p
 
 The primary surplus target set for 2026 is R$ 34 billion (around $6.2 billion USD). The interest bill on public debt, at last year's level, consumes just under R$ 3 billion per day. The entire target, therefore, is equivalent to **twelve days of interest**.
 
-![Directors come and go at the Central Bank, yet interest rates remain sky-high in Brazil. How can the country escape this trap?](https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/twelve-days-of-interest-rates-brazil-central-bank-trap.jpg)
-*Gabriel Galípolo during his confirmation hearing before the Senate Economic Affairs Committee for the Central Bank. Photo: Geraldo Magela/Agência Senado*
-
 Put another way, it becomes even more eloquent. Last year, the nominal deficit — the one that includes interest and reveals the true, net result of public accounts — reached R$ 1.06 trillion. Of this total, the primary result accounted for about five percent. Interest accounted for the other ninety-five percent.
 
 The target set for 2026 corresponds to roughly three percent of this financial hole. Even if it is fully met, with all the budget freezes, blockages, and social sacrifices that its compliance demands, more than ninety percent of the problem will remain exactly where it is.
