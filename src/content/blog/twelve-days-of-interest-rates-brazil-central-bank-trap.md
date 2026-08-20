@@ -8,8 +8,8 @@ lang: "en"
 categoria_macro: "Economy"
 tags: ['brazil', 'central-bank', 'interest-rates', 'fiscal-policy', 'gabriel-galipolo', 'arminio-fraga', 'global-south-economy']
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/twelve-days-of-interest-rates-brazil-central-bank-trap.jpg"
-alt: "Gabriel Galípolo and Armínio Fraga at a Central Bank conference"
-hero_credit: "O Cafezinho"
+alt: "Gabriel Galípolo em sabatina na Comissão de Assuntos Econômicos do Senado"
+hero_credit: "Geraldo Magela / Agência Senado"
 hero_source_url: "https://controle.ocafezinho.com/?p=266806"
 source_name: "O Cafezinho"
 source_url: "https://controle.ocafezinho.com/?p=266806"
@@ -29,7 +29,7 @@ The answer is no. And a single number suffices to realize the dimension of the p
 The primary surplus target set for 2026 is R$ 34 billion (around $6.2 billion USD). The interest bill on public debt, at last year's level, consumes just under R$ 3 billion per day. The entire target, therefore, is equivalent to **twelve days of interest**.
 
 ![Directors come and go at the Central Bank, yet interest rates remain sky-high in Brazil. How can the country escape this trap?](https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/twelve-days-of-interest-rates-brazil-central-bank-trap.jpg)
-*Directors come and go at the Central Bank, yet interest rates remain sky-high in Brazil. How can the country escape this trap?*
+*Gabriel Galípolo during his confirmation hearing before the Senate Economic Affairs Committee for the Central Bank. Photo: Geraldo Magela/Agência Senado*
 
 Put another way, it becomes even more eloquent. Last year, the nominal deficit — the one that includes interest and reveals the true, net result of public accounts — reached R$ 1.06 trillion. Of this total, the primary result accounted for about five percent. Interest accounted for the other ninety-five percent.
 
