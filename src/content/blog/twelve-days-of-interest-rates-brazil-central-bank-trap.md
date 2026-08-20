@@ -1,5 +1,5 @@
 ---
-title: "Twelve Days of Interest: The Fiscal Trap of Brazil's Central Bank"
+title: "Twelve Days of Interest"
 description: "Professor Ricardo Lodi Ribeiro analyzes how Brazil's fiscal policy sacrifices social investments and public budgets for a primary target that represents barely twelve days of interest payments."
 pubDate: "2026-08-20T20:40:00Z"
 author: "Ricardo Lodi Ribeiro"
